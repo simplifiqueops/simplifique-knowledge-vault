@@ -57,3 +57,7 @@ Quando alguma dessas informações não existir, declarar explicitamente que a i
 
 Não inventar responsáveis, prazos, decisões ou status.
 
+## Relacionado
+
+- [[10-Simplifique/Sistemas/Arquitetura-Simplifique-Ops|Arquitetura Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Politica-Operacao-Agentes|Política de Operação dos Agentes]]

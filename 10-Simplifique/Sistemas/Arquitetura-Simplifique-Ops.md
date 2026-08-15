@@ -175,3 +175,7 @@ Hermes orquestra.
 
 Codex constrói.
 
+## Conhecimento relacionado
+
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]
+- [[10-Simplifique/Diretrizes/Politica-Operacao-Agentes|Política de Operação dos Agentes]]

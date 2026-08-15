@@ -191,3 +191,7 @@ Sempre que possível, alterações devem registrar:
 - quando ocorreu;
 - fonte utilizada.
 
+## Relacionado
+
+- [[10-Simplifique/Sistemas/Arquitetura-Simplifique-Ops|Arquitetura Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]

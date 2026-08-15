@@ -1,7 +1,18 @@
+# Clientes
 
-Mapa dos clientes ativos e históricos da Simplifique.
+Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
 
 ## Ativos
+
+- [[Realizando-Potenciais|Realizando Potenciais]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
+- [[Dermato-Mais|Dermato+]]
+- [[Einerd]]
+- [[Patricia-de-Lucca|Patrícia de Lucca]]
+
+## Relacionamento inativo com potencial de reativação
+
+- [[Dr-Fernando-Baratella|Dr. Fernando Baratella]]
 
 ## Relacionados
 
@@ -9,3 +20,4 @@ Mapa dos clientes ativos e históricos da Simplifique.
 - [[02-Projetos/Projetos|Projetos]]
 - [[03-Reunioes/Reunioes|Reuniões]]
 - [[09-Metricas/Metricas|Métricas]]
+- [[11-Legado/Legado|Legado]]

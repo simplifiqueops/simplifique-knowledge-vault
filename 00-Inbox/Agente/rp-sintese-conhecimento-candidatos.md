@@ -1,6 +1,6 @@
 ---
 type: knowledge-synthesis
-client: "[[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]"
+client: "[[Realizando-Potenciais|Realizando Potenciais]]"
 status: pending-review
 date: 2026-08-15
 source_scope: notion-rp-pilot
@@ -20,7 +20,7 @@ source_scope: notion-rp-pilot
 
 ## 1. Entidade central
 
-- **Fato documental:** a entidade central é [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]], também referida como **RP**. O cadastro do cliente está marcado como `active`, mas suas seções de contexto e relacionamentos ainda estão vazias. Fonte: [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]].
+- **Fato documental:** a entidade central é [[Realizando-Potenciais|Realizando Potenciais]], também referida como **RP**. O cadastro do cliente está marcado como `active`, mas suas seções de contexto e relacionamentos ainda estão vazias. Fonte: [[Realizando-Potenciais|Realizando Potenciais]].
 - **Fato documental de fonte importada:** o segmento é descrito como desenvolvimento humano, produtos digitais, cursos, mentorias e lançamentos. Fonte: [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Base-Padronizada-2.0|Base Padronizada 2.0]].
 - **Inferência:** o cliente aparece nas fontes como uma operação com portfólio amplo, campanhas simultâneas e dependência de coordenação entre estratégia, comunicação, comercial, suporte e implementação. Essa leitura é recorrente, mas não comprova o desenho organizacional atual. Fontes: [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Base-Padronizada-2.0|Base Padronizada 2.0]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Case-e-Historico-Simplifique|Case e Histórico Simplifique]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Historico-do-Projeto|Histórico do Projeto]].
 
@@ -141,7 +141,7 @@ source_scope: notion-rp-pilot
 
 ## 11. Relações sugeridas entre documentos
 
-- [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]] deve continuar como entidade-raiz e índice das fontes; após revisão, poderá apontar para sínteses aprovadas sem incorporar automaticamente o conteúdo importado.
+- [[Realizando-Potenciais|Realizando Potenciais]] deve continuar como entidade-raiz e índice das fontes; após revisão, poderá apontar para sínteses aprovadas sem incorporar automaticamente o conteúdo importado.
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Base-Padronizada-2.0|Base Padronizada 2.0]] funciona como resumo agregador. Ela repete essencialmente gargalos, papel da Simplifique, ferramentas e aprendizados detalhados em [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Gargalos-Identificados|Gargalos Identificados]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Entregas-e-Intervencoes|Entregas e Intervenções]] e [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Aprendizados-para-Metodo|Aprendizados para Método]].
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Case-e-Historico-Simplifique|Case e Histórico Simplifique]] é uma moldura/intenção de organização do case; repete os temas das outras fontes, mas contém pouca evidência adicional própria.
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Historico-do-Projeto|Histórico do Projeto]] e [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Entregas-e-Intervencoes|Entregas e Intervenções]] se complementam: o primeiro propõe fases históricas; o segundo agrupa tipos de intervenção. Ambos repetem priorização, tradução de decisões, coordenação e comercial.
@@ -151,7 +151,7 @@ source_scope: notion-rp-pilot
 
 ## 12. Contradições ou ambiguidades encontradas
 
-1. **Status do cliente versus estado das fontes:** o cadastro do cliente está `active`, enquanto todas as fontes Notion estão `imported` e `pending-hermes`. Isso não é necessariamente uma contradição, mas impede usar o histórico para descrever a operação atual. Fontes: [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/RP-Notion-Import|RP — Importação piloto do Notion]].
+1. **Status do cliente versus estado das fontes:** o cadastro do cliente está `active`, enquanto todas as fontes Notion estão `imported` e `pending-hermes`. Isso não é necessariamente uma contradição, mas impede usar o histórico para descrever a operação atual. Fontes: [[Realizando-Potenciais|Realizando Potenciais]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/RP-Notion-Import|RP — Importação piloto do Notion]].
 2. **F1–F4 versus nova nomenclatura:** a matriz declara F1–F4 como referência histórica e “Clareza → Direção → Estrutura → Movimento → Aceleração” como nomenclatura posterior. Não há mapeamento um a um, data ou decisão de adoção. Fonte: [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Matriz-de-Escopo-e-Finalizacao|Matriz de Escopo e Finalização]].
 3. **Simplifique versus Pablo:** as fontes alternam “Simplifique”, “Pablo” e “Simplifique/Pablo”, sem separar responsáveis, autoria, execução e aprovação. Fontes: [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Case-e-Historico-Simplifique|Case e Histórico Simplifique]], [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Historico-do-Projeto|Histórico do Projeto]].
 4. **Produto, campanha, ativo e frente:** CSV, SCD, Energia Infinita, quiz, perpétuo, lançamentos e funis são listados lado a lado sem taxonomia consistente. Não é possível determinar a natureza de cada item apenas pelas fontes.
@@ -208,7 +208,7 @@ source_scope: notion-rp-pilot
 ## 16. Próximos passos sugeridos para organização do Knowledge Vault
 
 1. **Submeter esta síntese à revisão humana**, mantendo `status: pending-review`; não promover candidatos automaticamente.
-2. **Validar a entidade central** e preencher contexto/relacionamentos em [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]] somente após confirmação e em ação separada autorizada.
+2. **Validar a entidade central** e preencher contexto/relacionamentos em [[Realizando-Potenciais|Realizando Potenciais]] somente após confirmação e em ação separada autorizada.
 3. **Criar, após aprovação, uma taxonomia do RP** que diferencie produto, oferta, campanha, funil, ativo de captação, canal, área e ferramenta — sem criar entidades antes de confirmar nomes e natureza.
 4. **Montar um registro de evidências**, com campos para afirmação, tipo de evidência, fonte, data do fato, responsável, confiabilidade, conflito e validação.
 5. **Separar três camadas:** fonte importada imutável; síntese/candidato em revisão; conhecimento validado. Essa separação segue [[01-Clientes/Realizando-Potenciais/Fontes/Notion/RP-Notion-Import|RP — Importação piloto do Notion]] e [[10-Simplifique/Diretrizes/Politica-Operacao-Agentes|Política de Operação dos Agentes]].

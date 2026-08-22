@@ -1,5 +1,15 @@
 # Tese de Marketing da Cúpula — Da Competência Invisível à Autoridade Estruturada
 
+## Conexões
+
+> [!note] Comentário de conexão
+> Este é o documento de direcionamento estratégico da comunicação da Cúpula dentro da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Ele define a tese que orienta as promessas e todas as copies derivadas; mudanças de posicionamento devem começar aqui.
+
+- Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Desdobramento de promessas: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
+- Copies derivadas: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Cupula-12-Territorios|12 carrosséis por território]], [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Curiosidade-Captacao-Cupula|carrosséis de captação]] e [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Pesquisa-Cupula-15-Disparos-5-Dias|campanha de pesquisa]].
+
 **Status:** tese estratégica para validação  
 **Foco:** territórios 4, 5, 8, 10, 11 e 12  
 **Aplicações:** comercial, e-mail, redes sociais, carrosséis, vídeos, anúncios e páginas  
@@ -758,4 +768,3 @@ A comunicação não deve:
 - “o mercado não reconhece automaticamente o quanto você sabe”.
 
 Essas formulações são teses comerciais derivadas da base e precisam de validação de marca antes de publicação.
-

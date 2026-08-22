@@ -651,5 +651,7 @@ lost_reason: motivo de perda
 
 ## Conhecimento relacionado
 
+- [[08-Aprendizados/Funis/Indice-de-Funis|Índice de Funis Trabalhados]]
+- [[08-Aprendizados/Funis/Padrao-de-Implementacao-de-Funil|Padrão de Implementação de Funil]]
 - [[10-Simplifique/Sistemas/Inteligencia-Mercado-Digital-RAG|Inteligência de Mercado Digital — RAG]]
 - [[08-Aprendizados/Inventarios/Base-Estudos-Notion-Mercado-Digital|Base de Estudos do Notion — Mercado Digital]]

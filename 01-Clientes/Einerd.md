@@ -12,21 +12,24 @@ aliases:
 
 Cliente da Simplifique.
 
-## Projetos
+## Índice do cliente
 
-## Pessoas
+### Estado de clareza
 
-## Produtos
+- [[01-Clientes/Einerd/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
 
-## Decisões
+> [!info] Estrutura em formação
+> Ainda não existem bases próprias de diagnóstico, entregas, reuniões ou métricas conectadas a este cliente. O Estado de Clareza registra essa pendência sem criar informação não confirmada.
 
-## Reuniões
+### Bases operacionais relacionadas
 
-## Métricas
+- [[02-Projetos/Projetos|Projetos]]
+- [[03-Reunioes/Reunioes|Reuniões]]
+- [[04-Decisoes/Decisoes|Decisões]]
+- [[09-Metricas/Metricas|Métricas]]
 
-## Sistemas relacionados
-
-## Conhecimentos relacionados
+### Navegação
 
 - [[01-Clientes/Clientes|Clientes]]
-- [[Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Simplifique Ops|Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]

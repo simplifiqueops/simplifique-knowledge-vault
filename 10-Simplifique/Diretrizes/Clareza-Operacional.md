@@ -59,5 +59,8 @@ Não inventar responsáveis, prazos, decisões ou status.
 
 ## Relacionado
 
+- [[06-Skills/Estado-de-Clareza-v0.2|Skill Estado de Clareza v0.2]]
+- [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]]
+- [[00-Inbox/Agente/primeiro-registro-hermes|Primeiro teste do Hermes]]
 - [[10-Simplifique/Sistemas/Arquitetura-Simplifique-Ops|Arquitetura Simplifique Ops]]
 - [[10-Simplifique/Diretrizes/Politica-Operacao-Agentes|Política de Operação dos Agentes]]

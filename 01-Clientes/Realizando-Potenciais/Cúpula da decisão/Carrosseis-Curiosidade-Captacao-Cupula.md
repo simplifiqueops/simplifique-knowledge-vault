@@ -1,5 +1,16 @@
 # Cúpula da Decisão — Carrosséis de Curiosidade e Captação Qualificada
 
+## Conexões
+
+> [!note] Comentário de conexão
+> Este material conecta o conteúdo social à captação comercial da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Os comentários e palavras-chave são sinais de intenção que precisam virar conversa, qualificação e próximo passo no funil.
+
+- Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
+- Territórios de promessa: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
+- Conteúdo complementar: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Cupula-12-Territorios|12 carrosséis por território]].
+
 **Status:** versão estratégica para validação  
 **Foco:** método autoral, lastro de autoridade, modelos de atendimento, faturamento, supervisão e visão 360°  
 **Objetivo:** gerar comentários, conversas e leads qualificados sem recorrer a curiosidade vazia.
@@ -682,4 +693,3 @@ Acompanhar:
 - quantidade de comentários genéricos versus conversas qualificadas.
 
 O melhor carrossel não é necessariamente o mais comentado. É o que gera mais conversas com profissionais que reconhecem uma tensão real e possuem aderência à Cúpula.
-

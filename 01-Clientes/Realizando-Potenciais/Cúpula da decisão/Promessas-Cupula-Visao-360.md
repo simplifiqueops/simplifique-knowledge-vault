@@ -1,5 +1,15 @@
 # Cúpula da Decisão — Banco de Promessas 360°
 
+## Conexões
+
+> [!note] Comentário de conexão
+> Este banco traduz a tese estratégica da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]] em territórios de promessa reutilizáveis. Ele funciona como ponte entre posicionamento e produção de conteúdo, e-mail e comunicação comercial.
+
+- Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Direcionamento de origem: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
+- Desdobramentos: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Cupula-12-Territorios|12 carrosséis por território]], [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Curiosidade-Captacao-Cupula|carrosséis de captação]] e [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Pesquisa-Cupula-15-Disparos-5-Dias|campanha de pesquisa]].
+
 **Status:** proposta estratégica para validação  
 **Data:** 2026-08-20  
 **Finalidade:** criar territórios de promessa que possam ser desdobrados em e-mails, posts, carrosséis, anúncios, páginas e comunicações comerciais.

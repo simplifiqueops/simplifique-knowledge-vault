@@ -14,22 +14,25 @@ aliases:
 
 Cliente da Simplifique.
 
-## Projetos
+## Índice do cliente
 
-## Pessoas
+### Estado de clareza
 
-## Produtos
+- [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
 
-## Decisões
-
-## Reuniões
-
-## Métricas
-
-## Sistemas relacionados
-
-## Conhecimentos relacionados
+### Diagnóstico e direcionamento
 
 - [[01-Clientes/Patricia-de-Lucca/Diagnostico-e-Proximos-Passos|Diagnóstico consolidado e próximos passos]]
+
+### Bases operacionais relacionadas
+
+- [[02-Projetos/Projetos|Projetos]]
+- [[03-Reunioes/Reunioes|Reuniões]]
+- [[04-Decisoes/Decisoes|Decisões]]
+- [[09-Metricas/Metricas|Métricas]]
+
+### Navegação
+
 - [[01-Clientes/Clientes|Clientes]]
-- [[Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Simplifique Ops|Simplifique Ops]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]

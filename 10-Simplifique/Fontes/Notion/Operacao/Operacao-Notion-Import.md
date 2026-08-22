@@ -34,7 +34,7 @@ imported_at: "2026-08-15"
 
 ## Casos relacionados
 
-- [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]
+- [[Realizando-Potenciais|Realizando Potenciais]]
 - [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
 - [[01-Clientes/Dermato-Mais|Dermato+]]
 

@@ -1,4 +1,4 @@
-﻿---
+---
 type: person
 name: "Tuani Bonamini"
 status: legacy

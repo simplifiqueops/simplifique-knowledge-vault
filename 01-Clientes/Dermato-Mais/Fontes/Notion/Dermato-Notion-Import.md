@@ -26,7 +26,7 @@ imported_at: "2026-08-15"
 ## Conexões metodológicas
 
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-Oficial-2.1|Diretriz Oficial 2.1]]
-- [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]
+- [[Realizando-Potenciais|Realizando Potenciais]]
 - [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
 
 ## Regra de interpretação

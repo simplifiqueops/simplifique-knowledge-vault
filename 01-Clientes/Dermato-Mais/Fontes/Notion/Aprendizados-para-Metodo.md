@@ -61,5 +61,5 @@ Não devem ser automaticamente tratados como conhecimento validado da Simplifiqu
 Devem ser cruzados com:
 
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-Oficial-2.1|Diretriz 2.1]]
-- [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]
+- [[Realizando-Potenciais|Realizando Potenciais]]
 - [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]

@@ -30,5 +30,6 @@ Cliente da Simplifique.
 
 ## Conhecimentos relacionados
 
+- [[01-Clientes/Patricia-de-Lucca/Diagnostico-e-Proximos-Passos|Diagnóstico consolidado e próximos passos]]
 - [[01-Clientes/Clientes|Clientes]]
 - [[Simplifique Ops]]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qualificação de Leads com GPCT"
+  short_description: "Diagnosticar e qualificar leads com GPCT"
+  default_prompt: "Use $qualificar-leads-gpct para conduzir e resumir a qualificação deste lead."

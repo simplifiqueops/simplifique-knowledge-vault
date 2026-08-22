@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antecipar Lacunas"
+  short_description: "Antecipar lacunas, ganhos, riscos e próximos passos"
+  default_prompt: "Use $antecipar-lacunas para questionar premissas e antecipar lacunas, oportunidades, riscos e próximos passos nesta situação."

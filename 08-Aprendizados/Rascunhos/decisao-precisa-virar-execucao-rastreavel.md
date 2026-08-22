@@ -2,7 +2,7 @@
 type: learning-candidate
 status: pending-review
 origin:
-  - "[[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]"
+  - "[[Realizando-Potenciais|Realizando Potenciais]]"
 source_scope: rp-notion-pilot
 date: 2026-08-15
 ---
@@ -68,7 +68,7 @@ Sem criar ou aprovar Playbooks neste momento:
 ## 10. Links relacionados
 
 - [[00-Inbox/Agente/rp-sintese-conhecimento-candidatos|RP — Síntese de conhecimento e candidatos]]
-- [[01-Clientes/Realizando-Potenciais|Realizando Potenciais]]
+- [[Realizando-Potenciais|Realizando Potenciais]]
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/RP-Notion-Import|RP — Importação piloto do Notion]]
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Gargalos-Identificados|Gargalos Identificados]]
 - [[01-Clientes/Realizando-Potenciais/Fontes/Notion/Base-Padronizada-2.0|Base Padronizada 2.0]]

@@ -35,8 +35,8 @@ imported_at: "2026-08-15"
 ## Casos relacionados
 
 - [[Realizando-Potenciais|Realizando Potenciais]]
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
-- [[01-Clientes/Dermato-Mais|Dermato+]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
+- [[Dermato-Mais|Dermato+]]
 
 ## Pontos que exigem consolidação humana
 

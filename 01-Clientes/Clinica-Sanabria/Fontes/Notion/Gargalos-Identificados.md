@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3677266c-1ec6-8160-811e-ecb75fe644f4"
-source_url: "https://app.notion.com/p/3677266c1ec68160811eecb75fe644f4"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-8160-811e-ecb75fe644f4
+source_url: https://app.notion.com/p/3677266c1ec68160811eecb75fe644f4
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Gargalos Identificados
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Gargalo 1 — Dados sem visibilidade suficiente
 

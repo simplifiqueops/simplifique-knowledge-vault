@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3677266c-1ec6-81f6-aef0-d4b03ff52533"
-source_url: "https://app.notion.com/p/3677266c1ec681f6aef0d4b03ff52533"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-81f6-aef0-d4b03ff52533
+source_url: https://app.notion.com/p/3677266c1ec681f6aef0d4b03ff52533
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Base Padronizada 2.0
@@ -17,11 +17,11 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Resumo do cliente
 
-**Cliente:** [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+**Cliente:** [[Clinica-Sanabria|Clínica Sanabria]]
 
 **Segmento:** clínica médica, transplante capilar, estética médica e educação médica.
 

@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: operational-evidence
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3727266c-1ec6-81e2-a350-dc6a13422651"
-source_url: "https://app.notion.com/p/3727266c1ec681e2a350dc6a13422651"
-imported_at: "2026-08-15"
+notion_id: 3727266c-1ec6-81e2-a350-dc6a13422651
+source_url: https://app.notion.com/p/3727266c1ec681e2a350dc6a13422651
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Histórico ClickUp 2025
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Função
 

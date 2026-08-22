@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-8184-bd5e-ff761956156d"
-source_url: "https://app.notion.com/p/3677266c1ec68184bd5eff761956156d"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-8184-bd5e-ff761956156d
+source_url: https://app.notion.com/p/3677266c1ec68184bd5eff761956156d
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Base Padronizada 2.0
@@ -19,7 +19,7 @@ imported_at: "2026-08-15"
 
 ## Resumo
 
-**Cliente:** [[01-Clientes/Dermato-Mais|Dermato+]]
+**Cliente:** [[Dermato-Mais|Dermato+]]
 
 **Segmento:** dermatologia clínica, estética e procedimentos.
 

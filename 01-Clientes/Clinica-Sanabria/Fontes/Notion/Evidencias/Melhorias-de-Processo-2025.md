@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: cross-source-evidence
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3727266c-1ec6-8100-a108-ee2c87bb7435"
-source_url: "https://app.notion.com/p/3727266c1ec68100a108ee2c87bb7435"
-imported_at: "2026-08-15"
+notion_id: 3727266c-1ec6-8100-a108-ee2c87bb7435
+source_url: https://app.notion.com/p/3727266c1ec68100a108ee2c87bb7435
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Melhorias de Processo 2025
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Contexto
 

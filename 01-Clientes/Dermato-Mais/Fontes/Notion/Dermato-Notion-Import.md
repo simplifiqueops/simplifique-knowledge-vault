@@ -1,10 +1,10 @@
 ---
 type: notion-import-index
 source: notion
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
-imported_at: "2026-08-15"
+imported_at: 2026-08-15
 ---
 
 # Dermato+ — Importação da camada Simplifique
@@ -27,7 +27,7 @@ imported_at: "2026-08-15"
 
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-Oficial-2.1|Diretriz Oficial 2.1]]
 - [[Realizando-Potenciais|Realizando Potenciais]]
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Regra de interpretação
 

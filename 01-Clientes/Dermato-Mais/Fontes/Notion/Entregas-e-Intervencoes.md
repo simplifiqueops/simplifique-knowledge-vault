@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-810d-a923-d6cf3295f7cf"
-source_url: "https://app.notion.com/p/3677266c1ec6810da923d6cf3295f7cf"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-810d-a923-d6cf3295f7cf
+source_url: https://app.notion.com/p/3677266c1ec6810da923d6cf3295f7cf
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Entregas e Intervenções Simplifique

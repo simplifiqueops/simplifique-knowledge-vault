@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: operational-snapshot
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-snapshot
-notion_id: "3677266c-1ec6-819d-96fd-def30b0a62c6"
-source_url: "https://app.notion.com/p/3677266c1ec6819d96fddef30b0a62c6"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-819d-96fd-def30b0a62c6
+source_url: https://app.notion.com/p/3677266c1ec6819d96fddef30b0a62c6
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Mapa de Entregáveis Ativos

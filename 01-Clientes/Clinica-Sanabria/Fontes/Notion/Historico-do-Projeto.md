@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3677266c-1ec6-814f-aedc-dee3fbd54689"
-source_url: "https://app.notion.com/p/3677266c1ec6814faedcdee3fbd54689"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-814f-aedc-dee3fbd54689
+source_url: https://app.notion.com/p/3677266c1ec6814faedcdee3fbd54689
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Histórico do Projeto
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Linha histórica inicial
 

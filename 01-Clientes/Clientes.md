@@ -9,9 +9,9 @@ Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
 ## Ativos
 
 - [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]] — índice com estado de clareza, bases canônicas, fontes e estrutura de direcionamento e copy.
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]] — índice com estado de clareza, histórico, escopo, evidências e aprendizados.
-- [[01-Clientes/Dermato-Mais|Dermato+]] — índice com estado de clareza, histórico, entregáveis, gargalos e materiais de case.
-- [[01-Clientes/Einerd|Einerd]] — índice inicial; bases próprias ainda pendentes de estruturação.
+- [[Clinica-Sanabria|Clínica Sanabria]] — índice com estado de clareza, histórico, escopo, evidências e aprendizados.
+- [[Dermato-Mais|Dermato+]] — índice com estado de clareza, histórico, entregáveis, gargalos e materiais de case.
+- [[Einerd|Einerd]] — estado de clareza ativo para Audiovisual e implementação da Ella; fonte operacional do Monday ainda pendente de conexão.
 - [[01-Clientes/Patricia-de-Lucca/Patricia-de-Lucca|Patrícia de Lucca]] — índice com estado de clareza, diagnóstico e próximos passos.
 
 ## Rotina de clareza

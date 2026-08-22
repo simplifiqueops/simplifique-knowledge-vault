@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-8131-97c6-f47096af5332"
-source_url: "https://app.notion.com/p/3677266c1ec6813197c6f47096af5332"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-8131-97c6-f47096af5332
+source_url: https://app.notion.com/p/3677266c1ec6813197c6f47096af5332
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Aprendizados para Método
@@ -62,4 +62,4 @@ Devem ser cruzados com:
 
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-Oficial-2.1|Diretriz 2.1]]
 - [[Realizando-Potenciais|Realizando Potenciais]]
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]

@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-81c3-b2b1-e448e361ec83"
-source_url: "https://app.notion.com/p/3677266c1ec681c3b2b1e448e361ec83"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-81c3-b2b1-e448e361ec83
+source_url: https://app.notion.com/p/3677266c1ec681c3b2b1e448e361ec83
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - O que pode virar case

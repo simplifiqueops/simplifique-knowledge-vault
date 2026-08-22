@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-813c-b65e-dadff824aa50"
-source_url: "https://app.notion.com/p/3677266c1ec6813cb65edadff824aa50"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-813c-b65e-dadff824aa50
+source_url: https://app.notion.com/p/3677266c1ec6813cb65edadff824aa50
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Cliente Ativo e Case em Formação

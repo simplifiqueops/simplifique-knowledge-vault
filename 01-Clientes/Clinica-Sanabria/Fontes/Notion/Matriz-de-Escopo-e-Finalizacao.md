@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3777266c-1ec6-81ab-bce5-f6d781aa2de4"
-source_url: "https://app.notion.com/p/3777266c1ec681abbce5f6d781aa2de4"
-imported_at: "2026-08-15"
+notion_id: 3777266c-1ec6-81ab-bce5-f6d781aa2de4
+source_url: https://app.notion.com/p/3777266c1ec681abbce5f6d781aa2de4
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Matriz de Escopo e Finalização
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Princípio central
 

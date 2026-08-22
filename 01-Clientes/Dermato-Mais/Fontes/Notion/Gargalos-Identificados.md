@@ -2,13 +2,13 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Dermato-Mais|Dermato+]]"
+client: "[[Dermato-Mais|Dermato+]]"
 status: imported
 review_status: pending-hermes
 temporal_status: historical-context
-notion_id: "3677266c-1ec6-81b7-b4fc-dabc540445e7"
-source_url: "https://app.notion.com/p/3677266c1ec681b7b4fcdabc540445e7"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-81b7-b4fc-dabc540445e7
+source_url: https://app.notion.com/p/3677266c1ec681b7b4fcdabc540445e7
+imported_at: 2026-08-15
 ---
 
 # Dermato+ - Gargalos Identificados

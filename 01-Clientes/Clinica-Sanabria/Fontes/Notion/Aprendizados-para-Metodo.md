@@ -2,12 +2,12 @@
 type: notion-source
 source: notion
 source_class: strategic-source
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-notion_id: "3677266c-1ec6-8100-8f7e-de9ca5fa7e32"
-source_url: "https://app.notion.com/p/3677266c1ec681008f7ede9ca5fa7e32"
-imported_at: "2026-08-15"
+notion_id: 3677266c-1ec6-8100-8f7e-de9ca5fa7e32
+source_url: https://app.notion.com/p/3677266c1ec681008f7ede9ca5fa7e32
+imported_at: 2026-08-15
 ---
 
 # Sanabria - Aprendizados para Método
@@ -17,7 +17,7 @@ imported_at: "2026-08-15"
 
 ## Cliente relacionado
 
-- [[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]
+- [[Clinica-Sanabria|Clínica Sanabria]]
 
 ## Aprendizados registrados na fonte
 

@@ -1,10 +1,10 @@
 ---
 type: notion-import-index
 source: notion
-client: "[[01-Clientes/Clinica-Sanabria|Clínica Sanabria]]"
+client: "[[Clinica-Sanabria|Clínica Sanabria]]"
 status: imported
 review_status: pending-hermes
-imported_at: "2026-08-15"
+imported_at: 2026-08-15
 ---
 
 # Sanabria — Importação da camada Simplifique

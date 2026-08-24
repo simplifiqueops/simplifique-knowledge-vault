@@ -6,7 +6,7 @@
 > Esta campanha aplica os territórios estratégicos da Cúpula à reativação e pesquisa de leads da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. As respostas e conclusões da pesquisa devem alimentar a leitura comercial e os indicadores de captação.
 
 - Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
-- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]].
 - Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
 - Territórios de mensagem: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
 - Passagem para execução: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Briefing-Programacao-Emails-Pesquisa-Cupula|Briefing de programação dos e-mails]].

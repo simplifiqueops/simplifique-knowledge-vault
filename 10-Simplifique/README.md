@@ -4,7 +4,7 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 
 ## Estado de clareza
 
-- [[10-Simplifique/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[10-Simplifique/Historico-de-Clareza/EDC-13-SIMP-2026-08-22|Estado de Clareza — 22/08/2026]]
 - [[06-Skills/Estado-de-Clareza-v0.2|Skill Estado de Clareza v0.2]]
 - [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]]
 

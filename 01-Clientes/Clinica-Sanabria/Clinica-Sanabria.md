@@ -16,7 +16,7 @@ Cliente da Simplifique.
 
 ### Estado de clareza
 
-- [[01-Clientes/Clinica-Sanabria/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[01-Clientes/Clinica-Sanabria/Historico-de-Clareza/EDC-13-SAN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 ### Base consolidada e histórico
 

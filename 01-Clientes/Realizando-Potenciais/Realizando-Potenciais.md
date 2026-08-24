@@ -14,7 +14,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Estado de clareza
 
-- [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 ## Direcionamento e copy — Cúpula da Decisão
 

@@ -17,7 +17,7 @@ Cliente da Simplifique.
 
 ### Estado de clareza
 
-- [[01-Clientes/Dermato-Mais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[01-Clientes/Dermato-Mais/Historico-de-Clareza/EDC-13-DERM-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
 > A frente prioritária é recuperar o controle centralizado das informações, corrigindo as incongruências de rastreamento dos links até alcançar 100% de mapeamento.

@@ -6,7 +6,7 @@
 > Este briefing é a passagem de bastão entre estratégia, copy e operação de CRM da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Ele não redefine a mensagem: organiza responsáveis, programação, QA, ativação e monitoramento.
 
 - Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
-- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]].
 - Copy-mestre: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Pesquisa-Cupula-15-Disparos-5-Dias|Campanha de 15 e-mails em cinco dias]].
 - Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
 - Territórios de mensagem: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].

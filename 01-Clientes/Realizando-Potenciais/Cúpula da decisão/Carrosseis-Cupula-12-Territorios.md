@@ -6,7 +6,7 @@
 > Este material é um desdobramento editorial da estratégia da Cúpula para o Social Media da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Sua função é transformar os territórios de promessa em conteúdo de consciência, identificação e avanço para o próximo passo.
 
 - Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
-- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]].
+- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]].
 - Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
 - Origem das mensagens: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
 - Material complementar: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Curiosidade-Captacao-Cupula|Carrosséis de curiosidade e captação]].

@@ -18,7 +18,7 @@ Cliente da Simplifique.
 
 ### Estado de clareza
 
-- [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/EDC-13-PDL-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 ### Diagnóstico e direcionamento
 

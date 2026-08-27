@@ -9,12 +9,12 @@ aliases:
 ---
 # Dermato+
 
-> [!danger] Estado atual — 25/08/2026
+> [!danger] Estado atual — 26/08/2026
 > Operação em janela crítica de 30 dias para geração de caixa. A prioridade é converter ativos já existentes, restabelecer rotina comercial diária e fechar o rastreamento de origem até receita.
 
 ## Direção vigente
 
-- [[01-Clientes/Dermato-Mais/Historico-de-Clareza/DERMATO_MAIS_Estado_Atual_Canonico_2026-08-25|Estado Atual Canônico — 25/08/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
+- [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 26/08/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
 - [[01-Clientes/Dermato-Mais/PDA_Simplificado_Dermato_MindMap_Whimsical|PDA Simplificado — reação em 30 dias]] — visão operacional resumida para alinhamento e execução.
 
 > [!warning] Regra de precedência
@@ -22,14 +22,15 @@ aliases:
 
 ## Foco imediato
 
-1. Confirmar custo fixo e transformar a necessidade de caixa em meta comercial.
-2. Reativar a planilha comercial e começar pelas propostas em aberto.
-3. Implantar reporte diário de contatos, respostas, agendamentos, propostas, vendas e receita.
-4. Conciliar planilha, DigiSac, origem do lead e pagamento.
-5. Manter mídia em 70% Google / 30% Meta, revisando pelo resultado comercial real.
+1. Entregar a primeira lista de propostas em aberto e injetáveis vencidos.
+2. Colocar o fluxo e os campos necessários no DigiSack, com preenchimento diário pela Evelyn.
+3. Atualizar a planilha por exportação manual do DigiSack até a automação ficar pronta.
+4. Rodar campanhas com 80% da verba no Google e 20% no Meta.
+5. Fechar as lacunas de rastreamento entre origem, atendimento, venda e receita.
 
 ## Fontes e rastreabilidade
 
+- [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]] — reunião que atualizou o estado vigente, o processo comercial e a alocação de mídia.
 - [[01-Clientes/Dermato-Mais/DERMATO_MAIS_Registro_Mestre_de_Fontes_Marketing|Registro Mestre de Fontes de Marketing]] — catálogo histórico, deduplicado e classificado; serve para localizar evidências, não para definir vigência.
 - [[01-Clientes/Dermato-Mais/Fontes/Notion/Dermato-Notion-Import|Importação da camada Simplifique no Notion]] — índice das fontes estratégicas importadas.
 

@@ -3,7 +3,7 @@
 ## Conexões
 
 - Índice do cliente: [[01-Clientes/Dermato-Mais/Dermato-Mais|Dermato+]].
-- Fonte vigente: [[01-Clientes/Dermato-Mais/Historico-de-Clareza/DERMATO_MAIS_Estado_Atual_Canonico_2026-08-25|Estado Atual Canônico — 25/08/2026]].
+- Fonte vigente: [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 26/08/2026]].
 - Inventário de evidências: [[01-Clientes/Dermato-Mais/DERMATO_MAIS_Registro_Mestre_de_Fontes_Marketing|Registro Mestre de Fontes de Marketing]].
 
 > [!note] Escopo

@@ -1,11 +1,14 @@
 ---
-title: "Dermato+ — Estado Atual Canônico"
+title: "Dermato+ — Estado de Clareza Atual"
 project: "Dermato Mais - Daniel"
-updated_at: "2026-08-25 11:30 BRT"
-cutoff: "Fontes consideradas até a reunião Dermato+ de 25/08/2026 pela manhã"
-status: "superseded — preservado como estado histórico de 25/08/2026"
-canonical: false
-superseded_by: "[[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual]]"
+type: estado-de-clareza-canonico
+updated_at: "2026-08-26T19:05:53Z"
+ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais]]"
+fonte: "https://fathom.video/share/2pi83CTUTLsPxiMSshokF6c5dbKsb3VQ"
+confianca: "alta para itens explícitos; moderada para tópicos do trecho compactado"
+cutoff: "Fontes consideradas até a reunião comercial Dermato+ de 26/08/2026"
+status: "CRÍTICO — janela de 30 dias para geração de caixa e reorganização comercial"
+canonical: true
 scope:
   - direção e contexto do negócio
   - financeiro e turnaround
@@ -22,7 +25,88 @@ scope:
 security_note: "Credenciais e senhas não são reproduzidas neste arquivo."
 ---
 
-# Dermato+ — Estado Atual Canônico
+# Dermato+ — Estado de Clareza Atual
+
+## Delta da última reunião
+- Mudanças confirmadas: prioridade imediata em propostas em aberto e renovações de injetáveis; DigiSack como entrada operacional com exportação manual para planilha; mídia em 80% Google / 20% Meta; entregas de lista, fluxo/campos, scripts, campanhas, auditoria de rastreamento e materiais.
+- Confirmações sem mudança: pressão de caixa, janela crítica de 30 dias, necessidade de reporte diário e de rastrear origem até receita.
+- Conflitos/lacunas: a meta numérica de vendas não foi fechada; a implantação da API oficial do WhatsApp aparece no resumo automático, mas a transcrição disponível confirma apenas uma avaliação das opções de disparo; a transcrição recebida é compactada.
+- Fonte: [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]].
+
+## 1. Objetivo atual
+Gerar caixa nos próximos 30 dias convertendo oportunidades existentes, com foco imediato em propostas em aberto e renovações de injetáveis.
+
+## 2. Resultado esperado
+Operação comercial executando listas priorizadas, com atividade registrada diariamente e visibilidade de origem, avanço, venda e receita. A meta numérica permanece não definida.
+
+## 3. Prioridades
+1. Entregar a primeira lista de propostas em aberto e injetáveis vencidos.
+2. Colocar o fluxo e os campos necessários no DigiSack.
+3. Rodar campanhas com 80% da verba no Google e 20% no Meta.
+4. Melhorar scripts a partir da análise de 50 conversas.
+5. Fechar as lacunas de rastreamento de origem até receita.
+
+## 4. Frentes ativas
+- Prospecção e follow-up sobre base própria.
+- Estruturação do pipeline e dos campos no DigiSack.
+- Exportação manual do DigiSack para a planilha até a automação.
+- Campanhas Google/Meta e auditoria de atribuição.
+- Avaliação das opções de disparo em massa no DigiSack e de um número exclusivo de WhatsApp.
+
+## 5. Responsáveis
+- Daniel: primeira lista de propostas em aberto e injetáveis vencidos.
+- Pablo: desenho/configuração do fluxo no DigiSack e análise de 50 conversas.
+- Evelyn: preenchimento diário do DigiSack e consolidação dos materiais comerciais anteriores.
+- Guilherme: finalização das campanhas de Google e Meta, auditoria de rastreamento e levantamento dos parâmetros de campanha.
+
+## 6. Decisões vigentes
+- Priorizar propostas em aberto e renovações de injetáveis para caixa imediato.
+- DigiSack é o ponto principal de preenchimento comercial; a planilha recebe exportação manual até a automação.
+- Verba de anúncios: 80% Google e 20% Meta. Esta decisão substitui 70% Google e 30% Meta, vigente no estado de 25/08.
+
+## 7. Gargalos
+- Planilha local e antiga, com fórmulas quebradas e dependência do computador de Daniel.
+- Ausência de regra operacional consolidada para separar proposta aberta, vencida e perdida.
+- Rastreamento incompleto entre origem, atendimento, venda e receita.
+
+## 8. Bloqueios
+- Meta numérica de vendas sem definição confirmada.
+- Estratégia de disparo em massa ainda depende da avaliação do DigiSack e da definição sobre um número exclusivo de WhatsApp.
+
+## 9. Indicadores
+- Contatos, respostas, agendamentos, comparecimentos, propostas, vendas e receita.
+- Resultado por lista e por origem/campanha.
+- Motivos de perda e cadência de follow-up.
+- Meta numérica: não definida.
+
+## 10. Pausado
+- Automação entre DigiSack e planilha fica posterior à operação manual inicial; não há evidência de cancelamento.
+
+## 11. O que já não vale mais
+- A divisão de mídia 70% Google / 30% Meta foi substituída por 80% Google / 20% Meta em 26/08/2026.
+- A planilha não deve ser o ponto principal de preenchimento de Evelyn; o preenchimento passa a ocorrer no DigiSack.
+
+## 12. Próximo passo
+- Daniel entregar a primeira lista amanhã.
+- Pablo entregar o desenho e a estrutura inicial do DigiSack amanhã.
+- Evelyn preencher o DigiSack diariamente.
+- Pablo concluir a análise de 50 conversas e avaliar as opções de disparo em massa até sexta-feira.
+- Guilherme finalizar as campanhas, auditar o rastreamento e encaminhar os parâmetros de campanha até sexta-feira.
+- Evelyn compartilhar os materiais anteriores; prazo não definido.
+
+## 13. Próxima decisão
+- Fechar a meta numérica de vendas e seus indicadores de atividade.
+- Validar o pipeline e as regras de proposta aberta, vencida e perdida.
+- Definir a estratégia de disparo em massa após a avaliação do DigiSack.
+
+## Fontes vigentes
+- [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]].
+- [[01-Clientes/Dermato-Mais/Historico-de-Clareza/DERMATO_MAIS_Estado_Atual_Canonico_2026-08-25|Estado Atual Canônico — 25/08/2026]].
+
+---
+
+## Base consolidada preservada
+O conteúdo detalhado abaixo preserva o estado anterior para que informações vigentes não afetadas pela reunião não sejam perdidas. Em caso de conflito, o delta e as 13 dimensões acima prevalecem.
 
 ## Conexões
 

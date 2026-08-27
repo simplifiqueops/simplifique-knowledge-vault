@@ -16,7 +16,9 @@ Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
 
 ## Rotina de clareza
 
-- Os registros semanais ficam na pasta `Historico-de-Clareza` de cada cliente.
+- Cada reunião recebida gera um DDR e recalibra o `Estado-de-Clareza-Atual.md` do cliente na mesma execução.
+- O arquivo canônico atual é a fonte operacional; os registros semanais e mensais ficam na pasta `Historico-de-Clareza` de cada cliente.
+- Automação: [[06-Skills/Atualizacao-EDC-Pos-Reuniao-v0.1|Atualização de EDC Pós-Reunião]].
 - Método: [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]].
 - Processo: [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]].
 

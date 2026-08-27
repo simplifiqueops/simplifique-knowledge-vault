@@ -17,6 +17,7 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 
 - [[10-Simplifique/Diretrizes/Simplifique Ops|Simplifique Ops]]
 - [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]
+- [[10-Simplifique/Diretrizes/Nomenclaturas-Oficiais|Nomenclaturas Oficiais]] — referência canônica para nomes, marcas e ferramentas.
 - [[10-Simplifique/Diretrizes/Politica-Operacao-Agentes|Política de Operação de Agentes]]
 
 ## Diretriz estratégica 2.1

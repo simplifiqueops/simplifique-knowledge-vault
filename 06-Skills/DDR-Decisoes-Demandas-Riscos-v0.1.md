@@ -21,6 +21,7 @@ promoted_information:
 ## Conexões
 
 - Índice de skills: [[06-Skills/Skills|Skills]].
+- Atualização imediata: [[06-Skills/Atualizacao-EDC-Pos-Reuniao-v0.1|Atualização de EDC Pós-Reunião]].
 - Clareza diária: [[06-Skills/EDC-5-Diario-v0.1|EDC-5 — Estado de Clareza Diário]].
 - Clareza semanal: [[06-Skills/EDC-13-Semanal-v0.1|EDC-13 — Estado de Clareza Semanal]].
 

@@ -113,6 +113,15 @@ Garantir que o índice do cliente/projeto aponte para:
 - histórico de clareza como arquivo de snapshots;
 - reunião que originou a atualização.
 
+Se existir uma central em `02-Projetos/[projeto]/Central-do-Projeto.md`, sincronizar também:
+
+- `demandas_no_edc`: quantidade de itens da seção `Próximo passo`;
+- `decisoes_pendentes`: quantidade de itens da seção `Próxima decisão`;
+- `edc_atualizado_em`, resumo “Agora” e sinais/lacunas para a DEP;
+- o card correspondente em `02-Projetos/Projetos.md`.
+
+A contagem representa itens visíveis no EDC, não confirma que estejam pendentes em uma ferramenta externa. Não criar pontuação ou escala DEP automaticamente: a central apenas prepara os insumos e explicita lacunas.
+
 ### Etapa 7 — Verificar
 
 Antes de concluir:
@@ -124,6 +133,7 @@ Antes de concluir:
 - itens antigos substituídos não continuam vigentes;
 - wikilinks e caminhos existem;
 - o projeto correto foi atualizado;
+- a central e o card do projeto, quando existentes, refletem o EDC atualizado;
 - se não houve mudança material, isso foi registrado sem criar mudança artificial.
 
 ## 4. Saída mínima do EDC canônico

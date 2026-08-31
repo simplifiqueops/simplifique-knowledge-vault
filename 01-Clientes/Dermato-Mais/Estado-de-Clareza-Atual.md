@@ -2,11 +2,11 @@
 title: "Dermato+ — Estado de Clareza Atual"
 project: "Dermato Mais - Daniel"
 type: estado-de-clareza-canonico
-updated_at: "2026-08-26T19:05:53Z"
-ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais]]"
-fonte: "https://fathom.video/share/2pi83CTUTLsPxiMSshokF6c5dbKsb3VQ"
-confianca: "alta para itens explícitos; moderada para tópicos do trecho compactado"
-cutoff: "Fontes consideradas até a reunião comercial Dermato+ de 26/08/2026"
+updated_at: "2026-08-27T20:17:50Z"
+ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria]]"
+fonte: "https://fathom.video/share/LxTiyUUBmUHN5zJ3n6HF6uxskLsjfBxh"
+confianca: "alta para o mapeamento de links e o alinhamento com Rosa; transcrição compactada"
+cutoff: "Fontes consideradas até a reunião de metodologia e operação com Vitória de 27/08/2026"
 status: "CRÍTICO — janela de 30 dias para geração de caixa e reorganização comercial"
 canonical: true
 scope:
@@ -28,10 +28,10 @@ security_note: "Credenciais e senhas não são reproduzidas neste arquivo."
 # Dermato+ — Estado de Clareza Atual
 
 ## Delta da última reunião
-- Mudanças confirmadas: prioridade imediata em propostas em aberto e renovações de injetáveis; DigiSack como entrada operacional com exportação manual para planilha; mídia em 80% Google / 20% Meta; entregas de lista, fluxo/campos, scripts, campanhas, auditoria de rastreamento e materiais.
-- Confirmações sem mudança: pressão de caixa, janela crítica de 30 dias, necessidade de reporte diário e de rastrear origem até receita.
-- Conflitos/lacunas: a meta numérica de vendas não foi fechada; a implantação da API oficial do WhatsApp aparece no resumo automático, mas a transcrição disponível confirma apenas uma avaliação das opções de disparo; a transcrição recebida é compactada.
-- Fonte: [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]].
+- Mudanças confirmadas: Vitória deve mapear todos os pontos de contato e links em uma planilha até segunda-feira e alinhar a atuação de social media com Rosa; Pablo verificará os acessos após o mapeamento.
+- Confirmações sem mudança: a correção dos links e o apoio de Vitória a Rosa permanecem ativos; pressão de caixa, janela crítica de 30 dias e prioridade de vendas não foram alteradas.
+- Conflitos/lacunas: o prazo do alinhamento com Rosa e da verificação de acessos por Pablo não foi definido; a transcrição recebida é compactada.
+- Fonte: [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]].
 
 ## 1. Objetivo atual
 Gerar caixa nos próximos 30 dias convertendo oportunidades existentes, com foco imediato em propostas em aberto e renovações de injetáveis.
@@ -45,6 +45,8 @@ Operação comercial executando listas priorizadas, com atividade registrada dia
 3. Rodar campanhas com 80% da verba no Google e 20% no Meta.
 4. Melhorar scripts a partir da análise de 50 conversas.
 5. Fechar as lacunas de rastreamento de origem até receita.
+6. Mapear todos os pontos de contato e links da Dermato+ para viabilizar a verificação de acessos e as correções.
+7. Manter ajustes de branding atrás da prioridade de vendas.
 
 ## 4. Frentes ativas
 - Prospecção e follow-up sobre base própria.
@@ -52,22 +54,29 @@ Operação comercial executando listas priorizadas, com atividade registrada dia
 - Exportação manual do DigiSack para a planilha até a automação.
 - Campanhas Google/Meta e auditoria de atribuição.
 - Avaliação das opções de disparo em massa no DigiSack e de um número exclusivo de WhatsApp.
+- Rastreamento e links: Vitória mapeia os pontos de contato e links em uma planilha; Pablo verifica os acessos para orientar as trocas.
+- Social media: Vitória passa a apoiar Rosa na gestão das redes sociais.
+- Reativação da comunidade de Botox: o grupo com mais de 200 membros permanece inativo; Vitória deve encaminhar o link a Pablo.
 
 ## 5. Responsáveis
 - Daniel: primeira lista de propostas em aberto e injetáveis vencidos.
-- Pablo: desenho/configuração do fluxo no DigiSack e análise de 50 conversas.
+- Pablo: desenho/configuração do fluxo no DigiSack, análise de 50 conversas e verificação dos acessos aos links mapeados.
 - Evelyn: preenchimento diário do DigiSack e consolidação dos materiais comerciais anteriores.
 - Guilherme: finalização das campanhas de Google e Meta, auditoria de rastreamento e levantamento dos parâmetros de campanha.
+- Vitória: mapear todos os pontos de contato e links em planilha até segunda-feira, enviar a Pablo o link do grupo de Botox e alinhar a gestão das redes sociais com Rosa; os dois últimos itens estão sem prazo definido.
+- Rosa: gestão de redes sociais em conjunto com Vitória; prazo não definido.
 
 ## 6. Decisões vigentes
 - Priorizar propostas em aberto e renovações de injetáveis para caixa imediato.
 - DigiSack é o ponto principal de preenchimento comercial; a planilha recebe exportação manual até a automação.
 - Verba de anúncios: 80% Google e 20% Meta. Esta decisão substitui 70% Google e 30% Meta, vigente no estado de 25/08.
+- Priorizar vendas na janela atual e deixar os problemas de branding para depois.
 
 ## 7. Gargalos
 - Planilha local e antiga, com fórmulas quebradas e dependência do computador de Daniel.
 - Ausência de regra operacional consolidada para separar proposta aberta, vencida e perdida.
 - Rastreamento incompleto entre origem, atendimento, venda e receita.
+- Grupo de Botox com mais de 200 membros permanece inativo e sem rotina de ativação confirmada.
 
 ## 8. Bloqueios
 - Meta numérica de vendas sem definição confirmada.
@@ -81,6 +90,7 @@ Operação comercial executando listas priorizadas, com atividade registrada dia
 
 ## 10. Pausado
 - Automação entre DigiSack e planilha fica posterior à operação manual inicial; não há evidência de cancelamento.
+- Ajustes de branding e da vinculação entre o Instagram de Diane e a conta da Dermato+ ficam posteriores à prioridade de vendas.
 
 ## 11. O que já não vale mais
 - A divisão de mídia 70% Google / 30% Meta foi substituída por 80% Google / 20% Meta em 26/08/2026.
@@ -93,6 +103,10 @@ Operação comercial executando listas priorizadas, com atividade registrada dia
 - Pablo concluir a análise de 50 conversas e avaliar as opções de disparo em massa até sexta-feira.
 - Guilherme finalizar as campanhas, auditar o rastreamento e encaminhar os parâmetros de campanha até sexta-feira.
 - Evelyn compartilhar os materiais anteriores; prazo não definido.
+- Vitória mapear em planilha todos os pontos de contato e links da Dermato+ e disponibilizá-la conforme o avanço; prazo: segunda-feira.
+- Pablo verificar se a Simplifique possui acesso aos links mapeados; prazo não definido.
+- Vitória enviar a Pablo o link do grupo de Botox; prazo não definido.
+- Vitória gerenciar as redes sociais com Rosa; prazo não definido.
 
 ## 13. Próxima decisão
 - Fechar a meta numérica de vendas e seus indicadores de atividade.
@@ -100,6 +114,8 @@ Operação comercial executando listas priorizadas, com atividade registrada dia
 - Definir a estratégia de disparo em massa após a avaliação do DigiSack.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]].
+- [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|Alinhamento de projetos e papel da Vitória — 27/08/2026]].
 - [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]].
 - [[01-Clientes/Dermato-Mais/Historico-de-Clareza/DERMATO_MAIS_Estado_Atual_Canonico_2026-08-25|Estado Atual Canônico — 25/08/2026]].
 

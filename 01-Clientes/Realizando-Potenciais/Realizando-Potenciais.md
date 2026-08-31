@@ -14,7 +14,16 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Estado de clareza
 
-- [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]]
+- [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|Estado de Clareza Atual — fonte operacional vigente]]
+- Histórico: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]]
+
+## Reunião mais recente processada
+
+- [[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp|28/08/2026 — Alinhamento com Ellen RP]]
+- [[03-Reunioes/2026/08/2026-08-28--finalizacao-energia-infinita-transicao-social-media|28/08/2026 — Finalização do Energia Infinita e transição de social media]]
+- [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|27/08/2026 — Alinhamento de projetos e papel da Vitória]]
+- [[03-Reunioes/2026/08/2026-08-27--suspensao-temporaria-trafego-guardia|27/08/2026 — Suspensão Temporária do Tráfego — Guardia]]
+- [[03-Reunioes/2026/08/2026-08-27--reuniao-comercial-perpetuo-csv|27/08/2026 — Reunião Comercial — Perpétuo CSV]]
 
 ## Direcionamento e copy — Cúpula da Decisão
 

@@ -16,10 +16,15 @@ Cliente da Simplifique.
 
 ### Estado de clareza
 
+- [[01-Clientes/Einerd/Estado-de-Clareza-Atual|Estado de Clareza Atual — fonte operacional vigente]]
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> O foco está em eliminar pendências de Audiovisual, estabilizar o fluxo de demandas e colocar a V1 da Ella em teste real no Monday com base no Protocolo NORTE.
+> O foco imediato está em contornar o bloqueio de campanhas no Meta, testar o novo low-ticket e manter as frentes de Audiovisual e Ella rastreadas sem inventar atualização de status.
+
+### Reunião mais recente
+
+- [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos]].
 
 ### Aprendizados correlacionados
 

@@ -4,12 +4,15 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 
 ## Estado de clareza
 
+- [[10-Simplifique/Estado-de-Clareza-Atual|Estado de Clareza Atual — fonte operacional vigente]]
 - [[10-Simplifique/Historico-de-Clareza/EDC-13-SIMP-2026-08-22|Estado de Clareza — 22/08/2026]]
 - [[06-Skills/Estado-de-Clareza-v0.2|Skill Estado de Clareza v0.2]]
 - [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]]
 
 ## Captura e validação
 
+- [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]] — reunião mais recente que fixou a cadência semanal e o trabalho assíncrono via Discord.
+- [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|Alinhamento de projetos e papel da Vitória — 27/08/2026]] — reunião mais recente que atualizou estratégia, prospecção e uso interno do Simplifique Ops.
 - [[00-Inbox/README|README da Inbox]] — porta de entrada e regras de classificação.
 - [[00-Inbox/Agente/primeiro-registro-hermes|Primeiro teste do Hermes]] — primeira evidência de consulta às diretrizes e à arquitetura.
 

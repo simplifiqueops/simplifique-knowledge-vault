@@ -2,6 +2,9 @@
 type: client
 name: "Clínica Sanabria"
 status: active
+fase_operacional: estável
+ciclo_servico: "último mês"
+data_finalizacao: 2026-10-09
 aliases:
   - "Sanabria"
   - "Clínica Sanabria"
@@ -10,13 +13,18 @@ aliases:
 
 ## Contexto
 
-Cliente da Simplifique.
+Cliente da Simplifique em estado estável, com finalização do serviço em **9 de outubro de 2026**. O foco vigente é acompanhar a operação, mapear e documentar o que foi construído e consolidar os dados e resultados gerados.
 
 ## Índice do cliente
 
 ### Estado de clareza
 
+- [[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual|Estado de Clareza Atual — fonte operacional vigente]]
 - [[01-Clientes/Clinica-Sanabria/Historico-de-Clareza/EDC-13-SAN-2026-08-22|Estado de Clareza — 22/08/2026]]
+
+### Reuniões recentes
+
+- [[03-Reunioes/2026/08/2026-08-27--dashboard-performance-clinica-sanabria|27/08/2026 — Dashboard de performance de marketing e comercial]]
 
 ### Base consolidada e histórico
 

@@ -18,7 +18,11 @@ Cliente da Simplifique.
 
 ### Estado de clareza
 
+- [[01-Clientes/Patricia-de-Lucca/Estado-de-Clareza-Atual|Estado de Clareza Atual — validação necessária]]
 - [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/EDC-13-PDL-2026-08-22|Estado de Clareza — 22/08/2026]]
+
+> [!warning] Situação da base
+> O estado atual consolida o último conhecimento disponível, com corte em 22/08/2026. Não há evidência posterior que confirme execução ou continuidade.
 
 ### Diagnóstico e direcionamento
 

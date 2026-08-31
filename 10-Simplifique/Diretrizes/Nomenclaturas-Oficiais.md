@@ -21,6 +21,7 @@ Esta nota é a referência canônica para nomes próprios, marcas e ferramentas 
 | **Simplifique** | Nome da empresa | Simplifiki e outras variações fonéticas | Usar sempre **Simplifique**. |
 | **Feegow** | Ferramenta de controle e cadastro de pacientes | Figou e outras variações fonéticas | Usar sempre **Feegow**. |
 | **Fathom** | Ferramenta usada para gravar e transcrever reuniões | — | Manter **Fathom**. |
+| **Ei Nerd** | Nome do cliente/projeto | Einerd, Eiinerd | Usar **Ei Nerd** em texto e metadados; caminhos legados podem permanecer como `Einerd`. |
 
 ## Regra de uso
 

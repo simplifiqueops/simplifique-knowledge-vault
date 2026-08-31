@@ -13,7 +13,7 @@ security: "Credenciais, senhas e tokens presentes no documento-fonte foram delib
 ## Conexões
 
 - Índice do cliente: [[01-Clientes/Dermato-Mais/Dermato-Mais|Dermato+]].
-- Estado vigente: [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 26/08/2026]].
+- Estado vigente: [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 27/08/2026]].
 - Plano resumido: [[01-Clientes/Dermato-Mais/PDA_Simplificado_Dermato_MindMap_Whimsical|PDA Simplificado — reação em 30 dias]].
 
 > [!warning] Uso correto

@@ -15,3 +15,13 @@ Aprendizados são princípios reutilizáveis sustentados por evidências da oper
 ## Rascunhos
 
 Os arquivos em `08-Aprendizados/Rascunhos/` guardam candidatos ainda em validação. Cada candidato deve distinguir evidência, interpretação, princípio possível, confiança e condições de reutilização.
+
+- [[08-Aprendizados/Rascunhos/automacao-amplifica-processo-claro|Automação amplifica processo claro]]
+- [[08-Aprendizados/Rascunhos/comercial-precisa-de-rotina-e-proximo-passo|Comercial precisa de rotina e próximo passo]]
+- [[08-Aprendizados/Rascunhos/decisao-precisa-virar-execucao-rastreavel|Decisão precisa virar execução rastreável]]
+- [[08-Aprendizados/Rascunhos/passagem-de-bastao-precisa-ser-explicita|Passagem de bastão precisa ser explícita]]
+- [[08-Aprendizados/Rascunhos/priorizacao-por-ciclo-reduz-dispersao|Priorização por ciclo reduz dispersão]]
+
+## Inventários
+
+- [[08-Aprendizados/Inventarios/Base-Estudos-Notion-Mercado-Digital|Base de Estudos do Notion — Mercado Digital]] — inventário de fontes; não equivale a aprendizado validado.

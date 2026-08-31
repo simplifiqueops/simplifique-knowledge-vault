@@ -59,4 +59,4 @@ Oportunidades precisam de:
 
 - [[Base-Padronizada-2.0]]
 - [[Aprendizados-para-Metodo]]
-- [[Clareza Operacional]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]

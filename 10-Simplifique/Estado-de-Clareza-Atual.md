@@ -3,6 +3,7 @@ type: estado-de-clareza-canonico
 status: active
 projeto: "Simplifique — estratégia e infraestrutura interna"
 atualizado_em: 2026-08-28T01:41:27Z
+reconciliado_em: 2026-08-31
 ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria]]"
 fonte: "https://fathom.video/share/LxTiyUUBmUHN5zJ3n6HF6uxskLsjfBxh"
 confianca: "alta para a cadência e o canal de trabalho; limitada para papel e remuneração devido à transcrição compactada"
@@ -12,7 +13,7 @@ canonical: true
 # Estado de Clareza Atual — Simplifique
 
 ## Delta da última reunião
-- Mudanças confirmadas: Pablo e Vitória passam a ter reunião semanal às quintas-feiras, às 16h, e usam o Discord como canal de trabalho assíncrono; Pablo instalará o Discord; Pablo retirará a primeira lista de 100 pessoas para prospecção até 30/08/2026.
+- Mudanças confirmadas: Pablo e Vitória passam a ter reunião semanal às quintas-feiras, às 16h, e usam o Discord como canal de trabalho assíncrono; Pablo instalará o Discord; Pablo assumiu retirar a primeira lista de 100 pessoas para prospecção até 30/08/2026.
 - Confirmações sem mudança: DDR e EDC seguem como mecanismos internos de clareza e acompanhamento; a prospecção continua prioritária diante da produção de conteúdo.
 - Conflitos/lacunas: a transcrição compactada não permite confirmar os valores nem todo o escopo do novo papel de Vitória; o formato da oferta a ser prospectada continua não definido. Os demais prazos seguem deliberadamente abertos para que a execução não atrapalhe os outros projetos.
 - Fonte: [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]] e atualização manual de Pablo em 27/08/2026.
@@ -29,7 +30,7 @@ Uma oferta prospectável com operação interna mais clara e rápida, apoiada pe
 3. P2 — Definir o formato da oferta que será vendida.
 
 ## 4. Frentes ativas
-- Prospecção da Simplifique: prioridade confirmada; primeiro marco definido como a retirada de uma lista inicial de 100 pessoas até 30/08/2026; plano e cadência posteriores ainda não informados.
+- Prospecção da Simplifique: prioridade confirmada; o primeiro marco tinha prazo em 30/08/2026, mas a retirada da lista de 100 pessoas não foi comprovada no Vault; plano e cadência posteriores ainda não informados.
 - Simplifique Ops: domínio registrado, automações em desenvolvimento e IA interna alimentada pela base de conhecimento.
 - Metodologia de gestão: DEP, EDC e DDR em teste dentro dos projetos.
 - Coordenação com Vitória: reunião semanal às quintas-feiras, às 16h, com execução assíncrona via Discord.
@@ -54,7 +55,7 @@ Uma oferta prospectável com operação interna mais clara e rápida, apoiada pe
 - A indefinição da oferta limita a tradução da prioridade de prospecção em execução comercial clara.
 
 ## 9. Indicadores
-- Marco inicial de prospecção: lista com 100 pessoas retirada até 30/08/2026.
+- Marco inicial de prospecção: lista com 100 pessoas, com prazo original em 30/08/2026; conclusão não confirmada.
 - Sem indicador recorrente confiável para prospecção ou desenvolvimento do Simplifique Ops.
 
 ## 10. O que está pausado
@@ -67,7 +68,7 @@ Uma oferta prospectável com operação interna mais clara e rápida, apoiada pe
 
 ## 12. Próximo passo
 - Definir a oferta que será prospectada — Responsável: Pablo — Prazo: não definido.
-- Retirar a primeira lista de 100 pessoas para prospecção — Responsável: Pablo — Prazo: 30/08/2026 (domingo).
+- Confirmar e, se ainda pendente, retirar a primeira lista de 100 pessoas para prospecção — Responsável: Pablo — Prazo original: 30/08/2026 — Conclusão: não confirmada.
 - Estruturar plano, cadência e indicador recorrente para a prospecção — Responsável: não definido — Prazo: não definido.
 - Continuar testando o Simplifique Ops e os protocolos nos projetos — Responsável: Pablo — Prazo: não definido.
 - Instalar o Discord no notebook — Responsável: Pablo — Prazo: não definido.

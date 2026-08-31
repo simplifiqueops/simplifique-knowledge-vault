@@ -1,6 +1,6 @@
 ---
 type: reuniao
-status: processed
+status: processada
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial e produtos"
 titulo: "Alinhamento com Ellen RP"

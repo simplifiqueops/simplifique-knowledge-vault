@@ -5,6 +5,7 @@ status: active
 demandas_no_edc: 5
 decisoes_pendentes: 7
 edc_atualizado_em: 2026-08-28
+reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais

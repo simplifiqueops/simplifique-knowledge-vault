@@ -35,6 +35,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 - Copy editorial: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Cupula-12-Territorios|12 carrosséis por território]].
 - Captação qualificada: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Curiosidade-Captacao-Cupula|Carrosséis de curiosidade e captação]].
 - Campanha de pesquisa: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Pesquisa-Cupula-15-Disparos-5-Dias|15 e-mails em cinco dias]].
+- Conteúdo adicional em revisão: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Adicionais-Cupula-45-Disparos-3-Dias|45 e-mails adicionais em três dias]] — não cobertos pelo briefing da sequência principal.
 - Passagem para execução: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Briefing-Programacao-Emails-Pesquisa-Cupula|Briefing de programação dos e-mails]].
 
 ## Bases canônicas e inteligência operacional

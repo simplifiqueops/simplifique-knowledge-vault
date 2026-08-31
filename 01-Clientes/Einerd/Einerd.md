@@ -1,12 +1,13 @@
 ---
 type: client
-name: "Einerd"
+name: "Ei Nerd"
 status: active
 aliases:
   - "Einerd"
   - "Eiinerd"
+  - "Ei Nerd"
 ---
-# Einerd
+# Ei Nerd
 
 ## Contexto
 
@@ -20,7 +21,7 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> O foco imediato está em contornar o bloqueio de campanhas no Meta, testar o novo low-ticket e manter as frentes de Audiovisual e Ella rastreadas sem inventar atualização de status.
+> O foco imediato está em contornar o bloqueio de campanhas no Meta e testar o novo low-ticket. O status de Audiovisual, aulas e Ella permanece não avaliável sem as fontes operacionais canônicas.
 
 ### Reunião mais recente
 
@@ -35,8 +36,16 @@ Cliente da Simplifique.
 
 ### Lacunas da base
 
-- Fonte operacional do Monday ainda não conectada ao vault.
+- Planilha de cursos, Monday e Google Drive ainda não estão conectados ao Vault; não há comprovação canônica do status de edição, execução ou entrega.
 - Histórico de entregas, reuniões e métricas ainda não consolidado em documentos próprios.
+
+### Hierarquia de fontes
+
+- Planilha de cursos: status de edição das aulas.
+- Monday: responsável, prazo e execução.
+- Google Drive: comprovação de entrega.
+- SLA: nomenclatura e critério de serviço.
+- Uma tarefa aberta no Monday não representa produção real quando a planilha canônica ou o Drive comprovam conclusão.
 
 ### Bases operacionais relacionadas
 

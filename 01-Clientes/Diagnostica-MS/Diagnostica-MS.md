@@ -25,7 +25,7 @@ Ainda não existe diagnóstico validado. As informações atuais são públicas 
 
 ## Diagnósticos e análises
 
-- [[Diagnostica-MS/Analise-Pre-Reuniao|Análise pré-reunião — evidências públicas e hipóteses]]
+- [[01-Clientes/Diagnostica-MS/Analise-Pre-Reuniao|Análise pré-reunião — evidências públicas e hipóteses]]
 
 ## Aprendizados do diagnóstico
 

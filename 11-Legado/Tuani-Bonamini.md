@@ -16,13 +16,13 @@ relationships:
 
 ## Contexto
 
-Tuani foi cliente da [[DIS]].
+Tuani foi cliente da [[11-Legado/Dis|DIS]].
 
 Após sair da DIS, participou de um projeto em conjunto com Pablo. O projeto específico ainda não está identificado nesta base e necessita validação.
 
 ## Relações
 
-- [[DIS]] — Tuani foi cliente da organização.
+- [[11-Legado/Dis|DIS]] — Tuani foi cliente da organização.
 - Pablo — participou posteriormente de um projeto em conjunto.
 
 ## Projetos relacionados

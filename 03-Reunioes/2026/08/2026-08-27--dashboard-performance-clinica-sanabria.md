@@ -1,6 +1,6 @@
 ---
 type: reuniao
-status: processed
+status: processada
 cliente: "Clínica Sanabria"
 projeto: "Performance de marketing e comercial"
 data_reuniao: 2026-08-27T14:51:26Z

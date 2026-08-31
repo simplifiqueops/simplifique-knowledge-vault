@@ -2,15 +2,15 @@
 type: reuniao
 status: processada
 data: 2026-08-28T17:20:50Z
-titulo: "Operação de anúncios e novos produtos — Einerd"
-cliente: "Einerd"
-projeto: "Einerd — operação de anúncios e novos produtos"
+titulo: "Operação de anúncios e novos produtos — Ei Nerd"
+cliente: "Ei Nerd"
+projeto: "Ei Nerd — operação de anúncios e novos produtos"
 fonte: "https://fathom.video/share/eUjrYyrZ5NS5163zQvkxXVy-2CC1DD2R"
 transcricao: "compactada por limite técnico"
 confianca: "alta para o bloqueio do Meta e o teste via MCT; média para o produto associado aos preços; limitada para os trechos intermediários ausentes"
 ---
 
-# Operação de anúncios e novos produtos — Einerd — 28/08/2026
+# Operação de anúncios e novos produtos — Ei Nerd — 28/08/2026
 
 ## Fonte
 - Reunião: Impromptu Google Meet Meeting.
@@ -18,8 +18,8 @@ confianca: "alta para o bloqueio do Meta e o teste via MCT; média para o produt
 - Fathom: https://fathom.video/share/eUjrYyrZ5NS5163zQvkxXVy-2CC1DD2R
 - Registro utilizado: transcrição compactada como fonte principal; resumo do Fathom somente como apoio de localização.
 - Participantes identificados nos trechos disponíveis: Kemuel de Mel Leopoldino, Daniel Ferreira, Marcel Rodrigues, Magnum e Kayke Rocker. Carla, Pablo, Peter e Arthur foram citados.
-- Cliente identificado como [[01-Clientes/Einerd/Einerd|Einerd]] pela coincidência entre participantes, frentes e o produto VICE no estado anterior do cliente.
-- EDC recalibrado: [[01-Clientes/Einerd/Estado-de-Clareza-Atual|Estado de Clareza Atual — Einerd]].
+- Cliente identificado como [[01-Clientes/Einerd/Einerd|Ei Nerd]] pela coincidência entre participantes, frentes e o produto VICE no estado anterior do cliente.
+- EDC recalibrado: [[01-Clientes/Einerd/Estado-de-Clareza-Atual|Estado de Clareza Atual — Ei Nerd]].
 
 ## Síntese executiva
 - A conta principal do Meta continuava impedindo a criação e duplicação de campanhas, travando a renovação de campanhas e criativos.

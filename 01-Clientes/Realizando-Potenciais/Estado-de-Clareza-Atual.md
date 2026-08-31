@@ -4,6 +4,7 @@ status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial e produtos"
 atualizado_em: 2026-08-28T18:04:16Z
+reconciliado_em: 2026-08-31
 ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp]]"
 fonte: "https://fathom.video/share/FkUhGUyhhysxtHuWmNGjasZavRvE4mBD"
 confianca: "alta para a intenção de Ellen, a reflexão acordada e a retomada na segunda-feira; baixa para os detalhes de escopo e quitação, ausentes da transcrição compactada"
@@ -13,7 +14,7 @@ canonical: true
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última reunião
-- Mudanças confirmadas: Ellen manifestou intenção de encerrar sua atuação por desgaste e receio de não cumprir atividades e prazos; ela aceitou refletir durante o fim de semana, e Arcindo e Ellen retomarão a definição na segunda-feira.
+- Mudanças confirmadas: Ellen manifestou intenção de encerrar sua atuação por desgaste e receio de não cumprir atividades e prazos; ela aceitou refletir durante o fim de semana, e Arcindo e Ellen assumiram retomar a definição em 31/08/2026.
 - Confirmações sem mudança: Arcindo declarou não haver insatisfação com o trabalho de Ellen; a estrutura enxuta e as demais frentes operacionais vigentes não foram alteradas.
 - Conflitos/lacunas: o encerramento não foi finalizado; a divergência de escopo e a oferta de quitação de R$ 7.600,00 aparecem apenas no resumo porque os trechos centrais foram omitidos da transcrição compactada; não há aceite confirmado da oferta.
 - Fonte: [[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp|Alinhamento com Ellen RP — 28/08/2026]].
@@ -37,15 +38,15 @@ Preservar a operação com redução de custos e estrutura enxuta, mantendo o av
 6. P3 — Estruturar a transição de social media entre Gabi, Letícia e Vã e, por fonte completa, validar o estado do relançamento do CSV e dos novos funis.
 
 ## 4. Frentes ativas
-- Definição contratual com Ellen: intenção de saída manifestada, mas continuidade ou rescisão e respectivos termos ainda dependem da conversa de segunda-feira.
+- Definição contratual com Ellen: intenção de saída manifestada, mas continuidade ou rescisão e respectivos termos ainda dependem da conversa prevista para 31/08/2026.
 - Cúpula: esforço comercial para completar a turma; faltam cinco vendas e não há novo prazo confirmado.
-- Energia Infinita: revisão final de aulas e ferramentas e subida do vídeo final, com conclusão acordada para 28/08.
+- Energia Infinita: revisão final de aulas e ferramentas e subida do vídeo final tinham conclusão acordada para 28/08/2026; o resultado não foi comprovado no Vault.
 - Operação enxuta: redução de custos e uso de IA para ampliar entregas de criativos e copy no curto prazo.
 - Social media: Letícia foi escolhida para substituir Gabi; a transição com Vã e o novo fluxo de trabalho ainda precisam ser estruturados.
 
 ## 5. Responsáveis
-- Ellen: refletir durante o fim de semana e informar se continuará no projeto ou seguirá com a rescisão na segunda-feira.
-- Arcindo e Ellen: retomar a conversa e definir a continuidade ou os termos da rescisão na segunda-feira.
+- Ellen: refletir durante o fim de semana e informar em 31/08/2026 se continuará no projeto ou seguirá com a rescisão.
+- Arcindo e Ellen: retomar a conversa e definir a continuidade ou os termos da rescisão em 31/08/2026.
 - Thamyris: revisar aulas e ferramentas, subir o vídeo final e concluir o Energia Infinita; reunir-se com Gabi para levantar os detalhes da transição.
 - Pablo: avançar para o outro funil após receber a confirmação de conclusão do Energia Infinita.
 - Arcindo: conduzir a redução de custos; declarou não haver insatisfação com o trabalho de Ellen e manteve aberta a possibilidade de ela continuar no projeto.
@@ -76,7 +77,7 @@ Preservar a operação com redução de custos e estrutura enxuta, mantendo o av
 - A transcrição compactada impede confirmar itens estratégicos sobre CSV e funis presentes apenas no resumo automático.
 
 ## 8. Bloqueios
-- A conclusão da rescisão está bloqueada até Ellen definir sua posição e a conversa ser retomada na segunda-feira.
+- A conclusão da rescisão está bloqueada até Ellen definir sua posição e a conversa prevista para 31/08/2026 ocorrer.
 - Não foi confirmado bloqueio técnico impeditivo para concluir o Energia Infinita.
 - Não há novo prazo comercial confirmado para as cinco vendas da Cúpula.
 - A retomada de tráfego em escala e a recomposição da equipe dependem de aumento de receita ou conclusão de negociações ainda incertas.
@@ -104,10 +105,10 @@ Preservar a operação com redução de custos e estrutura enxuta, mantendo o av
 - Pablo como responsável pelos ajustes finais do Energia Infinita: sua parte foi declarada concluída, e a finalização passou a Thamyris em 28/08.
 
 ## 12. Próximo passo
-- Ellen avaliar se continuará no projeto ou seguirá com a rescisão — Prazo: segunda-feira.
-- Arcindo e Ellen retomar a conversa para definir a continuidade ou os termos da rescisão — Prazo: segunda-feira.
-- Thamyris subir o vídeo final e concluir o Energia Infinita — Prazo: hoje.
-- Thamyris reunir-se com Gabi para levantar os detalhes da transição — Prazo: hoje.
+- Ellen avaliar se continuará no projeto ou seguirá com a rescisão — Prazo: 31/08/2026.
+- Arcindo e Ellen retomar a conversa para definir a continuidade ou os termos da rescisão — Prazo: 31/08/2026.
+- Confirmar se Thamyris subiu o vídeo final e concluiu o Energia Infinita — Prazo original: 28/08/2026 — Conclusão: não confirmada.
+- Confirmar se Thamyris se reuniu com Gabi e registrar os detalhes da transição — Prazo original: 28/08/2026 — Conclusão: não confirmada.
 - Pablo avançar para o outro funil após a confirmação de conclusão do Energia Infinita — Prazo: não definido.
 
 ## 13. Próxima decisão

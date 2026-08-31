@@ -1,6 +1,6 @@
 ---
 type: reuniao
-status: processed
+status: processada
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial e produtos"
 data_reuniao: 2026-08-27T13:48:38Z

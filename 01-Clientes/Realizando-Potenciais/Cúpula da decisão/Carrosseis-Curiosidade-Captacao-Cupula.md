@@ -6,7 +6,7 @@
 > Este material conecta o conteúdo social à captação comercial da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Os comentários e palavras-chave são sinais de intenção que precisam virar conversa, qualificação e próximo passo no funil.
 
 - Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
-- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]].
+- Estado atual: [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|Estado de Clareza Atual]].
 - Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
 - Territórios de promessa: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
 - Conteúdo complementar: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Carrosseis-Cupula-12-Territorios|12 carrosséis por território]].

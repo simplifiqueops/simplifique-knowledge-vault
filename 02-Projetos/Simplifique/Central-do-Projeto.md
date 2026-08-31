@@ -5,6 +5,7 @@ status: active
 demandas_no_edc: 5
 decisoes_pendentes: 2
 edc_atualizado_em: 2026-08-27
+reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Simplifique

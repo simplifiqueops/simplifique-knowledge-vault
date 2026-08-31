@@ -78,6 +78,6 @@ F1–F4 permanecem como referência histórica.
 
 ## Conhecimentos relacionados
 
-- [[Clareza Operacional]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]
 - [[Entregas-e-Intervencoes]]
 - [[Aprendizados-para-Metodo]]

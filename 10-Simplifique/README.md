@@ -25,10 +25,16 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 
 ## Diretriz estratégica 2.1
 
+> [!warning] Status
+> A Diretriz 2.1 se declara oficial na origem, mas sua cópia no Vault está `imported` e `pending-vault-consolidation`; ela não substitui silenciosamente as diretrizes locais ativas.
+
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-2.1-Index|Índice da Diretriz 2.1]]
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/Diretriz-Oficial-2.1|Diretriz Oficial 2.1]]
 
-## Operação e processos
+## Operação e processos — fontes importadas
+
+> [!warning] Status
+> Os POPs abaixo foram importados do Notion e permanecem `pending-vault-consolidation`. Servem como fonte processual, não como SOP canônico automaticamente vigente.
 
 - [[10-Simplifique/Fontes/Notion/Operacao/Central-de-POPs|Central de POPs]]
 - [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]]
@@ -47,4 +53,16 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 - [[02-Projetos/Projetos|Projetos]]
 - [[03-Reunioes/Reunioes|Reuniões]]
 - [[04-Decisoes/Decisoes|Decisões]]
+- [[05-SOPs/SOPs|SOPs]]
+- [[06-Skills/Skills|Skills]]
+- [[07-Playbooks/Playbooks|Playbooks]]
+- [[08-Aprendizados/Aprendizados|Aprendizados]]
 - [[09-Metricas/Metricas|Métricas]]
+- [[11-Legado/Legado|Legado]]
+
+## Regra de vigência
+
+- Estados canônicos atuais ficam em `Estado-de-Clareza-Atual.md`.
+- Snapshots anteriores ficam em `Historico-de-Clareza/` com status `superseded` quando houver estado posterior.
+- Fontes importadas, rascunhos e documentos temporários preservam conhecimento e contexto, mas não substituem automaticamente o estado operacional atual.
+- Datas explícitas do conteúdo prevalecem sobre a data de modificação do arquivo.

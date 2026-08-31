@@ -6,15 +6,18 @@
 > Este briefing é a passagem de bastão entre estratégia, copy e operação de CRM da [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]]. Ele não redefine a mensagem: organiza responsáveis, programação, QA, ativação e monitoramento.
 
 - Cliente: [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]].
-- Estado semanal: [[01-Clientes/Realizando-Potenciais/Historico-de-Clareza/EDC-13-RP-2026-08-22|Estado de Clareza — 22/08/2026]].
+- Estado atual: [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|Estado de Clareza Atual]].
 - Copy-mestre: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Pesquisa-Cupula-15-Disparos-5-Dias|Campanha de 15 e-mails em cinco dias]].
 - Direcionamento: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Tese-Marketing-Cupula-Autoridade-Estruturada|Tese de Marketing — Autoridade Estruturada]].
 - Territórios de mensagem: [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Promessas-Cupula-Visao-360|Banco de Promessas 360°]].
 
-**Status:** pronto para passagem de bastão após aprovação da copy  
+**Status:** bloqueado — aguarda aprovação da copy, responsáveis e insumos obrigatórios
 **Destino:** https://pq.vocenocomando.com.br/  
 **Copy-mestre:** Emails-Pesquisa-Cupula-15-Disparos-5-Dias.md  
 **Objetivo:** programar 15 e-mails, segmentados por profissão, removendo imediatamente quem concluir a pesquisa.
+
+> [!warning] Escopo
+> Este briefing cobre somente a sequência principal de 15 e-mails. Os [[01-Clientes/Realizando-Potenciais/Cúpula da decisão/Emails-Adicionais-Cupula-45-Disparos-3-Dias|45 e-mails adicionais]] permanecem em revisão e exigem briefing e aprovação próprios.
 
 ## 1. Resultado esperado
 

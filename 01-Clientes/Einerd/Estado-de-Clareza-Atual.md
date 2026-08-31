@@ -1,31 +1,32 @@
 ---
 type: estado-de-clareza-canonico
 status: active
-cliente: "Einerd"
-projeto: "Einerd — operação de anúncios e novos produtos"
+cliente: "Ei Nerd"
+projeto: "Ei Nerd — operação de anúncios e novos produtos"
 atualizado_em: 2026-08-28T17:20:50Z
+reconciliado_em: 2026-08-31
 ultima_reuniao_processada: "[[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd]]"
 fonte: "https://fathom.video/share/eUjrYyrZ5NS5163zQvkxXVy-2CC1DD2R"
 confianca: "alta para o bloqueio do Meta e o teste via MCT; média para a associação do low-ticket ao VICE; limitada pelos trechos compactados"
 canonical: true
 ---
 
-# Estado de Clareza Atual — Einerd
+# Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última reunião
 - Mudanças confirmadas: o bug da conta principal do Meta passa a ser bloqueio operacional ativo; Kemuel testará o MCT como rota alternativa; um novo low-ticket terá testes a R$ 17, R$ 27 e R$ 37; Kemuel preparará uma remessa escrita para o YouTube Dark; Arthur criará um Discord para o grupo.
 - Confirmações sem mudança: continuam relevantes a organização das remessas e a necessidade de melhorar o fluxo operacional.
 - Conflitos/lacunas: a transcrição foi compactada; o nome do produto não aparece no trecho que confirma os preços e foi associado ao VICE apenas pelo resumo automático; não há prazos explícitos para as demandas promovidas; o estado atual da Ella e das pendências de Audiovisual não foi atualizado pela reunião.
-- Fonte: [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|Operação de anúncios e novos produtos — Einerd — 28/08/2026]].
+- Fonte: [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|Operação de anúncios e novos produtos — Ei Nerd — 28/08/2026]].
 
 ## 1. Objetivo atual
 - Restabelecer a capacidade de criar e duplicar campanhas para manter a renovação de anúncios e viabilizar novos funis e produtos.
-- Manter o fluxo das demandas de Audiovisual e avançar a implementação da V1 da Ella; essas frentes não tiveram novo status confirmado nesta reunião.
+- Manter o fluxo das demandas de Audiovisual e avançar a implementação da V1 da Ella; o status atual dessas frentes não pode ser confirmado sem as fontes operacionais canônicas.
 
 ## 2. Resultado esperado
 - Operação de campanhas novamente funcional, com novos testes de funis e ofertas podendo ser executados.
 - Novo low-ticket testado nas faixas de R$ 17, R$ 27 e R$ 37.
-- Fluxo de Audiovisual estabilizado e V1 da Ella testada no Monday; critérios e status atuais não foram atualizados nesta reunião.
+- Fluxo de Audiovisual estabilizado e V1 da Ella testada no Monday; este é um resultado esperado, não um resultado comprovado. Critérios e status atuais não foram encontrados nas fontes canônicas.
 
 ## 3. Prioridades
 1. P1 — Contornar ou resolver o bloqueio da conta principal do Meta.
@@ -38,8 +39,9 @@ canonical: true
 - Novo low-ticket: três variações de preço confirmadas; o resumo o associa ao VICE, mas a transcrição compactada não permite confirmar o nome no trecho decisório.
 - YouTube Dark: Kemuel preparará uma remessa escrita para Peter gravar posteriormente.
 - Coordenação operacional: Arthur criará um Discord para o grupo.
-- Edição de cursos, performance e criação: preservadas do estado anterior, sem atualização material confirmada.
-- Ella no Monday: preservada do estado anterior, sem atualização material confirmada.
+- Edição de cursos: status atual **não avaliável**, pois a planilha de cursos não está presente no Vault.
+- Edição de performance e criação: contexto histórico preservado, sem atualização material confirmada.
+- Ella no Monday: estado de execução **não avaliável**, pois o Monday não está conectado ao Vault.
 
 ## 5. Responsáveis
 - Kemuel: testar o MCT e preparar a remessa escrita do YouTube Dark.
@@ -60,7 +62,7 @@ canonical: true
 
 ## 8. Bloqueios
 - Bug ativo na conta principal do Meta impede criar e duplicar campanhas.
-- Falta de comunicação de alguns editores permanece registrada no estado anterior, sem validação nova nesta reunião.
+- Falta de comunicação de alguns editores é um bloqueio histórico de 22/08/2026, sem validação atual pela planilha de cursos ou pelo Monday.
 
 ## 9. Indicadores
 - Teste comercial definido: preços de R$ 17, R$ 27 e R$ 37 para o novo low-ticket.
@@ -79,13 +81,21 @@ canonical: true
 - Preparar uma remessa escrita para posterior gravação por Peter no funil de YouTube Dark — Responsável: Kemuel — Prazo: não definido.
 - Criar um Discord para o grupo — Responsável: Arthur — Prazo: não definido.
 - Executar o teste do low-ticket nos preços de R$ 17, R$ 27 e R$ 37 — Responsável: não definido — Prazo: não definido.
-- Cobrar e programar as demandas de Audiovisual em aberto — Responsável: não definido no estado vigente — Prazo: não definido.
+- Reconciliar planilha de cursos, Monday e Google Drive antes de declarar pendências, produção ou entrega de Audiovisual — Responsável: não definido — Prazo: não definido.
 
 ## 13. Próxima decisão
 - Confirmar se o low-ticket associado no resumo ao VICE é exatamente o produto cujos preços foram definidos na transcrição.
 - Definir a contingência operacional caso o MCT não permita criar campanhas enquanto o bug do Meta permanecer ativo.
 - Definir critérios de conclusão do teste da Ella e o estado das pendências de Audiovisual.
 
+## Hierarquia de fontes do Ei Nerd
+1. **Planilha de cursos:** fonte primária para o status de edição das aulas.
+2. **Monday:** fonte para responsável, prazo e execução das tarefas.
+3. **Google Drive:** comprovação de entrega.
+4. **SLA:** nomenclatura e critério de serviço; não comprova execução isoladamente.
+
+Nenhuma dessas fontes operacionais está conectada ao Vault nesta reconciliação. Portanto, tarefas abertas no Monday ou estados herdados não devem ser tratados como produção real; se a planilha canônica ou o Drive comprovarem conclusão, essa evidência prevalece.
+
 ## Fontes vigentes
-- [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|Operação de anúncios e novos produtos — Einerd — 28/08/2026]].
-- [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — Einerd — 22/08/2026]].
+- [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|Operação de anúncios e novos produtos — Ei Nerd — 28/08/2026]].
+- [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — Ei Nerd — 22/08/2026]].

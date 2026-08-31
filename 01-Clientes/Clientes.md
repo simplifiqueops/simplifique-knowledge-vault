@@ -11,8 +11,8 @@ Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
 - [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]] — índice com estado de clareza, bases canônicas, fontes e estrutura de direcionamento e copy.
 - [[Clinica-Sanabria|Clínica Sanabria]] — índice com estado de clareza, histórico, escopo, evidências e aprendizados.
 - [[Dermato-Mais|Dermato+]] — operação em reação comercial de 30 dias; índice com estado canônico, plano resumido, fontes auditáveis e histórico separado por vigência.
-- [[Einerd|Einerd]] — estado de clareza ativo para Audiovisual e implementação da Ella; fonte operacional do Monday ainda pendente de conexão.
-- [[01-Clientes/Patricia-de-Lucca/Patricia-de-Lucca|Patrícia de Lucca]] — índice com estado de clareza, diagnóstico e próximos passos.
+- [[Einerd|Ei Nerd]] — operação com bloqueio no Meta e teste de low-ticket planejado; planilha de cursos, Monday e Google Drive ainda não estão conectados, portanto edição, execução e entrega não estão confirmadas.
+- [[01-Clientes/Patricia-de-Lucca/Patricia-de-Lucca|Patrícia de Lucca]] — EDC canônico com validação necessária e corte em 22/08/2026; continuidade e execução não confirmadas.
 
 ## Rotina de clareza
 
@@ -20,7 +20,7 @@ Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
 - O arquivo canônico atual é a fonte operacional; os registros semanais e mensais ficam na pasta `Historico-de-Clareza` de cada cliente.
 - Automação: [[06-Skills/Atualizacao-EDC-Pos-Reuniao-v0.1|Atualização de EDC Pós-Reunião]].
 - Método: [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]].
-- Processo: [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]].
+- Fonte processual importada: [[10-Simplifique/Fontes/Notion/Operacao/Processos/POP-Sessao-de-Clareza|POP — Sessão de Clareza]] — pendente de consolidação no Vault.
 
 ## Relacionamento inativo com potencial de reativação
 

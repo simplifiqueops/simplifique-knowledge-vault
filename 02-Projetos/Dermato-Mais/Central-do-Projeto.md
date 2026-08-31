@@ -5,6 +5,7 @@ status: critical
 demandas_no_edc: 10
 decisoes_pendentes: 3
 edc_atualizado_em: 2026-08-27
+reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Dermato+

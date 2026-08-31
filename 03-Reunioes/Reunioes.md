@@ -24,7 +24,7 @@ Fathom / transcrição recebida
 ## Registros recentes
 
 - [[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp|28/08/2026 — Alinhamento com Ellen RP]]
-- [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos — Einerd]]
+- [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos — Ei Nerd]]
 - [[03-Reunioes/2026/08/2026-08-28--finalizacao-energia-infinita-transicao-social-media|28/08/2026 — Finalização do Energia Infinita e transição de social media]]
 - [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|27/08/2026 — Metodologia e operação com Vitória]]
 - [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|27/08/2026 — Alinhamento de projetos e papel da Vitória]]

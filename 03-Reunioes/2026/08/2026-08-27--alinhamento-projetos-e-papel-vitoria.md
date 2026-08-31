@@ -1,6 +1,6 @@
 ---
 type: reuniao
-status: processed
+status: processada
 clientes:
   - "Dermato+"
   - "Realizando Potenciais"

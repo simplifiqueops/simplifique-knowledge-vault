@@ -114,7 +114,7 @@ Base existente precisa ser tratada como ativo, com nutrição e reativação.
 
 ## Conhecimentos relacionados
 
-- [[Clareza Operacional]]
+- [[10-Simplifique/Diretrizes/Clareza-Operacional|Clareza Operacional]]
 - [[Gargalos-Identificados]]
 - [[Entregas-e-Intervencoes]]
 - [[Aprendizados-para-Metodo]]

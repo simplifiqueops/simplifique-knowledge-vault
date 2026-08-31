@@ -1,6 +1,6 @@
 ---
 type: reuniao
-status: processed
+status: processada
 cliente: "Dermato+"
 projeto: "Recuperação comercial em 30 dias"
 data_reuniao: 2026-08-26T19:05:53Z

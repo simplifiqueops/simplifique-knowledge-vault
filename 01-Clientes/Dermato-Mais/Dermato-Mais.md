@@ -9,12 +9,12 @@ aliases:
 ---
 # Dermato+
 
-> [!danger] Estado atual — 27/08/2026
-> Operação em janela crítica de 30 dias para geração de caixa. A prioridade é converter ativos já existentes, restabelecer rotina comercial diária e fechar o rastreamento de origem até receita.
+> [!danger] Estado atual — 03/09/2026
+> Operação em janela crítica de 30 dias e com pagamento em atraso. A continuidade será definida até sábado; em paralelo, a planilha de Daniel passa a ser a fonte de verdade da prospecção e alimentará o DigiSac.
 
 ## Direção vigente
 
-- [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 27/08/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
+- [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 03/09/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
 - [[01-Clientes/Dermato-Mais/PDA_Simplificado_Dermato_MindMap_Whimsical|PDA Simplificado — reação em 30 dias]] — visão operacional resumida para alinhamento e execução.
 
 > [!warning] Regra de precedência
@@ -22,16 +22,18 @@ aliases:
 
 ## Foco imediato
 
-1. Entregar a primeira lista de propostas em aberto e injetáveis vencidos.
-2. Colocar o fluxo e os campos necessários no DigiSack, com preenchimento diário pela Evelyn.
-3. Atualizar a planilha por exportação manual do DigiSack até a automação ficar pronta.
-4. Rodar campanhas com 80% da verba no Google e 20% no Meta.
-5. Fechar as lacunas de rastreamento entre origem, atendimento, venda e receita.
-6. Integrar Vitória à correção dos links de rastreamento e à gestão de social media com Rosa.
-7. Manter ajustes de branding atrás da prioridade de vendas.
+1. Resolver a inadimplência e definir a continuidade do serviço até sábado.
+2. Receber a planilha de Daniel e importar as oportunidades para o DigiSac até amanhã.
+3. Concluir a auditoria das conversas e dar feedback a Evelyn até segunda-feira.
+4. Criar a planilha compartilhada que substituirá o ClickUp no acompanhamento cotidiano.
+5. Validar o briefing de Jane e produzir os materiais da recepção até segunda-feira.
+6. Devolver o status dos disparos de WhatsApp e das demandas com Gui até amanhã.
+7. Fechar as lacunas de rastreamento entre origem, atendimento, venda e receita.
 
 ## Fontes e rastreabilidade
 
+- [[03-Reunioes/2026/09/2026-09-03--alinhamento-dermato-mais|Alinhamento Dermato+ — 03/09/2026]] — definiu a planilha de prospecção como fonte de verdade, a importação no DigiSac, o acompanhamento por planilha compartilhada e a execução dos materiais de recepção.
+- [[03-Reunioes/2026/09/2026-09-03--daily-simplifique|Daily Simplifique — 03/09/2026]] — confirmou a inadimplência, a definição da continuidade até sábado e os bloqueios de rastreamento e conteúdo.
 - [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]] — definiu o mapeamento dos pontos de contato e links até segunda-feira e o alinhamento com Rosa.
 - [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|Alinhamento de projetos e papel da Vitória — 27/08/2026]] — confirmou a prioridade de vendas e as novas atribuições de Vitória.
 - [[03-Reunioes/2026/08/2026-08-26--alinhamento-comercial-dermato-mais|Alinhamento comercial — 26/08/2026]] — reunião que atualizou o estado vigente, o processo comercial e a alocação de mídia.

@@ -1,7 +1,7 @@
 ---
 type: prospect
 name: "Diagnóstica MS"
-status: pre-diagnostic
+status: diagnostic-in-progress
 relationship_stage: prospect
 location: "Campo Grande, MS"
 aliases:
@@ -13,15 +13,16 @@ aliases:
 
 ## Contexto
 
-Possível cliente da Simplifique em etapa de análise e preparação para conversa comercial.
+Possível cliente da Simplifique em etapa de diagnóstico e validação técnica para uma proposta comercial.
 
-Ainda não existe diagnóstico validado. As informações atuais são públicas e servem para orientar perguntas, não para afirmar como funciona a operação interna da clínica.
+A reunião de 01/09/2026 confirmou gargalos no atendimento via WhatsApp, ausência de CRM, perda de follow-up, sobrecarga da equipe e falhas em uma implantação anterior de IA. A adoção do Full Funnel e a implantação ainda não foram decididas.
 
 ## Etapa atual
 
-- **Status:** pré-diagnóstico.
-- **Próximo marco:** conversa com o decisor e responsável pelo atendimento/agendamento.
-- **Objetivo:** validar contexto, prioridades, gargalos, capacidade e aderência à Simplifique.
+- **Status:** diagnóstico em andamento; validação técnica e proposta pendentes.
+- **Próximo marco:** reunião de Pablo com Marco, da Full Funnel, para esclarecer as capacidades da IA.
+- **Objetivo:** validar a solução e estruturar uma proposta de implementação processual com foco inicial no atendimento.
+- **Estado operacional vigente:** [[01-Clientes/Diagnostica-MS/Estado-de-Clareza-Atual|Estado de Clareza Atual — Diagnóstica MS]].
 
 ## Diagnósticos e análises
 
@@ -29,7 +30,10 @@ Ainda não existe diagnóstico validado. As informações atuais são públicas 
 
 ## Aprendizados do diagnóstico
 
-Nenhum aprendizado validado ainda.
+- O atendimento está concentrado no WhatsApp e não utiliza CRM, o que provoca perda de follow-up e baixa rastreabilidade.
+- A equipe citada de quatro pessoas não consegue absorver o volume do WhatsApp; a distribuição das atividades ainda precisa ser mapeada.
+- Uma implantação anterior de IA repetiu mensagens, reconfirmou agendamentos e culminou no bloqueio permanente do número principal do WhatsApp.
+- A conferência entre pacientes, valores de convênios e pagamentos é feita manualmente em planilha e foi descrita como demorada.
 
 Após a conversa, registrar aqui apenas padrões sustentados por evidências do caso, separando:
 
@@ -52,11 +56,12 @@ Nenhum projeto contratado.
 
 ## Decisões
 
-Nenhuma decisão comercial registrada.
+- Validar as capacidades da IA com Marco antes de Pablo elaborar a proposta.
+- Estruturar a proposta com foco inicial no atendimento; a contratação e a implantação ainda não foram decididas.
 
 ## Reuniões
 
-Nenhuma reunião registrada.
+- [[03-Reunioes/2026/09/2026-09-01--reuniao-com-diagnostica-ms|01/09/2026 — Reunião com Diagnóstica MS]].
 
 ## Métricas
 
@@ -64,7 +69,8 @@ Nenhuma métrica interna disponível.
 
 ## Relacionados
 
-- [[01-Clientes/Clientes|Clientes]]
+- [[01-Clientes/Diagnosticos-de-Clientes|Cliente de Diagnóstico]]
+- [[01-Clientes/Clientes|Clientes atuais]]
 - [[Simplifique Ops]]
 - [[10-Simplifique/Fontes/Notion/Diretriz-2.1/07-Diagnostico-Comercial-e-Operacional|Diagnóstico Comercial e Operacional]]
 - [[08-Aprendizados/Aprendizados|Aprendizados]]

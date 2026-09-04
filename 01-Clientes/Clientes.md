@@ -1,10 +1,8 @@
 # Clientes
 
-Mapa das organizações que fazem ou fizeram parte da carteira da Simplifique.
+Mapa das organizações que fazem ou fizeram parte da carteira de clientes da Simplifique.
 
-## Potenciais em diagnóstico
-
-- [[Diagnostica-MS|Diagnóstica MS]] — análise pré-reunião; ainda não é cliente nem diagnóstico validado.
+> Possibilidades ainda sem contratação ficam na área separada [[01-Clientes/Diagnosticos-de-Clientes|Cliente de Diagnóstico]].
 
 ## Ativos
 

@@ -24,6 +24,9 @@ Cliente da Simplifique em estado estável, com finalização do serviço em **9 
 
 ### Reuniões recentes
 
+- [[03-Reunioes/2026/09/2026-09-03--alinhamento-marketing-nova-agencia-clinica-sanabria|03/09/2026 — Alinhamento de marketing com nova agência]]
+- [[03-Reunioes/2026/09/2026-09-01--treinamento-crm-alta-escala-clinica-sanabria|01/09/2026 — Treinamento do CRM da Alta Escala]]
+- [[03-Reunioes/2026/08/2026-08-31--weekly-sanabria|31/08/2026 — Weekly Sanabria]]
 - [[03-Reunioes/2026/08/2026-08-27--dashboard-performance-clinica-sanabria|27/08/2026 — Dashboard de performance de marketing e comercial]]
 
 ### Base consolidada e histórico

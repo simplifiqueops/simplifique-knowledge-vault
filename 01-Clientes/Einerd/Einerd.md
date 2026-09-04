@@ -21,10 +21,12 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> O foco imediato está em contornar o bloqueio de campanhas no Meta e testar o novo low-ticket. O status de Audiovisual, aulas e Ella permanece não avaliável sem as fontes operacionais canônicas.
+> Novas demandas e documentos passam pelo fluxo controlado por Carla no Monday. O foco gradual em produtos de ticket mais alto e a necessidade de otimizar o funil da Hostinger permanecem vigentes; o detalhamento da estratégia de produto exige validação por causa da transcrição compactada.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/09/2026-09-01--fluxo-monday-desenho-produto-funil-einerd|01/09/2026 — Fluxo no Monday e desenho de produto e funil]].
+- [[03-Reunioes/2026/08/2026-08-31--estrategia-produtos-otimizacao-funil-einerd|31/08/2026 — Estratégia de produtos e otimização do funil]].
 - [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos]].
 
 ### Aprendizados correlacionados

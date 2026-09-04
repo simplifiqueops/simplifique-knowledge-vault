@@ -11,6 +11,7 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 
 ## Captura e validação
 
+- [[03-Reunioes/2026/09/2026-09-03--daily-simplifique|Daily Simplifique — 03/09/2026]] — reunião mais recente sobre prospecção, oportunidade de CRM, painel EDC e situação da Dermato+.
 - [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]] — reunião mais recente que fixou a cadência semanal e o trabalho assíncrono via Discord.
 - [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|Alinhamento de projetos e papel da Vitória — 27/08/2026]] — reunião mais recente que atualizou estratégia, prospecção e uso interno do Simplifique Ops.
 - [[00-Inbox/README|README da Inbox]] — porta de entrada e regras de classificação.
@@ -50,6 +51,7 @@ Este documento é o índice canônico da estrutura interna da Simplifique.
 ## Bases centrais do vault
 
 - [[01-Clientes/Clientes|Clientes]]
+- [[01-Clientes/Diagnosticos-de-Clientes|Cliente de Diagnóstico]]
 - [[02-Projetos/Projetos|Projetos]]
 - [[03-Reunioes/Reunioes|Reuniões]]
 - [[04-Decisoes/Decisoes|Decisões]]

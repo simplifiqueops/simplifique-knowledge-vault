@@ -23,6 +23,17 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/09/2026-09-03--alinhamento-dermato-mais|03/09/2026 — Alinhamento Dermato+]]
+- [[03-Reunioes/2026/09/2026-09-03--daily-simplifique|03/09/2026 — Daily Simplifique]]
+- [[03-Reunioes/2026/09/2026-09-03--alinhamento-marketing-nova-agencia-clinica-sanabria|03/09/2026 — Alinhamento de marketing com nova agência — Clínica Sanabria]]
+- [[03-Reunioes/2026/09/2026-09-01--fluxo-monday-desenho-produto-funil-einerd|01/09/2026 — Fluxo no Monday e desenho de produto e funil — Ei Nerd]]
+- [[03-Reunioes/2026/09/2026-09-01--reuniao-com-diagnostica-ms|01/09/2026 — Reunião com Diagnóstica MS]]
+- [[03-Reunioes/2026/09/2026-09-01--treinamento-crm-alta-escala-clinica-sanabria|01/09/2026 — Treinamento do CRM da Alta Escala — Clínica Sanabria]]
+- [[03-Reunioes/2026/08/2026-08-31--semanal-time-rp|31/08/2026 — Reunião Time RP | Semanal — Realizando Potenciais]]
+- [[03-Reunioes/2026/08/2026-08-31--integracao-leticia-social-media-rp|31/08/2026 — Integração de Letícia à operação de social media — Realizando Potenciais]]
+- [[03-Reunioes/2026/08/2026-08-31--estrategia-produtos-otimizacao-funil-einerd|31/08/2026 — Estratégia de produtos e otimização do funil — Ei Nerd]]
+- [[03-Reunioes/2026/08/2026-08-31--weekly-sanabria|31/08/2026 — Weekly Sanabria]]
+- [[03-Reunioes/2026/08/2026-08-31--reuniao-comercial-rp|31/08/2026 — Reunião Comercial — Realizando Potenciais]]
 - [[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp|28/08/2026 — Alinhamento com Ellen RP]]
 - [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos — Ei Nerd]]
 - [[03-Reunioes/2026/08/2026-08-28--finalizacao-energia-infinita-transicao-social-media|28/08/2026 — Finalização do Energia Infinita e transição de social media]]

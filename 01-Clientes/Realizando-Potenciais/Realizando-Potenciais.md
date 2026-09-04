@@ -19,6 +19,9 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/08/2026-08-31--semanal-time-rp|31/08/2026 — Reunião Time RP | Semanal]]
+- [[03-Reunioes/2026/08/2026-08-31--integracao-leticia-social-media-rp|31/08/2026 — Integração de Letícia à operação de social media]]
+- [[03-Reunioes/2026/08/2026-08-31--reuniao-comercial-rp|31/08/2026 — Reunião Comercial]]
 - [[03-Reunioes/2026/08/2026-08-28--alinhamento-com-ellen-rp|28/08/2026 — Alinhamento com Ellen RP]]
 - [[03-Reunioes/2026/08/2026-08-28--finalizacao-energia-infinita-transicao-social-media|28/08/2026 — Finalização do Energia Infinita e transição de social media]]
 - [[03-Reunioes/2026/08/2026-08-27--alinhamento-projetos-e-papel-vitoria|27/08/2026 — Alinhamento de projetos e papel da Vitória]]

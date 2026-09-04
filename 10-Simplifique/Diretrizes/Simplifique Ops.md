@@ -13,6 +13,7 @@ Sistema operacional de gestão e inteligência da Simplifique.
 ## Áreas de conhecimento
 
 - [[01-Clientes/Clientes|Clientes]]
+- [[01-Clientes/Diagnosticos-de-Clientes|Cliente de Diagnóstico]]
 - [[02-Projetos/Projetos|Projetos]]
 - [[03-Reunioes/Reunioes|Reuniões]]
 - [[04-Decisoes/Decisoes|Decisões]]

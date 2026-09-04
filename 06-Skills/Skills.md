@@ -5,6 +5,7 @@ Skills são instruções reutilizáveis que ensinam agentes a executar processos
 ## Comercial
 
 - [[06-Skills/qualificar-leads-gpct/SKILL|Qualificar leads com GPCT]] — conduz diagnóstico comercial, qualificação, aprofundamento de impacto, tratamento consultivo de objeções e registro para CRM.
+- [[06-Skills/Daily-Simplifique-v0.2|Daily Simplifique]] — **ativa**; lê a base de Oportunidades do Notion antes do Daily, destaca exceções e próximos passos e preserva o estado para comparação.
 
 ## Raciocínio e decisão
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Funnel Formats"
+  short_description: "Formatos criativos por consciência e funil"
+  default_prompt: "Use $creative-funnel-formats para criar uma estratégia de criativos alinhada ao público, consciência, funil, oferta e hipótese de teste."

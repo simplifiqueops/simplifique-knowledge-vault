@@ -19,3 +19,7 @@
 Thumbs.db
 # Obsidian local
 .obsidian/
+# Segurança adicional
+*.env
+secrets/
+credentials/

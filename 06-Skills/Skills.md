@@ -6,15 +6,16 @@ Skills são instruções reutilizáveis que ensinam agentes a executar processos
 
 - [[06-Skills/qualificar-leads-gpct/SKILL|Qualificar leads com GPCT]] — conduz diagnóstico comercial, qualificação, aprofundamento de impacto, tratamento consultivo de objeções e registro para CRM.
 - [[06-Skills/Daily-Simplifique-v0.2|Daily Simplifique]] — **ativa**; lê a base de Oportunidades do Notion antes do Daily, destaca exceções e próximos passos e preserva o estado para comparação.
+- [[06-Skills/creative-funnel-formats/SKILL|Creative Funnel Formats]] — seleciona, desenvolve e avalia formatos de criativos para TOFU, MOFU e BOFU com base em consciência, objetivo, oferta, objeções e hipótese de teste.
 
 ## Raciocínio e decisão
 
-- [[06-Skills/Estado-de-Clareza-v0.2|Estado de Clareza v0.2]] — **rascunho**; localiza o estado real pelas 13 perguntas centrais.
-- [[06-Skills/Atualizacao-EDC-Pos-Reuniao-v0.1|Atualização de EDC Pós-Reunião]] — **ativa**; processa cada reunião como DDR e recalibra o EDC canônico.
-- [[06-Skills/DDR-Decisoes-Demandas-Riscos-v0.1|DDR — Decisões, Demandas e Riscos]] — **rascunho**; promove somente itens confirmados.
-- [[06-Skills/EDC-5-Diario-v0.1|EDC-5 Diário]] — **rascunho**.
-- [[06-Skills/EDC-13-Semanal-v0.1|EDC-13 Semanal]] — **rascunho**.
-- [[06-Skills/EDC-7-Mensal-v0.1|EDC-7 Mensal]] — **rascunho**.
+- [[06-Skills/Estado-de-Clareza-v0.2|Estado de Clareza v0.2]] — **rascunho**; localiza o estado real de uma pessoa, projeto, cliente ou operação pelas 13 perguntas centrais e transforma lacunas em direção operacional.
+- [[06-Skills/Atualizacao-EDC-Pos-Reuniao-v0.1|Atualização de EDC Pós-Reunião]] — **ativa**; processa cada reunião como DDR e recalibra, com rastreabilidade, o EDC canônico do projeto na mesma execução.
+- [[06-Skills/DDR-Decisoes-Demandas-Riscos-v0.1|DDR — Decisões, Demandas e Riscos]] — **rascunho**; promove somente decisões, demandas e riscos confirmados de cada reunião.
+- [[06-Skills/EDC-5-Diario-v0.1|EDC-5 Diário]] — **rascunho**; mantém o próximo movimento claro.
+- [[06-Skills/EDC-13-Semanal-v0.1|EDC-13 Semanal]] — **rascunho**; recalibra o estado completo semanalmente.
+- [[06-Skills/EDC-7-Mensal-v0.1|EDC-7 Mensal]] — **rascunho**; interpreta o ciclo e alimenta a direção do próximo mês.
 - [[06-Skills/DEP-Definicao-Escala-Prioridade-v0.1|DEP — Definição de Escala de Prioridade]] — **rascunho**.
 - [[06-Skills/antecipar-lacunas/SKILL|Antecipar lacunas]] — questiona premissas, revela lacunas, pondera ganhos e riscos e converte descobertas reutilizáveis em candidatos a aprendizado.
 

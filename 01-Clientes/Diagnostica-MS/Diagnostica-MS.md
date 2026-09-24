@@ -15,13 +15,13 @@ aliases:
 
 Possível cliente da Simplifique em etapa de diagnóstico e validação técnica para uma proposta comercial.
 
-A reunião de 01/09/2026 confirmou gargalos no atendimento via WhatsApp, ausência de CRM, perda de follow-up, sobrecarga da equipe e falhas em uma implantação anterior de IA. A adoção do Full Funnel e a implantação ainda não foram decididas.
+A reunião de 01/09/2026 confirmou gargalos no atendimento via WhatsApp, ausência de CRM, perda de follow-up, sobrecarga da equipe e falhas em uma implantação anterior de IA. Em 04/09/2026, a FullFunnel foi demonstrada à Diagnóstica MS. Em 18/09/2026, foi definido que o processo de atendimento será diagnosticado e ajustado antes ou em paralelo à IA; Pablo e Gabriel ficaram com os insumos para consolidar a proposta, que será apresentada a Daut para decisão. A contratação e a implantação continuam sem aprovação.
 
 ## Etapa atual
 
-- **Status:** diagnóstico em andamento; validação técnica e proposta pendentes.
-- **Próximo marco:** reunião de Pablo com Marco, da Full Funnel, para esclarecer as capacidades da IA.
-- **Objetivo:** validar a solução e estruturar uma proposta de implementação processual com foco inicial no atendimento.
+- **Status:** diagnóstico em andamento; proposta em consolidação e decisão comercial pendente.
+- **Próximo marco:** Pablo enviar as perguntas complementares, Gabriel fornecer os dados financeiros e agendar a apresentação de 15–20 minutos com Pablo e Daut; a documentação da API do RIS/PACS permanece como dependência externa.
+- **Objetivo:** concluir o diagnóstico do atendimento e apresentar uma proposta com ROI, escopo, preço e combinação adequada entre automação simples e IA.
 - **Estado operacional vigente:** [[01-Clientes/Diagnostica-MS/Estado-de-Clareza-Atual|Estado de Clareza Atual — Diagnóstica MS]].
 
 ## Diagnósticos e análises
@@ -47,7 +47,8 @@ Um aprendizado do caso não deve virar aprendizado geral da Simplifique automati
 
 ## Pessoas
 
-- Dr. Daut Galvão de França Júnior — possível decisor; papel deve ser confirmado.
+- Dr. Daut Galvão de França Júnior — decisor final sobre a contratação.
+- Gabriel Pifer — interlocutor responsável por fornecer os dados financeiros solicitados e agendar a apresentação final com Daut.
 - Responsável por atendimento/agendamento — não identificado.
 
 ## Projetos
@@ -56,11 +57,14 @@ Nenhum projeto contratado.
 
 ## Decisões
 
-- Validar as capacidades da IA com Marco antes de Pablo elaborar a proposta.
-- Estruturar a proposta com foco inicial no atendimento; a contratação e a implantação ainda não foram decididas.
+- A demonstração técnica prevista antes da proposta foi realizada em 04/09/2026.
+- Diagnosticar e ajustar o processo de atendimento antes ou em paralelo à implantação da IA.
+- Apresentar a proposta final e o preço a Daut depois da consolidação das informações pendentes; a contratação, a implantação e o escopo da integração ainda não foram decididos.
 
 ## Reuniões
 
+- [[03-Reunioes/2026/09/2026-09-18--reuniao-gabriel-pifer-diagnostica-ms|18/09/2026 — Reunião com Gabriel Pifer — Diagnóstica MS]].
+- [[03-Reunioes/2026/09/2026-09-04--demonstracao-fullfunnel-diagnostica-ms|04/09/2026 — Demonstração da FullFunnel para a Diagnóstica MS]].
 - [[03-Reunioes/2026/09/2026-09-01--reuniao-com-diagnostica-ms|01/09/2026 — Reunião com Diagnóstica MS]].
 
 ## Métricas

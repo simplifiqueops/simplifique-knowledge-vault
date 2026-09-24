@@ -1,17 +1,17 @@
 ---
 type: central-do-projeto
 projeto: Dermato+
-status: critical
-demandas_no_edc: 24
-decisoes_pendentes: 4
-edc_atualizado_em: 2026-09-03
+status: needs-validation
+demandas_no_edc: 4
+decisoes_pendentes: 2
+edc_atualizado_em: 2026-09-24
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Dermato+
 
 > [!simp] Agora
-> **Criticidade confirmada:** continuidade condicionada à regularização ou posicionamento até sábado; a planilha de Daniel passa a ser a fonte de verdade da prospecção e alimentará o DigiSac. **24 demandas** e **4 decisões pendentes** no EDC.
+> **Definição necessária:** Daniel não reagiu aos materiais; Pablo deve alinhar até 25/09/2026 se a frente continua, fica restrita à recepção com Jane ou é encerrada. **300 contatos** da lista de tratamentos vencidos já estão organizados na DigiSac, sem mensagens enviadas; falta definir responsável, roteiro e início. **4 demandas** e **2 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Dermato-Mais/Dermato-Mais|Índice]] · [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,14 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 24
+## Demandas visíveis — 4
 ![[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 4
+## Decisões pendentes — 2
 ![[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Override de criticidade: candidato sustentado pela pressão de caixa e pela janela crítica registrada.
-- Sinal atual: Financeiro, Vendas e Operação / Processos; inadimplência, rastreamento quebrado e dependências para importar as listas elevam a criticidade.
-- Lacuna principal: posicionamento do cliente, meta numérica de vendas, resultado da importação e estratégia de disparos ainda não confirmados.
+- Sinal atual: falta de clareza de continuidade e ausência de reação de Daniel.
+- Lacuna principal: decidir na reunião se haverá entrega final com Jane, continuidade ampliada ou encerramento; se houver continuidade, validar ou rejeitar um piloto de reativação baseado na lista.
 - A DEP completa deve ordenar as nove áreas e registrar a condição de revisão do override.

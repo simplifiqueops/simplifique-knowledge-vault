@@ -21,10 +21,17 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> Novas demandas e documentos passam pelo fluxo controlado por Carla no Monday. O foco gradual em produtos de ticket mais alto e a necessidade de otimizar o funil da Hostinger permanecem vigentes; o detalhamento da estratégia de produto exige validação por causa da transcrição compactada.
+> A prioridade imediata é finalizar as páginas Vice e YouTube Dark até sexta-feira, liberar BTC V2/V5 com Márcio e destravar a revisão da VSL da PlaySquad. Novos tutoriais passam a usar interfaces em inglês; remessas e treinamentos novos têm precedência sobre a tradução dos bônus programados.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/09/2026-09-23--prioridades-paginas-internacionalizacao-einerd|23/09/2026 — Prioridades de páginas e internacionalização]].
+- [[03-Reunioes/2026/09/2026-09-21--performance-onboarding-w6-expansao-internacional-einerd|21/09/2026 — Performance, onboarding W6 e expansão internacional]].
+- [[03-Reunioes/2026/09/2026-09-18--performance-campanhas-painel-producao-einerd|18/09/2026 — Performance, expansão de campanhas e painel de produção]].
+- [[03-Reunioes/2026/09/2026-09-14--estrategia-produto-campanhas-ia-einerd|14/09/2026 — Estratégia de produto, campanhas e automação com IA]].
+- [[03-Reunioes/2026/09/2026-09-11--reembolsos-novo-funil-vsl-einerd|11/09/2026 — Reembolsos e novo funil de VSL]].
+- [[03-Reunioes/2026/09/2026-09-09--campanhas-google-internacional-onboarding-einerd|09/09/2026 — Campanhas no Google, internacionalização e onboarding]].
+- [[03-Reunioes/2026/09/2026-09-04--migracao-tubeclub-renovacao-anuncios-einerd|04/09/2026 — Migração para o TubeClub e renovação de anúncios]].
 - [[03-Reunioes/2026/09/2026-09-01--fluxo-monday-desenho-produto-funil-einerd|01/09/2026 — Fluxo no Monday e desenho de produto e funil]].
 - [[03-Reunioes/2026/08/2026-08-31--estrategia-produtos-otimizacao-funil-einerd|31/08/2026 — Estratégia de produtos e otimização do funil]].
 - [[03-Reunioes/2026/08/2026-08-28--operacao-anuncios-novos-produtos-einerd|28/08/2026 — Operação de anúncios e novos produtos]].

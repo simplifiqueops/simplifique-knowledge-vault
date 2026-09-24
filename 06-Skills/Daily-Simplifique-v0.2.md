@@ -112,7 +112,21 @@ Quando houver dados suficientes, encerrar a leitura comercial neste padrão:
 
 ### PLANO DO DIA
 
-- Ação — Responsável confirmado — Prioridade
+#### DEMANDAS POR PROJETO
+
+##### [Cliente / Projeto]
+
+- Ação — Motivo da prioridade — Responsável confirmado — Prazo confirmado — Dependência ou bloqueio — Próximo passo
+
+Repetir o subtítulo para cada projeto com demanda prioritária. Se não houver demanda de projeto confirmada, registrar `Nenhuma prioridade confirmada`.
+
+#### COMERCIAL DA SIMPLIFIQUE
+
+- Ação comercial — Motivo da prioridade — Responsável confirmado — Prazo confirmado — Dependência ou bloqueio — Próximo passo
+
+Se não houver prioridade comercial confirmada, registrar `Nenhuma prioridade confirmada`.
+
+Não misturar ações comerciais da Simplifique nos blocos dos projetos de clientes, mesmo quando houver relação contextual entre eles.
 
 Se o responsável não estiver confirmado no Notion ou no Vault, usar `não informado` ou `precisa de validação`. Nunca atribuir responsável por conveniência.
 

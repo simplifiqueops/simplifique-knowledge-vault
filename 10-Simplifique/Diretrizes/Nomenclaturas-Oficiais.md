@@ -22,6 +22,8 @@ Esta nota é a referência canônica para nomes próprios, marcas e ferramentas 
 | **Feegow** | Ferramenta de controle e cadastro de pacientes | Figou e outras variações fonéticas | Usar sempre **Feegow**. |
 | **Fathom** | Ferramenta usada para gravar e transcrever reuniões | — | Manter **Fathom**. |
 | **Ei Nerd** | Nome do cliente/projeto | Einerd, Eiinerd | Usar **Ei Nerd** em texto e metadados; caminhos legados podem permanecer como `Einerd`. |
+| **TubeClub** | Plataforma e oferta de ticket mais alto do projeto Ei Nerd | TubiClub, Thumb Club | Usar sempre **TubeClub**. |
+| **Dra. Cláudia** | Nome operacional confirmado do prospect de indicação em diagnóstico | Dra Cláudia | Usar **Dra. Cláudia** até que o nome oficial da clínica seja informado; não classificar como cliente sem fechamento explícito. |
 
 ## Regra de uso
 

@@ -24,6 +24,10 @@ Cliente da Simplifique em estado estável, com finalização do serviço em **9 
 
 ### Reuniões recentes
 
+- [[03-Reunioes/2026/09/2026-09-21--desempenho-crm-campanhas-pipeline-clinica-sanabria|21/09/2026 — Desempenho do CRM, campanhas e pipeline]]
+- [[03-Reunioes/2026/09/2026-09-10--configuracao-2fa-facebook-clinica-sanabria|10/09/2026 — Configuração do 2FA do Facebook]]
+- [[03-Reunioes/2026/09/2026-09-09--alinhamento-ia-csv-sanabria-mini-franquia-backstage|09/09/2026 — Alinhamento de IA do CSV, Clínica Sanabria e mini franquia Backstage]]
+- [[03-Reunioes/2026/09/2026-09-05--conexao-api-oficial-whatsapp-clinica-sanabria|05/09/2026 — Conexão da API oficial do WhatsApp]]
 - [[03-Reunioes/2026/09/2026-09-03--alinhamento-marketing-nova-agencia-clinica-sanabria|03/09/2026 — Alinhamento de marketing com nova agência]]
 - [[03-Reunioes/2026/09/2026-09-01--treinamento-crm-alta-escala-clinica-sanabria|01/09/2026 — Treinamento do CRM da Alta Escala]]
 - [[03-Reunioes/2026/08/2026-08-31--weekly-sanabria|31/08/2026 — Weekly Sanabria]]

@@ -5,15 +5,15 @@ status: active
 fase_operacional: estável
 ciclo_servico: "último mês"
 data_finalizacao: 2026-10-09
-demandas_no_edc: 9
-decisoes_pendentes: 2
-edc_atualizado_em: 2026-09-01
+demandas_no_edc: 2
+decisoes_pendentes: 1
+edc_atualizado_em: 2026-09-23
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Clínica Sanabria
 
 > [!simp] Agora
-> **Estável · finalização em 09/10/2026:** CRM da Alta Escala inicia em 03/09; funil de Beatriz e transferências de dados da Kommo e do ICMED são os próximos movimentos. **9 demandas** e **2 decisões pendentes** no EDC.
+> **Saída · finalização em 09/10/2026:** nutrir a base de inteligência e preparar com Carolina o fechamento das arestas, sem ampliar a atuação operacional de Pablo. **2 demandas** e **1 decisão pendente** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Clinica-Sanabria/Clinica-Sanabria|Índice]] · [[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -24,13 +24,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 9
+## Demandas visíveis — 2
 ![[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 2
+## Decisões pendentes — 1
 ![[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: estado estável, com prioridade em Operação / Processos, Dados e Gestão / Documentação.
-- Lacunas principais: preservar dados e conhecimento na transição das equipes, definir os prazos das extrações da Kommo e do ICMED e consolidar evidências de resultado, indicadores validados e o escopo do pacote final de dados.
+- Sinal atual: saída e preservação de legado, com baixa energia operacional de Pablo.
+- Lacuna principal: enumerar com Carolina as arestas que precisam de fechamento antes de 09/10/2026.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

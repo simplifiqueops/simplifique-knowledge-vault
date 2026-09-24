@@ -23,3 +23,7 @@ Thumbs.db
 *.env
 secrets/
 credentials/
+
+# Temporários do Hermes
+.hermes-tmp.*
+**/.hermes-tmp.*

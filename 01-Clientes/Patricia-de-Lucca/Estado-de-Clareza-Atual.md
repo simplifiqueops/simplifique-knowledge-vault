@@ -1,90 +1,79 @@
 ---
 type: estado-de-clareza-canonico
-status: needs-validation
+status: active
 cliente: "Patrícia de Lucca"
-projeto: "Estratégia de comunicação e implantação operacional"
-atualizado_em: 2026-09-02
-cutoff_estado: 2026-09-02
-fonte_mais_recente: "Atualização direta de gestão — 02/09/2026"
-confianca: "alta para a existência do desenho estratégico; implantação, escopo final e validação com Patrícia ainda não confirmados"
+projeto: "Solução comercial em duas camadas"
+atualizado_em: 2026-09-23T11:37:50-03:00
+fonte_atualizacao: "Atualização direta de gestão — 2026-09-23"
+confianca: "alta para as duas camadas que Pablo precisa preparar; encaixe entre funis, aceite de Patrícia e modelo de coprodução ainda não decididos"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Patrícia de Lucca
 
-> [!warning] Estratégia em desenho — validação necessária
-> Em **02/09/2026**, Pablo registrou uma nova frente de comunicação e aquisição baseada em áudio. A frente está em desenho; implantação, aceite de Patrícia, escopo final e resultado ainda não foram confirmados.
-
-## Estado atual
-- Estado conhecido: Pablo identificou um ajuste de comunicação e está desenhando uma estratégia de uso de áudios para conexão, incluindo um audiocast no Spotify para aquisição de leads.
-- A primeira solução técnica considerada é um editor automatizado via n8n; fluxo, insumos, publicação e critérios de pronto ainda precisam ser definidos.
-- Situação da implantação em 02/09/2026: **em desenho, sem execução confirmada**.
-- Não existe evidência de que a reunião prevista, a escolha de um produto-piloto ou a implantação do fluxo tenham ocorrido.
+## Delta da última atualização
+- Pablo precisa chegar a Patrícia com uma solução pré-pronta em duas camadas: **funil de sessão estratégica** e **audiocast**.
+- A pesquisa de benchmark já foi concluída.
+- O funil de sessão estratégica ainda precisa ser encaixado nos demais funis de Patrícia.
+- O audiocast precisa sair do desenho abstrato para um MVP capaz de começar a gerar receita ou ampliar a receita de Patrícia.
+- A evolução para coprodução é uma possibilidade condicionada a resultado, não uma decisão tomada.
+- O estado anterior foi preservado em [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao]].
 
 ## 1. Objetivo atual
-Desenhar e validar com Patrícia um processo de comunicação em áudio de baixo esforço que fortaleça conexão e possa gerar aquisição de leads por meio de um audiocast no Spotify.
+Apresentar uma solução executável em duas camadas que permita começar a monetizar e produzir evidência antes de discutir expansão ou coprodução.
 
 ## 2. Resultado esperado
-- Estado do projeto, escopo e continuidade confirmados com Patrícia.
-- Uma oferta prioritária definida, somente se aprovada.
-- Responsáveis, fluxo mínimo e indicadores objetivos definidos antes da implantação.
+- Funil de sessão estratégica desenhado e conectado aos demais funis.
+- MVP do audiocast com oferta, CTA, fluxo e mecanismo de captura definidos.
+- Primeiro movimento de geração ou ampliação de receita colocado em operação.
 
 ## 3. Prioridades
-1. P1 — Revalidar contexto, interesse, escopo e situação das entregas.
-2. P1 — Separar decisões confirmadas de recomendações do diagnóstico de 21/08/2026.
-3. P2 — Se houver continuidade, escolher e testar um único fluxo antes de ampliar para o portfólio.
+1. Desenhar o funil de sessão estratégica e seu encaixe no ecossistema atual.
+2. Estruturar um MVP executável do audiocast.
+3. Definir a primeira hipótese de monetização e colocá-la em teste.
 
 ## 4. Frentes ativas
-- Desenho do ajuste de comunicação e da estratégia de uso de áudios para conexão.
-- Desenho de um audiocast no Spotify como hipótese de aquisição de leads.
-- Avaliação de um editor automatizado via n8n como primeira etapa técnica; implementação não confirmada.
+- Camada 1 — Funil de sessão estratégica.
+- Camada 2 — Audiocast e fluxo de monetização.
+- Benchmark concluído como insumo, não como entrega final.
 
 ## 5. Responsáveis
-- Pablo: desenho inicial do processo e da automação via n8n.
-- Patrícia e terceiros: responsabilidades e validações ainda não confirmadas.
+- Pablo: preparar a solução pré-pronta nas duas camadas e apresentá-la.
+- Patrícia: validar a solução, os encaixes e a disposição para execução; prazo não definido.
 
-## 6. Decisões
-### Vigentes
-- Desenhar a frente de áudio e avaliar o editor automatizado via n8n como ponto de partida. Isso ainda não comprova aprovação ou implantação do audiocast.
+## 6. Decisões vigentes
+- A próxima apresentação deve trazer solução concreta nas duas camadas, e não apenas pesquisa ou possibilidades.
+- Coprodução não está aprovada; depende de validação e capacidade de gerar resultado.
 
-### Históricas
-- Em 22/08/2026, foi registrado o alinhamento do trabalho para a segunda-feira seguinte; não há comprovação de execução.
-
-## 7. Pendências
-- Confirmar se o projeto continua ativo e qual é o escopo vigente.
-- Confirmar se houve reunião entre 24 e 28/08/2026 e recuperar suas decisões, caso tenha ocorrido.
-- Validar preços, formatos, capacidade e prioridade do portfólio antes de qualquer publicação ou campanha.
-- Definir responsáveis por comunicação, atendimento, cobrança, agenda, follow-up e pós-venda, caso um novo ciclo seja aprovado.
+## 7. Gargalos
+- O encaixe do funil de sessão estratégica nos demais funis ainda não está mapeado.
+- O audiocast ainda não possui oferta, CTA e rotina mínima validados.
 
 ## 8. Bloqueios
-- Ausência de fonte posterior a 22/08/2026 para comprovar o estado atual.
-- Ausência de responsáveis confirmados para redes sociais e conversas com leads no último estado conhecido.
-- Dependência operacional concentrada em Patrícia, descrita no diagnóstico de 21/08/2026, ainda sem revalidação.
+- Nenhum bloqueio externo confirmado para Pablo preparar a solução.
 
 ## 9. Indicadores
-- Nenhum indicador objetivo vigente foi encontrado.
-- Indicadores sugeridos no diagnóstico — leads, tempo de resposta, pagamentos, conversão, comparecimento, continuidade e horas operacionais de Patrícia — são **propostas**, não métricas implantadas.
+- Pesquisa de benchmark: concluída.
+- Funil de sessão estratégica: não desenhado.
+- MVP do audiocast: não colocado em operação.
+- Receita gerada: não informada.
 
 ## 10. O que está pausado
-- Produção da linha de comunicação e implantação dos próximos passos estavam pausadas em 22/08/2026; situação atual não confirmada.
+- Expansão para coprodução antes de validar uma solução que produza resultado.
 
-## 11. Histórico e estados superados
-- O prazo de agendar uma reunião na semana de 24 a 28/08/2026 expirou e não deve aparecer como prazo atual.
-- Culpa e vergonha registradas em 22/08/2026 são contexto qualitativo histórico, não indicador operacional atual.
-- A recomendação de encerrar o diagnóstico e iniciar implantação, datada de 21/08/2026, não equivale a decisão aprovada.
+## 11. O que já não vale mais
+- Tratar a opinião de Patrícia sobre áudios isolados como único próximo passo.
+- Permanecer apenas em pesquisa e desenho técnico sem proposta de monetização.
 
 ## 12. Próximo passo
-- Concluir o desenho mínimo do processo de áudio e do editor automatizado via n8n, explicitando entrada, edição, aprovação, publicação no Spotify e captura de leads — Responsável: Pablo — Prazo: não definido — Critério de conclusão: fluxo mínimo documentado para validação.
+- Preparar uma solução pré-pronta do funil de sessão estratégica e mapear como ele se conecta aos demais funis de Patrícia — Responsável: Pablo — Prazo: não definido — Critério de conclusão: fluxo, oferta, entrada, conversão e conexões documentados.
+- Preparar o MVP do audiocast com oferta, CTA, captura de leads, aprovação e publicação — Responsável: Pablo — Prazo: não definido — Critério de conclusão: solução apresentável e pronta para iniciar teste de monetização.
 
 ## 13. Próxima decisão
-- Validar com Patrícia se a estratégia de áudio e o audiocast serão implantados.
-- Definir formato, frequência, chamada para ação, mecanismo de captura de leads e critério de sucesso antes da publicação.
+- Patrícia validar qual camada entra primeiro em operação e como elas se conectam.
+- Decidir eventual coprodução somente depois de evidência inicial de resultado.
 
-## Hipóteses e recomendações não aprovadas
-- Usar uma mesa coletiva ou constelação coletiva como produto-piloto foi uma recomendação do diagnóstico de 21/08/2026; não há aprovação registrada.
-- CRM, agenda, automação de WhatsApp, tráfego e dashboard são possibilidades posteriores, condicionadas à validação do fluxo e do escopo.
-
-## Fontes
-- Atualização direta de gestão — 02/09/2026.
-- [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/EDC-13-PDL-2026-08-22|Estado de Clareza — 22/08/2026]] — fonte mais recente disponível.
-- [[01-Clientes/Patricia-de-Lucca/Diagnostico-e-Proximos-Passos|Diagnóstico consolidado e próximos passos — 21/08/2026]] — contexto e recomendações, não prova de execução.
+## Fontes vigentes
+- Atualização direta de gestão — 23/09/2026.
+- Atualização direta de gestão — 18/09/2026: pesquisa de benchmark concluída.
+- [[01-Clientes/Patricia-de-Lucca/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao|Estado anterior preservado]].

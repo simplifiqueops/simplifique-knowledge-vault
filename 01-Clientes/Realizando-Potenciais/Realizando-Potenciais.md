@@ -19,6 +19,12 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/09/2026-09-21--semanal-time-rp|21/09/2026 — Reunião Time RP | Semanal]]
+- [[03-Reunioes/2026/09/2026-09-17--reuniao-redes-sociais-rp|17/09/2026 — Reunião Redes Sociais | RP]]
+- [[03-Reunioes/2026/09/2026-09-14--semanal-time-rp|14/09/2026 — Reunião Time RP | Semanal]]
+- [[03-Reunioes/2026/09/2026-09-10--onboarding-naya-realizando-potenciais|10/09/2026 — Onboarding da Naya — Realizando Potenciais]]
+- [[03-Reunioes/2026/09/2026-09-09--atualizacao-auditoria-configuracao-naya-rp|09/09/2026 — Atualização da auditoria e configuração da Naya]]
+- [[03-Reunioes/2026/09/2026-09-09--alinhamento-ia-csv-sanabria-mini-franquia-backstage|09/09/2026 — Alinhamento de IA do CSV, Clínica Sanabria e mini franquia Backstage]]
 - [[03-Reunioes/2026/08/2026-08-31--semanal-time-rp|31/08/2026 — Reunião Time RP | Semanal]]
 - [[03-Reunioes/2026/08/2026-08-31--integracao-leticia-social-media-rp|31/08/2026 — Integração de Letícia à operação de social media]]
 - [[03-Reunioes/2026/08/2026-08-31--reuniao-comercial-rp|31/08/2026 — Reunião Comercial]]

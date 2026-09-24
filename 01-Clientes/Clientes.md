@@ -2,7 +2,7 @@
 
 Mapa das organizações que fazem ou fizeram parte da carteira de clientes da Simplifique.
 
-> Possibilidades ainda sem contratação ficam na área separada [[01-Clientes/Diagnosticos-de-Clientes|Cliente de Diagnóstico]].
+> Pessoas e organizações ainda sem contratação ficam na área separada [[01-Clientes/Diagnosticos-de-Clientes|Diagnósticos]].
 
 ## Ativos
 

@@ -19,6 +19,8 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/09/2026-09-24--treinamento-concluido-ajustes-energia-infinita|24/09/2026 — Treinamento concluído e ajustes do Energia Infinita]]
+- [[03-Reunioes/2026/09/2026-09-24--treinamento-edicao-site-energia-infinita|24/09/2026 — Treinamento de edição do site do Energia Infinita]]
 - [[03-Reunioes/2026/09/2026-09-21--semanal-time-rp|21/09/2026 — Reunião Time RP | Semanal]]
 - [[03-Reunioes/2026/09/2026-09-17--reuniao-redes-sociais-rp|17/09/2026 — Reunião Redes Sociais | RP]]
 - [[03-Reunioes/2026/09/2026-09-14--semanal-time-rp|14/09/2026 — Reunião Time RP | Semanal]]

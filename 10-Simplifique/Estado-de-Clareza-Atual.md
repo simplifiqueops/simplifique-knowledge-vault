@@ -2,8 +2,8 @@
 type: estado-de-clareza-canonico
 status: active
 projeto: "Simplifique — estratégia e infraestrutura interna"
-atualizado_em: 2026-09-23T11:37:50-03:00
-fonte_atualizacao: "Atualização direta de gestão — 2026-09-23"
+atualizado_em: 2026-09-24T19:36:56-03:00
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-24"
 confianca: "alta para a ausência de início da prospecção e para a percepção explícita de procrastinação"
 canonical: true
 ---
@@ -15,6 +15,8 @@ canonical: true
 - A afirmação anterior de que a prospecção havia sido retomada foi invalidada pela atualização mais recente.
 - Pablo identifica procrastinação e fuga da frente comercial como causa operacional atual.
 - Diagnóstica MS e Dra. Cláudia continuam prospects e permanecem no Comercial da Simplifique, não na carteira de projetos contratados.
+- O Notion mantém como não iniciados a definição da oferta a prospectar e o primeiro bloco de prospecção; o Simplifique Ops permanece em programação contínua.
+- A reunião de acompanhamento com o lead de CRM foi cancelada no Notion; esse cancelamento não comprova encerramento da oportunidade nem decisão comercial adicional.
 - O estado anterior foi preservado em [[10-Simplifique/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao]].
 
 ## 1. Objetivo atual
@@ -26,13 +28,14 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Simplifique Ops usado como apoio operacional, sem substituir atividade comercial.
 
 ## 3. Prioridades
-1. Iniciar de fato a prospecção.
-2. Revisar e apresentar a proposta da Diagnóstica MS.
-3. Acompanhar, por Lucas Cacalli, o contrato da Dra. Cláudia.
-4. Manter o Simplifique Ops como suporte, não como fuga da venda.
+1. Definir a oferta que será prospectada.
+2. Executar o primeiro bloco de prospecção.
+3. Revisar e apresentar a proposta da Diagnóstica MS.
+4. Acompanhar, por Lucas Cacalli, o contrato da Dra. Cláudia.
+5. Manter o Simplifique Ops como suporte, não como fuga da venda.
 
 ## 4. Frentes ativas
-- Prospecção: não iniciada.
+- Prospecção: oferta e primeiro bloco não iniciados no Notion.
 - Diagnóstica MS: proposta no Canva aguardando revisão estética e reunião.
 - Dra. Cláudia: contrato enviado, aguardando assinatura sob acompanhamento de Lucas Cacalli.
 - Simplifique Ops: uso e evolução internos.
@@ -64,6 +67,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Tratar a prospecção de 10 a 15 contatos como rotina já retomada ou em “Programação Contínua”: Pablo confirmou que ainda não começou.
 
 ## 12. Próximo passo
+- Definir a oferta que será prospectada — Responsável: Pablo — Prazo: não definido — Status no Notion: Não iniciado.
 - Executar o primeiro bloco de prospecção e registrar contatos, respostas e próximos follow-ups — Responsável: Pablo — Prazo: não definido — Critério de conclusão: primeira rodada executada e registrada.
 - Revisar a estética e finalizar a proposta da Diagnóstica MS — Responsável: Pablo — Prazo: não definido — Sincronização externa: não.
 
@@ -71,5 +75,6 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Definir uma cadência comercial mínima que Pablo consiga cumprir de forma sustentável após o primeiro bloco executado.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 24/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.
 - Atualização direta de gestão — 23/09/2026.
 - [[10-Simplifique/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao|Estado anterior preservado]].

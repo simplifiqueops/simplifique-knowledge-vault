@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A prioridade imediata é finalizar as páginas Vice e YouTube Dark até sexta-feira, liberar BTC V2/V5 com Márcio e destravar a revisão da VSL da PlaySquad. Novos tutoriais passam a usar interfaces em inglês; remessas e treinamentos novos têm precedência sobre a tradução dos bônus programados.
+> A prioridade imediata de Audiovisual é validar a primeira versão da plataforma demonstrada por Marcel, criar o acesso de Pablo, completar os dados dos produtos e conferir a sincronização com o Monday, sem perder o prazo vigente do bot Ella em 25/09/2026.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|24/09/2026 — Demonstração da plataforma de audiovisual e produtos]].
 - [[03-Reunioes/2026/09/2026-09-23--prioridades-paginas-internacionalizacao-einerd|23/09/2026 — Prioridades de páginas e internacionalização]].
 - [[03-Reunioes/2026/09/2026-09-21--performance-onboarding-w6-expansao-internacional-einerd|21/09/2026 — Performance, onboarding W6 e expansão internacional]].
 - [[03-Reunioes/2026/09/2026-09-18--performance-campanhas-painel-producao-einerd|18/09/2026 — Performance, expansão de campanhas e painel de produção]].

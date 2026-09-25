@@ -23,6 +23,9 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|24/09/2026 — Demonstração da plataforma de audiovisual e produtos — Ei Nerd]]
+- [[03-Reunioes/2026/09/2026-09-24--treinamento-concluido-ajustes-energia-infinita|24/09/2026 — Treinamento concluído e ajustes do Energia Infinita — Realizando Potenciais]]
+- [[03-Reunioes/2026/09/2026-09-24--treinamento-edicao-site-energia-infinita|24/09/2026 — Treinamento de edição do site do Energia Infinita — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-23--prioridades-paginas-internacionalizacao-einerd|23/09/2026 — Prioridades de páginas e internacionalização — Ei Nerd]]
 - [[03-Reunioes/2026/09/2026-09-21--semanal-time-rp|21/09/2026 — Reunião Time RP | Semanal — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-21--desempenho-crm-campanhas-pipeline-clinica-sanabria|21/09/2026 — Desempenho do CRM, campanhas e pipeline — Clínica Sanabria]]

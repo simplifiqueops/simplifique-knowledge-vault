@@ -6,9 +6,9 @@ projeto: "Encerramento e legado de inteligência"
 fase_operacional: "saída e fechamento"
 ciclo_servico: "último mês"
 data_finalizacao: 2026-10-09
-atualizado_em: 2026-09-24T19:34:39-03:00
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-24"
-confianca: "alta para o limite de participação de Pablo e para o fechamento previsto em 09/10/2026"
+atualizado_em: 2026-09-25T18:32:14-03:00
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-25"
+confianca: "alta para o limite de participação de Pablo e para a decisão de encerramento em 09/10/2026; a data operacional de 13/10/2026 às 11h registrada no Notion precisa de validação"
 canonical: true
 ---
 
@@ -19,6 +19,7 @@ canonical: true
 - Carolina conduz a operação atual; Pablo não está sendo solicitado e não pretende ampliar a atuação por estar de saída.
 - O projeto passa a operar com **baixa energia de Pablo**, sem novas frentes que não contribuam diretamente para legado ou encerramento.
 - O Notion confirmou como finalizada a demanda de nutrir a base de inteligência; permanece aberto o fechamento das arestas com Carolina até 09/10/2026.
+- O Notion mantém o fechamento das arestas como **Não iniciado**, mas a propriedade `Date` foi alterada para **13/10/2026 às 11h**, quatro dias depois da data de encerramento vigente. A alteração não substitui silenciosamente a decisão de saída em 09/10/2026; o conflito precisa ser reconciliado.
 - O estado anterior foi preservado em [[01-Clientes/Clinica-Sanabria/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao]].
 
 ## 1. Objetivo atual
@@ -46,12 +47,14 @@ Encerrar a participação da Simplifique em 09/10/2026 com conhecimento preserva
 
 ## 7. Gargalos
 - As arestas pendentes ainda não foram enumeradas em uma lista final.
+- A data operacional do fechamento diverge entre o EDC (09/10/2026) e o Notion (13/10/2026 às 11h).
 
 ## 8. Bloqueios
 - Pablo não está sendo solicitado na operação atual; isso não é bloqueio enquanto Carolina mantiver a condução.
 
 ## 9. Indicadores
 - Data de encerramento: 09/10/2026.
+- Fechamento das arestas no Notion: Não iniciado; `Date` em 13/10/2026 às 11h, pendente de validação por conflitar com o encerramento.
 - Critério de fechamento: legado registrado e pendências residuais alinhadas com Carolina.
 - Base de inteligência: demanda finalizada no Notion em 24/09/2026.
 
@@ -64,12 +67,13 @@ Encerrar a participação da Simplifique em 09/10/2026 com conhecimento preserva
 - Manter a nutrição da base de inteligência como próximo passo ativo: o Notion confirmou a finalização.
 
 ## 12. Próximo passo
-- Preparar com Carolina um fechamento das arestas pendentes — Responsáveis: Pablo e Carolina — Prazo: 09/10/2026 — Critério de conclusão: pendências, responsáveis e destino de cada item registrados.
+- Preparar com Carolina um fechamento das arestas pendentes — Responsáveis: Pablo e Carolina — Prazo em conflito: encerramento decidido para 09/10/2026; Notion registra 13/10/2026 às 11h — Status no Notion: Não iniciado — Critério de conclusão: pendências, responsáveis e destino de cada item registrados.
 
 ## 13. Próxima decisão
-- Definir com Carolina quais pendências residuais precisam de fechamento antes de 09/10/2026 e quais seguem com a equipe após a saída.
+- Reconciliar com Carolina se o fechamento ocorrerá antes do encerramento em 09/10/2026 ou se a data de 13/10/2026 às 11h no Notion representa uma exceção válida; então definir quais pendências seguem com a equipe após a saída.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 25/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; status `Não iniciado` e data 13/10/2026 às 11h verificados.
 - Fechamento diário Notion → EDC — 24/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.
 - Atualização direta de gestão — 23/09/2026.
 - [[01-Clientes/Clinica-Sanabria/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao|Estado anterior preservado]].

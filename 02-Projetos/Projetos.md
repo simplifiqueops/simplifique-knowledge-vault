@@ -2,7 +2,7 @@
 type: central-de-projetos
 status: active
 cssclasses: [simplifique-projetos]
-atualizado_em: 2026-09-24
+atualizado_em: 2026-09-25
 ---
 
 # Central de Projetos
@@ -25,7 +25,7 @@ atualizado_em: 2026-09-24
 <div class="project-stable-box">
 <div class="project-stable-copy"><strong>Operação estabilizada</strong><span>Projetos em acompanhamento, documentação ou transição, sem prioridade de construção ou expansão.</span></div>
 <div class="project-grid project-grid-stable">
-<a class="internal-link project-card is-stable" data-href="02-Projetos/Clinica-Sanabria/Central-do-Projeto" href="02-Projetos/Clinica-Sanabria/Central-do-Projeto"><span class="project-eyebrow">Cliente · Saída</span><span class="project-title">Clínica Sanabria</span><span class="project-status">Fechamento · 09/10/2026</span><span class="project-focus">Base de inteligência finalizada; preparar com Carolina o fechamento das arestas.</span><span class="project-metrics"><span class="project-metric"><strong>1</strong><span>demanda no EDC</span></span><span class="project-metric"><strong>1</strong><span>decisão pendente</span></span></span><span class="project-updated">EDC atualizado em 24/09/2026</span></a>
+<a class="internal-link project-card is-stable" data-href="02-Projetos/Clinica-Sanabria/Central-do-Projeto" href="02-Projetos/Clinica-Sanabria/Central-do-Projeto"><span class="project-eyebrow">Cliente · Saída</span><span class="project-title">Clínica Sanabria</span><span class="project-status">Fechamento · data em conflito</span><span class="project-focus">Encerramento decidido para 09/10; Notion agenda o fechamento das arestas para 13/10 às 11h. Reconciliar com Carolina.</span><span class="project-metrics"><span class="project-metric"><strong>1</strong><span>demanda no EDC</span></span><span class="project-metric"><strong>1</strong><span>decisão pendente</span></span></span><span class="project-updated">EDC atualizado em 25/09/2026</span></a>
 </div>
 </div>
 

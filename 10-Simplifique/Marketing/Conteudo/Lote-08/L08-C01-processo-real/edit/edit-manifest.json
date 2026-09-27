@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C01-processo-real",
+  "status": "draft_for_review",
+  "generated_at": "2026-09-26T16:49:47-03:00",
+  "target": {
+    "platform": "Instagram Reel",
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "duration_seconds": 27,
+    "frame_rate": 25
+  },
+  "sources": [
+    {
+      "path": "assets/pexels-33194181.mp4",
+      "sha256": "918fed44696219de164098266ee88b3406caf898f377e1b021a515af935b96df",
+      "provider": "Pexels",
+      "asset_id": "33194181",
+      "approved_candidate": "FT-C01-01",
+      "representation": "Illustrative stock footage; not a Simplifique client, team, operation or result."
+    },
+    {
+      "path": "assets/narracao-preview.mp3",
+      "sha256": "295e79a761af308f46e7eeb225e02af4b5d2d86be3e371c2b40c403733f2e01d",
+      "role": "preview narration",
+      "original_duration_seconds": 31.488,
+      "transform": "atempo=1.18; resample=48000 Hz; pad/trim to 27 s"
+    }
+  ],
+  "music": "no_music",
+  "clips": [
+    {"beat": "B01", "source": "assets/pexels-33194181.mp4", "source_in": 0, "source_out": 3, "timeline_in": 0, "timeline_out": 3, "transform": "scale-to-fill 9:16; center crop"},
+    {"beat": "B02", "source": "assets/pexels-33194181.mp4", "source_in": 3, "source_out": 8, "timeline_in": 3, "timeline_out": 8, "transform": "scale-to-fill 9:16; center crop"},
+    {"beat": "B03", "source": "assets/pexels-33194181.mp4", "source_in": 6, "source_out": 12, "timeline_in": 8, "timeline_out": 14, "transform": "scale-to-fill 9:16; center crop"},
+    {"beat": "B04", "source": "assets/pexels-33194181.mp4", "source_in": 0, "source_out": 6, "timeline_in": 14, "timeline_out": 20, "transform": "scale-to-fill 9:16; center crop; horizontal flip"},
+    {"beat": "B05", "source": "assets/pexels-33194181.mp4", "source_in": 7.2, "source_out": 12.2, "timeline_in": 20, "timeline_out": 25, "transform": "scale-to-fill 9:16; center crop"},
+    {"beat": "B06", "source": "native typography", "timeline_in": 25, "timeline_out": 27, "transform": "solid #111111 background"}
+  ],
+  "text": {
+    "font": "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf",
+    "files": ["edit/beat-01.txt", "edit/beat-02.txt", "edit/beat-03.txt", "edit/beat-04.txt", "edit/beat-05.txt", "edit/beat-06.txt"],
+    "dominant_color": "#FFFFFF",
+    "accent_color": "#F36C21",
+    "safe_area": "central column; text kept away from top and bottom platform UI zones"
+  },
+  "subtitles": "subtitles/L08-C01-preview.srt",
+  "render_command_record": "edit/command-master.json",
+  "outputs": [
+    {"path": "output/L08-C01-preview.mp4", "role": "low-resolution technical preview", "sha256": "cdbb027853b76e0825bbf982147f8cf236d3cfb4bde198bed1de46cae49ff5ee"},
+    {"path": "output/L08-C01-master.mp4", "role": "review master, unpublished", "sha256": "1b413af138d25870e48cedfe651c1499c0b3b86886676dcdc8eb6fa7d2879f87"}
+  ],
+  "known_limitations": [
+    "Only one footage candidate was approved, so the same source appears in several temporal windows and one mirrored segment.",
+    "Narration was validated technically but not transcribed from the rendered audio by an independent speech-recognition pass.",
+    "This review master is not approved for export, scheduling or publication."
+  ]
+}

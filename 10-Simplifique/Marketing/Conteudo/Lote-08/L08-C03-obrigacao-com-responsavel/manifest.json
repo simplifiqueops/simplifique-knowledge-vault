@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C03-obrigacao-com-responsavel",
+  "title": "Obrigação sem responsável vira urgência na cabeça do dono",
+  "format": "carousel",
+  "status": "draft_ready",
+  "created_at": "2026-09-26T21:00:31-03:00",
+  "completed_at": "2026-09-26T21:48:07-03:00",
+  "timezone": "America/Sao_Paulo",
+  "strategy": {
+    "pain": "Obrigação crítica sem responsável e fluxo interno concentra memória, cobrança e decisão no dono.",
+    "awareness_current": "problem_aware",
+    "awareness_desired": "solution_aware",
+    "objective": "Ensinar o fluxo aviso, análise, decisão, registro e confirmação sem aconselhamento tributário.",
+    "associated_research": "Quanto sua empresa depende de você?",
+    "cta_type": "diagnostic_self_assessment",
+    "cta_destination": null
+  },
+  "source_topic": {
+    "key": "radar-34460de6854e1073",
+    "snapshot": "/home/simplifique/.hermes/state/simplifique-market-radar/latest.json",
+    "snapshot_generated_at": "2026-09-26T02:40:08-03:00",
+    "confidence": "high"
+  },
+  "canonical_sources_refreshed_at": "2026-09-26T21:04:48-03:00",
+  "source_snapshots": [
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/notion-marketing.json",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/notion-benchmark.json",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/notion-products.json",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/notion-formats.json",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/notion-awareness.json",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/receita-simples-setembro-2026.md",
+    "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/sources/citation-ledger.json"
+  ],
+  "deliverables": [
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/01-Estrategia.md",
+      "sha256": "5348b18689c00bb945ffa319bfee83fe869c7d9ece4eba14c1855312c4cb4648"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/02-Copy-ou-Roteiro.md",
+      "sha256": "5b0b3a9426d23c319094b1c9cc54203e915473e0fe3c183d80c488f5124921d9"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/03-Direcao-Visual-ou-Audiovisual.md",
+      "sha256": "323a2c5c5e1e105ce617a5d2edf9c3e4ca3a3a925abd64ad8e44625b28b3cbdb"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/04-QA.md",
+      "sha256": "cb68f03a4cf323c4bcb42179bdf6e5b80174326d1d3025aa887c480b873a72c5"
+    }
+  ],
+  "carousel": {
+    "slide_count": 8,
+    "dimensions": "1080x1350",
+    "native_editable_required": true,
+    "image_direction": "no_image_recommended"
+  },
+  "render": {
+    "figma_created": true,
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "242:14",
+    "section_name": "[PRODUÇÃO 03] Carrossel — Obrigação com responsável",
+    "frame_ids": [
+      "242:15",
+      "242:16",
+      "242:17",
+      "242:18",
+      "242:19",
+      "242:20",
+      "242:21",
+      "242:22"
+    ],
+    "node_ids": [
+      "242:14",
+      "242:15",
+      "242:16",
+      "242:17",
+      "242:18",
+      "242:19",
+      "242:20",
+      "242:21",
+      "242:22"
+    ],
+    "logo_instance_id": "242:143",
+    "logo_main_component_id": "43:68",
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=242-14",
+    "verified_at": "2026-09-26T21:48:07-03:00",
+    "frame_count": 8,
+    "dimensions": "1080x1350",
+    "native_editable": true,
+    "exported": false
+  },
+  "qa": {
+    "decision": "approved",
+    "approved_for": "user_review",
+    "blocking_issues": [],
+    "citation_verification": "passed_with_evidence",
+    "post_render_verified_at": "2026-09-26T21:48:07-03:00",
+    "frames_inspected_individually": [
+      "242:15",
+      "242:16",
+      "242:17",
+      "242:18",
+      "242:19",
+      "242:20",
+      "242:21",
+      "242:22"
+    ],
+    "text_reflow_verified": true,
+    "auto_layout_verified": true,
+    "duplicate_sections": false,
+    "unverified_access_instructions": false
+  },
+  "publication": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  },
+  "notes": [
+    "No tax regime or IBS/CBS collection method was recommended.",
+    "The Receita Federal communication is used as an attributed operational example; MEI exclusion is explicit.",
+    "No URL, QR code or link-in-bio destination was invented.",
+    "All eight frames were inspected individually at 1080x1350 after text reflow correction.",
+    "Slide 04 received targeted Auto Layout and fill corrections and a final post-fix screenshot.",
+    "A post-fix panoramic Section screenshot was unavailable due to the Figma MCP call limit; frame-level QA and structural read-back passed."
+  ],
+  "updated_at": "2026-09-26T21:48:07-03:00"
+}

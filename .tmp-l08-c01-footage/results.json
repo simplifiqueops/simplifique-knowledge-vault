@@ -1,0 +1,41 @@
+{
+  "queries": [
+    "documenting workflow checklist",
+    "business process planning team",
+    "office decision notes"
+  ],
+  "pexels": [],
+  "pixabay": [],
+  "errors": [
+    {
+      "source": "pexels",
+      "query": "documenting workflow checklist",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "pixabay",
+      "query": "documenting workflow checklist",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "pexels",
+      "query": "business process planning team",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "pixabay",
+      "query": "business process planning team",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "pexels",
+      "query": "office decision notes",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "pixabay",
+      "query": "office decision notes",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

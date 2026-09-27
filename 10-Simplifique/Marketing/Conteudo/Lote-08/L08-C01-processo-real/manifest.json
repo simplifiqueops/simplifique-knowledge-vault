@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C01-processo-real",
+  "batch_key": "simplifique-lote-08-2026-09",
+  "generated_at": "2026-09-26T12:35:08-03:00",
+  "completed_at": "2026-09-26T16:49:47-03:00",
+  "timezone": "America/Sao_Paulo",
+  "status": "draft_ready",
+  "format": "microvideo",
+  "channel": "Instagram Reel",
+  "dimensions": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16"
+  },
+  "duration_seconds": 27,
+  "source_topic_key": "radar-cf162693dccd6c01",
+  "source_snapshot": {
+    "path": "/home/simplifique/.hermes/state/simplifique-market-radar/latest.json",
+    "generated_at": "2026-09-26T02:40:08-03:00"
+  },
+  "canonical_sources_refreshed_at": "2026-09-26T12:35:08-03:00",
+  "notion_pages": [
+    "Marketing | Diretriz Simplifique",
+    "Benchmark | Negócios Locais, Processos e Automação",
+    "Produtos Simplifique Ops",
+    "Biblioteca de Formatos de Conteúdo",
+    "Diretriz Editorial | Níveis de Consciência"
+  ],
+  "epistemic_separation": {
+    "facts": true,
+    "interpretations": true,
+    "editorial_hypotheses": true
+  },
+  "qa": {
+    "decision": "approved_with_notes",
+    "approved_for": "user_review",
+    "blocking_issues": [],
+    "citations_verified": true,
+    "rendered_video_reviewed": true,
+    "reviewed_file_sha256": "1b413af138d25870e48cedfe651c1499c0b3b86886676dcdc8eb6fa7d2879f87",
+    "technical_probe": {
+      "video": "H.264, 1080x1920, 25 fps, yuv420p",
+      "audio": "AAC mono, 48000 Hz",
+      "duration_seconds": 27,
+      "bytes": 9619508,
+      "decode_complete": true,
+      "peak_dbfs": -3.73,
+      "rms_dbfs": -21.94
+    }
+  },
+  "footage": {
+    "candidate_count": 3,
+    "approval_required": false,
+    "approved_candidate": "FT-C01-01",
+    "approved_at": "2026-09-26T12:46:37-03:00",
+    "downloaded_count": 1,
+    "provider": "Pexels",
+    "asset_id": "33194181",
+    "source_metadata": "source-metadata/pexels-33194181.json"
+  },
+  "audio_direction": {
+    "music": "none",
+    "narration": true,
+    "effects": "not_added",
+    "approved_at": "2026-09-26T12:46:37-03:00"
+  },
+  "editing": {
+    "status": "draft_for_review",
+    "manifest": "edit/edit-manifest.json",
+    "subtitle_file": "subtitles/L08-C01-preview.srt",
+    "preview": "output/L08-C01-preview.mp4",
+    "review_master": "output/L08-C01-master.mp4",
+    "contact_sheet": "output/L08-C01-master-contact-sheet.jpg"
+  },
+  "figma": {
+    "applicable": false,
+    "rendered": false,
+    "node_ids": []
+  },
+  "publication": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  },
+  "artifacts": [
+    {"path": "01-Estrategia.md", "sha256": "0f9182a9d79e154ac43ac8d48df35e89ce00c8825c1f436c4085faf11f540de7", "bytes": 5331},
+    {"path": "02-Copy-ou-Roteiro.md", "sha256": "e08714715f1a5b1ef8156226159f9bfb048537db7a4838551c340b2ee312626a", "bytes": 6327},
+    {"path": "03-Direcao-Visual-ou-Audiovisual.md", "sha256": "9adcc619f77cdd5fb80003f27d0f5a034263fca5eff48d7215ee2d64919b0695", "bytes": 7372},
+    {"path": "04-QA.md", "sha256": "93ca800fe5159dee078d140925f2f53fdda82d3c5a62baf7f5b17ce8231d5926", "bytes": 7915},
+    {"path": "05-Aprovacao-Footage.md", "sha256": "90dcd27a612c016830f5c099e33908c8b0e21336bea22cf84b19ddcc645905f8", "bytes": 561},
+    {"path": "citations-ledger.json", "sha256": "09226819b3b99691d2d92c2d35cb8e9db4c3b2d74e353aa31eae1ecbf13910b0", "bytes": 2020},
+    {"path": "source-metadata/pexels-33194181.json", "sha256": "654fd33f0dcec8f8ce3ab2af16289c51315837f244ee9ba56ba89dcd1295667e", "bytes": 1141},
+    {"path": "edit/edit-manifest.json", "sha256": "b1df03c47e6effd828e0aca920db187f15e7453c3f00b614535a5c76ac8640f6", "bytes": 3257},
+    {"path": "subtitles/L08-C01-preview.srt", "sha256": "526636f2e033e9a9dedc5ff3bfd5be16c1a1cb5467985a025eb5ed93cb674ae3", "bytes": 548},
+    {"path": "output/L08-C01-preview.mp4", "sha256": "cdbb027853b76e0825bbf982147f8cf236d3cfb4bde198bed1de46cae49ff5ee", "bytes": 645515},
+    {"path": "output/L08-C01-master.mp4", "sha256": "1b413af138d25870e48cedfe651c1499c0b3b86886676dcdc8eb6fa7d2879f87", "bytes": 9619508},
+    {"path": "output/L08-C01-master-contact-sheet.jpg", "sha256": "8ce1f8e3f6b3ea2267a0dff947ebb08dfb7b01330ad191adae63a3b2dc4cc198", "bytes": 53738},
+    {"path": "output/L08-C01-master-validation.json", "sha256": "3e2150c72419510e9ab74226b2ba91a8a8961f75a8303a401df51171c2aa1a17", "bytes": 464},
+    {"path": "output/checksums.sha256", "sha256": "c2b3f40fccb16058d9ac45abd89387da06ef09cde287faefafaf1e83451a3d61", "bytes": 372}
+  ],
+  "non_blocking_notes": [
+    "The single approved footage source is reused across five beats; a second approved shot would improve visual progression before publication.",
+    "Narration was technically checked but not independently transcribed from the rendered file in this run.",
+    "The artifact remains unpublished and requires human review."
+  ]
+}

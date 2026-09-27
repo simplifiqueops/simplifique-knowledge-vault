@@ -1,0 +1,29 @@
+{
+  "provider": "Pexels",
+  "asset_id": "33194181",
+  "creator": "Jakub Zerdzicki",
+  "creator_profile_url": "https://www.pexels.com/@jakubzerdzicki/",
+  "asset_page_url": "https://www.pexels.com/video/efficient-desk-organization-with-checklist-33194181/",
+  "download_url": "https://videos.pexels.com/video-files/33194181/14146650_1440_2560_25fps.mp4",
+  "downloaded_at": "2026-09-26T15:53:00-03:00",
+  "license_page": "https://www.pexels.com/license/",
+  "license_label_seen": "Free",
+  "source_page_metadata": {
+    "published_date": "2025-07-28",
+    "listed_dimensions": "2160x3840",
+    "listed_duration_seconds": 12,
+    "listed_fps": 25
+  },
+  "downloaded_file_probe": {
+    "width": 1440,
+    "height": 2560,
+    "duration_seconds": 12.2,
+    "fps": 25,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p"
+  },
+  "local_path": "assets/pexels-33194181.mp4",
+  "sha256": "918fed44696219de164098266ee88b3406caf898f377e1b021a515af935b96df",
+  "approved_for": "L08-C01-processo-real preview",
+  "representation_note": "Banco de imagem usado apenas como ilustração; não representa cliente, equipe ou operação da Simplifique."
+}

@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "batch_key": "simplifique-lote-08-2026-09",
+  "created_at": "2026-09-26T12:28:16-03:00",
+  "timezone": "America/Sao_Paulo",
+  "policy": {
+    "max_concurrent_items": 1,
+    "max_items_per_run": 1,
+    "active_mode": "design_first",
+    "video_work": "deferred",
+    "figma_file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "figma_page_node": "182:8",
+    "publish_automatically": false,
+    "schedule_automatically": false,
+    "require_human_approval": true
+  },
+  "items": [
+    {
+      "content_key": "L08-C01-processo-real",
+      "order": 1,
+      "status": "deferred_video",
+      "format": "microvideo",
+      "title": "Seu processo está documentado ou só a versão bonita dele?",
+      "territory": "processos",
+      "source_topic_key": "radar-cf162693dccd6c01",
+      "objective": "Mostrar que exceções e decisões não registradas mantêm o dono como gargalo.",
+      "requires_user_on_camera": false,
+      "started_at": "2026-09-26T12:30:05-03:00",
+      "updated_at": "2026-09-26T16:49:47-03:00",
+      "draft_completed_at": "2026-09-26T12:35:24-03:00",
+      "checkpoint": "completed_draft_for_user_review",
+      "approvals": {
+        "footage": "FT-C01-01",
+        "audio": "no_music; narration and discreet effects",
+        "approved_at": "2026-09-26T12:46:37-03:00",
+        "export_schedule_publish": false
+      },
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/05-Aprovacao-Footage.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/edit/edit-manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/subtitles/L08-C01-preview.srt",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/source-metadata/pexels-33194181.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/output/L08-C01-preview.mp4",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/output/L08-C01-master.mp4",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real/output/L08-C01-master-contact-sheet.jpg"
+      ],
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C01-processo-real",
+      "qa_decision": "approved_with_notes",
+      "publication_status": "unpublished",
+      "completed_at": "2026-09-26T16:49:47-03:00",
+      "approved_for": "user_review",
+      "review_master_sha256": "1b413af138d25870e48cedfe651c1499c0b3b86886676dcdc8eb6fa7d2879f87",
+      "blocking_issues": [],
+      "deferred_at": "2026-09-26T21:37:08-03:00",
+      "deferred_reason": "Prioridade alterada para peças de design; vídeo será retomado depois.",
+      "non_blocking_notes": [
+        "Single approved footage source is reused across five beats.",
+        "Rendered narration was technically checked but not independently transcribed in this run."
+      ]
+    },
+    {
+      "content_key": "L08-C02-bot-responde-resolve",
+      "order": 2,
+      "status": "draft_ready",
+      "format": "carousel",
+      "title": "Seu bot responde, mas consegue concluir o atendimento?",
+      "territory": "ia",
+      "source_topic_key": "radar-58febd641e7283f9",
+      "objective": "Diferenciar resposta automática de operação integrada que preserva contexto.",
+      "requires_user_on_camera": false,
+      "started_at": "2026-09-27T02:51:58.710108Z",
+      "updated_at": "2026-09-27T03:00:27.803175Z",
+      "checkpoint": "figma_render_and_post_render_qa_complete",
+      "completed_at": "2026-09-27T03:00:27.803175Z",
+      "draft_completed_at": "2026-09-27T03:00:27.803175Z",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/qa-screenshots/section-final.png"
+      ],
+      "qa_decision": "approved",
+      "approved_for": "user_review",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "daily_request": {
+        "request_key": "social-58c30d72d07ec2e3e9329ed9",
+        "requested_at": "2026-09-27T00:43:43Z",
+        "desired_format": "carrossel"
+      },
+      "non_blocking_notes": [
+        "Adaptado do pacote audiovisual para carrossel conforme solicitação do Daily.",
+        "Telas 01 e 04 receberam correção objetiva de sobreposição e foram reinspecionadas.",
+        "Artefato editável e não publicado; exportação, agendamento e publicação seguem pendentes de aprovação explícita."
+      ],
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "245:20",
+        "frame_ids": [
+          "245:21",
+          "245:31",
+          "245:40",
+          "245:56",
+          "245:71",
+          "245:88",
+          "245:101"
+        ],
+        "node_ids": [
+          "245:20",
+          "245:21",
+          "245:31",
+          "245:40",
+          "245:56",
+          "245:71",
+          "245:88",
+          "245:101",
+          "245:108"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=245-20"
+      }
+    },
+    {
+      "content_key": "L08-C03-obrigacao-com-responsavel",
+      "order": 3,
+      "status": "draft_ready",
+      "format": "carousel",
+      "title": "Obrigação sem responsável vira urgência na cabeça do dono",
+      "territory": "gestão",
+      "source_topic_key": "radar-34460de6854e1073",
+      "objective": "Ensinar o fluxo aviso, análise, decisão, registro e confirmação sem aconselhamento tributário.",
+      "requires_user_on_camera": false,
+      "started_at": "2026-09-26T21:00:31-03:00",
+      "updated_at": "2026-09-26T21:48:07-03:00",
+      "checkpoint": "figma_render_and_post_render_qa_complete",
+      "completed_at": "2026-09-26T21:48:07-03:00",
+      "draft_completed_at": "2026-09-26T21:04:48-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/manifest.json"
+      ],
+      "qa_decision": "approved",
+      "approved_for": "user_review",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "242:14",
+        "frame_ids": [
+          "242:15",
+          "242:16",
+          "242:17",
+          "242:18",
+          "242:19",
+          "242:20",
+          "242:21",
+          "242:22"
+        ],
+        "node_ids": [
+          "242:14",
+          "242:15",
+          "242:16",
+          "242:17",
+          "242:18",
+          "242:19",
+          "242:20",
+          "242:21",
+          "242:22"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=242-14"
+      },
+      "non_blocking_notes": [
+        "The Receita Federal example remains informational and does not constitute tax advice.",
+        "All eight frames were inspected individually after text reflow; slide 04 received a final targeted QA pass.",
+        "A post-fix panoramic Section screenshot was unavailable due to the Figma MCP call limit; structural read-back and frame-level checks passed."
+      ]
+    },
+    {
+      "content_key": "L08-C04-limites-agentes",
+      "order": 4,
+      "status": "pending",
+      "format": "static",
+      "title": "Se a IA errar, o que ela está autorizada a alterar?",
+      "territory": "automação",
+      "source_topic_key": "radar-7653c1d1116e7612",
+      "objective": "Traduzir governança de agentes em permissões, aprovação, logs e reversibilidade.",
+      "requires_user_on_camera": false,
+      "checkpoint": "daily_request_received_design_pending",
+      "daily_request": {
+        "request_key": "social-178d1b599eaa457d0f2ff4ca",
+        "requested_at": "2026-09-27T00:43:54Z",
+        "desired_format": null
+      }
+    },
+    {
+      "content_key": "L08-C05-excecao-volta-dono",
+      "order": 5,
+      "status": "pending",
+      "format": "carousel",
+      "title": "Toda exceção volta para o dono? Então o processo ainda não terminou",
+      "territory": "dependência do dono",
+      "source_topic_key": null,
+      "objective": "Ajudar o público a reconhecer decisões de exceção como dependência operacional.",
+      "requires_user_on_camera": false
+    },
+    {
+      "content_key": "L08-C06-passagem-bastao",
+      "order": 6,
+      "status": "pending",
+      "format": "carousel",
+      "title": "A tarefa foi delegada, mas a decisão continua com você",
+      "territory": "gestão",
+      "source_topic_key": null,
+      "objective": "Diferenciar delegação de execução e transferência real de responsabilidade.",
+      "requires_user_on_camera": false
+    },
+    {
+      "content_key": "L08-C07-followup-memoria",
+      "order": 7,
+      "status": "pending",
+      "format": "carousel",
+      "title": "Follow-up que depende da memória não é processo",
+      "territory": "crm",
+      "source_topic_key": null,
+      "objective": "Mostrar o mínimo operacional para que oportunidades não desapareçam por falta de rotina.",
+      "requires_user_on_camera": false
+    },
+    {
+      "content_key": "L08-C08-um-dia-sem-dono",
+      "order": 8,
+      "status": "pending",
+      "format": "carousel",
+      "title": "O que continua funcionando se você ficar um dia fora?",
+      "territory": "dependência do dono",
+      "source_topic_key": null,
+      "objective": "Gerar identificação e conduzir naturalmente à pesquisa Quanto sua empresa depende de você?.",
+      "requires_user_on_camera": false
+    },
+    {
+      "content_key": "L08-FINAL-daily-review",
+      "order": 9,
+      "status": "pending",
+      "format": "operational_review",
+      "title": "Revisão de clareza e lacunas do Daily Dashboard",
+      "territory": "operação",
+      "source_topic_key": null,
+      "objective": "Auditar o Daily publicado e registrar o que ainda falta para mostrar Operação, Marketing e Comercial com clareza.",
+      "requires_user_on_camera": false
+    }
+  ]
+}

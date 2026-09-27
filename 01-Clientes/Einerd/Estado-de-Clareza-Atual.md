@@ -3,7 +3,7 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-09-24T16:07:31-03:00
+atualizado_em: 2026-09-26T18:33:11-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd]]"
 fonte_atualizacao: "https://fathom.video/share/hm62gMNMADoWgNhsPVdcaDGB46sCqiGy"
 confianca: "alta para a versão demonstrada da plataforma e os compromissos de Marcel; a sincronização com o Monday, a completude dos produtos e a configuração de notificações ainda precisam de validação"
@@ -16,6 +16,7 @@ canonical: true
 - Mudanças confirmadas: Marcel demonstrou uma primeira versão funcional da plataforma de Audiovisual e produtos; assumiu criar o acesso de Pablo, completar os dados dos produtos e verificar a sincronização de tarefas e status com o Monday. Pablo concordou em revisar a plataforma após receber o acesso.
 - Confirmações sem mudança: o painel continua como visão consolidada da operação de Audiovisual; a integração com o Daily e a conclusão do bot Ella até 25/09/2026 permanecem vigentes, sem atualização de status nesta reunião.
 - Conflitos/lacunas: a sincronização com o Monday ainda não foi validada; os cadastros de produtos estão incompletos; não há evidência para equiparar Hermes ou Codex, citados na demonstração, ao bot Ella; notificações via Telegram ou WhatsApp permaneceram como possibilidade.
+- A verificação independente do Notion recuperou duas finalizações que o snapshot já comprometido não expôs no `pull`: atualização da planilha de remessa com indicação dos vídeos a gravar e revisão da VSL do YouTube da Arquite Internacional. Ambas saem dos próximos passos ativos; isso não comprova conclusão das demais remessas ou revisões audiovisuais.
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -38,7 +39,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; acesso de Pablo, preenchimento dos produtos e validação da sincronização ainda pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: integração desejada entre Monday, painel e Daily.
-- Remessas, gravações, revisão de VSLs, spots e internacionalização de materiais.
+- Demais remessas, spots e internacionalização de materiais ainda não conciliados como concluídos.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
 ## 5. Responsáveis
@@ -80,6 +81,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Usar o EDC do Ei Nerd como backlog amplo de páginas, tráfego, campanhas e decisões de marketing de toda a equipe.
 - Tratar a prévia do painel como não iniciada: ela já foi enviada a Marcel e a frente está andando.
 - Tratar a incorporação das gravações de Marcel como demanda aberta: essa etapa já foi finalizada; resta concluir o bot Ella.
+- Manter como abertas a atualização da planilha de remessa com indicação dos vídeos a gravar e a revisão da VSL do YouTube da Arquite Internacional: o Notion registra ambas como `Finalizado`.
 
 ## 12. Próximo passo
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -89,9 +91,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Concluir o bot Ella no Monday — Responsável: Pablo — Prazo: 25/09/2026 — Status: Em progresso — Critério de conclusão: bot validado no fluxo definido e retirado da fila.
 - Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Dependência: estrutura mínima do painel validada.
 - Reconciliar Monday, planilha de cursos e Google Drive antes de declarar pendências ou entregas de Audiovisual — Responsável: Pablo — Prazo: não definido.
-- Atualizar a planilha de remessa e informar quais vídeos devem ser gravados — Responsável: Pablo — Prazo: não definido.
 - Revisar e entregar os spots comerciais — Responsável: Pablo — Prazo: não definido — Dependência: insumo externo não especificado.
-- Finalizar a revisão da VSL do YouTube da Arquite Internacional — Responsável: Pablo — Prazo: não definido — Dependência: materiais disponíveis nas fontes operacionais.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
 
 ## 13. Próxima decisão
@@ -107,6 +107,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 26/09/2026; verificação independente da fonte `Projetos e Clientes - Demandas Pablo` recuperou duas finalizações não refletidas pelo snapshot.
 - [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|Demonstração da plataforma de audiovisual e produtos — Ei Nerd — 24/09/2026]].
 - Atualização direta de gestão — 23/09/2026.
 - [[01-Clientes/Einerd/Inteligencia-Adquirida-do-Projeto|Inteligência Adquirida do Projeto — Ei Nerd]].

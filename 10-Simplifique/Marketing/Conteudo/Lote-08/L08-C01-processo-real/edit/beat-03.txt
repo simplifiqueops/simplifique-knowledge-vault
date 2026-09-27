@@ -1,0 +1,3 @@
+Na operação real,
+surgem EXCEÇÕES.
+E alguém precisa decidir.

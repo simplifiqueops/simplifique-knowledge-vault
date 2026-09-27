@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:03,000
+Seu processo está documentado —
+ou só a versão bonita dele?
+
+2
+00:00:03,000 --> 00:00:08,000
+No papel, tudo segue o fluxo.
+
+3
+00:00:08,000 --> 00:00:14,000
+Na operação real, surgem exceções.
+E alguém precisa decidir.
+
+4
+00:00:14,000 --> 00:00:20,000
+Se a decisão não vira regra,
+ela volta para a cabeça do dono.
+
+5
+00:00:20,000 --> 00:00:25,000
+Antes de automatizar, registre exceção,
+critério, responsável e decisão.
+
+6
+00:00:25,000 --> 00:00:27,000
+Qual decisão ainda só existe
+na sua cabeça?

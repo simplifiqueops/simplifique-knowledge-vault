@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "content_key": "L08-C02-bot-responde-resolve",
+  "title": "Seu bot responde, mas consegue concluir o atendimento?",
+  "format": "carousel",
+  "status": "draft_ready",
+  "origin": "daily_request",
+  "daily_request": {
+    "request_key": "social-58c30d72d07ec2e3e9329ed9",
+    "desired_format": "carrossel",
+    "snapshot": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-58c30d72d07ec2e3e9329ed9.json"
+  },
+  "created_at": "2026-09-26T18:53:24-03:00",
+  "completed_at": "2026-09-26T23:59:20-03:00",
+  "timezone": "America/Sao_Paulo",
+  "strategy": {
+    "pain": "Atendimento automatizado responde, mas não conclui quando precisa consultar dados, executar ações ou transferir exceções com contexto.",
+    "awareness_current": "problem_aware",
+    "awareness_desired": "solution_aware",
+    "objective": "Diferenciar resposta automática de operação integrada que preserva contexto.",
+    "associated_research": "Quanto sua empresa depende de você?",
+    "cta_type": "diagnostic_question",
+    "cta_destination": null
+  },
+  "source_topic": {
+    "key": "radar-58febd641e7283f9",
+    "confidence": "medium"
+  },
+  "canonical_sources_refreshed_at": "2026-09-26T23:00:00-03:00",
+  "deliverables": [
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/01-Estrategia.md",
+      "sha256": "f14a50336dfe33152bffc8b6a3e5a9004c7379ae301ac217d3e03a62576b5c44"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/02-Copy-ou-Roteiro.md",
+      "sha256": "2b5df563cc6ea79c99d54364b9c7de766f73848106ae4e630b6bff3052c1400e"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/03-Direcao-Visual-ou-Audiovisual.md",
+      "sha256": "a2465c887f6ac350712c6e195f9a093e75086c3eb24a23b463f46f9d451b2356"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/04-QA.md",
+      "sha256": "bbed113263b13423957f4adb56f293ebec6a4971d469bd85bb0cb52374f411d4"
+    }
+  ],
+  "render": {
+    "figma_created": true,
+    "native_editable": true,
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "245:20",
+    "frame_ids": [
+      "245:21",
+      "245:31",
+      "245:40",
+      "245:56",
+      "245:71",
+      "245:88",
+      "245:101"
+    ],
+    "node_ids": [
+      "245:20",
+      "245:21",
+      "245:31",
+      "245:40",
+      "245:56",
+      "245:71",
+      "245:88",
+      "245:101",
+      "245:108"
+    ],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=245-20",
+    "dimensions": "1080x1350",
+    "frame_count": 7,
+    "screenshots_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C02-bot-responde-resolve/qa-screenshots"
+  },
+  "qa": {
+    "decision": "approved",
+    "approved_for": "user_review",
+    "blocking_issues": [],
+    "post_render_verified": true,
+    "frames_inspected_individually": 7
+  },
+  "publication": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  },
+  "notes": [
+    "Adapted from the original microvideo package to the Daily-requested carousel format.",
+    "No imagery or footage was used; typography and native diagrams communicate the mechanism without false evidence.",
+    "No URL, QR code or link-in-bio destination was invented.",
+    "No metrics from the OpenAI/Ringg vendor case were used as claims."
+  ]
+}

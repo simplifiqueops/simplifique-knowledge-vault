@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C07-followup-memoria",
+  "title": "Follow-up que depende da memória não é processo",
+  "origin": "fila_editorial",
+  "format": "carousel",
+  "dimensions": {"width": 1080, "height": 1350, "unit": "px"},
+  "slide_count": 6,
+  "status": "draft_ready",
+  "qa_decision": "approved",
+  "image_direction": "no_image_recommended",
+  "publication_status": "unpublished",
+  "approved_for": "user_review",
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "Logo oficial teve contraste corrigido na tela 06 e foi reinspecionado.",
+    "Exportação, agendamento e publicação dependem de aprovação explícita."
+  ],
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "261:44",
+    "frame_ids": ["261:45", "261:53", "261:65", "261:71", "261:89", "261:103"],
+    "node_ids": ["261:44","261:45","261:46","261:47","261:48","261:49","261:50","261:51","261:52","261:53","261:54","261:55","261:56","261:57","261:58","261:59","261:60","261:61","261:62","261:63","261:64","261:65","261:66","261:67","261:68","261:69","261:70","261:71","261:72","261:73","261:74","261:75","261:76","261:77","261:78","261:79","261:80","261:81","261:82","261:83","261:84","261:85","261:86","261:87","261:88","261:89","261:90","261:91","261:92","261:93","261:94","261:95","261:96","261:97","261:98","261:99","261:100","261:101","261:102","261:103","261:104","261:105","261:106","261:107","261:108","I261:108;8:77","I261:108;8:78","I261:108;8:79","I261:108;8:80","I261:108;8:81","I261:108;8:82"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=261-44"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "manifest.json",
+    "citations-ledger.json",
+    "references/post-01-ajustado.png",
+    "references/post-02-ajustado.png",
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-01-initial.png",
+    "qa-screenshots/frame-02-initial.png",
+    "qa-screenshots/frame-03-initial.png",
+    "qa-screenshots/frame-04-initial.png",
+    "qa-screenshots/frame-05-initial.png",
+    "qa-screenshots/frame-06-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-06-final.png"
+  ]
+}

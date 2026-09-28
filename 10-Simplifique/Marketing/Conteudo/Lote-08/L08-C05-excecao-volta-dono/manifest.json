@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C05-excecao-volta-dono",
+  "origin": "editorial_queue",
+  "topic_key": null,
+  "status": "draft_ready",
+  "checkpoint": "figma_render_and_post_render_qa_complete",
+  "completed_at": "2026-09-27T04:21:30-03:00",
+  "format": "carousel",
+  "dimensions": "1080x1350",
+  "slide_count": 5,
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "manifest.json",
+    "citations-ledger.json",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-01-final.png",
+    "qa-screenshots/frame-02-final.png",
+    "qa-screenshots/frame-03-final.png",
+    "qa-screenshots/frame-04-final.png",
+    "qa-screenshots/frame-05-final.png"
+  ],
+  "image_decision": "no_image_recommended",
+  "pre_render_qa": "approved",
+  "post_render_qa": "approved",
+  "qa_decision": "approved",
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "A primeira renderização exigiu correção de reflow; todos os textos foram normalizados para altura automática e reinspecionados.",
+    "O percurso gráfico é abstrato e funcional, sem alegação de processo real de cliente.",
+    "Artefato editável e não publicado; exportação, agendamento e publicação dependem de aprovação explícita."
+  ],
+  "approved_for": "user_review",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "251:32",
+    "frame_ids": [
+      "251:33",
+      "251:42",
+      "251:53",
+      "251:64",
+      "251:77"
+    ],
+    "node_ids": [
+      "251:32", "251:33", "251:34", "251:35", "251:36", "251:37", "251:38", "251:39", "251:40", "251:41",
+      "251:42", "251:43", "251:44", "251:45", "251:46", "251:47", "251:48", "251:49", "251:50", "251:51", "251:52",
+      "251:53", "251:54", "251:55", "251:56", "251:57", "251:58", "251:59", "251:60", "251:61", "251:62", "251:63",
+      "251:64", "251:65", "251:66", "251:67", "251:68", "251:69", "251:70", "251:71", "251:72", "251:73", "251:74", "251:75", "251:76",
+      "251:77", "251:78", "251:79", "251:80", "251:81", "251:82", "251:83"
+    ],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=251-32",
+    "read_back_issues": []
+  }
+}

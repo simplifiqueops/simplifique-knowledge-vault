@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C08-um-dia-sem-dono",
+  "title": "O que continua funcionando se você ficar um dia fora?",
+  "origin": "fila_editorial",
+  "format": "carousel",
+  "dimensions": {"width": 1080, "height": 1350, "unit": "px"},
+  "slide_count": 5,
+  "status": "draft_ready",
+  "qa_decision": "approved",
+  "image_direction": "no_image_recommended",
+  "publication_status": "unpublished",
+  "approved_for": "user_review",
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "Os prompts auxiliares da tela 03 tiveram tamanho e contraste ampliados após inspeção móvel.",
+    "Exportação, agendamento e publicação dependem de aprovação explícita."
+  ],
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "265:50",
+    "frame_ids": ["265:52", "265:59", "265:74", "265:93", "265:101"],
+    "node_ids": ["265:50","265:51","265:52","265:53","265:54","265:55","265:56","265:57","265:58","265:59","265:60","265:61","265:62","265:63","265:64","265:65","265:66","265:67","265:68","265:69","265:70","265:71","265:72","265:73","265:74","265:75","265:76","265:77","265:78","265:79","265:80","265:81","265:82","265:83","265:84","265:85","265:86","265:87","265:88","265:89","265:90","265:91","265:92","265:93","265:94","265:95","265:96","265:97","265:98","265:99","265:100","265:101","265:102","265:103","265:104","265:105","265:106","265:107","265:108","265:109","265:110","265:111","265:112","265:113","265:114","265:115","265:116","265:117","I265:117;8:77","I265:117;8:78","I265:117;8:79","I265:117;8:80","I265:117;8:81","I265:117;8:82"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=265-50"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "manifest.json",
+    "citations-ledger.json",
+    "sources/notion-marketing.json",
+    "sources/notion-benchmark.json",
+    "sources/notion-products.json",
+    "sources/notion-formats.json",
+    "sources/notion-awareness.json",
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-01-initial.png",
+    "qa-screenshots/frame-02-initial.png",
+    "qa-screenshots/frame-03-initial.png",
+    "qa-screenshots/frame-04-initial.png",
+    "qa-screenshots/frame-05-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-03-final.png"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C07-followup-memoria",
+  "captured_at": "2026-09-28T10:00:00-03:00",
+  "figma_file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+  "page_node": "182:8",
+  "section_id": "261:44",
+  "frame_ids": ["261:45", "261:53", "261:65", "261:71", "261:89", "261:103"],
+  "revision_mode": "in_place",
+  "comments": [
+    {"id": "1942996759", "node_id": "261:45", "text": "Aqui cabe a Imagem de Um alvo."},
+    {"id": "1942995943", "node_id": "261:89", "text": "Estão desalinhados"},
+    {"id": "1942996328", "node_id": "261:89", "text": "Aqui cabe uma imagem de Crm aberto ou engrenagens.."}
+  ],
+  "approved_assets": [
+    {"candidate_id": "C07-TARGET-A", "path": "../../assets/c07-target-a-pexels-32267578.jpg", "target_frame": "261:45"},
+    {"candidate_id": "C07-GEARS-B", "path": "../../assets/c07-gears-b-pexels-239419.jpg", "target_frame": "261:89"}
+  ],
+  "screenshots": [
+    "post-01-ajustado.png",
+    "post-02-ajustado.png",
+    "section-261-44.png",
+    "frame-261-45.png",
+    "frame-261-89.png"
+  ],
+  "notes": [
+    "Captura realizada antes da mutação no Figma.",
+    "A seção existente deve ser revisada no lugar; nenhuma seção paralela deve ser criada.",
+    "Exportação, agendamento e publicação não estão autorizados."
+  ]
+}

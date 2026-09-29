@@ -56,3 +56,14 @@
 ## Consistência com o feed
 
 Preserva headline dominante, respiro amplo, centralização óptica, laranja controlado, poucos elementos e assinatura oficial compacta observados nos Posts 1 e 2 ajustados. Varia a linguagem com um **percurso de exceção** e faixas assimétricas; não repete fotografia integral do Post 1 nem o trilho 1–4 e a alternância seriada do Post 2.
+
+## Revisão visual aprovada por comentários do Figma
+
+- **Escopo:** ajuste da seção existente `251:32`; nenhuma seção paralela ou duplicada.
+- **Tela 01:** fotografia Pexels `12911209` em fundo integral, com véu claro para preservar headline preta e imagem como cena ilustrativa de sobrecarga.
+- **Tela 02:** fotografia Pexels `5324937` em fundo integral, com gradiente escuro da esquerda para a direita; texto preservado na área de maior contraste.
+- **Tela 03:** conjunto `limite / critério / próximo passo` centralizado opticamente no eixo horizontal e aproximado da massa principal.
+- **Tela 04:** hierarquia refeita com headline dominante, três faixas uniformes e números laranja; fecho separado por respiro.
+- **Tela 05:** fotografia Pexels `28928434` em fundo integral, escurecida para sustentar pergunta, CTA e logo oficial compacto.
+- **Rastreabilidade:** imagens aprovadas em `06-Aprovacao-Imagens.md`, cópias locais em `assets/` e metadados em `source-metadata/`.
+- **Estado:** composição editável, não exportada e não publicada.

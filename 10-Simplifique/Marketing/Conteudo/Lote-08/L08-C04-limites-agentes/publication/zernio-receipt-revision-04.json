@@ -1,0 +1,40 @@
+{
+  "request_id": "4f3fa547-e084-4e6b-a225-b8ae06142b72",
+  "post_id": "6ab9ecef295f1e370a37531e",
+  "readback": {
+    "_id": "6ab9ecef295f1e370a37531e",
+    "status": "scheduled",
+    "scheduledFor": "2026-09-29T21:00:00.000Z",
+    "content": "Quanto mais autonomia uma automação recebe, mais claros precisam ser os limites fora dela.\n\nAntes de liberar uma ação, responda:\n\n- O que ela pode acessar e alterar?\n- O que precisa de aprovação humana?\n- Onde cada decisão fica registrada?\n- Como interromper ou desfazer uma ação?\n\nA Docker apresentou ambientes isolados para agentes que executam tarefas longas, com ênfase em isolamento e políticas de acesso. A leitura útil para um negócio não é copiar essa infraestrutura. É adotar o princípio: autonomia vem depois de limite, processo e controle.\n\nAntes de automatizar, defina o limite.",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790569709215_9nim7sux_01-limites-agentes.png",
+        "_id": "6ab9ecef295f1e370a37531f"
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": {
+          "_id": "6ab74356d6773943351d9845",
+          "platform": "instagram",
+          "username": "simplifiqueops",
+          "displayName": "Simplifique Ops | Processos & Operação",
+          "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/825325964_18118582642802809_2162839646319881859_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MDAuQzMifQ%3D%3D&_nc_ohc=Naiw6o4yrwEQ7kNvwHOCeBN&_nc_oc=Adoj1WIoxSrdoNfT8M7NnWx3-ecBgcfvdxIlHcwMV7qclMFVbGw-Rc4IhS2aMazBbUc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KS916qLSMEggaEq4Gi6zBA&_nc_tpa=Q5bMBQJQ4vNDd5HGqldgjbYUmvoMKNp5MZuQ0TzQ3n7zj4-XI-50Uv5KyrBPNG1WSUi2XG7xUBtVgG09vQ&oh=00_AQJ6zAS7JswgLr4dSp5A6OIo-YWOO8NsTg17wnWm804x3g&oe=6ABE7D3F",
+          "isActive": true,
+          "profileId": "6ab73d0243e9d81dfff07f1b"
+        },
+        "profileId": "6ab73d0243e9d81dfff07f1b",
+        "customMedia": [],
+        "scheduledFor": "2026-09-29T21:00:00.000Z",
+        "status": "pending",
+        "publishAttempts": 0,
+        "contentHash": "e742191413d5e5fbc2abf20bd2017264",
+        "_id": "6ab9ecef295f1e370a375320"
+      }
+    ],
+    "publishNow": null,
+    "platformPostUrl": null
+  }
+}

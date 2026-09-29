@@ -1,110 +1,118 @@
-# L08-C03 — Direção visual para Figma
+# L08-C03 — Direção visual revisada
+
+## Diagnóstico da primeira versão
+
+A primeira versão ficou chapada porque oito telas foram construídas quase inteiramente com fundo uniforme, texto, cartões e diagramas. A sequência explicava corretamente, mas mantinha a mesma distância emocional e avançava como um manual: fato → cinco perguntas → etapas 1–5 → exercício.
+
+A revisão troca enumeração por narrativa e alterna três registros:
+
+1. **fotografia para situação e tensão**;
+2. **tipografia para percepção e virada**;
+3. **formas simples para organizar o caminho e o CTA**.
 
 ## Objetivo visual
-Transformar uma obrigação abstrata em um percurso operacional fácil de escanear. A sequência deve fazer o dono reconhecer a sobrecarga, enxergar os cinco movimentos e localizar o ponto sem responsável. Função antes de decoração; nenhuma estética de escritório contábil ou alerta fiscal sensacionalista.
+
+Fazer o leitor sentir primeiro a obrigação chegando e voltando para ele; só depois apresentar a mudança de percepção. A fotografia deve criar contexto humano e profundidade, como no Conteúdo 1, sem sugerir cliente, resultado ou caso real da Simplifique.
 
 ## Especificação-mestre
 - **Dimensões:** 1080×1350, 4:5
-- **Slides:** 8
-- **Saída de produção:** frames nativos, editáveis, nomeados e com Auto Layout onde houver grupos relacionados
-- **Paleta:** preto estrutural; branco e areia para respiro; laranja apenas para prazo, transições e ponto de decisão
-- **Tipografia:** sans-serif oficial disponível no arquivo; carregar a fonte antes de qualquer mutação
-- **Safe area:** 96 px laterais; 100 px no topo; 120 px na base; texto essencial fora da área de interface da plataforma
-- **Branding:** assinatura oficial compacta apenas no slide final; não repetir logo em todos os frames
-- **Textura:** papel/grão muito sutil apenas nos fundos areia; zero textura sobre texto pequeno
-- **Imagem:** `no_image_recommended`; formas, tipografia e diagrama comunicam melhor e evitam sugerir cliente ou situação real
-- **Cor dominante/acento:** alternar preto, areia e branco; laranja abaixo de 15% da superfície de cada slide
+- **Slides:** 7
+- **Saída:** frames nativos e editáveis; fotografia como image fill, texto e overlays separados
+- **Paleta:** preto, areia, branco e laranja controlado
+- **Fotografia:** tratamento quente e escuro; overlay marrom/preto para sustentar contraste; sem filtros dramáticos
+- **Safe area:** 88–96 px laterais; 96 px no topo; 120 px na base
+- **Branding:** logo oficial compacto somente na tela final
+- **Ritmo:** foto → foto/híbrido → tipografia → fato editorial → virada tipográfica → foto/híbrido → CTA
+- **Imagem não é decoração:** cada foto representa uma situação genérica, nunca cliente, equipe ou operação da Simplifique
 
-## Hierarquia e composição por slide
+## Estrutura por tela
 
-### 01 — Hook
-- **Hierarquia:** “obrigação sem responsável” → “urgência” → “dono”.
-- **Elemento gráfico:** uma linha laranja interrompida antes de um pequeno círculo preto, sugerindo fluxo sem dono.
-- **Grid/framing:** grid editorial de 6 colunas; headline em 4 colunas, centro óptico.
-- **Gestalt:** continuidade interrompida.
-- **Composição/terços:** massa principal entre terços superior e central; vazio intencional no inferior.
-- **Densidade:** baixa.
-- **Visual CTA:** nenhum.
-- **Risco de poluição:** adicionar ícones de relógio, sino ou sirene tornaria a capa genérica.
+### 01 — Hook fotográfico
+- Foto vertical de pessoa lidando com documentos em ambiente de trabalho.
+- Recorte deslocado para um dos terços, preservando área escura para a headline.
+- Overlay quente e profundo, inspirado no Conteúdo 1.
+- Headline dominante: “A obrigação chegou. E já virou problema seu?”
+- Função: colocar o leitor dentro da situação antes de explicar.
 
-### 02 — Situação reconhecível
-- **Hierarquia:** três entradas pequenas → conclusão grande “tudo volta para você”.
-- **Elemento gráfico:** três cartões estreitos `informação`, `prazo`, `decisão` convergindo para um único ponto.
-- **Grid/framing:** composição assimétrica; cartões à esquerda, conclusão à direita/abaixo.
-- **Gestalt:** convergência e proximidade.
-- **Composição/terços:** fluxo diagonal do superior esquerdo ao terço inferior direito.
-- **Densidade:** média.
-- **Risco:** parecer dashboard; manter cartões sem chrome de software.
+### 02 — A cena se forma
+- Usar a mesma família visual, mas com crop diferente ou segunda fotografia de mãos/documentos.
+- Frases aparecem em três batidas: informação → prazo → decisão.
+- Conclusão isolada: “Mas ninguém assume o próximo passo.”
+- Evitar cartões de dashboard.
 
-### 03 — Exemplo factual
-- **Hierarquia:** selo editorial `EXEMPLO ATUAL` → fato da Receita → limite “não é aconselhamento”.
-- **Elemento gráfico:** calendário tipográfico com `SET/2026`, sem imitar portal ou guia fiscal.
-- **Grid/framing:** duas zonas: calendário 35%, texto 65%.
-- **Gestalt:** figura/fundo e separação por bloco.
-- **Composição/terços:** calendário no terço esquerdo; texto no centro/direita.
-- **Densidade:** alta controlada.
-- **Risco:** corpo pequeno. Dividir em dois frames se a fonte precisar cair abaixo do padrão móvel; não comprimir.
+### 03 — O peso volta para o dono
+- Fundo chapado preto para criar pausa e contraste com as fotos.
+- “Você lembra / você cobra / você confirma” em progressão vertical, com apenas uma palavra em laranja por linha.
+- Corpo curto no fim. Sem diagramas.
 
-### 04 — Virada / mapa dos cinco movimentos
-- **Hierarquia:** pergunta introdutória → cinco passos → conclusão.
-- **Elemento gráfico:** percurso vertical numerado, com cada passo em uma linha; laranja apenas no elo entre passos.
-- **Grid/framing:** eixo central levemente deslocado à esquerda; texto alinhado à mesma coluna.
-- **Gestalt:** continuidade e sequência.
-- **Composição/terços:** percurso ocupa do terço superior ao inferior com margens generosas.
-- **Densidade:** média-alta.
-- **Risco:** virar checklist decorativo; cada pergunta deve permanecer legível e completa.
+### 04 — O fato atual
+- Composição editorial clara, em areia/branco, com “SET 2026” como dado visual secundário.
+- Reduzir o texto factual ao essencial.
+- Rodapé de limite tributário legível, sem parecer bula.
+- Não usar fotografia de formulários fiscais estrangeiros.
 
-### 05 — Aviso e análise
-- **Hierarquia:** dois movimentos equivalentes + contraste final.
-- **Elemento gráfico:** dupla de blocos, um em areia e outro branco, conectados por linha curta.
-- **Grid/framing:** 50/50 com assimetria vertical; não usar o mesmo layout do slide 06.
-- **Gestalt:** similaridade para mostrar par; proximidade entre título e ação.
-- **Composição/terços:** primeiro bloco superior esquerdo, segundo inferior direito.
-- **Densidade:** média.
-- **Risco:** parecer dois cards de template; variar escala e posição.
+### 05 — A virada
+- Tela tipográfica de alto impacto, preferencialmente preta.
+- “Ter contador” menor; “não substitui um responsável” dominante.
+- Uma linha ou faixa laranja conecta apoio técnico a responsabilidade interna.
+- Esta deve ser a tela mais memorável depois da capa.
 
-### 06 — Decisão e registro
-- **Hierarquia:** `DECISÃO` maior; `REGISTRO` como evidência que permanece.
-- **Elemento gráfico:** ponto laranja de decisão que gera uma faixa/linha registrada.
-- **Grid/framing:** headline central; registro em faixa inferior com data e evidência como rótulos genéricos, sem dados inventados.
-- **Gestalt:** causa visual sem afirmar causalidade factual; continuidade.
-- **Composição/terços:** ponto no terço superior, faixa no terço inferior.
-- **Densidade:** média.
-- **Risco:** criar interface falsa; usar formas editoriais, não campos de sistema.
+### 06 — O caminho em movimento
+- Fotografia de mãos revisando documentos como base parcial ou faixa lateral.
+- Sobre a área limpa, quatro movimentos em frases curtas; não numerar como procedimento.
+- Usar continuidade visual, não cards repetidos.
+- Fecho: “Com dono, o caminho deixa de depender da sua memória.”
 
-### 07 — Confirmação
-- **Hierarquia:** “CONFIRMAÇÃO” dominante → definição → contraste final.
-- **Elemento gráfico:** ciclo quase fechado que só se completa quando o marcador `confirmado` entra; sem check verde.
-- **Grid/framing:** composição centralizada com bastante espaço negativo.
-- **Gestalt:** fechamento e continuidade.
-- **Composição/terços:** círculo no centro; definição abaixo.
-- **Densidade:** baixa-média.
-- **Risco:** símbolo de check sugerir garantia; usar fechamento neutro em laranja/preto.
+### 07 — Autoavaliação
+- Fundo areia ou preto com muito respiro.
+- Pergunta central e apenas três marcadores pequenos: aviso / decisão / confirmação.
+- Logo oficial compacto na base.
+- Sem URL, QR code ou botão falso.
 
-### 08 — Autoavaliação
-- **Hierarquia:** exercício → sequência → pergunta final.
-- **Elemento gráfico:** linha horizontal compacta `aviso → análise → decisão → registro → confirmação`, com um ponto vazio que o leitor imagina marcar.
-- **Grid/framing:** texto em bloco único no centro óptico; assinatura oficial pequena na base segura.
-- **Gestalt:** continuidade e fechamento.
-- **Composição/terços:** pergunta ocupa o centro; assinatura no terço inferior.
-- **Densidade:** média.
-- **Visual CTA:** pergunta, sem botão, URL ou QR code.
-- **Risco:** adicionar chamada comercial desconectada da consciência.
+## Banco de imagens — shortlist pré-aprovação
 
-## Continuidade e variação
-- O fio laranja percorre os slides como elemento de continuidade, mas muda de função: interrupção, convergência, calendário, percurso, conexão, registro, fechamento e autoavaliação.
-- Alternar fundo preto, areia e branco para evitar oito cards clonados.
-- Alternar tipografia dominante, cartões assimétricos, calendário editorial, percurso vertical e ciclo.
-- Não repetir posição de título nem assinatura.
-- A sequência deve ser compreendida em miniatura, mas slides 03 e 04 exigem inspeção individual em resolução nativa.
+### IMG-C03-A — situação principal
+- **Fonte:** Pexels
+- **ID:** `12911964`
+- **Autor:** Mizuno K
+- **Página:** https://www.pexels.com/photo/woman-in-an-office-looking-through-documents-on-her-lap-12911964/
+- **Dimensões:** 4000×6000
+- **Uso sugerido:** capa e/ou tela 02 com crops distintos
+- **Adequação:** 9/10
+- **Motivo:** situação humana reconhecível, documentos visíveis, enquadramento vertical e espaço útil para overlay
+- **Risco:** pode parecer uma personagem específica; registrar que é imagem ilustrativa de banco e evitar texto que sugira cliente real
 
-## Feed consistency note
-A peça mantém o sistema Simplifique por contraste alto, respiro editorial, preto estrutural e acento laranja funcional. A variação nasce do raciocínio do fluxo, não de efeitos ou fotografia genérica.
+### IMG-C03-B — análise e registro
+- **Fonte:** Pexels
+- **ID:** `8297535`
+- **Autor:** Mikhail Nilov
+- **Página:** https://www.pexels.com/photo/hands-of-a-person-holding-a-pen-and-paper-8297535/
+- **Dimensões:** 4000×6000
+- **Uso sugerido:** tela 06, como fotografia parcial com recorte de mãos e documentos
+- **Adequação:** 9/10
+- **Motivo:** representa análise/registro sem expor rosto nem dados legíveis e aceita crop 4:5
+- **Risco:** estética corporativa; controlar com crop fechado, tratamento quente e composição editorial
 
-## Handoff de produção
-- **Nome da Section:** `[PRODUÇÃO 03] Carrossel — Obrigação com responsável`
-- **Frames:** `01 — Hook`, `02 — Situação`, `03 — Exemplo factual`, `04 — Fluxo`, `05 — Aviso e análise`, `06 — Decisão e registro`, `07 — Confirmação`, `08 — Autoavaliação`
-- **Figma target:** arquivo `aGBW9EAvXjYm9Tz3KkkHcf`, página `182:8 — Rede Social`.
-- **Render status:** concluído em seção nativa `[PRODUÇÃO 03] Carrossel — Obrigação com responsável` (`242:14`), com oito frames editáveis `242:15`–`242:22`.
-- **Link direto:** https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=242-14
-- **Exportação/publicação:** não iniciadas.
+## Candidatos rejeitados
+- Pexels `30248084`: expressão e papéis voando tornam a cena teatral e caricata.
+- Pexels `8962466`: contém texto “Tax Deadline” em inglês e calendário genérico, podendo sugerir informação factual inadequada.
+- Pexels `33237844`: data visível “25/6” conflita com a pauta e cria ruído probatório.
+
+## Aprovação e uso das imagens
+
+- `IMG-C03-A` e `IMG-C03-B` foram aprovadas explicitamente, baixadas localmente com ficha de origem e inseridas na revisão do Figma.
+- `IMG-C03-A` foi usada nas telas 01 e 02 com crops editoriais distintos.
+- `IMG-C03-B` foi usada como faixa fotográfica na tela 06.
+- As imagens permanecem identificadas como ilustração de banco; não representam cliente, equipe ou operação real da Simplifique.
+
+## Figma
+- **Arquivo:** `aGBW9EAvXjYm9Tz3KkkHcf`
+- **Página:** `182:8 — Rede Social`
+- **Seção anterior preservada:** `242:14`
+- **Seção revisada:** `270:56`
+- **Link direto:** https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=270-56
+- A revisão contém sete frames nativos e editáveis de 1080×1350 e foi reinspecionada como sequência e tela a tela.
+
+## Estado
+
+`revision_rendered | qa_approved | unpublished`

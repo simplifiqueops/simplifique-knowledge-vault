@@ -23,6 +23,10 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday-complemento|28/09/2026 — Reunião Time RP | Semanal — Black Friday — complemento de evidência — Realizando Potenciais]]
+- [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday|28/09/2026 — Reunião Time RP | Semanal — Black Friday — Realizando Potenciais]]
+- [[03-Reunioes/2026/09/2026-09-28--planejamento-black-friday-realizando-potenciais|28/09/2026 — Planejamento da Black Friday — Realizando Potenciais]]
+- [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026 — Bloqueio da conta Meta e contingência de tráfego — Ei Nerd]]
 - [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|24/09/2026 — Demonstração da plataforma de audiovisual e produtos — Ei Nerd]]
 - [[03-Reunioes/2026/09/2026-09-24--treinamento-concluido-ajustes-energia-infinita|24/09/2026 — Treinamento concluído e ajustes do Energia Infinita — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-24--treinamento-edicao-site-energia-infinita|24/09/2026 — Treinamento de edição do site do Energia Infinita — Realizando Potenciais]]

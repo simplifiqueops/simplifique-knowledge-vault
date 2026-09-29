@@ -1,0 +1,28 @@
+{
+  "content_key": "L08-C06-passagem-bastao",
+  "captured_at": "2026-09-28T03:48:25-03:00",
+  "reason": "Revisão em resposta aos comentários Figma 1942993510, 1942994975, 1942994317 e 1942994646.",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "257:38",
+    "frame_ids": ["257:39", "257:46", "257:54", "257:59", "257:70", "257:87"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=257-38",
+    "revision_mode": "in_place",
+    "duplicate_section_allowed": false
+  },
+  "screenshots": [
+    {"path": "section-257-38.png", "sha256": "b9333ef89e1d030feffecf2b9c24cf82198d01d6ef54b3a274c4bd1637ce28ba"},
+    {"path": "frame-257-39.png", "sha256": "11337374fbf0ab092532301c2b83a92cfc1e8713af15ce38ad329bf71cfc29c5"},
+    {"path": "frame-257-46.png", "sha256": "490436f0dd09b74466cc824e0d4be5a37b44217b0ea0d47735a66e572ddc1736"},
+    {"path": "frame-257-54.png", "sha256": "988596a905fe66c2c35604f5f701c8bc5003e6902af3f5cc2219964a02f15a20"},
+    {"path": "frame-257-59.png", "sha256": "57354e6f03d350cc6c39b4f862e06489cc0ac292359d542f1e600c28b57faf24"},
+    {"path": "frame-257-70.png", "sha256": "c92f74df367604e28238281ed4381377463161a740d82c083dc07dbc19d468a0"},
+    {"path": "frame-257-87.png", "sha256": "9cbf9fba531c74f304c440f7874354d43cffe06a20efa775ad1d2b44ab6eab7c"}
+  ],
+  "approved_images": [
+    {"candidate_id": "IMG-C06-A", "local_path": "../../assets/img-c06-a-pexels-13801779.jpg", "sha256": "8e17254258a3668946b13c38d49922429f892cdb33858649d8da058bec5a4925", "target_frame": "257:39"},
+    {"candidate_id": "IMG-C06-B", "local_path": "../../assets/img-c06-b-pexels-12903185.jpg", "sha256": "7f4b1e7ff3e77f9556d6bb9bc8887a2c901b484b763c9c9b5a62c99d2a9aab8a", "target_frame": "257:54"}
+  ],
+  "publication_authorized": false
+}

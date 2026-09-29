@@ -5,7 +5,7 @@
   "format": "carousel",
   "status": "draft_ready",
   "created_at": "2026-09-26T21:00:31-03:00",
-  "completed_at": "2026-09-26T21:48:07-03:00",
+  "completed_at": "2026-09-28T00:46:35-03:00",
   "timezone": "America/Sao_Paulo",
   "strategy": {
     "pain": "Obrigação crítica sem responsável e fluxo interno concentra memória, cobrança e decisão no dono.",
@@ -39,55 +39,190 @@
     },
     {
       "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/02-Copy-ou-Roteiro.md",
-      "sha256": "5b0b3a9426d23c319094b1c9cc54203e915473e0fe3c183d80c488f5124921d9"
+      "sha256": "674113c7116aeec6e13ec1f0018e038ed942297c2cf83fca12bb005983408435"
     },
     {
       "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/03-Direcao-Visual-ou-Audiovisual.md",
-      "sha256": "323a2c5c5e1e105ce617a5d2edf9c3e4ca3a3a925abd64ad8e44625b28b3cbdb"
+      "sha256": "c7d6078295b31ae3ddefee826606b02617d01b5e7686d804948d020f3661ec34"
     },
     {
       "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/04-QA.md",
-      "sha256": "cb68f03a4cf323c4bcb42179bdf6e5b80174326d1d3025aa887c480b873a72c5"
+      "sha256": "0fa8aee826b63c98655478da3b4f9ba5cc2ea7dc319faffee511c32b3f84d039"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/05-Aprovacao-Imagens.md",
+      "sha256": "39f0a75237f28b7634ddfbd4ba5a4cfe36db8d657dde523651fd2f65a336279b"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/assets/img-c03-a-pexels-12911964.jpg",
+      "sha256": "d00ac253e437c33e9c5a3e3cb7f5b964b0b4be282e4fc4f91c58fcc01f24b087"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/assets/img-c03-b-pexels-8297535.jpg",
+      "sha256": "c6c48f8d2ad486a5651989153615cc7c195b67809717496c07cc315f61d35fb0"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/source-metadata/img-c03-a-pexels-12911964.json",
+      "sha256": "7cb90076dbae435df75a03ee4a8767db17418fe4b7f45e56b62aa72d78e533f9"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/source-metadata/img-c03-b-pexels-8297535.json",
+      "sha256": "9c1b0a58043d4f6c2a8ae94982fdecbc261987d03131480ecdbe0e4f3c167cfc"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/section-revision-final.png",
+      "sha256": "e1d3bb5e783cb746ce909f70f2c02dd08c2206101cf1a5e97f5708a6e29f3302"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-01-revision-final.png",
+      "sha256": "620c1ae6a10dfcaf0da859816aadb137e803ca2978882a668f1576cdd37bde29"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-02-revision-final.png",
+      "sha256": "2960c791fd53cef4984dd7e0cffb688cf63832d20e81851f6097cc160f513ca3"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-03-revision-final.png",
+      "sha256": "49e2cf995edecef19bfdf27deea9dc7d41549a5d76f67ed1f8f6806bb79bc0aa"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-04-revision-final.png",
+      "sha256": "5bdda1b3079c3b2510c75980ec9d53b6492c4eb212ec4eb6b20e2d86934afb92"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-05-revision-final.png",
+      "sha256": "4b847daa699fedb9887fde74f58e78f773fadfbb977ade739a4e86289c8b8cc6"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-06-revision-final.png",
+      "sha256": "4b3b75deb433353570960f4d1394c6096d155dfaaee5a0ab9f0c1abeeb6c1f8f"
+    },
+    {
+      "path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-07-revision-final.png",
+      "sha256": "bd65bd8f00aee9fde5e785399d5fa624b98dc65ac144e5db1dfbe887d8f50ebf"
     }
   ],
   "carousel": {
-    "slide_count": 8,
+    "slide_count": 7,
     "dimensions": "1080x1350",
     "native_editable_required": true,
-    "image_direction": "no_image_recommended"
+    "image_direction": "approved_photography_typography_hybrid"
+  },
+  "revision": {
+    "reason": "Feedback do usuário: visual chapado e narrativa com aparência de manual técnico.",
+    "checkpoint": "figma_revision_render_and_post_render_qa_complete",
+    "previous_figma_section_id": "242:14",
+    "approved_image_candidates": [
+      "IMG-C03-A",
+      "IMG-C03-B"
+    ],
+    "candidate_ids": [
+      "IMG-C03-A",
+      "IMG-C03-B"
+    ],
+    "assets_downloaded": true,
+    "render_started": true,
+    "render_completed": true,
+    "revision_figma_section_id": "270:56"
   },
   "render": {
     "figma_created": true,
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
-    "section_id": "242:14",
-    "section_name": "[PRODUÇÃO 03] Carrossel — Obrigação com responsável",
+    "section_id": "270:56",
+    "section_name": "[REVISÃO 03] Carrossel — Obrigação com responsável",
+    "previous_section_id": "242:14",
     "frame_ids": [
-      "242:15",
-      "242:16",
-      "242:17",
-      "242:18",
-      "242:19",
-      "242:20",
-      "242:21",
-      "242:22"
+      "270:57",
+      "270:64",
+      "270:74",
+      "270:81",
+      "270:89",
+      "270:95",
+      "270:113"
     ],
     "node_ids": [
-      "242:14",
-      "242:15",
-      "242:16",
-      "242:17",
-      "242:18",
-      "242:19",
-      "242:20",
-      "242:21",
-      "242:22"
+      "270:56",
+      "270:57",
+      "270:58",
+      "270:59",
+      "270:60",
+      "270:61",
+      "270:62",
+      "270:63",
+      "270:64",
+      "270:65",
+      "270:66",
+      "270:67",
+      "270:68",
+      "270:69",
+      "270:70",
+      "270:71",
+      "270:72",
+      "270:73",
+      "270:74",
+      "270:75",
+      "270:76",
+      "270:77",
+      "270:78",
+      "270:79",
+      "270:80",
+      "270:81",
+      "270:82",
+      "270:83",
+      "270:84",
+      "270:85",
+      "270:86",
+      "270:87",
+      "270:88",
+      "270:89",
+      "270:90",
+      "270:91",
+      "270:92",
+      "270:93",
+      "270:94",
+      "270:95",
+      "270:96",
+      "270:97",
+      "270:98",
+      "270:99",
+      "270:100",
+      "270:101",
+      "270:102",
+      "270:103",
+      "270:104",
+      "270:105",
+      "270:106",
+      "270:107",
+      "270:108",
+      "270:109",
+      "270:110",
+      "270:111",
+      "270:112",
+      "270:113",
+      "270:114",
+      "270:115",
+      "270:116",
+      "270:117",
+      "270:118",
+      "270:119",
+      "270:120",
+      "270:121",
+      "270:122",
+      "270:123",
+      "272:62"
     ],
-    "logo_instance_id": "242:143",
+    "logo_instance_id": "270:123",
+    "logo_backplate_id": "272:62",
     "logo_main_component_id": "43:68",
-    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=242-14",
-    "verified_at": "2026-09-26T21:48:07-03:00",
-    "frame_count": 8,
+    "image_target_ids": [
+      "270:58",
+      "270:65",
+      "270:96"
+    ],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=270-56",
+    "verified_at": "2026-09-28T00:46:35-03:00",
+    "frame_count": 7,
     "dimensions": "1080x1350",
     "native_editable": true,
     "exported": false
@@ -97,34 +232,53 @@
     "approved_for": "user_review",
     "blocking_issues": [],
     "citation_verification": "passed_with_evidence",
-    "post_render_verified_at": "2026-09-26T21:48:07-03:00",
+    "post_render_verified_at": "2026-09-28T00:46:35-03:00",
     "frames_inspected_individually": [
-      "242:15",
-      "242:16",
-      "242:17",
-      "242:18",
-      "242:19",
-      "242:20",
-      "242:21",
-      "242:22"
+      "270:57",
+      "270:64",
+      "270:74",
+      "270:81",
+      "270:89",
+      "270:95",
+      "270:113"
+    ],
+    "section_screenshot": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/section-revision-final.png",
+    "frame_screenshots": [
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-01-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-02-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-03-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-04-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-05-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-06-revision-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C03-obrigacao-com-responsavel/qa-screenshots/frame-07-revision-final.png"
     ],
     "text_reflow_verified": true,
     "auto_layout_verified": true,
     "duplicate_sections": false,
+    "previous_section_preserved": true,
     "unverified_access_instructions": false
   },
   "publication": {
-    "exported": false,
-    "scheduled": false,
-    "published": false
+    "exported": true,
+    "scheduled": true,
+    "published": false,
+    "provider": "Zernio",
+    "post_id": "6ab9e6b86a15118eeaae80eb",
+    "account": "@simplifiqueops",
+    "account_id": "6ab74356d6773943351d9845",
+    "scheduled_for": "2026-09-28T09:00:00-03:00",
+    "scheduled_for_utc": "2026-09-28T12:00:00.000Z",
+    "timezone": "America/Sao_Paulo",
+    "status_readback": "scheduled",
+    "media_count": 7,
+    "receipt": "publication/zernio-receipt.json"
   },
   "notes": [
+    "A revisão fotográfica foi criada em seção independente; a versão anterior foi preservada.",
+    "As telas 02, 03 e 06 receberam correções objetivas de reflow e Auto Layout; a tela 07 recebeu placa de contraste sob o logo oficial.",
+    "A seção e os sete frames foram reinspecionados após as correções, sem clipping ou sobreposição observável.",
     "No tax regime or IBS/CBS collection method was recommended.",
-    "The Receita Federal communication is used as an attributed operational example; MEI exclusion is explicit.",
-    "No URL, QR code or link-in-bio destination was invented.",
-    "All eight frames were inspected individually at 1080x1350 after text reflow correction.",
-    "Slide 04 received targeted Auto Layout and fill corrections and a final post-fix screenshot.",
-    "A post-fix panoramic Section screenshot was unavailable due to the Figma MCP call limit; frame-level QA and structural read-back passed."
+    "No URL, QR code or link-in-bio destination was invented."
   ],
-  "updated_at": "2026-09-26T21:48:07-03:00"
+  "updated_at": "2026-09-28T00:46:35-03:00"
 }

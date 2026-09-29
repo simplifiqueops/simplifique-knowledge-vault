@@ -1,0 +1,12 @@
+{
+  "post_id": "6ab9ecef295f1e370a37531e",
+  "reason": "Remote scheduledFor drifted from the approved payload and was corrected before publication.",
+  "approved_local_time": "2026-09-29T18:00:00-03:00",
+  "approved_utc": "2026-09-29T21:00:00.000Z",
+  "corrected_at": "2026-09-28T03:08:00-03:00",
+  "method": "PUT /v1/posts/{postId}",
+  "readback": {
+    "status": "scheduled",
+    "scheduledFor": "2026-09-29T21:00:00.000Z"
+  }
+}

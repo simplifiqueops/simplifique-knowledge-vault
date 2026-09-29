@@ -4,7 +4,8 @@
 
 - **Objetivo visual:** transformar uma conversa que termina em vazio num percurso rastreável de próximo passo, data, responsável e histórico.
 - **Dimensões:** 1080 × 1350 px, RGB/sRGB, 6 telas.
-- **Direção de imagem:** **no_image_recommended**. Tipografia, marcadores de continuidade e formas nativas comunicam melhor e evitam sugerir operação real de cliente.
+- **Direção de imagem original:** **no_image_recommended**.
+- **Direção de revisão executada:** os comentários do usuário no Figma pediram uma imagem de alvo na tela 01 e uma imagem de CRM aberto ou engrenagens na tela 05. A curadoria rejeitou CRM aberto por risco de sugerir interface/operação real sem evidência. Pablo aprovou `C07-TARGET-A` + `C07-GEARS-B`; os arquivos foram baixados com rastreabilidade e aplicados nos frames existentes `261:45` e `261:89`.
 - **Paleta:** preto `#151515`, areia `#E9DFC9`, branco quente `#F6F3EC`, laranja `#F15A24`.
 - **Tipografia:** Inter; headline dominante, corpo legível e rótulos curtos em caixa alta.
 - **Área segura:** mínimo de 96 px nas laterais e 110 px no topo/rodapé.
@@ -14,9 +15,9 @@
 ## Hierarquia por tela
 
 ### 01 — Hook
-- Fundo branco quente.
-- Headline centralizada opticamente, com “memória” em laranja.
-- Um ponto laranja isolado abaixo e uma linha curta interrompida sugerem continuidade ausente.
+- Imagem de alvo em fundo completo com overlay escuro controlado, mantendo contraste e respiro.
+- Headline centralizada opticamente no espaço negativo superior, com “memória” em laranja.
+- Remover o ponto e a linha apenas se a fotografia assumir claramente a função de foco/próximo passo.
 - Apoio curto na base do bloco, sem logo.
 
 ### 02 — Cena reconhecível
@@ -38,7 +39,8 @@
 
 ### 05 — Processo antes da ferramenta
 - Fundo preto.
-- Sequência horizontal simples: rotina → registro → lembrete → visibilidade.
+- Fotografia de engrenagens aplicada como fundo completo, com crop editorial e overlay escuro uniforme; não apresenta software/cliente real.
+- Sequência vertical alinhada sobre o background: rotina → registro → lembrete → visibilidade.
 - “Rotina” ocupa o primeiro terço com maior peso; demais etapas são apoio.
 - Laranja somente em “rotina” e nos conectores.
 
@@ -61,4 +63,4 @@
 
 ## Consistência com o feed
 
-Preserva o que foi observado nos Posts 1 e 2 ajustados: headline dominante, centro óptico, respiro amplo, poucos elementos, alternância de fundos, laranja contido e logo oficial compacto. Não clona a fotografia do Post 1, o trilho vertical do Post 2, o marcador de decisão do C06 nem o percurso curvo do C05; usa interrupção e retomada de continuidade como linguagem própria.
+Preserva o que foi observado nos Posts 1 e 2 ajustados: headline dominante, centro óptico, respiro amplo, poucos elementos, alternância de fundos, laranja contido e logo oficial compacto. Não clona a fotografia do Post 1, o trilho vertical do Post 2, o marcador de decisão do C06 nem o percurso curvo do C05. A revisão foi executada na seção existente `261:44`, sem seção paralela.

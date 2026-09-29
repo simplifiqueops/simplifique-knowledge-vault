@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C07-followup-memoria",
+  "status": "approved_and_downloaded",
+  "decision": "image_recommended_for_revision",
+  "accessed_at": "2026-09-28T05:57:35-03:00",
+  "asset_context": "Revisão em lugar dos frames 261:45 e 261:89, conforme comentários abertos do Figma 1942996759, 1942996328 e 1942995943.",
+  "communication_goal": "Usar uma imagem de alvo na capa para materializar foco/próximo passo e uma imagem de engrenagens na tela 05 para apoiar a tese de que rotina vem antes da ferramenta, sem sugerir cliente, software ou resultado real.",
+  "audience": "Donos de negócios locais ou pequenos com equipe, trabalho recorrente e follow-up dependente da memória.",
+  "format": "Carrossel Instagram 1080x1350; imagem integrada a composição nativa e editável no Figma.",
+  "constraints": [
+    "Não sugerir caso, cliente, operação, CRM ou resultado real.",
+    "Não usar imagem como decoração; preservar headline dominante, respiro e laranja controlado.",
+    "Não baixar nem inserir antes da aprovação explícita de candidate_id.",
+    "Não exportar, agendar ou publicar.",
+    "Aplicar a revisão na seção existente 261:44; não criar seção paralela."
+  ],
+  "query_intent": [
+    "business target focus",
+    "crm dashboard computer",
+    "mechanical gears close up"
+  ],
+  "sources_consulted": ["Pexels", "Pixabay"],
+  "source_decision": "A shortlist final usa Pexels porque os candidatos selecionados têm composição vertical, metadados completos e aderência superior. Os resultados de CRM aberto foram rejeitados por exibirem interfaces potencialmente confundidas com software/operação real.",
+  "shortlist": [
+    {
+      "candidate_id": "C07-TARGET-A",
+      "placement": "frame 261:45 — capa",
+      "source": "Pexels",
+      "source_id": 32267578,
+      "preview_url": "https://images.pexels.com/photos/32267578/pexels-photo-32267578.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "page_url": "https://www.pexels.com/photo/precision-darts-hitting-the-target-bullseye-32267578/",
+      "photographer": "Kaya",
+      "photographer_url": "https://www.pexels.com/@kaya-748456158",
+      "dimensions": {"width": 2236, "height": 3975},
+      "score": {"function": 2, "adherence": 2, "naturality": 1, "technical": 2, "traceability": 2, "total": 9},
+      "reason": "Alvo reconhecível, composição vertical e faixa superior limpa para a headline. O tratamento azulado permite overlay escuro sem competir com a paleta.",
+      "suggested_use": "Imagem de fundo com corte vertical, overlay preto controlado e headline centralizada no espaço superior; preservar a palavra-chave em laranja.",
+      "risks": ["Metáfora de alvo é conhecida e pode soar literal.", "Color grading azulado exige harmonização com preto, areia e laranja."]
+    },
+    {
+      "candidate_id": "C07-TARGET-B",
+      "placement": "frame 261:45 — capa",
+      "source": "Pexels",
+      "source_id": 32254049,
+      "preview_url": "https://images.pexels.com/photos/32254049/pexels-photo-32254049.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "page_url": "https://www.pexels.com/photo/high-precision-dartboard-competition-close-up-32254049/",
+      "photographer": "Hakam Magdea",
+      "photographer_url": "https://www.pexels.com/@hakam-magdea-2151202916",
+      "dimensions": {"width": 4160, "height": 6240},
+      "score": {"function": 2, "adherence": 2, "naturality": 2, "technical": 1, "traceability": 2, "total": 9},
+      "reason": "Alvo em preto e branco próximo da identidade visual e leitura imediata de direção/foco.",
+      "suggested_use": "Usar como recorte lateral ou inferior, mantendo uma área sólida separada para a headline; não sobrepor texto às marcações do alvo.",
+      "risks": ["Pouco espaço negativo nativo.", "Muitos dardos e números elevam o risco de poluição visual."]
+    },
+    {
+      "candidate_id": "C07-GEARS-A",
+      "placement": "frame 261:89 — processo antes da ferramenta",
+      "source": "Pexels",
+      "source_id": 21854070,
+      "preview_url": "https://images.pexels.com/photos/21854070/pexels-photo-21854070.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "page_url": "https://www.pexels.com/photo/metal-gears-mechanism-21854070/",
+      "photographer": "aditya bhatia",
+      "photographer_url": "https://www.pexels.com/@aditya-bhatia-264152318",
+      "dimensions": {"width": 3072, "height": 4608},
+      "score": {"function": 2, "adherence": 2, "naturality": 2, "technical": 2, "traceability": 2, "total": 10},
+      "reason": "Engrenagens reais em superfície de trabalho comunicam construção de rotina sem fingir uma interface de CRM. A profundidade de campo cria área de apoio para texto.",
+      "suggested_use": "Imagem em metade inferior ou lateral, com fluxo textual alinhado e corrigido no eixo oposto; manter rotina como primeiro elemento dominante.",
+      "risks": ["Engrenagem é metáfora recorrente de processo.", "Os reflexos dourados devem ser tratados para não competir com o laranja da marca."]
+    },
+    {
+      "candidate_id": "C07-GEARS-B",
+      "placement": "frame 261:89 — processo antes da ferramenta",
+      "source": "Pexels",
+      "source_id": 239419,
+      "preview_url": "https://images.pexels.com/photos/239419/pexels-photo-239419.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "page_url": "https://www.pexels.com/photo/green-and-black-metal-machine-239419/",
+      "photographer": "Markus Spiske",
+      "photographer_url": "https://www.pexels.com/@markusspiske",
+      "dimensions": {"width": 3840, "height": 5760},
+      "score": {"function": 2, "adherence": 2, "naturality": 2, "technical": 1, "traceability": 2, "total": 9},
+      "reason": "Mecanismo real e vertical reforça a ideia de partes trabalhando em conjunto; cores escuras aceitam integração com a tela preta atual.",
+      "suggested_use": "Recorte em um terço do frame com overlay escuro e texto em bloco separado; não cobrir os dentes centrais que carregam a metáfora.",
+      "risks": ["Composição cheia e pouco espaço negativo.", "Visual industrial pode parecer distante de negócios locais se ocupar a tela inteira."]
+    }
+  ],
+  "rejected_direction": {
+    "crm_open": "Rejeitada nesta rodada: os resultados exibem interfaces de projeto, finanças ou software reconhecível e podem ser lidos como CRM real, cliente ou evidência operacional sem base.",
+    "generic_office": "Rejeitada por clichê corporativo e baixa função narrativa."
+  },
+  "recommended_pair": ["C07-TARGET-A", "C07-GEARS-A"],
+  "selected_pair": ["C07-TARGET-A", "C07-GEARS-B"],
+  "approval_required": false,
+  "downloaded": true,
+  "approval_evidence": "Pablo Souza: Quero o Alvo da A e a Engrenagem da B",
+  "next_step": "Revisar a seção 261:44 em lugar, aplicar as imagens aprovadas e executar QA pós-render."
+}

@@ -1,0 +1,13 @@
+{
+  "request_id": "524d15ae-29ed-45ca-8440-d6d1c8bda67b",
+  "reason": "User requested: Coloca o Revisão 4 pra hoje as 18hs",
+  "timezone": "America/Sao_Paulo",
+  "local_time": "2026-09-28T18:00:00-03:00",
+  "post_id": "6ab9ecef295f1e370a37531e",
+  "readback": {
+    "post_id": "6ab9ecef295f1e370a37531e",
+    "status": "scheduled",
+    "scheduledFor": "2026-09-28T21:00:00.000Z",
+    "media_count": 1
+  }
+}

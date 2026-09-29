@@ -4,7 +4,7 @@
 
 - **Objetivo visual:** mostrar que a tarefa atravessa a passagem, enquanto o ponto de decisão permanece do lado do dono; depois, deslocar esse ponto com critérios explícitos.
 - **Dimensões:** 1080 × 1350 px, RGB/sRGB, 6 telas.
-- **Direção de imagem:** **no_image_recommended**. Tipografia, divisores e um marcador de decisão nativo comunicam melhor e não sugerem caso real.
+- **Direção de imagem:** fotografia aprovada e rastreável nas telas 01 e 03. Tela 01 usa a entrega de uma pasta como metáfora visual da passagem de trabalho; tela 03 usa uma pessoa diante de materiais de planejamento para apoiar a virada sobre responsabilidade. Ambas recebem overlay escuro controlado e permanecem explicitamente ilustrativas, sem representar cliente, equipe ou resultado real.
 - **Paleta:** preto `#151515`, areia `#E9DFC9`, branco quente `#F6F3EC`, laranja `#F15A24`.
 - **Tipografia:** Inter; headline dominante, corpo simples, caixa alta apenas em rótulos curtos.
 - **Área segura:** mínimo de 96 px nas laterais e 120 px no topo/rodapé.

@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 9
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-09-26
+edc_atualizado_em: 2026-09-28
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -31,4 +31,5 @@ cssclasses: [simplifique-projetos]
 ## Preparação para DEP
 - Sinal atual: Audiovisual, governança de produção e integração de dados.
 - Lacuna principal: validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos, conciliar planilha de cursos e Google Drive e definir os dados que entram no Daily.
+- Sinal externo ao escopo do EDC: o bloqueio da conta Meta e a contingência de tráfego foram registrados em [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026]], sem nova demanda confirmada para Audiovisual.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

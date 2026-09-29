@@ -1,0 +1,37 @@
+[
+  {
+    "file": "01-hook.png",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 1566796,
+    "sha256": "8b6884366c52aa3a2b245dd586be666b705b6e2ed90bd0b840e4697b232f60e4"
+  },
+  {
+    "file": "02-cena.png",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 1777303,
+    "sha256": "ff2a7e1ce10c26b0929d5d85017421433e8687f5c60dbcfcb6955b9e963bb5a2"
+  },
+  {
+    "file": "03-virada.png",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 47332,
+    "sha256": "841d09f4a28052862f3611ce48247d6b55facd66ccac165964490daa902cfeea"
+  },
+  {
+    "file": "04-primeiro-movimento.png",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 286001,
+    "sha256": "5a89e405a396f0f825d0b939b07515798844e75504a9e5969f4b896042b61773"
+  },
+  {
+    "file": "05-acao.png",
+    "width": 1080,
+    "height": 1350,
+    "bytes": 1103581,
+    "sha256": "41fb88e6171d801b0a7c891d50046b130d1fef16436b790672575b8ac6709bd3"
+  }
+]

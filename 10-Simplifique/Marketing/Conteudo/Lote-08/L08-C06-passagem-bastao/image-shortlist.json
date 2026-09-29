@@ -1,0 +1,35 @@
+{
+  "content_key": "L08-C06-passagem-bastao",
+  "status": "shortlist_ready",
+  "approval_required": true,
+  "downloaded": false,
+  "source": "Pexels",
+  "candidates": [
+    {
+      "candidate_id": "IMG-C06-A",
+      "slide": "01",
+      "pexels_id": 13801779,
+      "photographer": "Mizuno K",
+      "photographer_url": "https://www.pexels.com/@mizunokozuki",
+      "page_url": "https://www.pexels.com/photo/woman-holding-a-folder-with-documents-13801779/",
+      "preview_url": "https://images.pexels.com/photos/13801779/pexels-photo-13801779.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "dimensions": "4000x6000",
+      "score": 9,
+      "use": "Capa: passagem de trabalho representada pela entrega de uma pasta, com crop para preservar área de headline.",
+      "risk": "Imagem ilustrativa; não apresentar como cliente, equipe ou caso real."
+    },
+    {
+      "candidate_id": "IMG-C06-B",
+      "slide": "03",
+      "pexels_id": 12903185,
+      "photographer": "Mizuno K",
+      "photographer_url": "https://www.pexels.com/@mizunokozuki",
+      "page_url": "https://www.pexels.com/photo/woman-standing-near-office-board-12903185/",
+      "preview_url": "https://images.pexels.com/photos/12903185/pexels-photo-12903185.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "dimensions": "4000x6000",
+      "score": 9,
+      "use": "Tela 03: pessoa diante de um quadro de planejamento para apoiar clareza de responsabilidade e limite de decisão.",
+      "risk": "Não afirmar que o quadro representa um processo real da Simplifique ou de cliente."
+    }
+  ]
+}

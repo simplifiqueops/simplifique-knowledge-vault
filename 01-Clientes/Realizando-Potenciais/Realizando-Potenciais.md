@@ -19,6 +19,9 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday-complemento|28/09/2026 — Reunião Time RP | Semanal — Black Friday — complemento de evidência]]
+- [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday|28/09/2026 — Reunião Time RP | Semanal — Black Friday]]
+- [[03-Reunioes/2026/09/2026-09-28--planejamento-black-friday-realizando-potenciais|28/09/2026 — Planejamento da Black Friday — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-24--treinamento-concluido-ajustes-energia-infinita|24/09/2026 — Treinamento concluído e ajustes do Energia Infinita]]
 - [[03-Reunioes/2026/09/2026-09-24--treinamento-edicao-site-energia-infinita|24/09/2026 — Treinamento de edição do site do Energia Infinita]]
 - [[03-Reunioes/2026/09/2026-09-21--semanal-time-rp|21/09/2026 — Reunião Time RP | Semanal]]

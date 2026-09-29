@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 8
-decisoes_pendentes: 3
-edc_atualizado_em: 2026-09-24
+demandas_no_edc: 19
+decisoes_pendentes: 2
+edc_atualizado_em: 2026-09-28
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** resolver a automação, finalizar os ajustes restantes da Naia, levantar dados para decidir Black Friday e demais funis e concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita. **8 demandas** e **3 decisões pendentes** no EDC.
+> **P1:** executar a Black Friday, organizar documentos, datas e parcelamento, dimensionar chips, reativar grupos, alinhar narrativa e conteúdo orgânico e concluir a versão 3 da Naya, sem perder as pendências de automação e Energia Infinita. **19 demandas** e **2 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 8
+## Demandas visíveis — 19
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 3
+## Decisões pendentes — 2
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: inventário de ferramentas, atualização da Naia, pipeline e fluxograma de IA finalizados no Notion; automação pendente, decisões de funis em preparação e ajustes do Energia Infinita ainda abertos.
-- Lacuna principal: fechar oferta, orçamento, especialista e critérios da Black Friday e concluir os ajustes remanescentes do Energia Infinita; a cota semanal da Naya foi atingida.
+- Sinal atual: a Black Friday está em execução, com encaminhamentos confirmados para documentos, parcelamento, chips, grupos, narrativa e conteúdo orgânico; a versão 3 da Naya, a automação e os ajustes do Energia Infinita continuam abertos.
+- Lacuna principal: confirmar a conclusão dos encaminhamentos e definir o responsável pelas atividades interativas dos grupos; detalhes presentes apenas no resumo e nos action items não foram promovidos por causa da compactação da transcrição.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

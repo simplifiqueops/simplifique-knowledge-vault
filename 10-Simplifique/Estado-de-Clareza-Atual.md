@@ -2,15 +2,17 @@
 type: estado-de-clareza-canonico
 status: active
 projeto: "Simplifique — estratégia e infraestrutura interna"
-atualizado_em: 2026-09-24T19:36:56-03:00
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-24"
-confianca: "alta para a ausência de início da prospecção e para a percepção explícita de procrastinação"
+atualizado_em: 2026-09-28T18:33:23-03:00
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-28"
+confianca: "alta para os status verificados no Notion; a finalização do item de testes do Simplifique Ops não comprova conclusão do produto"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Simplifique
 
 ## Delta da última atualização
+- O Notion confirmou como finalizada a consolidação do diagnóstico, do cálculo de ROI e da proposta final da Diagnóstica MS; a oportunidade continua como prospect e a revisão estética e a apresentação permanecem movimentos separados.
+- O item de continuidade dos testes do Simplifique Ops foi finalizado no Notion; isso encerra o item operacional, mas não comprova conclusão do produto nem elimina seu uso e evolução internos.
 - Pablo confirmou que a prospecção **não está acontecendo e ainda não começou**.
 - A afirmação anterior de que a prospecção havia sido retomada foi invalidada pela atualização mais recente.
 - Pablo identifica procrastinação e fuga da frente comercial como causa operacional atual.
@@ -65,16 +67,19 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 
 ## 11. O que já não vale mais
 - Tratar a prospecção de 10 a 15 contatos como rotina já retomada ou em “Programação Contínua”: Pablo confirmou que ainda não começou.
+- Tratar como pendente a consolidação do diagnóstico, do cálculo de ROI e da proposta final da Diagnóstica MS: o item foi finalizado no Notion; revisão estética, apresentação e decisão comercial continuam separadas.
+- Tratar o item “Continuar testando o Simplifique Ops e os protocolos nos projetos” como aberto; sua finalização não equivale à conclusão do produto.
 
 ## 12. Próximo passo
 - Definir a oferta que será prospectada — Responsável: Pablo — Prazo: não definido — Status no Notion: Não iniciado.
 - Executar o primeiro bloco de prospecção e registrar contatos, respostas e próximos follow-ups — Responsável: Pablo — Prazo: não definido — Critério de conclusão: primeira rodada executada e registrada.
-- Revisar a estética e finalizar a proposta da Diagnóstica MS — Responsável: Pablo — Prazo: não definido — Sincronização externa: não.
+- Revisar a estética da proposta da Diagnóstica MS e prepará-la para apresentação — Responsável: Pablo — Prazo: não definido — Sincronização externa: não.
 
 ## 13. Próxima decisão
 - Definir uma cadência comercial mínima que Pablo consiga cumprir de forma sustentável após o primeiro bloco executado.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 28/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.
 - Fechamento diário Notion → EDC — 24/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.
 - Atualização direta de gestão — 23/09/2026.
 - [[10-Simplifique/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao|Estado anterior preservado]].

@@ -58,5 +58,43 @@ Frase curta em laranja no terço inferior. Não usar botão, link, QR code ou si
 ## Risco de poluição
 Médio se os quatro controles virarem cards, ganharem ícones ou contornos independentes. Manter somente linha, nós e labels.
 
-## Consistência com o feed
-Preserva headline dominante, respiro, laranja controlado, assinatura oficial compacta e poucos elementos observados nos Posts 1 e 2 ajustados. Varia a linguagem com fundo areia e diagrama linear funcional, sem clonar fotografia do Post 1 nem o trilho vertical do Post 2.
+## Revisão solicitada no Figma
+
+A direção inicial `no_image` foi substituída após feedback humano. A nova versão deve:
+
+- usar uma fotografia vertical relacionada à IA como fundo funcional, com crop 4:5 e overlay escuro para contraste;
+- preservar a headline como elemento dominante;
+- transformar `PERMISSÃO · APROVAÇÃO · REGISTRO · REVERSÃO` em quatro chips tecnológicos nativos e editáveis, ligados visualmente como estados de controle;
+- destacar `APROVAÇÃO` em laranja e usar bordas finas, pequenos indicadores e glow discreto, sem estética gamer ou painel fictício;
+- manter preto/areia/laranja como sistema principal, neutralizando azuis e vermelhos da fotografia quando necessário;
+- criar nova seção de revisão, preservando `248:26` como histórico;
+- aguardar aprovação explícita da imagem antes de download e inserção.
+
+## Candidato recomendado — pré-aprovação
+
+- **Candidate ID:** `IMG-C04-A`
+- **Fonte:** Pexels
+- **Pexels ID:** `7562085`
+- **Autor:** SHVETS production
+- **Página:** https://www.pexels.com/photo/hand-on-circuit-in-dark-7562085/
+- **Dimensões:** consultar no metadado da API antes do download
+- **Uso sugerido:** fundo integral com crop deslocado; área inferior escura preservada para controles
+- **Adequação:** 9/10
+- **Risco:** iluminação azul/vermelha fora da paleta; aplicar tratamento quente/escuro e laranja controlado
+- **Download:** proibido até aprovação explícita
+
+## Estado revisado
+
+`revision_rendered_and_qa_complete`
+
+## Execução final da revisão
+
+- **Seção:** `[REVISÃO 04] Estático — Limites para agentes` (`276:62`).
+- **Frame:** `01 — Limites para agentes — revisão fotográfica` (`276:63`), 1080 × 1350.
+- **Imagem:** Pexels `7562085`, aprovada por Pablo Souza, aplicada como fundo integral com overlay escuro; uso ilustrativo, sem representar cliente, equipe, sistema ou resultado da Simplifique.
+- **Composição:** headline branca dominante no eixo esquerdo; mão iluminada preservada à direita; virada em branco com `sem aprovação` em laranja.
+- **Controles:** quatro chips nativos em Auto Layout; `APROVAÇÃO` recebe borda, ponto e glow laranja controlado.
+- **Assinatura:** instância do logo oficial compacto sobre badge areia para contraste; nenhum wordmark digitado.
+- **Rastreabilidade:** metadado e arquivo local preservados; a atribuição não foi inserida na arte final, para evitar elemento editorial sem função.
+- **Publicação:** não exportado, não agendado e não publicado.
+

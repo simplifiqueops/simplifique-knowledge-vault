@@ -1,0 +1,70 @@
+{
+  "request_id": "804ee6dc-c3af-46ad-aba6-f7776343ead3",
+  "post_id": "6ab9e6b86a15118eeaae80eb",
+  "readback": {
+    "_id": "6ab9e6b86a15118eeaae80eb",
+    "status": "scheduled",
+    "scheduledFor": "2026-09-28T12:00:00.000Z",
+    "content": "A obrigação chega por e-mail, mensagem ou conversa com a contabilidade.\n\nNo começo, parece simples. Só que ninguém assume o caminho inteiro: receber, envolver quem precisa, registrar a decisão e confirmar que terminou.\n\nÉ nesse intervalo que o dono vira calendário, cobrador e memória da empresa.\n\nA mudança comunicada pela Receita Federal para o calendário do Simples em 2026 é um exemplo atual. A análise tributária cabe à empresa com apoio da contabilidade; o aprendizado operacional é outro: ter apoio técnico não substitui um responsável interno.\n\nPense na última obrigação importante da sua empresa: em que momento ela voltou para você?\n\nFonte: Receita Federal — comunicado de agosto de 2026.",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568108876_o02165px_01-hook.png",
+        "_id": "6ab9e6b86a15118eeaae80ec"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568109806_6rb0lh8t_02-cena.png",
+        "_id": "6ab9e6b86a15118eeaae80ed"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568111811_3ci2w1te_03-peso.png",
+        "_id": "6ab9e6b86a15118eeaae80ee"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568112747_4bqfufa7_04-fato.png",
+        "_id": "6ab9e6b86a15118eeaae80ef"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568113678_4389aj2n_05-virada.png",
+        "_id": "6ab9e6b86a15118eeaae80f0"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568114568_6nb2m82c_06-caminho.png",
+        "_id": "6ab9e6b86a15118eeaae80f1"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790568116136_39bvg6m9_07-autoavaliacao.png",
+        "_id": "6ab9e6b86a15118eeaae80f2"
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": {
+          "_id": "6ab74356d6773943351d9845",
+          "platform": "instagram",
+          "username": "simplifiqueops",
+          "displayName": "Simplifique Ops | Processos & Operação",
+          "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/825325964_18118582642802809_2162839646319881859_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MDAuQzMifQ%3D%3D&_nc_ohc=Naiw6o4yrwEQ7kNvwHOCeBN&_nc_oc=Adoj1WIoxSrdoNfT8M7NnWx3-ecBgcfvdxIlHcwMV7qclMFVbGw-Rc4IhS2aMazBbUc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KS916qLSMEggaEq4Gi6zBA&_nc_tpa=Q5bMBQJQ4vNDd5HGqldgjbYUmvoMKNp5MZuQ0TzQ3n7zj4-XI-50Uv5KyrBPNG1WSUi2XG7xUBtVgG09vQ&oh=00_AQJ6zAS7JswgLr4dSp5A6OIo-YWOO8NsTg17wnWm804x3g&oe=6ABE7D3F",
+          "isActive": true,
+          "profileId": "6ab73d0243e9d81dfff07f1b"
+        },
+        "profileId": "6ab73d0243e9d81dfff07f1b",
+        "customMedia": [],
+        "scheduledFor": "2026-09-28T12:00:00.000Z",
+        "status": "pending",
+        "publishAttempts": 0,
+        "contentHash": "70f4d1bf3069c1c53684b1faed0d72c1",
+        "_id": "6ab9e6b86a15118eeaae80f3"
+      }
+    ],
+    "publishNow": null,
+    "platformPostUrl": null
+  }
+}

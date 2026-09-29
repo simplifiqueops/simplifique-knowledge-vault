@@ -1,0 +1,48 @@
+{
+  "content_key": "L08-C05-excecao-volta-dono",
+  "status": "shortlist_ready",
+  "approval_required": true,
+  "downloaded": false,
+  "source": "Pexels",
+  "candidates": [
+    {
+      "candidate_id": "IMG-C05-A",
+      "slide": "01",
+      "pexels_id": 12911209,
+      "photographer": "Mizuno K",
+      "photographer_url": "https://www.pexels.com/@mizunokozuki",
+      "page_url": "https://www.pexels.com/photo/frustrated-female-white-collar-worker-in-an-office-12911209/",
+      "preview_url": "https://images.pexels.com/photos/12911209/pexels-photo-12911209.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "dimensions": "4000x6000",
+      "score": 9,
+      "use": "Capa: sobrecarga de decisões concentradas no dono, com área negativa superior para headline.",
+      "risk": "Imagem ilustrativa; não apresentar como cliente ou caso real."
+    },
+    {
+      "candidate_id": "IMG-C05-B",
+      "slide": "02",
+      "pexels_id": 5324937,
+      "photographer": "Anna Shvets",
+      "photographer_url": "https://www.pexels.com/@shvetsa",
+      "page_url": "https://www.pexels.com/photo/woman-at-table-with-documents-during-meeting-with-colleagues-5324937/",
+      "preview_url": "https://images.pexels.com/photos/5324937/pexels-photo-5324937.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "dimensions": "4137x6206",
+      "score": 8,
+      "use": "Cena reconhecível: equipe diante de uma situação fora do padrão; reservar faixa escura para a copy.",
+      "risk": "Não afirmar que a equipe fotografada está parada ou depende do dono; a relação vem da copy editorial."
+    },
+    {
+      "candidate_id": "IMG-C05-C",
+      "slide": "05",
+      "pexels_id": 28928434,
+      "photographer": "Leandro Queiroz",
+      "photographer_url": "https://www.pexels.com/@leandro-queiroz-441796143",
+      "page_url": "https://www.pexels.com/photo/calm-office-space-with-evening-sunlight-28928434/",
+      "preview_url": "https://images.pexels.com/photos/28928434/pexels-photo-28928434.jpeg?auto=compress&cs=tinysrgb&h=650",
+      "dimensions": "3024x4032",
+      "score": 8,
+      "use": "Tela final: ausência do dono representada por estação vazia, com overlay e pergunta dominante.",
+      "risk": "Pode parecer genérica sem o enquadramento textual; usar apenas como atmosfera narrativa."
+    }
+  ]
+}

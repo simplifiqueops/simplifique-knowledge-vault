@@ -1,0 +1,60 @@
+{
+  "request_id": "3d2fc2ce-9cce-4eaf-b035-f955156662c1",
+  "payload": {
+    "content": "Delegar a rotina e continuar decidindo toda exceção mantém uma parte importante da operação concentrada em você.\n\nO processo não precisa prever cada cenário. Precisa deixar claro o que o time pode resolver, o que deve escalar e o que precisa ficar registrado.\n\nComece pela pergunta mais simples: qual exceção trava primeiro quando você não está?\n\nSalve para revisar com o time e responda: qual exceção ainda para na sua mesa?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790575778529_i7wyqfnp_01-hook.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790575780756_s764n38i_02-cena.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790575781953_9om9oecj_03-virada.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790575783312_ez7cw10x_04-primeiro-movimento.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790575784309_q1f6kcv3_05-acao.png"
+      }
+    ],
+    "scheduledFor": "2026-09-29T12:00:00.000Z"
+  },
+  "approved_phrase": "APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "local_time": "2026-09-29T09:00:00-03:00",
+  "assets": [
+    {
+      "file": "01-hook.png",
+      "sha256": "8b6884366c52aa3a2b245dd586be666b705b6e2ed90bd0b840e4697b232f60e4"
+    },
+    {
+      "file": "02-cena.png",
+      "sha256": "ff2a7e1ce10c26b0929d5d85017421433e8687f5c60dbcfcb6955b9e963bb5a2"
+    },
+    {
+      "file": "03-virada.png",
+      "sha256": "841d09f4a28052862f3611ce48247d6b55facd66ccac165964490daa902cfeea"
+    },
+    {
+      "file": "04-primeiro-movimento.png",
+      "sha256": "5a89e405a396f0f825d0b939b07515798844e75504a9e5969f4b896042b61773"
+    },
+    {
+      "file": "05-acao.png",
+      "sha256": "41fb88e6171d801b0a7c891d50046b130d1fef16436b790672575b8ac6709bd3"
+    }
+  ]
+}

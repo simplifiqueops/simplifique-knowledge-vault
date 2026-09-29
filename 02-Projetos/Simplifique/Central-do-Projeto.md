@@ -4,7 +4,7 @@ projeto: Simplifique
 status: active
 demandas_no_edc: 3
 decisoes_pendentes: 1
-edc_atualizado_em: 2026-09-24
+edc_atualizado_em: 2026-09-28
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---

@@ -1,0 +1,60 @@
+{
+  "request_id": "3d2fc2ce-9cce-4eaf-b035-f955156662c1",
+  "post_id": "6aba04ad029e4cc9ed327d69",
+  "readback": {
+    "_id": "6aba04ad029e4cc9ed327d69",
+    "status": "scheduled",
+    "scheduledFor": "2026-09-29T12:00:00.000Z",
+    "content": "Delegar a rotina e continuar decidindo toda exceção mantém uma parte importante da operação concentrada em você.\n\nO processo não precisa prever cada cenário. Precisa deixar claro o que o time pode resolver, o que deve escalar e o que precisa ficar registrado.\n\nComece pela pergunta mais simples: qual exceção trava primeiro quando você não está?\n\nSalve para revisar com o time e responda: qual exceção ainda para na sua mesa?",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790575778529_i7wyqfnp_01-hook.png",
+        "_id": "6aba04ad029e4cc9ed327d6a"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790575780756_s764n38i_02-cena.png",
+        "_id": "6aba04ad029e4cc9ed327d6b"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790575781953_9om9oecj_03-virada.png",
+        "_id": "6aba04ad029e4cc9ed327d6c"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790575783312_ez7cw10x_04-primeiro-movimento.png",
+        "_id": "6aba04ad029e4cc9ed327d6d"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/media/1790575784309_q1f6kcv3_05-acao.png",
+        "_id": "6aba04ad029e4cc9ed327d6e"
+      }
+    ],
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": {
+          "_id": "6ab74356d6773943351d9845",
+          "platform": "instagram",
+          "username": "simplifiqueops",
+          "displayName": "Simplifique Ops | Processos & Operação",
+          "profilePicture": "https://scontent-lhr6-1.cdninstagram.com/v/t51.82787-19/825325964_18118582642802809_2162839646319881859_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MDAuQzMifQ%3D%3D&_nc_ohc=Naiw6o4yrwEQ7kNvwHOCeBN&_nc_oc=Adoj1WIoxSrdoNfT8M7NnWx3-ecBgcfvdxIlHcwMV7qclMFVbGw-Rc4IhS2aMazBbUc&_nc_zt=24&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=AP4hL3IEAAAA&_nc_gid=KS916qLSMEggaEq4Gi6zBA&_nc_tpa=Q5bMBQJQ4vNDd5HGqldgjbYUmvoMKNp5MZuQ0TzQ3n7zj4-XI-50Uv5KyrBPNG1WSUi2XG7xUBtVgG09vQ&oh=00_AQJ6zAS7JswgLr4dSp5A6OIo-YWOO8NsTg17wnWm804x3g&oe=6ABE7D3F",
+          "isActive": true,
+          "profileId": "6ab73d0243e9d81dfff07f1b"
+        },
+        "profileId": "6ab73d0243e9d81dfff07f1b",
+        "customMedia": [],
+        "scheduledFor": "2026-09-29T12:00:00.000Z",
+        "status": "pending",
+        "publishAttempts": 0,
+        "contentHash": "85a76398d28ec86eaa993a6d224a630a",
+        "_id": "6aba04ad029e4cc9ed327d6f"
+      }
+    ],
+    "publishNow": null,
+    "platformPostUrl": null
+  }
+}

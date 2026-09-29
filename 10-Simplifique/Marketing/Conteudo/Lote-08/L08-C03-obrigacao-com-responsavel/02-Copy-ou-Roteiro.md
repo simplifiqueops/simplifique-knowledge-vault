@@ -1,144 +1,119 @@
-# L08-C03 — Copy do carrossel
+# L08-C03 — Copy revisada do carrossel
 
 ## Contrato
 - **Stable content key:** `L08-C03-obrigacao-com-responsavel`
-- **Formato:** carrossel de 8 slides
+- **Formato:** carrossel narrativo de 7 telas
 - **Dimensão:** 1080×1350
-- **Objetivo narrativo:** transformar “prazo que caiu no colo do dono” em um fluxo visível de responsabilidade.
-- **Movimento:** consciente do problema → consciente da solução.
+- **Objetivo narrativo:** levar o leitor de uma situação cotidiana reconhecível à percepção de que terceirizar a parte técnica não define quem conduz a obrigação dentro da empresa.
+- **Movimento:** cena → tensão → reconhecimento → fato atual → virada → caminho simples → autoavaliação.
 
-## Capa
-**OBRIGAÇÃO SEM RESPONSÁVEL**  
-**VIRA URGÊNCIA NA CABEÇA DO DONO**
+## Slide 1 — A situação começa
 
-Apoio curto: `E não importa se a parte técnica foi terceirizada.`
+**A OBRIGAÇÃO CHEGOU.**  
+**E JÁ VIROU PROBLEMA SEU?**
 
-## Copy slide a slide
+Apoio: `Mesmo com a parte técnica terceirizada.`
 
-### Slide 1 — Hook
-**OBRIGAÇÃO SEM RESPONSÁVEL**  
-**VIRA URGÊNCIA NA CABEÇA DO DONO**
+**Direção de leitura:** abrir uma tensão cotidiana, não ensinar ainda.
 
-Apoio: `E não importa se a parte técnica foi terceirizada.`
-
-- **Evidence label:** hipótese operacional explícita; não é resultado medido.
-- **Density warning:** baixa; não adicionar exemplo, data ou CTA na capa.
-
-### Slide 2 — Situação reconhecível
-O aviso chega.
+## Slide 2 — A cena
 
 A contabilidade pede uma informação.  
 O prazo entra no calendário.  
 Alguém precisa decidir.
 
-**E tudo volta para você lembrar, cobrar e confirmar.**
+**Mas ninguém assume o próximo passo.**
 
-- **Evidence label:** cena diagnóstica genérica; não representa cliente real.
-- **Density warning:** média; manter quatro linhas curtas e uma conclusão dominante.
+**Direção de leitura:** imagem e frases curtas devem fazer o leitor reconhecer a própria rotina.
 
-### Slide 3 — Exemplo atual, sem aconselhamento
-Em 2026, a Receita Federal mudou para setembro o período de solicitação de ingresso no Simples Nacional para 2027 e comunicou uma decisão adicional sobre IBS e CBS. A regra de setembro não se aplica ao MEI.[1]
+## Slide 3 — O custo aparece
 
-**A decisão tributária é da empresa com apoio da contabilidade.**  
-**O ponto aqui é o fluxo interno até ela ficar concluída.**
+Então acontece o conhecido:
 
-Rodapé obrigatório: `Consulte sua contabilidade para analisar o seu caso.`
+**você lembra,**  
+**você cobra,**  
+**você confirma.**
 
-- **Evidence label:** fato externo atribuído à Receita Federal.[1]
-- **Density warning:** alta; usar blocos separados, sem reduzir corpo abaixo do padrão mobile. Se necessário, ampliar para dois slides antes de comprimir.
+E mais uma obrigação passa a morar na sua cabeça.
 
-### Slide 4 — Virada
-Ter apoio técnico não resolve sozinho estas cinco perguntas:
+**Direção de leitura:** ritmo crescente; a repetição de “você” é intencional.
 
-1. Quem recebe o aviso?  
-2. Quem reúne e analisa as informações?  
-3. Quem toma a decisão?  
-4. Onde ela fica registrada?  
-5. Quem confirma que foi concluída?
+## Slide 4 — O fato atual
 
-**Sem esse caminho, a obrigação continua dependente do dono.**
+Em 2026, uma mudança no calendário do Simples colocou uma decisão importante em setembro.[1]
 
-- **Evidence label:** framework editorial da Simplifique; não é norma tributária.
-- **Density warning:** média-alta; numerar e manter uma pergunta por linha.
+Mas o ponto não é escolher um regime aqui.
 
-### Slide 5 — Movimento 1 e 2
-**1. AVISO**  
-Uma pessoa recebe, registra o prazo e aciona quem participa.
+**É saber quem conduz a obrigação dentro da empresa até ela terminar.**
 
-**2. ANÁLISE**  
-As informações são reunidas e as dúvidas seguem para o apoio técnico certo.
+Rodapé: `A decisão tributária deve ser analisada com a contabilidade. A regra de setembro citada não se aplica ao MEI.`
 
-**Aviso não é decisão. Encaminhar não é concluir.**
+**Direção de leitura:** contextualizar sem transformar o post em comunicado tributário.
 
-- **Evidence label:** princípio operacional.
-- **Density warning:** média; dois blocos, sem exemplos adicionais.
+## Slide 5 — A virada
 
-### Slide 6 — Movimento 3 e 4
-**3. DECISÃO**  
-A autoridade responsável escolhe com base na análise disponível.
+**TER CONTADOR NÃO SUBSTITUI UM RESPONSÁVEL DENTRO DA EMPRESA.**
 
-**4. REGISTRO**  
-A escolha, a data e a evidência ficam em um lugar definido.
+O apoio técnico orienta.
 
-**Se a decisão fica só na conversa, ela volta a depender da memória.**
+Alguém ainda precisa receber, coordenar a decisão e acompanhar a conclusão.
 
-- **Evidence label:** princípio operacional; “autoridade responsável” deve ser definida pela empresa, não inferida na peça.
-- **Density warning:** média.
+**Direção de leitura:** esta é a mudança de percepção central do carrossel.
 
-### Slide 7 — Movimento 5
-**5. CONFIRMAÇÃO**
+## Slide 6 — O caminho fica simples
 
-Alguém verifica se a ação foi executada, guarda o comprovante quando existir e fecha o acompanhamento.
+Uma pessoa recebe e aciona.  
+Quem precisa participa da análise.  
+A decisão fica registrada.  
+Alguém confirma que terminou.
 
-**Concluído não é “acho que alguém fez”.**  
-É ter responsável, registro e confirmação.
+**Quando esse caminho tem dono, a obrigação deixa de depender da sua memória.**
 
-- **Evidence label:** princípio operacional; não promete ausência de erro ou risco.
-- **Density warning:** baixa-média.
+**Direção de leitura:** mostrar movimento, não apresentar um manual de cinco etapas.
 
-### Slide 8 — Próximo movimento
-Escolha uma obrigação crítica da sua empresa.
+## Slide 7 — Volta para a realidade do leitor
 
-Passe por estes cinco pontos:
+Pense na última obrigação importante que chegou à empresa.
 
-`AVISO → ANÁLISE → DECISÃO → REGISTRO → CONFIRMAÇÃO`
+**Em que momento ela perdeu o responsável e voltou para você?**
 
-**Em qual deles o responsável desaparece e tudo volta para você?**
+Apoio: `No aviso, na decisão ou na confirmação?`
 
-Assinatura: componente oficial Simplifique, pequeno e sem competir com a pergunta.
+Assinatura: componente oficial Simplifique, pequeno.
 
-- **Evidence label:** exercício diagnóstico.
-- **Density warning:** média; CTA em bloco único, sem link ou QR code.
+## Legenda revisada
 
-## Legenda
-Uma obrigação importante não fica sob controle só porque alguém recebeu o aviso ou porque a parte técnica foi terceirizada.
+A obrigação chega por e-mail, mensagem ou conversa com a contabilidade.
 
-Entre o alerta e a conclusão existem pelo menos cinco movimentos: aviso, análise, decisão, registro e confirmação.
+No começo, parece simples. Só que ninguém assume o caminho inteiro: receber, envolver quem precisa, registrar a decisão e confirmar que terminou.
 
-Quando nenhum responsável conduz esse caminho, o dono vira calendário, cobrador e memória da empresa.
+É nesse intervalo que o dono vira calendário, cobrador e memória da empresa.
 
-A mudança comunicada pela Receita Federal para o calendário do Simples Nacional em 2026 é um exemplo atual de obrigação que exige coordenação interna. A definição tributária deve ser analisada com a contabilidade; esta peça não recomenda regime nem forma de recolhimento.[1]
+A mudança comunicada pela Receita Federal para o calendário do Simples em 2026 é um exemplo atual. A análise tributária cabe à empresa com apoio da contabilidade; o aprendizado operacional é outro: **ter apoio técnico não substitui um responsável interno.**[1]
 
-**Escolha uma obrigação crítica: em qual dos cinco movimentos o responsável desaparece e tudo volta para você?**
+Pense na última obrigação importante da sua empresa: em que momento ela voltou para você?
 
 ## CTA
-**Em qual ponto o responsável desaparece: aviso, análise, decisão, registro ou confirmação?**
 
-CTA de autoavaliação e interação. Não há URL, QR code ou “link da bio” nesta versão.
+**Em que momento ela perdeu o responsável e voltou para você?**
+
+CTA de autoavaliação e interação. Sem URL, QR code ou destino externo.
 
 ## Alt text
-Carrossel editorial em preto, branco, areia e laranja. A capa afirma que obrigação sem responsável vira urgência na cabeça do dono. Os slides mostram uma situação em que aviso, prazo e decisão retornam ao proprietário, citam de forma atribuída a mudança de calendário do Simples Nacional para 2027 e apresentam um fluxo de cinco movimentos: aviso, análise, decisão, registro e confirmação. O último slide pede que a pessoa identifique onde o responsável desaparece. Não há fotografia de cliente nem resultado prometido.
+
+Carrossel de sete telas que combina fotografia editorial em tons escuros e quentes com telas tipográficas em preto, areia, branco e laranja. A narrativa começa com uma obrigação que chega à empresa, mostra o dono assumindo lembrança, cobrança e confirmação, cita de forma atribuída uma mudança no calendário do Simples em 2026 e conclui que apoio técnico não substitui um responsável interno. A tela final pergunta em que momento a obrigação voltou para o dono.
 
 ## Alegações intencionalmente excluídas
 - Qual regime tributário escolher ou como recolher IBS/CBS.
-- Interpretação individual da situação fiscal de qualquer empresa.
+- Interpretação individual da situação fiscal.
 - Promessa de evitar multa, atraso, erro ou dependência.
 - Responsabilização genérica da contabilidade.
-- Caso, testemunho, métrica, cliente, comentário ou urgência inventada.
+- Caso, testemunho, métrica, cliente ou urgência inventada.
 - Destino externo não confirmado.
 
 ## Estado
-`ready_for: visual_direction | qa`
+
+`revision_rendered_in_figma | qa_approved | unpublished`
 
 ## Sources
 

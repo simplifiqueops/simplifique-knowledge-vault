@@ -25,6 +25,7 @@ Cliente da Simplifique.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026 — Bloqueio da conta Meta e contingência de tráfego]].
 - [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|24/09/2026 — Demonstração da plataforma de audiovisual e produtos]].
 - [[03-Reunioes/2026/09/2026-09-23--prioridades-paginas-internacionalizacao-einerd|23/09/2026 — Prioridades de páginas e internacionalização]].
 - [[03-Reunioes/2026/09/2026-09-21--performance-onboarding-w6-expansao-internacional-einerd|21/09/2026 — Performance, onboarding W6 e expansão internacional]].

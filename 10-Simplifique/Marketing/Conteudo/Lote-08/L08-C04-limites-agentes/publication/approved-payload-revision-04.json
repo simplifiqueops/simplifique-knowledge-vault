@@ -1,0 +1,23 @@
+{
+  "request_id": "4f3fa547-e084-4e6b-a225-b8ae06142b72",
+  "payload": {
+    "content": "Quanto mais autonomia uma automação recebe, mais claros precisam ser os limites fora dela.\n\nAntes de liberar uma ação, responda:\n\n- O que ela pode acessar e alterar?\n- O que precisa de aprovação humana?\n- Onde cada decisão fica registrada?\n- Como interromper ou desfazer uma ação?\n\nA Docker apresentou ambientes isolados para agentes que executam tarefas longas, com ênfase em isolamento e políticas de acesso. A leitura útil para um negócio não é copiar essa infraestrutura. É adotar o princípio: autonomia vem depois de limite, processo e controle.\n\nAntes de automatizar, defina o limite.",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790569709215_9nim7sux_01-limites-agentes.png"
+      }
+    ],
+    "scheduledFor": "2026-09-29T21:00:00.000Z"
+  },
+  "approved_phrase": "APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "local_time": "2026-09-29T18:00:00-03:00",
+  "asset_sha256": "cfdf3d84d838526b7693b76cbbd3ffd7daa0ddf8479ac6059c94adc7106ca83f"
+}

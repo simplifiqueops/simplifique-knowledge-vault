@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/09/2026-09-29--transicao-acessos-backup-dados-clinica-sanabria|29/09/2026 — Transição de acessos e backup de dados — Clínica Sanabria]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday-complemento|28/09/2026 — Reunião Time RP | Semanal — Black Friday — complemento de evidência — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday|28/09/2026 — Reunião Time RP | Semanal — Black Friday — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-28--planejamento-black-friday-realizando-potenciais|28/09/2026 — Planejamento da Black Friday — Realizando Potenciais]]

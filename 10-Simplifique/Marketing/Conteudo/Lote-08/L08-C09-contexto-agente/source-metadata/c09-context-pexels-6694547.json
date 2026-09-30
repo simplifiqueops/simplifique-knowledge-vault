@@ -1,0 +1,29 @@
+{
+  "candidate_id": "C09-CONTEXT-A",
+  "source": "Pexels",
+  "pexels_id": 6694547,
+  "page_url": "https://www.pexels.com/photo/a-businesswoman-working-with-papers-in-the-office-6694547/",
+  "download_url": "https://images.pexels.com/photos/6694547/pexels-photo-6694547.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-6694547.jpg&fm=jpg",
+  "photographer": "Tima Miroshnichenko",
+  "photographer_url": "https://www.pexels.com/@tima-miroshnichenko/",
+  "dimensions": {
+    "width": 5989,
+    "height": 3993
+  },
+  "accessed_at": "2026-09-29T21:50:07.694441Z",
+  "planned_use": "Tela 02 como fotografia full-bleed com overlay escuro; materializa documentos dispersos e interpretação ainda humana.",
+  "score": {
+    "function": 2,
+    "brand_fit": 2,
+    "naturalness": 2,
+    "technical": 2,
+    "traceability": 2,
+    "total": 10
+  },
+  "risks": [
+    "Cena genérica de banco de imagem; não apresentar como cliente ou situação real.",
+    "Evitar crop que elimine simultaneamente documentos e laptop."
+  ],
+  "sha256": "d4535abddf643ac3476948d4cbc080eed0fa03fffc108f840cc2ed5198bec985",
+  "bytes": 2823661
+}

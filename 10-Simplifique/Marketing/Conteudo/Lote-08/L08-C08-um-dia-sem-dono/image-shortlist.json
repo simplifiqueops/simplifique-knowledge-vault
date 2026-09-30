@@ -1,0 +1,91 @@
+{
+  "status": "downloaded_and_applied",
+  "accessed_at": "2026-09-29T10:57:45-03:00",
+  "approved_at": "2026-09-29T11:04:31-03:00",
+  "approved_by": "Pablo Souza",
+  "selected_pair": ["C08-BAG-A", "C08-HEAD-A"],
+  "asset_context": "L08-C08 — O que continua funcionando se você ficar um dia fora?",
+  "communication_goal": "Usar fotografia como metáfora explícita de ausência na tela 01 e como ilustração de sobrecarga decisória na tela 04, sem sugerir cliente, caso ou resultado real.",
+  "format": "carousel_1080x1350",
+  "queries": [
+    {"source": "Pexels", "intent": "travel_bag", "query": "packed suitcase indoors dark"},
+    {"source": "Pexels", "intent": "overloaded_owner", "query": "overwhelmed business owner desk hands head"},
+    {"source": "Pixabay", "intent": "travel_bag", "query": "packed suitcase indoors"},
+    {"source": "Pixabay", "intent": "overloaded_owner", "query": "overwhelmed business owner desk"}
+  ],
+  "shortlist": [
+    {
+      "candidate_id": "C08-BAG-A",
+      "intent": "travel_bag",
+      "source": "Pexels",
+      "source_id": 7128341,
+      "page_url": "https://www.pexels.com/photo/a-suitcase-by-the-door-7128341/",
+      "preview_url": "https://images.pexels.com/photos/7128341/pexels-photo-7128341.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "author": "cottonbro studio",
+      "author_url": "https://www.pexels.com/@cottonbro",
+      "dimensions": {"width": 4064, "height": 6096},
+      "score": {"function": 2, "fit": 2, "naturalness": 2, "technical": 2, "traceability": 2, "total": 10},
+      "recommended_use": "Tela 01, full-bleed com overlay escuro; usar a parede de tijolos como área para a headline e preservar a mala no terço inferior.",
+      "risk": "A mala ainda remete a viagem; o texto e o tratamento escuro devem manter o sentido operacional, não turístico."
+    },
+    {
+      "candidate_id": "C08-BAG-B",
+      "intent": "travel_bag",
+      "source": "Pexels",
+      "source_id": 7368313,
+      "page_url": "https://www.pexels.com/photo/suitcase-standing-in-a-living-room-7368313/",
+      "preview_url": "https://images.pexels.com/photos/7368313/pexels-photo-7368313.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "author": "Vlada Karpovich",
+      "author_url": "https://www.pexels.com/@vlada-karpovich",
+      "dimensions": {"width": 4338, "height": 6507},
+      "score": {"function": 2, "fit": 2, "naturalness": 1, "technical": 2, "traceability": 2, "total": 9},
+      "recommended_use": "Alternativa de capa mais clara; crop vertical com headline no alto e escurecimento quente para aproximar da identidade.",
+      "risk": "A cena é mais aspiracional e decorativa, com maior risco de parecer conteúdo de viagem."
+    },
+    {
+      "candidate_id": "C08-HEAD-A",
+      "intent": "overloaded_owner",
+      "source": "Pexels",
+      "source_id": 21336097,
+      "page_url": "https://www.pexels.com/photo/an-overwhelmed-man-sitting-in-office-in-front-of-a-laptop-21336097/",
+      "preview_url": "https://images.pexels.com/photos/21336097/pexels-photo-21336097.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "author": "Dhimas Aditya",
+      "author_url": "https://www.pexels.com/@dhimas-aditya-1374045",
+      "dimensions": {"width": 3130, "height": 3913},
+      "score": {"function": 2, "fit": 2, "naturalness": 2, "technical": 2, "traceability": 2, "total": 10},
+      "recommended_use": "Tela 04 como background full-bleed, crop mantendo cabeça e mãos no centro-direita e área escura superior/esquerda para a copy.",
+      "risk": "A cena comunica estresse no computador; a copy deve explicitar concentração decisória para não reduzir a mensagem a cansaço genérico."
+    },
+    {
+      "candidate_id": "C08-HEAD-B",
+      "intent": "overloaded_owner",
+      "source": "Pexels",
+      "source_id": 6837640,
+      "page_url": "https://www.pexels.com/photo/an-exhausted-man-working-on-his-laptop-6837640/",
+      "preview_url": "https://images.pexels.com/photos/6837640/pexels-photo-6837640.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "author": "Nataliya Vaitkevich",
+      "author_url": "https://www.pexels.com/@n-voitkevich",
+      "dimensions": {"width": 3401, "height": 5101},
+      "score": {"function": 2, "fit": 2, "naturalness": 1, "technical": 2, "traceability": 2, "total": 9},
+      "recommended_use": "Alternativa mais limpa para a tela 04; crop central e faixa de overlay no topo para copy curta.",
+      "risk": "Pose mais encenada e clichê de sobrecarga; usar apenas como ilustração, nunca como prova."
+    }
+  ],
+  "rejected_patterns": [
+    "mala aberta com roupas, por excesso de elementos e leitura turística",
+    "pilhas de papel e poses exageradas, por aparência de banco de imagens antigo",
+    "imagens sem espaço para copy ou com metadados insuficientes"
+  ],
+  "recommended_pair": ["C08-BAG-A", "C08-HEAD-A"],
+  "downloaded": true,
+  "approval_required": false,
+  "local_assets": {
+    "C08-BAG-A": "assets/c08-bag-a-pexels-7128341.jpg",
+    "C08-HEAD-A": "assets/c08-head-a-pexels-21336097.jpg"
+  },
+  "applied_to_figma": {
+    "C08-BAG-A": "265:52",
+    "C08-HEAD-A": "265:93"
+  },
+  "next_step": "Revisão concluída no artefato existente; aguardar revisão humana antes de exportar, agendar ou publicar."
+}

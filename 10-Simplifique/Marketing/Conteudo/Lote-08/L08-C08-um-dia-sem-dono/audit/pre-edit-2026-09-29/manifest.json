@@ -1,0 +1,15 @@
+{
+  "captured_at": "2026-09-29T10:57:45-03:00",
+  "figma_file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+  "page_node": "182:8",
+  "section_id": "265:50",
+  "frame_ids": ["265:52", "265:59", "265:74", "265:93", "265:101"],
+  "reference_nodes": ["228:8", "235:8"],
+  "screenshots": [
+    "post-01-adjusted.png",
+    "post-02-adjusted.png",
+    "section-265-50-before-revision.png"
+  ],
+  "mutation_performed": false,
+  "purpose": "Preservar estado anterior e referências visuais antes da revisão in-place da Produção 08."
+}

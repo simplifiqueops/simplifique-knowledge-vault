@@ -24,6 +24,7 @@ Cliente da Simplifique em estado estável, com finalização do serviço em **9 
 
 ### Reuniões recentes
 
+- [[03-Reunioes/2026/09/2026-09-29--transicao-acessos-backup-dados-clinica-sanabria|29/09/2026 — Transição de acessos e backup de dados]]
 - [[03-Reunioes/2026/09/2026-09-21--desempenho-crm-campanhas-pipeline-clinica-sanabria|21/09/2026 — Desempenho do CRM, campanhas e pipeline]]
 - [[03-Reunioes/2026/09/2026-09-10--configuracao-2fa-facebook-clinica-sanabria|10/09/2026 — Configuração do 2FA do Facebook]]
 - [[03-Reunioes/2026/09/2026-09-09--alinhamento-ia-csv-sanabria-mini-franquia-backstage|09/09/2026 — Alinhamento de IA do CSV, Clínica Sanabria e mini franquia Backstage]]

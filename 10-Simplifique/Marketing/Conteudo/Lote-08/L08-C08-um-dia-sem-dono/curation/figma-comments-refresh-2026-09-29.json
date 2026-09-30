@@ -1,0 +1,525 @@
+{
+  "comments": [
+    {
+      "id": "1945695331",
+      "uuid": "8f7ce102-fe11-4ae0-b1ff-9d27aaa685a5",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-29T13:58:13.327Z",
+      "resolved_at": null,
+      "message": "Coloca uma imagam de balança no background",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "265:59",
+        "node_offset": {
+          "x": 784,
+          "y": 373
+        },
+        "stable_path": [
+          "265:59"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1942998764",
+      "uuid": "62194a8e-ba7c-4fb2-a84e-6efd5d03d378",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:39:19.178Z",
+      "resolved_at": null,
+      "message": "Aqui Cabe uma imagem de mala de viagem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "265:52",
+        "node_offset": {
+          "x": 886,
+          "y": 312
+        },
+        "stable_path": [
+          "265:52"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1942998172",
+      "uuid": "69113579-6f1b-4867-b1d0-f93bb753cb08",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:38:53.980Z",
+      "resolved_at": null,
+      "message": "Ficou esquisito esses elementos, alinha eles melhor.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "265:101",
+        "node_offset": {
+          "x": 969,
+          "y": 612
+        },
+        "stable_path": [
+          "265:101"
+        ],
+        "region_width": 891,
+        "region_height": 126,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1942997814",
+      "uuid": "8073c019-fa21-4200-a14c-c733512c0e46",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:38:36.781Z",
+      "resolved_at": null,
+      "message": "Aqui Cabe alguém com muita coisa na cabeça",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "265:93",
+        "node_offset": {
+          "x": 700,
+          "y": 855
+        },
+        "stable_path": [
+          "265:93"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1942996759",
+      "uuid": "c07296e4-f573-4d5d-9c26-2f4fbfd1ba2b",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:37:46.619Z",
+      "resolved_at": "2026-09-28T16:43:08.425Z",
+      "message": "Aqui cabe a Imagem de Um alvo.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:45",
+        "node_offset": {
+          "x": 791,
+          "y": 1173
+        },
+        "stable_path": [
+          "261:45"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1942996328",
+      "uuid": "68527e89-c077-40de-9a0e-889a38b3a1c3",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:37:26.428Z",
+      "resolved_at": "2026-09-28T14:57:20.120Z",
+      "message": "Aqui cabe uma imagem de Crm aberto ou engrenagens..",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:89",
+        "node_offset": {
+          "x": 617,
+          "y": 395
+        },
+        "stable_path": [
+          "261:89"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1942995943",
+      "uuid": "93e7c9f3-36db-4f45-b09e-0d4bf8a9249a",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:37:07.332Z",
+      "resolved_at": "2026-09-28T14:57:15.077Z",
+      "message": "Estão desalinhados",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:89",
+        "node_offset": {
+          "x": 1017,
+          "y": 702
+        },
+        "stable_path": [
+          "261:89"
+        ],
+        "region_width": 934,
+        "region_height": 125,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1942994975",
+      "uuid": "174f4b9d-449a-436e-a7cc-92e44c1c136f",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:36:24.272Z",
+      "resolved_at": "2026-09-28T13:42:01.744Z",
+      "message": "Aqui cabe uma imagem de fundo.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "257:54",
+        "node_offset": {
+          "x": 584,
+          "y": 919
+        },
+        "stable_path": [
+          "257:54"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1942994646",
+      "uuid": "bca049d1-e673-4957-9500-97a166c6cb42",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:36:09.767Z",
+      "resolved_at": "2026-09-28T13:42:10.300Z",
+      "message": "Consegue estilizar melhor isso?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "257:70",
+        "node_offset": {
+          "x": 160,
+          "y": 1036
+        },
+        "stable_path": [
+          "257:70"
+        ],
+        "region_width": 100,
+        "region_height": 648,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1942994317",
+      "uuid": "ea2b1692-555f-4b7c-9c1d-19e212b1766f",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:35:53.996Z",
+      "resolved_at": "2026-09-28T13:42:06.447Z",
+      "message": "Ficou confuso esse Slide",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "257:59",
+        "node_offset": {
+          "x": 1046,
+          "y": 1208
+        },
+        "stable_path": [
+          "257:59"
+        ],
+        "region_width": 994,
+        "region_height": 1153,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1942993510",
+      "uuid": "4a0c55a7-aae6-40ab-8bc9-bf9a9f4bdb3d",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T06:35:17.945Z",
+      "resolved_at": "2026-09-28T13:41:51.593Z",
+      "message": "Falta imagem aqui de fundo.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "257:39",
+        "node_offset": {
+          "x": 896,
+          "y": 833
+        },
+        "stable_path": [
+          "257:39"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1942881132",
+      "uuid": "d90934a7-372d-4db3-801f-1fa40a65ad04",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:21:03.896Z",
+      "resolved_at": "2026-09-28T13:41:41.725Z",
+      "message": "Pode incluir uma imagem de fundo pra ajudar a quebrar os chapados.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "251:77",
+        "node_offset": {
+          "x": 853,
+          "y": 930
+        },
+        "stable_path": [
+          "251:77"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1942880922",
+      "uuid": "06b8fd70-cc25-4a53-882b-856aa6a614b9",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:20:45.329Z",
+      "resolved_at": "2026-09-28T13:41:39.500Z",
+      "message": "A diagramação ficou ruim aqui, hierarquia ficou pessima.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "251:64",
+        "node_offset": {
+          "x": 1006,
+          "y": 1277
+        },
+        "stable_path": [
+          "251:64"
+        ],
+        "region_width": 930,
+        "region_height": 1172,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1942880537",
+      "uuid": "327ad28c-3df6-4020-94a9-e988f1cc4240",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:20:11.192Z",
+      "resolved_at": "2026-09-28T13:41:36.878Z",
+      "message": "Esse bloco de 3 boxes pode ser centralizado na lâmina para ficar melhor",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "251:53",
+        "node_offset": {
+          "x": 816,
+          "y": 1079
+        },
+        "stable_path": [
+          "251:53"
+        ],
+        "region_width": 716,
+        "region_height": 79,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1942880258",
+      "uuid": "b7fa5751-0919-4082-b94b-84efa82ee2a0",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:19:46.690Z",
+      "resolved_at": "2026-09-28T13:41:34.733Z",
+      "message": "a ilustração pode vir aqui.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "251:42",
+        "node_offset": {
+          "x": 937,
+          "y": 1265
+        },
+        "stable_path": [
+          "251:42"
+        ],
+        "region_width": 766,
+        "region_height": 420,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1942879918",
+      "uuid": "bf396ce7-964a-474f-a28a-d4d9016f2de0",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:19:16.555Z",
+      "resolved_at": "2026-09-28T13:41:32.759Z",
+      "message": "Esse desenho pode ser ilustrado por imagem de banco",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "251:33",
+        "node_offset": {
+          "x": 885,
+          "y": 1252
+        },
+        "stable_path": [
+          "251:33"
+        ],
+        "region_width": 847,
+        "region_height": 266,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1942879598",
+      "uuid": "cc278817-5746-45a7-96f7-ed558f4765a9",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:18:47.688Z",
+      "resolved_at": "2026-09-28T05:59:13.592Z",
+      "message": "O carrossel ficou muito técnico",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "182:8",
+        "node_offset": {
+          "x": 6161,
+          "y": 17683
+        },
+        "stable_path": [
+          "182:8"
+        ],
+        "region_width": 6220,
+        "region_height": 1607,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1942869220",
+      "uuid": "5c043a48-8cd0-410e-be08-4db1042e43f1",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:02:05.914Z",
+      "resolved_at": "2026-09-28T04:20:17.269Z",
+      "message": "Melhora a Estética dos botões aqui para ficar mais tecnologico para parecer que está falando de ia mesmo.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "248:27",
+        "node_offset": {
+          "x": 387,
+          "y": 808
+        },
+        "stable_path": [
+          "248:27"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1942868921",
+      "uuid": "52ac7df1-4072-4fc0-b9c9-6d2140a41634",
+      "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+      "parent_id": "",
+      "user": {
+        "handle": "Pablo Backstage",
+        "img_url": "https://s3-alpha.figma.com/profile/c68ce344-d25b-49d7-86a1-ba6d01991622",
+        "id": "1296926940077506305"
+      },
+      "created_at": "2026-09-28T04:01:35.640Z",
+      "resolved_at": "2026-09-28T04:20:15.795Z",
+      "message": "Adiciona uma Imagem de Fundo aqui relacionado a Ia por favor.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "248:27",
+        "node_offset": {
+          "x": 900,
+          "y": 116
+        },
+        "stable_path": [
+          "248:27"
+        ]
+      },
+      "order_id": "1"
+    }
+  ]
+}

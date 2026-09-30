@@ -6,8 +6,10 @@
   "policy": {
     "max_concurrent_items": 1,
     "max_items_per_run": 1,
-    "active_mode": "design_first",
-    "video_work": "deferred",
+    "active_mode": "design_only",
+    "video_work": "disabled_until_explicit_reactivation",
+    "daily_request_entry": "automatic_queue_reconciliation",
+    "daily_approval_flow": "copy_review_then_approved_for_production",
     "figma_file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "figma_page_node": "182:8",
     "publish_automatically": false,
@@ -863,7 +865,7 @@
     {
       "content_key": "L08-C08-um-dia-sem-dono",
       "order": 8,
-      "status": "revision_queued",
+      "status": "draft_ready",
       "format": "carousel",
       "title": "O que continua funcionando se você ficar um dia fora?",
       "territory": "dependência do dono",
@@ -871,10 +873,10 @@
       "objective": "Gerar identificação e conduzir naturalmente à pesquisa Quanto sua empresa depende de você?.",
       "requires_user_on_camera": false,
       "started_at": "2026-09-27T13:44:08.165510Z",
-      "updated_at": "2026-09-27T13:52:14.023843Z",
-      "checkpoint": "figma_render_and_post_render_qa_complete",
-      "completed_at": "2026-09-27T13:52:14.023843Z",
-      "draft_completed_at": "2026-09-27T13:52:14.023843Z",
+      "updated_at": "2026-09-29T11:10:32-03:00",
+      "checkpoint": "figma_revision_in_place_and_post_render_qa_complete",
+      "completed_at": "2026-09-29T11:10:32-03:00",
+      "draft_completed_at": "2026-09-29T11:10:32-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/01-Estrategia.md",
@@ -896,17 +898,44 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-05-initial.png",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/section-final.png",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-03-final.png",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/05-Feedback-Figma.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/05-Feedback-Figma.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/06-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/image-shortlist.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/curation/pexels-travel-bag.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/curation/pexels-overloaded-owner.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/curation/pixabay-travel-bag.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/curation/pixabay-overloaded-owner.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/sources/notion-marketing-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/sources/notion-benchmark-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/sources/notion-products-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/sources/notion-formats-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/sources/notion-awareness-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/audit/pre-edit-2026-09-29/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/audit/pre-edit-2026-09-29/post-01-adjusted.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/audit/pre-edit-2026-09-29/post-02-adjusted.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/audit/pre-edit-2026-09-29/section-265-50-before-revision.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/curation/figma-comments-refresh-2026-09-29.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/assets/c08-bag-a-pexels-7128341.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/assets/c08-head-a-pexels-21336097.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/source-metadata/c08-bag-a-pexels-7128341.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/source-metadata/c08-head-a-pexels-21336097.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/section-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-01-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-02-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-03-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-04-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-05-revision-final.png"
       ],
-      "qa_decision": "revision_required",
-      "approved_for": "sequential_revision_after_C06_C07",
+      "qa_decision": "approved",
+      "approved_for": "user_review",
       "publication_status": "unpublished",
-      "blocking_issues": [
-        "Aguardar conclusão das Produções 06 e 07 e aprovação da curadoria específica da Produção 08."
-      ],
+      "blocking_issues": [],
       "non_blocking_notes": [
-        "Os prompts auxiliares da tela 03 tiveram tamanho e contraste ampliados após inspeção móvel.",
-        "Exportação, agendamento e publicação dependem de aprovação explícita."
+        "Comentários Figma 1942998764, 1942997814 e 1942998172 foram atendidos na seção existente.",
+        "C08-BAG-A e C08-HEAD-A foram aplicadas com rastreabilidade nos frames 265:52 e 265:93.",
+        "A sequência da tela 05 foi realinhada em Auto Layout nativo.",
+        "A seção completa e os cinco frames foram reinspecionados após a revisão.",
+        "Artefato editável, não exportado, não agendado e não publicado."
       ],
       "figma_target": {
         "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
@@ -993,9 +1022,50 @@
           "I265:117;8:79",
           "I265:117;8:80",
           "I265:117;8:81",
-          "I265:117;8:82"
+          "I265:117;8:82",
+          "320:68",
+          "320:69",
+          "320:70",
+          "320:71",
+          "320:72",
+          "320:73"
         ],
-        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=265-50"
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=265-50",
+        "created_node_ids": [
+          "320:68",
+          "320:69",
+          "320:70",
+          "320:71",
+          "320:72",
+          "320:73"
+        ],
+        "image_overlay_node_ids": [
+          "320:68",
+          "320:69"
+        ],
+        "auto_layout_node_ids": [
+          "320:70",
+          "320:71",
+          "320:72",
+          "320:73"
+        ],
+        "revision_mode": "in_place",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "approved_downloaded_and_applied",
+        "recommended_pair": [
+          "C08-BAG-A",
+          "C08-HEAD-A"
+        ],
+        "selected_pair": [
+          "C08-BAG-A",
+          "C08-HEAD-A"
+        ],
+        "approved_by": "Pablo Souza",
+        "approved_at": "2026-09-29T11:04:31-03:00",
+        "approval_required": false,
+        "downloaded": true
       }
     },
     {
@@ -1025,6 +1095,241 @@
         "A suíte de 103 testes, o check interno e a validação sintática de todos os módulos JavaScript passaram.",
         "A inspeção visual autenticada em navegador não foi executada porque os backends gráficos do host falharam por bibliotecas de sistema ausentes; a limitação está registrada no relatório."
       ]
+    },
+    {
+      "content_key": "L08-C09-contexto-agente",
+      "order": 10,
+      "status": "ready",
+      "format": "carousel",
+      "title": "Agente útil depende de contexto de negócio reutilizável e ações governadas",
+      "territory": "processos",
+      "source_topic_key": "radar-fe91a63554c1228f",
+      "objective": "Levar o público de mais dados para contexto confiável, regra, permissão e aprovação antes da automação agentiva.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-5fe7013793da6204b625f7a5",
+        "requested_at": "2026-09-29T12:12:16Z",
+        "desired_format": "carrossel",
+        "requester": "pablo"
+      },
+      "checkpoint": "figma_image_revision_in_place_and_post_render_qa_complete",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "non_blocking_notes": [
+        "A seção existente 328:68 foi revisada no lugar; nenhuma seção paralela foi criada.",
+        "A fotografia Pexels 6694547 foi aplicada na tela 02 com origem, autoria e arquivo local preservados.",
+        "A seção completa e os seis frames foram reinspecionados após a revisão image-led.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ],
+      "started_at": "2026-09-29T14:30:06.384644-03:00",
+      "updated_at": "2026-09-29T18:55:36.187599-03:00",
+      "request_status": "ready",
+      "completed_at": "2026-09-29T18:55:36.187599-03:00",
+      "draft_completed_at": "2026-09-29T14:42:44.928442-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-01-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-02-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-03-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-04-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-05-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-06-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/06-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/assets/c09-context-pexels-6694547.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/source-metadata/c09-context-pexels-6694547.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/audit/pre-image-revision-2026-09-29/section-328-68.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/section-image-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-02-image-revision-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/figma-readback-image-revision.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-01-image-revision-current.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-02-image-revision-current.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-03-image-revision-current.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-04-image-revision-current.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-05-image-revision-current.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C09-contexto-agente/qa-screenshots/frame-06-image-revision-current.png"
+      ],
+      "qa_decision": "approved",
+      "approved_for": "user_review",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "328:68",
+        "frame_ids": [
+          "328:69",
+          "328:70",
+          "328:71",
+          "328:72",
+          "328:73",
+          "328:74"
+        ],
+        "node_ids": [
+          "328:68",
+          "328:69",
+          "328:70",
+          "328:71",
+          "328:72",
+          "328:73",
+          "328:74",
+          "328:75",
+          "328:76",
+          "328:77",
+          "328:78",
+          "328:79",
+          "328:80",
+          "328:81",
+          "328:82",
+          "328:83",
+          "328:84",
+          "328:85",
+          "328:86",
+          "328:87",
+          "328:88",
+          "328:89",
+          "328:90",
+          "328:91",
+          "328:92",
+          "328:93",
+          "328:94",
+          "328:95",
+          "328:96",
+          "328:97",
+          "328:98",
+          "328:99",
+          "328:100",
+          "328:101",
+          "328:102",
+          "328:103",
+          "328:104",
+          "328:105",
+          "328:106",
+          "328:107",
+          "328:108",
+          "328:109",
+          "328:110",
+          "328:111",
+          "328:112",
+          "328:113",
+          "328:114",
+          "328:115",
+          "328:116",
+          "328:117",
+          "328:118",
+          "328:119",
+          "328:120",
+          "328:121",
+          "328:122",
+          "328:123",
+          "328:124",
+          "328:125",
+          "328:126",
+          "328:127",
+          "328:128",
+          "328:129",
+          "328:130",
+          "328:131",
+          "328:132",
+          "328:133",
+          "328:134",
+          "328:135",
+          "328:136"
+        ],
+        "mutated_node_ids": [
+          "328:119",
+          "328:130",
+          "328:131",
+          "328:132",
+          "328:133",
+          "328:80",
+          "328:81",
+          "328:83",
+          "328:85",
+          "328:87",
+          "328:88",
+          "328:89"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=328-68",
+        "image_node_ids": [
+          "337:74"
+        ],
+        "overlay_node_ids": [
+          "337:75"
+        ],
+        "revision_mode": "in_place",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C09-CONTEXT-A",
+        "source": "Pexels",
+        "pexels_id": 6694547,
+        "photographer": "Tima Miroshnichenko",
+        "page_url": "https://www.pexels.com/photo/a-businesswoman-working-with-papers-in-the-office-6694547/",
+        "score": 10,
+        "approval_required": false,
+        "downloaded": true
+      }
+    },
+    {
+      "content_key": "L08-C11-governanca-automacoes-d5384a",
+      "order": 11,
+      "status": "queued",
+      "request_status": "queued",
+      "format": "carousel",
+      "title": "Governança de automações em alta",
+      "territory": "automação",
+      "source_topic_key": "automation-governance-2026-09",
+      "objective": "Reduz risco operacional sem travar a execução.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-d5384a9b07966269b967802a",
+        "duplicate_request_keys": [
+          "social-c7b94540e2c74e5c43c3f463",
+          "social-19662dbc80600a552edfadb7",
+          "social-bb2120c3a364d0ddbe124c89"
+        ],
+        "requested_at": "2026-09-29T18:16:58Z",
+        "desired_format": "carrossel",
+        "requester": "calendar-zernio",
+        "planned_for": "2026-09-29"
+      },
+      "frozen_snapshot": {
+        "title": "Governança de automações em alta",
+        "summary": "Equipes estão formalizando controles para automações.",
+        "why_it_matters": "Reduz risco operacional sem travar a execução.",
+        "detected_at": "2026-09-25T11:00:00Z",
+        "window": "72h",
+        "territory": "automação",
+        "heat_score": 24,
+        "relevance_score": 5,
+        "confidence": "high",
+        "facts": [
+          "Relatório publicado com amostra declarada."
+        ],
+        "sources": [
+          {
+            "title": "Relatório de automação",
+            "url": "https://example.com/report",
+            "published_at": "2026-09-25T09:00:00Z"
+          }
+        ],
+        "risks": [
+          "Não generalizar além da amostra."
+        ]
+      },
+      "checkpoint": "daily_request_reconciled",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "non_blocking_notes": [
+        "3 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico."
+      ],
+      "updated_at": "2026-09-29T21:47:48.831356Z"
     }
   ]
 }

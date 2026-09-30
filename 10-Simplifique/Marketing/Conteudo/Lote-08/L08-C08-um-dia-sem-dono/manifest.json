@@ -6,23 +6,39 @@
   "format": "carousel",
   "dimensions": {"width": 1080, "height": 1350, "unit": "px"},
   "slide_count": 5,
-  "status": "revision_queued",
-  "qa_decision": "revision_required",
-  "image_direction": "travel_bag_and_overloaded_person_images_requested",
+  "status": "draft_ready",
+  "checkpoint": "figma_revision_in_place_and_post_render_qa_complete",
+  "updated_at": "2026-09-29T11:10:32-03:00",
+  "qa_decision": "approved",
   "publication_status": "unpublished",
-  "approved_for": "sequential_revision_after_C06_C07",
-  "blocking_issues": ["Aguardar conclusão das Produções 06 e 07 e aprovação da curadoria específica da Produção 08."],
+  "approved_for": "user_review",
+  "blocking_issues": [],
   "non_blocking_notes": [
-    "Os prompts auxiliares da tela 03 tiveram tamanho e contraste ampliados após inspeção móvel.",
-    "Exportação, agendamento e publicação dependem de aprovação explícita."
+    "As fotografias são ilustrações editoriais e não representam cliente, caso ou resultado.",
+    "Artefato editável, não exportado, não agendado e não publicado."
   ],
+  "image_curation": {
+    "status": "approved_downloaded_and_applied",
+    "selected_pair": ["C08-BAG-A", "C08-HEAD-A"],
+    "approved_by": "Pablo Souza",
+    "approved_at": "2026-09-29T11:04:31-03:00",
+    "local_assets": [
+      "assets/c08-bag-a-pexels-7128341.jpg",
+      "assets/c08-head-a-pexels-21336097.jpg"
+    ]
+  },
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "265:50",
     "frame_ids": ["265:52", "265:59", "265:74", "265:93", "265:101"],
-    "node_ids": ["265:50","265:51","265:52","265:53","265:54","265:55","265:56","265:57","265:58","265:59","265:60","265:61","265:62","265:63","265:64","265:65","265:66","265:67","265:68","265:69","265:70","265:71","265:72","265:73","265:74","265:75","265:76","265:77","265:78","265:79","265:80","265:81","265:82","265:83","265:84","265:85","265:86","265:87","265:88","265:89","265:90","265:91","265:92","265:93","265:94","265:95","265:96","265:97","265:98","265:99","265:100","265:101","265:102","265:103","265:104","265:105","265:106","265:107","265:108","265:109","265:110","265:111","265:112","265:113","265:114","265:115","265:116","265:117","I265:117;8:77","I265:117;8:78","I265:117;8:79","I265:117;8:80","I265:117;8:81","I265:117;8:82"],
-    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=265-50"
+    "created_node_ids": ["320:68", "320:69", "320:70", "320:71", "320:72", "320:73"],
+    "mutated_node_ids": ["265:52", "265:53", "265:54", "265:55", "265:56", "265:57", "265:58", "265:93", "265:94", "265:95", "265:96", "265:97", "265:98", "265:99", "265:100", "265:101", "265:105", "265:106", "265:107", "265:108", "265:109", "265:110", "265:111", "265:112"],
+    "image_overlay_node_ids": ["320:68", "320:69"],
+    "auto_layout_node_ids": ["320:70", "320:71", "320:72", "320:73"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=265-50",
+    "revision_mode": "in_place",
+    "duplicate_section_created": false
   },
   "artifacts": [
     "01-Estrategia.md",
@@ -30,20 +46,23 @@
     "03-Direcao-Visual-ou-Audiovisual.md",
     "04-QA.md",
     "05-Feedback-Figma.md",
-    "manifest.json",
+    "06-Curadoria-Imagens.md",
+    "image-shortlist.json",
     "citations-ledger.json",
-    "sources/notion-marketing.json",
-    "sources/notion-benchmark.json",
-    "sources/notion-products.json",
-    "sources/notion-formats.json",
-    "sources/notion-awareness.json",
-    "qa-screenshots/section-initial.png",
-    "qa-screenshots/frame-01-initial.png",
-    "qa-screenshots/frame-02-initial.png",
-    "qa-screenshots/frame-03-initial.png",
-    "qa-screenshots/frame-04-initial.png",
-    "qa-screenshots/frame-05-initial.png",
-    "qa-screenshots/section-final.png",
-    "qa-screenshots/frame-03-final.png"
+    "curation/figma-comments-refresh-2026-09-29.json",
+    "assets/c08-bag-a-pexels-7128341.jpg",
+    "assets/c08-head-a-pexels-21336097.jpg",
+    "source-metadata/c08-bag-a-pexels-7128341.json",
+    "source-metadata/c08-head-a-pexels-21336097.json",
+    "audit/pre-edit-2026-09-29/manifest.json",
+    "audit/pre-edit-2026-09-29/post-01-adjusted.png",
+    "audit/pre-edit-2026-09-29/post-02-adjusted.png",
+    "audit/pre-edit-2026-09-29/section-265-50-before-revision.png",
+    "qa-screenshots/section-revision-final.png",
+    "qa-screenshots/frame-01-revision-final.png",
+    "qa-screenshots/frame-02-revision-final.png",
+    "qa-screenshots/frame-03-revision-final.png",
+    "qa-screenshots/frame-04-revision-final.png",
+    "qa-screenshots/frame-05-revision-final.png"
   ]
 }

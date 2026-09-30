@@ -4,7 +4,7 @@
 
 - **Objetivo visual:** representar a ausência do dono como um intervalo que revela se a operação continua ou entra em espera.
 - **Dimensões:** 1080 × 1350 px, RGB/sRGB, 5 telas.
-- **Direção de imagem:** **no_image_recommended**. Tipografia, uma linha de tempo partida e formas nativas comunicam o teste com mais clareza e evitam sugerir operação real de cliente.
+- **Direção de imagem revisada por feedback do Figma:** fotografia funcional nas telas 01 e 04. Tela 01 usa uma mala pronta como metáfora explícita de ausência; tela 04 usa pessoa sobrecarregada como ilustração da concentração de decisões. Ambas foram aplicadas em full-bleed, com overlay controlado e sem sugerir cliente, caso ou resultado real. Candidatos e rastreabilidade em `06-Curadoria-Imagens.md` e `source-metadata/`.
 - **Paleta:** preto `#151515`, areia `#E9DFC9`, branco quente `#F6F3EC`, laranja `#F15A24`.
 - **Tipografia:** Inter; headline dominante, corpo legível e rótulos curtos em caixa alta.
 - **Área segura:** mínimo de 96 px nas laterais e 110 px no topo/rodapé.

@@ -3,16 +3,17 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-09-28T13:58:31-03:00
+atualizado_em: 2026-09-29T18:32:49-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd]]"
-fonte_atualizacao: "https://fathom.video/share/8eAajNveygF6KNezKGAPwWn2x1B1sEFE"
-confianca: "alta para a ausência de mudança material no escopo de Audiovisual; média para o contexto de tráfego porque a transcrição recebida foi compactada"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-29"
+confianca: "alta para a finalização dos spots verificada no Notion; média para o restante do estado de Audiovisual por falta de atualização operacional mais recente"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
+- O Notion confirmou como finalizada a revisão e entrega dos spots comerciais; o item saiu dos próximos passos ativos e a dependência externa associada deixou de ser bloqueio vigente.
 - Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 28/09 tratou do bloqueio da conta Meta, da contingência de tráfego e do compartilhamento de pixel; não atribuiu nova demanda a Pablo nem alterou o estado confirmado das entregas audiovisuais.
 - Confirmações sem mudança: o painel continua como visão consolidada da operação de Audiovisual; o acesso de Pablo, a completude dos produtos, a validação da sincronização com o Monday, a integração com o Daily e a conclusão do bot Ella permanecem sem novo status confirmado.
 - Conflitos/lacunas: a transcrição de 28/09 foi compactada; o painel recebeu apenas uma menção breve, sem decisão ou compromisso. A sincronização com o Monday, os cadastros incompletos e o estado do bot Ella após o prazo de 25/09 continuam sem validação.
@@ -39,7 +40,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; acesso de Pablo, preenchimento dos produtos e validação da sincronização ainda pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: integração desejada entre Monday, painel e Daily.
-- Demais remessas, spots e internacionalização de materiais ainda não conciliados como concluídos.
+- Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
 ## 5. Responsáveis
@@ -63,7 +64,6 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Pablo ainda não domina integralmente o material e os tipos de funis do Ei Nerd.
 
 ## 8. Bloqueios
-- Revisão dos spots permanece dependente de insumo externo não especificado no Notion.
 - Materiais de imagem com IA dependem do envio das copies.
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 
@@ -72,6 +72,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Bot Ella: em andamento; prazo definido em 25/09/2026.
 - Integração com Daily: não implementada.
 - Curso de YouTube Dark: estudo não iniciado ou progresso não informado.
+- Spots comerciais: revisão e entrega finalizadas no Notion em 29/09/2026.
 
 ## 10. O que está pausado
 - Transformar inteligência de marketing e funis em demandas operacionais de Pablo sem estudo e validação.
@@ -82,6 +83,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Tratar a prévia do painel como não iniciada: ela já foi enviada a Marcel e a frente está andando.
 - Tratar a incorporação das gravações de Marcel como demanda aberta: essa etapa já foi finalizada; resta concluir o bot Ella.
 - Manter como abertas a atualização da planilha de remessa com indicação dos vídeos a gravar e a revisão da VSL do YouTube da Arquite Internacional: o Notion registra ambas como `Finalizado`.
+- Manter como aberta a revisão e entrega dos spots comerciais: o Notion registra o item como `Finalizado`.
 
 ## 12. Próximo passo
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -91,7 +93,6 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Concluir o bot Ella no Monday — Responsável: Pablo — Prazo: 25/09/2026 — Status: Em progresso — Critério de conclusão: bot validado no fluxo definido e retirado da fila.
 - Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Dependência: estrutura mínima do painel validada.
 - Reconciliar Monday, planilha de cursos e Google Drive antes de declarar pendências ou entregas de Audiovisual — Responsável: Pablo — Prazo: não definido.
-- Revisar e entregar os spots comerciais — Responsável: Pablo — Prazo: não definido — Dependência: insumo externo não especificado.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
 
 ## 13. Próxima decisão
@@ -107,6 +108,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 29/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; revisão e entrega dos spots comerciais verificadas como `Finalizado`.
 - [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|Bloqueio da conta Meta e contingência de tráfego — Ei Nerd — 28/09/2026]] — processada sem mudança material no escopo de Audiovisual.
 - Fechamento diário Notion → EDC — 26/09/2026; verificação independente da fonte `Projetos e Clientes - Demandas Pablo` recuperou duas finalizações não refletidas pelo snapshot.
 - [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|Demonstração da plataforma de audiovisual e produtos — Ei Nerd — 24/09/2026]].

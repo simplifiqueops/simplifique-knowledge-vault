@@ -57,8 +57,15 @@
     "Artefato editável e não publicado; exportação, agendamento e publicação dependem de aprovação explícita."
   ],
   "approved_for": "user_review",
-  "publication_status": "unpublished",
-  "export_status": "not_exported",
+  "publication_status": "published",
+  "export_status": "exported",
+  "publication": {
+    "provider": "Zernio", "post_id": "6abf099929a8ba9a9dcc4804", "account": "@simplifiqueops",
+    "account_id": "6ab74356d6773943351d9845", "mode": "publish_now",
+    "published_at": "2026-10-01T22:32:05-03:00", "timezone": "America/Sao_Paulo",
+    "status_readback": "published", "media_count": 6,
+    "platform_post_url": "https://www.instagram.com/p/Dd-UD3KCqxc/", "receipt": "publication/zernio-receipt.json"
+  },
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",

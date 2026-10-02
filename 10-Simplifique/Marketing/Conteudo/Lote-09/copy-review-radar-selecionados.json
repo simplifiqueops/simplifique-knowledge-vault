@@ -1,0 +1,16 @@
+[
+  {
+    "request_key": "social-ca05b4e2991132ea799a14be",
+    "content_key": "radar-891911ed6cb87d4a",
+    "title": "Um agente ligado o dia inteiro não corrige um processo confuso",
+    "status": "copy_review",
+    "review_copy_text": "CAPA\nUm agente ligado o dia inteiro não corrige um processo confuso.\n\nTELA 2\nEle encontra um lead sem resposta.\n\nE agora?\n\n• Só avisa?\n• Prepara a mensagem?\n• Envia sozinho?\n\nTELA 3\nSe ninguém definiu isso antes, o agente não ganhou autonomia.\n\nEle herdou a ambiguidade.\n\nTELA 4\nAntes de conectar um agente, defina:\n\n1. Qual tarefa é responsabilidade dele?\n2. Qual dado é a fonte oficial?\n3. O que ele pode fazer sem aprovação?\n4. Quem revisa as exceções?\n5. Quando ele deve parar e pedir decisão?\n\nTELA 5\nComece com uma tarefa estreita.\n\nDê acesso só ao necessário.\n\nTeste com revisão humana e um jeito claro de interromper.\n\nTELA 6\nAgente útil não é o que faz tudo.\n\nÉ o que sabe o que fazer, com qual dado e quando pedir decisão.\n\nLEGENDA\nAgentes que permanecem ativos e se conectam a sistemas ampliam o que pode ser acompanhado e executado.\n\nMas disponibilidade não resolve uma regra que nunca foi definida.\n\nAntes da ferramenta, delimite a tarefa. Depois, escolha a fonte oficial, separe leitura de ação, defina aprovações e deixe claro quando o agente deve parar.\n\nAutomatizar um processo confuso não cria clareza. Só faz a confusão circular com menos pausa.\n\nCTA\nSalve este checklist antes de conectar um agente aos sistemas da empresa."
+  },
+  {
+    "request_key": "social-e88acefa40356db529c779fe",
+    "content_key": "radar-d773d51a8bfa1608",
+    "title": "Usar mais IA não prova que o trabalho melhorou",
+    "status": "copy_review",
+    "review_copy_text": "CAPA\nUsar mais IA não prova que o trabalho melhorou.\n\nTELA 2\nA ferramenta entrou na rotina.\n\nMas você consegue apontar qual tarefa ficou melhor?\n\nTELA 3\nMais uso é sinal de adoção.\n\nNão é prova de produtividade, retorno ou resultado.\n\nTELA 4\nAntes de ampliar o uso, escolha uma tarefa recorrente e defina:\n\n• o resultado esperado;\n• quem confere a entrega;\n• o que conta como erro;\n• quando manter, ajustar ou parar.\n\nTELA 5\nNa revisão, não pergunte só “quanto usamos?”.\n\nPergunte:\n\n• A tarefa ficou melhor?\n• O que piorou?\n• Surgiu uma nova dependência?\n• Esse uso deve continuar?\n\nTELA 6\nMaturidade operacional não é colocar IA em todo lugar.\n\nÉ testar um trabalho real e manter só o que ajuda.\n\nLEGENDA\nO uso de IA pode crescer sem que a empresa saiba o que mudou no trabalho.\n\nVolume mostra adoção. Para avaliar utilidade, você precisa voltar à tarefa: qual resultado era esperado, quem revisou, quais erros apareceram e por que vale manter, ajustar ou parar.\n\nComece pequeno. Escolha um trabalho recorrente, registre o ponto de partida e combine a revisão antes do teste.\n\nA ferramenta vem depois da pergunta certa.\n\nCTA\nSalve este roteiro e use na próxima revisão: manter, ajustar ou parar?"
+  }
+]

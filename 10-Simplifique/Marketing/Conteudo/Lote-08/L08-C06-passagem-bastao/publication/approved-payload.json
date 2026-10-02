@@ -1,0 +1,41 @@
+{
+  "request_id": "8e46a23e-6a0c-443b-ac3a-da281851098c",
+  "payload": {
+    "content": "Passar uma tarefa adiante muda quem executa. Isso não transfere automaticamente o ponto de decisão.\n\nQuando resultado, limite e momento de escalar não estão claros, a equipe faz até onde consegue — e a escolha volta para o dono.\n\nNa próxima delegação, combine quatro pontos: resultado esperado, espaço de decisão, gatilho de escalada e local de registro.\n\nSalve para revisar antes da próxima passagem. Qual decisão ainda volta para você?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904716515_jt0txst0_c06-01.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904718697_j59yjdav_c06-02.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904719788_6s40srfc_c06-03.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904722259_koinbxjj_c06-04.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904723311_77wutmgc_c06-05.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904724740_wp4pe22o_c06-06.png"
+      }
+    ],
+    "publishNow": true
+  },
+  "authorization_source": "user command message 19461",
+  "timezone": "America/Sao_Paulo"
+}

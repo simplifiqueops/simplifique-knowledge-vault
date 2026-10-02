@@ -592,8 +592,8 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C06-passagem-bastao/qa-screenshots/frame-06-revision-final.png"
       ],
       "qa_decision": "approved",
-      "approved_for": "user_review",
-      "publication_status": "unpublished",
+      "approved_for": "published",
+      "publication_status": "published",
       "blocking_issues": [],
       "non_blocking_notes": [
         "A seção existente 257:38 foi revisada no lugar; nenhuma seção paralela foi criada.",
@@ -700,6 +700,17 @@
         "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=257-38",
         "revision_mode": "in_place",
         "duplicate_section_created": false
+      },
+      "publication": {
+        "provider": "Zernio",
+        "post_id": "6abf099929a8ba9a9dcc4804",
+        "account": "@simplifiqueops",
+        "account_id": "6ab74356d6773943351d9845",
+        "published_at": "2026-10-01T22:32:05-03:00",
+        "timezone": "America/Sao_Paulo",
+        "status_readback": "published",
+        "media_count": 6,
+        "platform_post_url": "https://www.instagram.com/p/Dd-UD3KCqxc/"
       }
     },
     {
@@ -743,8 +754,8 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C07-followup-memoria/qa-screenshots/frame-06-revision-final.png"
       ],
       "qa_decision": "approved",
-      "approved_for": "user_review",
-      "publication_status": "unpublished",
+      "approved_for": "scheduled_publication",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "non_blocking_notes": [
         "Comentários Figma 1942996759, 1942996328 e 1942995943 foram atendidos na seção existente.",
@@ -860,6 +871,16 @@
         ],
         "approval_required": false,
         "downloaded": true
+      },
+      "publication": {
+        "provider": "Zernio",
+        "post_id": "6abf09f3111b5f23db84f111",
+        "account": "@simplifiqueops",
+        "account_id": "6ab74356d6773943351d9845",
+        "scheduled_for": "2026-10-02T09:00:00-03:00",
+        "timezone": "America/Sao_Paulo",
+        "status_readback": "scheduled",
+        "media_count": 6
       }
     },
     {
@@ -927,8 +948,8 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C08-um-dia-sem-dono/qa-screenshots/frame-05-revision-final.png"
       ],
       "qa_decision": "approved",
-      "approved_for": "user_review",
-      "publication_status": "unpublished",
+      "approved_for": "scheduled_publication",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "non_blocking_notes": [
         "Comentários Figma 1942998764, 1942997814 e 1942998172 foram atendidos na seção existente.",
@@ -1066,6 +1087,16 @@
         "approved_at": "2026-09-29T11:04:31-03:00",
         "approval_required": false,
         "downloaded": true
+      },
+      "publication": {
+        "provider": "Zernio",
+        "post_id": "6abf09fe111b5f23db84f11e",
+        "account": "@simplifiqueops",
+        "account_id": "6ab74356d6773943351d9845",
+        "scheduled_for": "2026-10-02T18:00:00-03:00",
+        "timezone": "America/Sao_Paulo",
+        "status_readback": "scheduled",
+        "media_count": 5
       }
     },
     {
@@ -1279,8 +1310,8 @@
     {
       "content_key": "L08-C11-governanca-automacoes-d5384a",
       "order": 11,
-      "status": "queued",
-      "request_status": "queued",
+      "status": "copy_review",
+      "request_status": "copy_review",
       "format": "carousel",
       "title": "Governança de automações em alta",
       "territory": "automação",
@@ -1323,13 +1354,30 @@
           "Não generalizar além da amostra."
         ]
       },
-      "checkpoint": "daily_request_reconciled",
+      "checkpoint": "copy_package_ready_for_daily_review",
       "publication_status": "unpublished",
       "blocking_issues": [],
       "non_blocking_notes": [
-        "3 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico."
+        "3 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
+        "O snapshot antigo usa example.com e não sustenta a alegação de tendência; a expressão “em alta” foi excluída da copy.",
+        "Copy baseada nas diretrizes canônicas do Notion relidas em 01/10/2026; design, Figma, exportação, agendamento e publicação não autorizados."
       ],
-      "updated_at": "2026-09-29T21:47:48.831356Z"
+      "started_at": "2026-10-01T20:45:37-03:00",
+      "updated_at": "2026-10-01T20:45:37-03:00",
+      "draft_completed_at": "2026-10-01T20:45:37-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-marketing-2026-10-01.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-benchmark-2026-10-01.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-products-2026-10-01.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-formats-2026-10-01.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-awareness-2026-10-01.json"
+      ],
+      "qa_decision": "approved_with_notes",
+      "approved_for": "copy_review"
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "request_id": "a9584166-b811-426a-9aa9-86e0ba26892e",
+  "payload": {
+    "content": "Uma conversa respondida não é, necessariamente, uma oportunidade acompanhada.\n\nQuando o próximo passo, a data, o responsável e o histórico não estão definidos, o follow-up volta a depender de alguém lembrar — muitas vezes, do dono.\n\nO primeiro movimento não é trocar de ferramenta. É terminar cada conversa com quatro respostas:\n\n- o que acontece depois;\n- quando;\n- com quem;\n- e onde isso fica registrado.\n\nDepois, a ferramenta ajuda a sustentar a rotina.\n\nQual conversa está sem próximo passo hoje?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904809239_6qqlfzy3_c07-01.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904810949_pqhkmufb_c07-02.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904812027_kvlj34y3_c07-03.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904813049_i398vqvf_c07-04.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904814008_3j2bgmsl_c07-05.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790904815080_9mgpa2jj_c07-06.png"
+      }
+    ],
+    "scheduledFor": "2026-10-02T12:00:00.000Z"
+  },
+  "authorization_source": "user command message 19461",
+  "timezone": "America/Sao_Paulo"
+}

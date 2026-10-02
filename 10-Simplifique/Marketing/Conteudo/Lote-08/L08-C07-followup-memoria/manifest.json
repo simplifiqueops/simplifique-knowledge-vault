@@ -13,7 +13,14 @@
   "status": "draft_ready",
   "qa_decision": "approved",
   "image_direction": "C07-TARGET-A_and_C07-GEARS-B_approved_and_downloaded",
-  "publication_status": "unpublished",
+  "publication_status": "scheduled",
+  "publication": {
+    "provider": "Zernio", "post_id": "6abf09f3111b5f23db84f111", "account": "@simplifiqueops",
+    "account_id": "6ab74356d6773943351d9845", "mode": "scheduled",
+    "scheduled_for": "2026-10-02T09:00:00-03:00", "scheduled_for_utc": "2026-10-02T12:00:00.000Z",
+    "timezone": "America/Sao_Paulo", "status_readback": "scheduled", "media_count": 6,
+    "receipt": "publication/zernio-receipt.json"
+  },
   "approved_for": "user_review",
   "blocking_issues": [],
   "non_blocking_notes": [

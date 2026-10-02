@@ -10,7 +10,14 @@
   "checkpoint": "figma_revision_in_place_and_post_render_qa_complete",
   "updated_at": "2026-09-29T11:10:32-03:00",
   "qa_decision": "approved",
-  "publication_status": "unpublished",
+  "publication_status": "scheduled",
+  "publication": {
+    "provider": "Zernio", "post_id": "6abf09fe111b5f23db84f11e", "account": "@simplifiqueops",
+    "account_id": "6ab74356d6773943351d9845", "mode": "scheduled",
+    "scheduled_for": "2026-10-02T18:00:00-03:00", "scheduled_for_utc": "2026-10-02T21:00:00.000Z",
+    "timezone": "America/Sao_Paulo", "status_readback": "scheduled", "media_count": 5,
+    "receipt": "publication/zernio-receipt.json"
+  },
   "approved_for": "user_review",
   "blocking_issues": [],
   "non_blocking_notes": [

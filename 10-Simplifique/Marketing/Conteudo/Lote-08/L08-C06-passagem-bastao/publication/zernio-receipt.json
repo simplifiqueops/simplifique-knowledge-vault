@@ -1,0 +1,19 @@
+{
+  "request_id": "preserved in approved-payload.json",
+  "recovered_after_timeout": true,
+  "readback": {
+    "post_id": "6abf099929a8ba9a9dcc4804",
+    "status": "published",
+    "scheduledFor": "2026-10-02T01:32:05.770Z",
+    "media_count": 6,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "status": "published",
+        "account_id": "6ab74356d6773943351d9845",
+        "username": "simplifiqueops",
+        "platformPostUrl": "https://www.instagram.com/p/Dd-UD3KCqxc/"
+      }
+    ]
+  }
+}

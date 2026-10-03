@@ -1,0 +1,16 @@
+{
+  "candidate_id": "C14-REMINDER-A",
+  "source": "Pexels",
+  "source_id": 4586901,
+  "page_url": "https://www.pexels.com/photo/a-person-holding-blue-sticky-note-4586901/",
+  "photographer": "Anna Shvets",
+  "photographer_url": "https://www.pexels.com/@shvetsa",
+  "source_dimensions": {"width": 4049, "height": 6073},
+  "local_dimensions": {"width": 2000, "height": 3000},
+  "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C14-contratar-mais-gente-não-resolve-um-processo-que/assets/c14-reminders-pexels-4586901.jpg",
+  "sha256": "1732d778d396dbcc3af1de1bb8112f8d4fee6dd38a26fbc4f10ca443fc5b8a93",
+  "accessed_at": "2026-10-02T20:08:11-03:00",
+  "score": {"function": 2, "fit": 2, "naturalness": 1, "technical": 2, "traceability": 2, "total": 9},
+  "usage": "Faixa vertical à direita no estático L09-C14; overlay escuro leve; representação editorial, não prova.",
+  "license_claim": "Não declarar além da disponibilidade pública exibida pela Pexels na consulta."
+}

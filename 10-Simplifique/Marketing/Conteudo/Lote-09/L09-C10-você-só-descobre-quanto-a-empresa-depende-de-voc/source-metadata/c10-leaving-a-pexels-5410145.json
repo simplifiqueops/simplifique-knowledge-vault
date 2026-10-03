@@ -1,0 +1,22 @@
+{
+  "candidate_id": "C10-LEAVING-A",
+  "source": "Pexels",
+  "id": 5410145,
+  "page_url": "https://www.pexels.com/photo/young-woman-leaving-floral-shop-with-box-5410145/",
+  "photographer": "Amina Filkins",
+  "photographer_url": "https://www.pexels.com/@amina-filkins",
+  "width": 4000,
+  "height": 6000,
+  "query": "small business owner leaving shop",
+  "score": 9,
+  "scores": {
+    "function": 2,
+    "alignment": 2,
+    "naturalness": 1,
+    "technical": 2,
+    "traceability": 2
+  },
+  "use": "full-bleed cover with dark overlay; crop preserves doorway and body",
+  "risk": "Flowers and bag may suggest a specific errand; use only as a generic departure scene, not evidence or customer depiction.",
+  "accessed_at": "2026-10-02"
+}

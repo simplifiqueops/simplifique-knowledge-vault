@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C11-qual-decisão-sua-equipe-mais-devolve-para-você",
+  "request_key": "social-l09-c11-202610",
+  "title": "Desconto sem regra transforma toda venda em uma nova aprovação",
+  "status": "ready",
+  "completed_at": "2026-10-02T11:22:48-03:00",
+  "timezone": "America/Sao_Paulo",
+  "format": "estático",
+  "dimensions": "1080x1350",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "qa_decision": "approved",
+  "approved_for": "user_review",
+  "diagnostic_cta_authorized": false,
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "369:80",
+    "frame_ids": ["369:81"],
+    "image_node_ids": ["369:82"],
+    "overlay_node_ids": ["369:83"],
+    "logo_node_ids": ["369:89"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=369-80",
+    "revision_mode": "new_section",
+    "duplicate_section_created": false,
+    "editable_descendant_count": 14,
+    "overflow_count": 0
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C11-CALC-A",
+    "source": "Pixabay",
+    "source_id": 7574111,
+    "author": "sweetlouise",
+    "page_url": "https://pixabay.com/photos/calculator-calculation-mathematics-7574111/",
+    "score": 9,
+    "approval_required": false,
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C11-qual-decisão-sua-equipe-mais-devolve-para-você/assets/c11-calculator-pixabay-7574111.jpg"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "citations-ledger.json",
+    "assets/c11-calculator-pixabay-7574111.jpg",
+    "source-metadata/c11-calculator-pixabay-7574111.json",
+    "qa-screenshots/frame-final.png",
+    "qa-screenshots/section-final.png",
+    "manifest.json"
+  ],
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "A repetição verbal ‘a negociação para para pedir autorização’ foi preservada da copy aprovada e pode ser refinada por Pablo na revisão do Figma.",
+    "O artefato permanece editável, não exportado, não agendado e não publicado."
+  ]
+}

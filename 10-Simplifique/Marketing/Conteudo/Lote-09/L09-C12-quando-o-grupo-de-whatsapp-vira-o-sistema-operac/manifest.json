@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "request_key": "social-l09-c12-202610",
+  "content_key": "L09-C12-quando-o-grupo-de-whatsapp-vira-o-sistema-operac",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "publication_status": "unpublished",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "395:86",
+    "frame_ids": ["395:87", "395:94", "395:105", "395:115", "395:130", "395:146"],
+    "image_node_id": "395:88",
+    "overlay_node_id": "395:89",
+    "logo_node_id": "395:154",
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=395-86",
+    "dimensions": "1080x1350",
+    "frame_count": 6,
+    "editable": true
+  },
+  "image": {
+    "source": "Pixabay",
+    "source_id": 7063593,
+    "author": "danhuynh",
+    "page_url": "https://pixabay.com/photos/desk-workspace-office-desk-laptop-7063593/",
+    "score": 9,
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C12-quando-o-grupo-de-whatsapp-vira-o-sistema-operac/assets/l09c12-desk-a-pixabay-7063593.jpg",
+    "applied": true
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "approved_for": "user_review",
+    "section_screenshot": "qa-screenshots/section-initial.png",
+    "individual_frames_checked": 6
+  },
+  "external_actions": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  }
+}

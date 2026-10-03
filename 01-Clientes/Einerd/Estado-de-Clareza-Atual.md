@@ -3,19 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-09-29T18:32:49-03:00
+atualizado_em: 2026-10-02T18:32:57-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-09-29"
-confianca: "alta para a finalização dos spots verificada no Notion; média para o restante do estado de Audiovisual por falta de atualização operacional mais recente"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-02"
+confianca: "alta para os três status em progresso e para a finalização dos spots verificados no Notion; média para o restante do estado de Audiovisual por falta de atualização operacional mais recente"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
+- O Notion registra como `Em progresso` a revisão da plataforma por Pablo, a reconciliação entre Monday, planilha de cursos e Google Drive e a conexão dos dados do painel audiovisual ao Daily.
+- Essas três mudanças confirmam início de execução, sem comprovar conclusão, entrega ou resolução das dependências associadas.
 - O Notion confirmou como finalizada a revisão e entrega dos spots comerciais; o item saiu dos próximos passos ativos e a dependência externa associada deixou de ser bloqueio vigente.
 - Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 28/09 tratou do bloqueio da conta Meta, da contingência de tráfego e do compartilhamento de pixel; não atribuiu nova demanda a Pablo nem alterou o estado confirmado das entregas audiovisuais.
-- Confirmações sem mudança: o painel continua como visão consolidada da operação de Audiovisual; o acesso de Pablo, a completude dos produtos, a validação da sincronização com o Monday, a integração com o Daily e a conclusão do bot Ella permanecem sem novo status confirmado.
+- Confirmações sem mudança: o painel continua como visão consolidada da operação de Audiovisual; a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella permanecem sem novo status confirmado.
 - Conflitos/lacunas: a transcrição de 28/09 foi compactada; o painel recebeu apenas uma menção breve, sem decisão ou compromisso. A sincronização com o Monday, os cadastros incompletos e o estado do bot Ella após o prazo de 25/09 continuam sem validação.
 - Contexto fora do escopo operacional deste EDC: a conta principal do Meta foi bloqueada e a equipe iniciou contingência de tráfego e investigação do compartilhamento de pixel. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
 
@@ -37,9 +39,9 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
 
 ## 4. Frentes ativas
-- Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; acesso de Pablo, preenchimento dos produtos e validação da sincronização ainda pendentes.
+- Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo está em progresso, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
-- Governança de demandas: integração desejada entre Monday, painel e Daily.
+- Governança de demandas: reconciliação operacional e conexão do painel ao Daily em progresso.
 - Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
@@ -68,9 +70,9 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 
 ## 9. Indicadores
-- Painel audiovisual e de produtos: primeira versão funcional demonstrada; acesso de Pablo, completude dos produtos e sincronização com o Monday ainda não confirmados.
+- Painel audiovisual e de produtos: primeira versão funcional demonstrada; revisão por Pablo em progresso, enquanto completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
 - Bot Ella: em andamento; prazo definido em 25/09/2026.
-- Integração com Daily: não implementada.
+- Integração com Daily: em progresso; conclusão não confirmada.
 - Curso de YouTube Dark: estudo não iniciado ou progresso não informado.
 - Spots comerciais: revisão e entrega finalizadas no Notion em 29/09/2026.
 
@@ -87,12 +89,12 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 
 ## 12. Próximo passo
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
-- Revisar a plataforma após receber o acesso e apontar ajustes necessários — Responsável: Pablo — Prazo: não definido — Dependência: acesso criado e enviado por Marcel.
+- Revisar a plataforma após receber o acesso e apontar ajustes necessários — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso.
 - Preencher os detalhes dos produtos na plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Verificar a sincronização de tarefas e status entre a plataforma e o Monday — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Concluir o bot Ella no Monday — Responsável: Pablo — Prazo: 25/09/2026 — Status: Em progresso — Critério de conclusão: bot validado no fluxo definido e retirado da fila.
-- Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Dependência: estrutura mínima do painel validada.
-- Reconciliar Monday, planilha de cursos e Google Drive antes de declarar pendências ou entregas de Audiovisual — Responsável: Pablo — Prazo: não definido.
+- Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Dependência: estrutura mínima do painel validada.
+- Reconciliar Monday, planilha de cursos e Google Drive antes de declarar pendências ou entregas de Audiovisual — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
 
 ## 13. Próxima decisão
@@ -108,6 +110,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 02/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou três itens em progresso apesar do snapshot sem delta.
 - Fechamento diário Notion → EDC — 29/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; revisão e entrega dos spots comerciais verificadas como `Finalizado`.
 - [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|Bloqueio da conta Meta e contingência de tráfego — Ei Nerd — 28/09/2026]] — processada sem mudança material no escopo de Audiovisual.
 - Fechamento diário Notion → EDC — 26/09/2026; verificação independente da fonte `Projetos e Clientes - Demandas Pablo` recuperou duas finalizações não refletidas pelo snapshot.

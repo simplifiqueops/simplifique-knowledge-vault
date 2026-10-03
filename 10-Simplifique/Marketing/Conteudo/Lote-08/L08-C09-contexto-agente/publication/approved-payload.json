@@ -1,0 +1,41 @@
+{
+  "request_id": "cad5b54a-385e-47af-8025-c778497036a6",
+  "payload": {
+    "content": "Conectar CRM, planilha e histórico não resolve uma pergunta básica: o agente entende o que esses registros significam para a rotina?\n\nAntes de agir, ele precisa de quatro definições operacionais:\n\n— qual contexto considerar;\n— qual regra seguir;\n— o que pode alterar;\n— quando pedir aprovação.\n\nQuando toda exceção ainda volta para a revisão do dono, a dependência continua ali — mesmo que a resposta tenha sido automatizada.\n\nComece por uma decisão crítica. Escreva essas quatro respostas antes de conectar mais uma ferramenta.\n\nQual delas ainda está só na sua cabeça?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920750979_9x3bmwm4_c09-01.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920752074_lneynz32_c09-02.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920754511_ssubr8bx_c09-03.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920755616_arsi4aq4_c09-04.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920756752_8gtqkt32_c09-05.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790920757839_t29z1a0a_c09-06.png"
+      }
+    ],
+    "scheduledFor": "2026-10-03T12:00:00.000Z"
+  },
+  "authorization_source": "user command: 9 ok para programação, segue a fila",
+  "timezone": "America/Sao_Paulo"
+}

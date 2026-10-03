@@ -6,19 +6,23 @@ projeto: "Encerramento e legado de inteligência"
 fase_operacional: "saída e fechamento"
 ciclo_servico: "último mês"
 data_finalizacao: 2026-10-09
-atualizado_em: 2026-09-29T11:59:50-03:00
+atualizado_em: 2026-10-02T18:32:57-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/09/2026-09-29--transicao-acessos-backup-dados-clinica-sanabria]]"
-fonte_atualizacao: "https://fathom.video/share/xtxnNxcJCutYsNkD6xyV9_9TL8Ym5k6y"
-confianca: "alta para as falas explícitas e para o risco de perda de dados; moderada para três atribuições localizadas somente no resumo; a data de 13/10/2026 às 11h no Notion continua pendente de validação"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-02"
+confianca: "alta para os status e a data verificados no Notion; a finalização do item de fechamento não comprova que a reunião ocorreu nem resolve, por si só, a divergência entre 09/10 e 13/10"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Clínica Sanabria
 
 ## Delta da última atualização
+- O Notion confirmou como finalizados a criação das pastas do Como e do ICMED no Google Drive e o envio a Carolina Rocha dos dados exportados do ICMED; ambos saem dos próximos passos ativos.
+- A inclusão do acesso ao `site.clinicasanabria` na planilha está `Em progresso`.
+- O item de preparar com Carolina o fechamento das arestas consta como `Finalizado`, ainda com data de 13/10/2026 às 11h; o status encerra a tarefa de preparação, mas não comprova a realização do fechamento nem resolve a divergência com 09/10/2026.
+- O campo “Clínico/Cirúrgico” no CRM consta como `Cancelado` e permanece fora das frentes ativas.
 - A reunião de transição enumerou quatro entregas para preservar acessos e dados do Como e do ICMED antes da saída de Pablo.
 - O novo acesso ao Como já foi criado, mas a exportação para o Google Drive ainda não foi confirmada; Carolina assumiu executá-la à tarde.
-- O acesso direto ao ICMED já foi perdido; Pablo mantém dados exportados que precisam ser enviados a Carolina e armazenados no Drive.
+- O acesso direto ao ICMED já foi perdido; os dados exportados por Pablo foram enviados a Carolina segundo o Notion, mas o armazenamento final no Drive ainda não foi confirmado.
 - A proposta da RD Station foi recusada; a sugestão de contratar dois SDRs e a recomendação de não reativar a IA no N8N não foram promovidas como decisões.
 - A data de encerramento em 09/10/2026 e o conflito com o agendamento de 13/10/2026 às 11h no Notion permanecem vigentes e sem resolução nesta reunião.
 
@@ -33,17 +37,16 @@ Encerrar a participação da Simplifique em 09/10/2026 com conhecimento preserva
 
 ## 3. Prioridades
 1. Exportar e validar os dados do Como no Google Drive enquanto o acesso ainda está disponível.
-2. Entregar e armazenar no Drive os dados já exportados do ICMED.
-3. Atualizar a planilha de acessos com o `site.clinicasanabria`.
-4. Reconciliar a data final do fechamento com Carolina sem ampliar a atuação operacional de Pablo.
+2. Concluir a atualização da planilha de acessos com o `site.clinicasanabria`.
+3. Reconciliar a data final do fechamento com Carolina sem ampliar a atuação operacional de Pablo.
 
 ## 4. Frentes ativas
-- Preservação dos dados do Como e do ICMED.
-- Documentação de acessos para a transição.
+- Preservação dos dados do Como, ainda sem conclusão confirmada.
+- Documentação de acessos para a transição, em progresso no Notion.
 - Fechamento e transição com Carolina.
 
 ## 5. Responsáveis
-- Pablo: adicionar o acesso do site à planilha, criar as pastas no Google Drive, enviar os dados exportados do ICMED e preparar com Carolina o fechamento das arestas.
+- Pablo: concluir a inclusão do acesso do site na planilha; a criação das pastas, o envio dos dados do ICMED e a preparação do fechamento constam como finalizados no Notion.
 - Carolina Rocha: exportar e verificar os dados do Como, conduzir a operação vigente e participar do fechamento.
 
 ## 6. Decisões vigentes
@@ -60,15 +63,15 @@ Encerrar a participação da Simplifique em 09/10/2026 com conhecimento preserva
 - A internet local instável causa falhas diárias nas chamadas automatizadas da Alta Escala.
 
 ## 8. Bloqueios
-- O acesso direto ao ICMED já não está disponível; para o backup, Carolina depende do envio das planilhas exportadas por Pablo.
+- O acesso direto ao ICMED já não está disponível; o envio das planilhas a Carolina foi concluído, mas a confirmação do armazenamento final ainda depende dela.
 
 ## 9. Indicadores
 - Data de encerramento: 09/10/2026.
-- Fechamento das arestas no Notion: Não iniciado; `Date` em 13/10/2026 às 11h, pendente de validação por conflitar com o encerramento.
+- Preparação do fechamento das arestas no Notion: Finalizado; `Date` permanece em 13/10/2026 às 11h, sem comprovação de que o fechamento ocorreu e ainda em conflito com o encerramento registrado para 09/10/2026.
 - Critério de fechamento: legado registrado e pendências residuais alinhadas com Carolina.
 - Base de inteligência: demanda finalizada no Notion em 24/09/2026.
 - Backup do Como no Google Drive: pendente de confirmação.
-- Backup do ICMED no Google Drive: pendente de envio e armazenamento.
+- Backup do ICMED: pastas criadas e dados enviados a Carolina segundo o Notion; confirmação do armazenamento final não informada.
 
 ## 10. O que está pausado
 - Novas implementações ou expansões de escopo conduzidas por Pablo.
@@ -77,17 +80,18 @@ Encerrar a participação da Simplifique em 09/10/2026 com conhecimento preserva
 - Tratar Pablo como operador das frentes correntes de CRM, mídia ou comercial.
 - Manter como demanda principal de Pablo o campo “Clínico/Cirúrgico”, a integração do call center ou outras execuções conduzidas pela operação atual sem nova solicitação explícita.
 - Manter a nutrição da base de inteligência como próximo passo ativo: o Notion confirmou a finalização.
+- Manter como abertas a criação das pastas do Como e do ICMED e o envio dos dados exportados do ICMED: o Notion confirmou ambas como `Finalizado`.
+- Reabrir o campo “Clínico/Cirúrgico” como demanda ativa sem nova solicitação: o Notion registra o item como `Cancelado`.
 
 ## 12. Próximo passo
-- Adicionar o acesso ao `site.clinicasanabria` à planilha de acessos — Responsável: Pablo — Prazo: não definido — Fonte: resumo do Fathom, `00:16:46`.
-- Criar no Google Drive as pastas para os dados do Como e do ICMED — Responsável: Pablo — Prazo: não definido — Fonte: resumo do Fathom, `00:31:00`.
-- Enviar a Carolina Rocha os dados exportados do ICMED — Responsável: Pablo — Prazo: não definido — Fonte: resumo do Fathom, `00:36:07`.
+- Adicionar o acesso ao `site.clinicasanabria` à planilha de acessos — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso.
 - Exportar todos os dados do Como para o Google Drive e verificar a conclusão — Responsável: Carolina Rocha — Prazo: à tarde — Fonte: resumo do Fathom, `00:30:28`, e transcrição, `00:48:30–00:48:38`.
 
 ## 13. Próxima decisão
 - Reconciliar com Carolina se o fechamento ocorrerá antes do encerramento em 09/10/2026 ou se a data de 13/10/2026 às 11h no Notion representa uma exceção válida; então definir quais pendências seguem com a equipe após a saída.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 02/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou duas finalizações, um início, um cancelamento e a finalização do item de preparação do fechamento apesar do snapshot sem delta.
 - [[03-Reunioes/2026/09/2026-09-29--transicao-acessos-backup-dados-clinica-sanabria|29/09/2026 — Transição de acessos e backup de dados]].
 - Fechamento diário Notion → EDC — 25/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; status `Não iniciado` e data 13/10/2026 às 11h verificados.
 - Fechamento diário Notion → EDC — 24/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.

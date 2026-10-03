@@ -1,0 +1,44 @@
+{
+  "content_key": "L09-C10-você-só-descobre-quanto-a-empresa-depende-de-voc",
+  "request_key": "social-l09-c10-202610",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "publication_status": "unpublished",
+  "publication_authorized": false,
+  "exported": false,
+  "scheduled": false,
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "362:74",
+    "frame_ids": ["362:75", "362:82", "362:94", "362:101", "362:114", "362:128"],
+    "image_node_id": "362:76",
+    "overlay_node_id": "362:77",
+    "logo_node_id": "362:134",
+    "mutated_node_ids": ["362:79", "362:80", "362:99", "362:100"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=362-74",
+    "dimensions": "1080x1350",
+    "frame_count": 6,
+    "native_editable": true
+  },
+  "image": {
+    "candidate_id": "C10-LEAVING-A",
+    "source": "Pexels",
+    "id": 5410145,
+    "photographer": "Amina Filkins",
+    "page_url": "https://www.pexels.com/photo/young-woman-leaving-floral-shop-with-box-5410145/",
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C10-você-só-descobre-quanto-a-empresa-depende-de-voc/assets/c10-leaving-a-pexels-5410145.jpg",
+    "score": 9
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "frame_dimensions_verified": true,
+    "frame_count_verified": true,
+    "image_fill_verified": true,
+    "overflow_nodes": 0,
+    "individual_frames_inspected": 6,
+    "section_inspected": true
+  },
+  "completed_at": "2026-10-02T09:08:02-03:00"
+}

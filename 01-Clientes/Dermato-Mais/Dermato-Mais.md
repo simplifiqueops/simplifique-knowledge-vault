@@ -1,7 +1,7 @@
 ---
 type: client
 name: "Dermato+"
-status: active
+status: closing
 aliases:
   - "Dermato+"
   - "Dermato"
@@ -9,12 +9,12 @@ aliases:
 ---
 # Dermato+
 
-> [!danger] Estado atual — 03/09/2026
-> Operação em janela crítica de 30 dias e com pagamento em atraso. A continuidade será definida até sábado; em paralelo, a planilha de Daniel passa a ser a fonte de verdade da prospecção e alimentará o DigiSac.
+> [!danger] Estado atual — 02/10/2026
+> Encerramento confirmado para esta semana devido a atrasos de pagamento e instabilidade financeira e de comunicação do cliente. As frentes de recepção, reativação e prospecção permanecem pausadas.
 
 ## Direção vigente
 
-- [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 03/09/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
+- [[01-Clientes/Dermato-Mais/Estado-de-Clareza-Atual|Estado de Clareza Atual — 02/10/2026]] — fonte principal para decisões, prioridades, responsáveis, riscos e próximos passos.
 - [[01-Clientes/Dermato-Mais/PDA_Simplificado_Dermato_MindMap_Whimsical|PDA Simplificado — reação em 30 dias]] — visão operacional resumida para alinhamento e execução.
 
 > [!warning] Regra de precedência
@@ -22,16 +22,13 @@ aliases:
 
 ## Foco imediato
 
-1. Resolver a inadimplência e definir a continuidade do serviço até sábado.
-2. Receber a planilha de Daniel e importar as oportunidades para o DigiSac até amanhã.
-3. Concluir a auditoria das conversas e dar feedback a Evelyn até segunda-feira.
-4. Criar a planilha compartilhada que substituirá o ClickUp no acompanhamento cotidiano.
-5. Validar o briefing de Jane e produzir os materiais da recepção até segunda-feira.
-6. Devolver o status dos disparos de WhatsApp e das demandas com Gui até amanhã.
-7. Fechar as lacunas de rastreamento entre origem, atendimento, venda e receita.
+1. Formalizar o encerramento contratual e registrar as pendências financeiras.
+2. Preservar dados, acessos e evidências necessários à transição.
+3. Manter pausadas as frentes de recepção, reativação e prospecção sem autorização adicional.
 
 ## Fontes e rastreabilidade
 
+- [[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca|Finanças, produtos e automação de conteúdo — 02/10/2026]] — confirmou o encerramento da Dermato+ nesta semana e os riscos financeiros associados.
 - [[03-Reunioes/2026/09/2026-09-03--alinhamento-dermato-mais|Alinhamento Dermato+ — 03/09/2026]] — definiu a planilha de prospecção como fonte de verdade, a importação no DigiSac, o acompanhamento por planilha compartilhada e a execução dos materiais de recepção.
 - [[03-Reunioes/2026/09/2026-09-03--daily-simplifique|Daily Simplifique — 03/09/2026]] — confirmou a inadimplência, a definição da continuidade até sábado e os bloqueios de rastreamento e conteúdo.
 - [[03-Reunioes/2026/08/2026-08-27--metodologia-e-operacao-com-vitoria|Metodologia e operação com Vitória — 27/08/2026]] — definiu o mapeamento dos pontos de contato e links até segunda-feira e o alinhamento com Rosa.

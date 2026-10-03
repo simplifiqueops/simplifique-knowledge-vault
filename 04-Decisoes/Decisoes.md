@@ -16,7 +16,7 @@ atualizado_em: 2026-08-31
 - [[01-Clientes/Einerd/Estado-de-Clareza-Atual#6. Decisões vigentes|Ei Nerd]]
 - [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#6. Decisões vigentes|Realizando Potenciais]]
 - [[01-Clientes/Clinica-Sanabria/Estado-de-Clareza-Atual#6. Decisões vigentes|Clínica Sanabria]]
-- [[01-Clientes/Patricia-de-Lucca/Estado-de-Clareza-Atual#6. Decisões|Patrícia de Lucca — validação necessária]]
+- [[01-Clientes/Patricia-de-Lucca/Estado-de-Clareza-Atual#6. Decisões vigentes|Patrícia de Lucca]]
 
 ## Decisões pendentes
 

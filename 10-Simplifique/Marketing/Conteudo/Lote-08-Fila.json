@@ -1313,17 +1313,27 @@
       "status": "copy_review",
       "request_status": "copy_review",
       "format": "carousel",
-      "title": "Governança de automações em alta",
+      "title": "A automação foi criada. Quem percebe quando ela para?",
       "territory": "automação",
       "source_topic_key": "automation-governance-2026-09",
-      "objective": "Reduz risco operacional sem travar a execução.",
+      "objective": "Mostrar que uma automação em uso precisa de confirmação visível, responsável por acompanhamento e caminho manual temporário.",
       "requires_user_on_camera": false,
       "daily_request": {
         "request_key": "social-d5384a9b07966269b967802a",
         "duplicate_request_keys": [
-          "social-c7b94540e2c74e5c43c3f463",
+          "social-08a943849afa2e6f287f1f67",
           "social-19662dbc80600a552edfadb7",
-          "social-bb2120c3a364d0ddbe124c89"
+          "social-24dbafb7ab510ada89641caa",
+          "social-30852fc07a329fca9472f015",
+          "social-576f2e36df1adf69167d6416",
+          "social-8830a3cefd6737d90af27a40",
+          "social-b93b6114bc0be080c1d4e62c",
+          "social-bb2120c3a364d0ddbe124c89",
+          "social-bc46a5d33bf7ab8d1e63c53e",
+          "social-c7b94540e2c74e5c43c3f463",
+          "social-cbe8d852d2fd3849960baffa",
+          "social-e5853e2950f3a9605ad71118",
+          "social-ebc782eec1f9734411db2091"
         ],
         "requested_at": "2026-09-29T18:16:58Z",
         "desired_format": "carrossel",
@@ -1354,17 +1364,18 @@
           "Não generalizar além da amostra."
         ]
       },
-      "checkpoint": "copy_package_ready_for_daily_review",
+      "checkpoint": "copy_revised_after_human_feedback",
       "publication_status": "unpublished",
       "blocking_issues": [],
       "non_blocking_notes": [
-        "3 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
-        "O snapshot antigo usa example.com e não sustenta a alegação de tendência; a expressão “em alta” foi excluída da copy.",
-        "Copy baseada nas diretrizes canônicas do Notion relidas em 01/10/2026; design, Figma, exportação, agendamento e publicação não autorizados."
+        "A pauta anterior sobre limite, aprovação e reversão foi substituída após feedback de repetição.",
+        "A nova copy trata acompanhamento e continuidade de automações com linguagem não técnica.",
+        "O snapshot com example.com permanece excluído como evidência de tendência.",
+        "Design, Figma, exportação, agendamento e publicação não autorizados."
       ],
       "started_at": "2026-10-01T20:45:37-03:00",
-      "updated_at": "2026-10-01T20:45:37-03:00",
-      "draft_completed_at": "2026-10-01T20:45:37-03:00",
+      "updated_at": "2026-10-02T13:40:27-03:00",
+      "draft_completed_at": "2026-10-02T13:40:27-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/01-Estrategia.md",
@@ -1376,8 +1387,136 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-formats-2026-10-01.json",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/sources/notion-awareness-2026-10-01.json"
       ],
-      "qa_decision": "approved_with_notes",
+      "qa_decision": "approved",
       "approved_for": "copy_review"
+    },
+    {
+      "content_key": "L08-RQ-ca05b4e2",
+      "order": 12,
+      "status": "copy_review",
+      "request_status": "copy_review",
+      "format": "carrossel",
+      "title": "Agentes persistentes conectados viram uma camada operacional para pequenos negócios",
+      "territory": "ia",
+      "source_topic_key": "radar-891911ed6cb87d4a",
+      "objective": "Traduzir a mudança de IA que apenas responde para agentes que acompanham trabalhos entre interações, sem confundir conexão com clareza operacional.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-ca05b4e2991132ea799a14be",
+        "requested_at": "2026-10-02T01:15:11Z",
+        "desired_format": "carrossel",
+        "requester": "pablo",
+        "planned_for": "2026-10-02"
+      },
+      "frozen_snapshot": {
+        "title": "Agentes persistentes conectados viram uma camada operacional para pequenos negócios",
+        "summary": "OpenAI e Meta anunciaram agentes que trabalham em segundo plano, conectam-se a sistemas de negócio e submetem ações relevantes a regras ou aprovação humana.",
+        "why_it_matters": "A promessa deixou de ser apenas responder perguntas e passou a incluir manter contexto, acompanhar trabalho e agir entre sistemas. Para o ICP da Simplifique, isso torna definição de responsabilidade, fonte oficial, permissão, exceção e aprovação um pré-requisito operacional.",
+        "detected_at": "2026-10-01T20:44:01-03:00",
+        "window": "72h",
+        "territory": "ia",
+        "heat_score": 25,
+        "relevance_score": 5,
+        "confidence": "high",
+        "facts": [
+          "A OpenAI anunciou Dots em 29/09/2026, com trabalho contínuo em computador próprio, conexão a aplicativos, regras de ação e aprovações.",
+          "O modo de pesquisa proativa do Dots usa ferramentas somente leitura; ações que afetam contas ou compartilham informações passam por regras e revisão automática.",
+          "A Meta anunciou Muse for Small Business em 29/09/2026 com conectores para ferramentas de gestão, comércio, finanças, comunicação e criação.",
+          "A Meta afirma que nada é publicado, enviado ou gasto pelo Muse sem aprovação do usuário."
+        ],
+        "sources": [
+          {
+            "title": "Introducing dots",
+            "url": "https://openai.com/index/introducing-dots",
+            "published_at": "2026-09-29"
+          },
+          {
+            "title": "The Future Is for Everyone: Muse for Small Business",
+            "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+            "published_at": "2026-09-29"
+          }
+        ],
+        "risks": [
+          "Não afirmar que os agentes substituem gestão, equipe ou revisão humana.",
+          "Não tratar controles anunciados pelos fornecedores como garantia de ausência de erro, vazamento ou ação indevida.",
+          "Não sugerir conexão ampla a CRM, finanças ou arquivos sem política de acesso, teste e plano de interrupção."
+        ]
+      },
+      "started_at": "2026-10-02T22:17:12-03:00",
+      "updated_at": "2026-10-02T22:17:12-03:00",
+      "draft_completed_at": "2026-10-02T22:17:12-03:00",
+      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/sources/retrieval-notes-2026-10-02.md"
+      ],
+      "qa_decision": "approved",
+      "approved_for": "copy_review",
+      "non_blocking_notes": [
+        "CTA do diagnóstico permaneceu bloqueado; a copy usa apenas pergunta de interação.",
+        "As capacidades são apresentadas como anúncios dos fornecedores, sem promessa de impacto ou disponibilidade universal.",
+        "Design, curadoria, Figma, exportação, agendamento e publicação não autorizados."
+      ]
+    },
+    {
+      "content_key": "L08-RQ-e88acefa",
+      "order": 13,
+      "status": "queued",
+      "request_status": "queued",
+      "format": "carrossel",
+      "title": "O sinal de maturidade não é usar IA, mas escolher um trabalho útil e conferir se ajudou",
+      "territory": "produtividade",
+      "source_topic_key": "radar-d773d51a8bfa1608",
+      "objective": "A evidência permite deslocar a conversa de adoção genérica para uma rotina mensurável: escolher uma dor, testar um trabalho delimitado e verificar se houve ganho sem criar nova dependência.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-e88acefa40356db529c779fe",
+        "requested_at": "2026-10-02T01:16:11Z",
+        "desired_format": "carrossel",
+        "requester": "pablo",
+        "planned_for": "2026-10-02"
+      },
+      "frozen_snapshot": {
+        "title": "O sinal de maturidade não é usar IA, mas escolher um trabalho útil e conferir se ajudou",
+        "summary": "A OpenAI divulgou dados próprios de uso por pequenos negócios e uma parceria de capacitação cujo desenho enfatiza escolher um ponto de partida, testar tarefas reais e acompanhar o que continua útil.",
+        "why_it_matters": "A evidência permite deslocar a conversa de adoção genérica para uma rotina mensurável: escolher uma dor, testar um trabalho delimitado e verificar se houve ganho sem criar nova dependência.",
+        "detected_at": "2026-10-01T20:44:01-03:00",
+        "window": "72h",
+        "territory": "produtividade",
+        "heat_score": 23,
+        "relevance_score": 5,
+        "confidence": "high",
+        "facts": [
+          "A OpenAI publicou o anúncio e o relatório em 30/09/2026.",
+          "Segundo dados de uso da própria OpenAI, cerca de 4 milhões de funcionários de empresas com 1 a 499 pessoas usaram suas ferramentas entre 9 e 15 de setembro; quase um quinto trabalhava em empresas com menos de 10 pessoas.",
+          "No recorte da empresa, tokens de saída de usos agênticos passaram de um terço em abril para dois terços em agosto de 2026.",
+          "A parceria com a America's SBDC prevê treinar cerca de 150 consultores e alcançar ao menos 1.000 pequenos negócios com oficinas presenciais, acompanhamento e materiais práticos."
+        ],
+        "sources": [
+          {
+            "title": "Helping small businesses put AI to work",
+            "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work/",
+            "published_at": "2026-09-30"
+          },
+          {
+            "title": "Small Businesses, Bigger Capabilities",
+            "url": "https://cdn.openai.com/pdf/66991d3b-5dac-48b5-aa3d-f40ccc5d6d0f/small-businesses-bigger-capabilities-september-2026.pdf",
+            "published_at": "2026-09-30"
+          }
+        ],
+        "risks": [
+          "Os dados de uso são da própria fornecedora e não demonstram impacto, retorno ou causalidade.",
+          "Os exemplos e resultados individuais do relatório não devem ser generalizados.",
+          "Não converter volume de tokens em horas poupadas, produtividade ou receita."
+        ]
+      },
+      "publication_status": "unpublished",
+      "blocking_issues": []
     }
   ]
 }

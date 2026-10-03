@@ -4,14 +4,14 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 8
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-09-29
+edc_atualizado_em: 2026-10-02
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** validar a plataforma demonstrada por Marcel, liberar o acesso de Pablo, completar os produtos, conferir a sincronização com o Monday e concluir o bot Ella. **8 demandas visíveis** e **3 decisões pendentes** no EDC.
+> **P1 · Audiovisual:** revisão da plataforma, reconciliação das fontes e conexão ao Daily estão em progresso; ainda faltam completar os produtos, validar a sincronização e concluir o bot Ella. **8 demandas visíveis** e **3 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -29,7 +29,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: Audiovisual, governança de produção e integração de dados.
-- Lacuna principal: validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos, conciliar planilha de cursos e Google Drive e definir os dados que entram no Daily.
+- Sinal atual: revisão da plataforma, reconciliação operacional e integração com o Daily em progresso.
+- Lacuna principal: confirmar as conclusões, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.
 - Sinal externo ao escopo do EDC: o bloqueio da conta Meta e a contingência de tráfego foram registrados em [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026]], sem nova demanda confirmada para Audiovisual.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

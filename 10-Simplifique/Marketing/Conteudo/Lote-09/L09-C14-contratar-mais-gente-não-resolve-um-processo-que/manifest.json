@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C14-contratar-mais-gente-não-resolve-um-processo-que",
+  "request_key": "social-l09-c14-202610",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "updated_at": "2026-10-02T20:08:11-03:00",
+  "publication_status": "unpublished",
+  "qa_decision": "approved",
+  "approved_for": "user_review",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "402:92",
+    "frame_ids": ["402:93"],
+    "image_node_ids": ["402:94"],
+    "overlay_node_ids": ["402:95"],
+    "logo_node_ids": ["402:101"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=402-92",
+    "dimensions": "1080x1350",
+    "editable": true,
+    "rendered": true,
+    "revision_mode": "new_section",
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C14-REMINDER-A",
+    "source": "Pexels",
+    "source_id": 4586901,
+    "photographer": "Anna Shvets",
+    "score": 9,
+    "approval_required": false
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "citations-ledger.json",
+    "assets/c14-reminders-pexels-4586901.jpg",
+    "source-metadata/c14-reminders-pexels-4586901.json",
+    "qa-screenshots/frame-final.png",
+    "qa-screenshots/section-final.png"
+  ],
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "Fotografia usada como representação editorial, não como prova.",
+    "Artefato editável, não exportado, não agendado e não publicado."
+  ]
+}

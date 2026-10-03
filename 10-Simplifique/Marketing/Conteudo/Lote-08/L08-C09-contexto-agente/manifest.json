@@ -18,8 +18,14 @@
   "status": "ready",
   "checkpoint": "figma_image_revision_in_place_and_post_render_qa_complete",
   "qa_decision": "approved",
-  "publication_status": "unpublished",
-  "approved_for": "user_review",
+  "publication_status": "approved_pending_schedule_confirmation",
+  "approved_for": "publication_preparation",
+  "publication_approval": {
+    "approved_by": "pablo",
+    "approved_at": "2026-10-02T02:46:42-03:00",
+    "scope": "arte_e_copy_aprovadas_para_preparar_programacao",
+    "scheduling_confirmation_pending": true
+  },
   "blocking_issues": [],
   "image_direction": "image_applied",
   "sources": [

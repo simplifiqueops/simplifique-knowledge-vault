@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais|02/10/2026 — Parcelado Hotmart e preparação da Black Friday — Realizando Potenciais]]
+- [[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca|02/10/2026 — Finanças, produtos e automação de conteúdo — Patrícia de Lucca]]
 - [[03-Reunioes/2026/09/2026-09-29--transicao-acessos-backup-dados-clinica-sanabria|29/09/2026 — Transição de acessos e backup de dados — Clínica Sanabria]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday-complemento|28/09/2026 — Reunião Time RP | Semanal — Black Friday — complemento de evidência — Realizando Potenciais]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday|28/09/2026 — Reunião Time RP | Semanal — Black Friday — Realizando Potenciais]]

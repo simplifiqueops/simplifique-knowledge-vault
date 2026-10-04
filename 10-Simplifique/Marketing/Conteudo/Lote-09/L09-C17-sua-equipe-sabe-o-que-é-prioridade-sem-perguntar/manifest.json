@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C17-sua-equipe-sabe-o-que-é-prioridade-sem-perguntar",
+  "request_key": "social-l09-c17-202610",
+  "title": "Prioridade que muda no chat não é prioridade compartilhada",
+  "format": "static",
+  "status": "ready",
+  "updated_at": "2026-10-03T13:23:32-03:00",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "diagnostic_cta_authorized": false,
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "assets/c17-notifications-pexels-18386859.jpg",
+    "source-metadata/c17-notifications-pexels-18386859.json",
+    "qa-screenshots/frame-initial.png",
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-final.png",
+    "qa-screenshots/section-final.png"
+  ],
+  "figma_target": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "439:116",
+    "frame_ids": ["439:117"],
+    "image_node_ids": ["439:118"],
+    "logo_node_ids": ["439:127"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=439-116",
+    "rendered": true,
+    "revision_mode": "new_section",
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C17-NOTIFICATIONS-A",
+    "source": "Pexels",
+    "source_id": 18386859,
+    "photographer": "Amar Preciado",
+    "page_url": "https://www.pexels.com/photo/smartphone-and-coffee-on-table-18386859/",
+    "score": 9,
+    "approval_required": false
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "approved_for": "user_review"
+  }
+}

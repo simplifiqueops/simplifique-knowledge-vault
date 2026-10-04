@@ -4,7 +4,17 @@
   "content_key": "L09-C12-quando-o-grupo-de-whatsapp-vira-o-sistema-operac",
   "status": "ready",
   "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
-  "publication_status": "unpublished",
+  "publication_status": "scheduled",
+  "publication": {
+    "provider": "Zernio",
+    "post_id": "6ac079ac6de198f27a5fcfe6",
+    "scheduled_for": "2026-10-04T18:00:00-03:00",
+    "timezone": "America/Sao_Paulo",
+    "account_id": "6ab74356d6773943351d9845",
+    "username": "simplifiqueops",
+    "authorization_source": "Pablo: 12 não tem comentário e pode programar pra postagem já",
+    "readback_verified": true
+  },
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
@@ -35,8 +45,8 @@
     "individual_frames_checked": 6
   },
   "external_actions": {
-    "exported": false,
-    "scheduled": false,
+    "exported": true,
+    "scheduled": true,
     "published": false
   }
 }

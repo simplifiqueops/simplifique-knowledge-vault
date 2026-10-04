@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C16-toda-segunda-começa-com-as-mesmas-urgências",
+  "request_key": "social-l09-c16-202610",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "updated_at": "2026-10-03T11:03:33-03:00",
+  "publication_status": "unpublished",
+  "qa_decision": "approved",
+  "approved_for": "user_review",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "435:110",
+    "frame_ids": ["435:111", "435:120", "435:136", "435:144", "435:159", "435:171"],
+    "image_node_ids": ["435:112"],
+    "logo_node_ids": ["435:180"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=435-110",
+    "rendered": true,
+    "revision_mode": "new_section",
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C16-WEEK-A",
+    "source": "Pexels",
+    "source_id": 7439132,
+    "photographer": "cottonbro studio",
+    "page_url": "https://www.pexels.com/photo/pen-on-top-of-a-planner-7439132/",
+    "score": 9,
+    "approval_required": false
+  },
+  "blocking_issues": [],
+  "non_blocking_notes": [
+    "O texto impresso no planner está em inglês, mas permanece secundário e não funciona como conteúdo editorial.",
+    "A seção completa e os seis frames foram inspecionados em 1080×1350.",
+    "Artefato editável, não exportado, não agendado e não publicado."
+  ]
+}

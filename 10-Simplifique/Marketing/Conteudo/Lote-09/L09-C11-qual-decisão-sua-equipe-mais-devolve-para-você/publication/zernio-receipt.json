@@ -1,0 +1,19 @@
+{
+  "request_id": "dc560c75-29e9-470f-ad4a-4826da1140a2",
+  "readback": {
+    "post_id": "6ac07f4bdbb4fb4b51ab972b",
+    "status": "scheduled",
+    "scheduledFor": "2026-10-04T12:00:00.000Z",
+    "content_ok": true,
+    "media_count": 1,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "status": "pending",
+        "account_id": "6ab74356d6773943351d9845",
+        "username": "simplifiqueops",
+        "scheduledFor": "2026-10-04T12:00:00.000Z"
+      }
+    ]
+  }
+}

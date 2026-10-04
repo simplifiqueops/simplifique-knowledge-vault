@@ -1,0 +1,25 @@
+{
+  "candidate_id": "C16-WEEK-A",
+  "source": "Pexels",
+  "id": 7439132,
+  "page_url": "https://www.pexels.com/photo/pen-on-top-of-a-planner-7439132/",
+  "photographer": "cottonbro studio",
+  "photographer_url": "https://www.pexels.com/@cottonbro",
+  "width": 4000,
+  "height": 6000,
+  "score": 9,
+  "score_breakdown": {
+    "function": 2,
+    "adherence": 2,
+    "naturalness": 2,
+    "technical": 2,
+    "traceability": 1
+  },
+  "query": "weekly planner deadline office",
+  "selected_use": "Capa full-bleed com overlay escuro; planner ocupa base/direita e espaço negativo recebe o hook.",
+  "risks": [
+    "Texto impresso no planner está em inglês; manter desfocado/secundário no crop e não tratá-lo como conteúdo editorial."
+  ],
+  "accessed_at": "2026-10-03T11:03:33-03:00",
+  "download_url": "https://images.pexels.com/photos/7439132/pexels-photo-7439132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+}

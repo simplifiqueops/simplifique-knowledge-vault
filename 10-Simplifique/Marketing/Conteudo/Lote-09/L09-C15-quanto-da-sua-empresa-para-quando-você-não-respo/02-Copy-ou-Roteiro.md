@@ -1,71 +1,94 @@
-# Copy — Seu atendimento responde rápido até aparecer a primeira exceção
+# Copy — Seu cliente só queria resolver. Por que ele foi passado de um lado para outro?
 
 ## Copy visível
 
 ### CAPA
-Seu atendimento responde rápido até aparecer a primeira exceção
+Seu cliente só queria resolver.
+
+Por que ele foi passado de um lado para outro?
 
 ### TELA 2
-O bot responde em segundos.
-Mas o cliente pede algo que não está no roteiro.
+O atendimento responde.
+Encaminha.
+Pede para aguardar.
+
+E o cliente conta tudo de novo.
 
 ### TELA 3
-A conversa é encaminhada.
-Ninguém sabe quem assume, qual é o prazo ou o que responder depois.
+O problema não é só demora.
+
+É ninguém saber quem assume quando o pedido foge do comum.
 
 ### TELA 4
-Velocidade de resposta não garante conclusão.
-Sem rota de exceção, o atendimento trava fora do caminho padrão.
+Um bom atendimento precisa deixar três coisas claras:
+
+— quem assume;
+— o que precisa receber;
+— quando dá retorno.
 
 ### TELA 5
-Mapeie uma exceção recorrente e defina:
-— como identificar;
-— para quem encaminhar;
-— prazo de retorno;
-— resposta ao cliente enquanto o caso avança.
+Comece pelo pedido que mais vira pingue-pongue.
+
+Desenhe o caminho em uma página:
+
+**entrada → responsável → resposta**
 
 ### TELA 6
-Automatize o caminho padrão.
-Desenhe também o caminho de saída quando o padrão não servir.
+Processo bom não deixa o cliente procurando quem resolve.
+
+Qual pedido mais passa de mão em mão aí?
 
 ### LEGENDA
-Um atendimento pode responder rápido e ainda deixar o cliente sem solução. Isso acontece quando a operação automatiza o roteiro, mas não define o que fazer com a exceção.
+O cliente faz um pedido, é encaminhado e precisa explicar tudo outra vez.
 
-A estrutura que falta é uma rota clara: critério de triagem, responsável, prazo e devolutiva.
+Isso não é só demora. É um caminho de atendimento que ainda não deixou claro quem assume, quais informações acompanham o caso e quando haverá retorno.
 
-Comece pela exceção que mais interrompe o fluxo e desenhe o encaminhamento completo.
+Antes de pensar em bot, integração ou outra ferramenta, escolha o pedido que mais passa de mão em mão e desenhe três pontos:
+
+— onde ele entra;
+— quem assume;
+— qual resposta encerra ou encaminha o próximo passo.
+
+É esse tipo de caminho que a Simplifique organiza: primeiro o processo, depois a ferramenta necessária para sustentar a rotina.
 
 ### CTA
-Responda: qual exceção mais interrompe seu atendimento hoje?
+Responda: qual pedido mais passa de mão em mão no seu atendimento?
 
 ## Alt text
 
-Peça sobre atendimento. A abertura é “O bot responde em segundos. Quem resolve quando o caso sai do roteiro?”. O conteúdo mostra que sem rota de exceção, um atendimento veloz trava quando a demanda foge do roteiro. e propõe como próximo passo: mapear a exceção mais frequente e definir quem assume, em quanto tempo e com qual retorno.
+Carrossel de seis telas sobre um cliente que é passado entre pessoas ou canais e precisa repetir o pedido. A peça mostra que o problema não é apenas demora, mas a falta de um caminho claro com responsável, informação necessária e retorno. Termina propondo mapear entrada, responsável e resposta do pedido que mais vira pingue-pongue.
 
 ## Mapa de evidência
 
-- **Abertura:** adaptação direta do gancho e do título aprovados na fila atual.
-- **Causa estrutural:** derivação explícita da premissa editorial, formulada como princípio operacional e não como caso real.
-- **Próximo passo:** ação específica, proporcional e sem promessa de resultado.
-- **Legenda e CTA:** preservam o movimento e o prompt de interação do item.
+- **Cena de abertura:** situação hipotética e reconhecível, sem alegação de caso real.
+- **Causa estrutural:** derivação da premissa editorial de atendimento sem passagem de bastão definida.
+- **Três definições:** síntese operacional de responsabilidade, contexto e retorno em linguagem não técnica.
+- **Papel da Simplifique:** descrição do método institucional — processo antes da ferramenta — sem promessa de resultado.
+- **CTA:** pergunta de interação permitida enquanto o gate do diagnóstico permanece fechado.
 
 ## Alegações excluídas intencionalmente
 
-- Métricas, percentuais, economia de tempo, aumento de receita ou resultado garantido.
-- Caso de cliente, depoimento ou comentário não documentado.
-- Causalidade universal ou solução automática.
-- CTA, URL ou código para questionário comercial.
+- Métricas, percentuais, economia, conversão, satisfação ou resultado garantido.
+- Cliente, caso, depoimento, comentário ou diálogo apresentado como real.
+- Culpa individual de atendente ou afirmação de que todo encaminhamento é inadequado.
+- Promessa de que bot, CRM, integração ou um fluxo eliminam todos os problemas.
+- “Faça o diagnóstico”, URL, QR code ou chamada para `dg.simplifiqueops.com.br`.
 
-## Alerta de densidade
+## Alerta de densidade por slide
 
-- **Abertura:** baixa; uma ideia central e reconhecível.
-- **Desenvolvimento:** baixa a média; uma função por bloco visual.
-- **Legenda:** média; sintoma, causa estrutural e próxima ação.
+- **Capa:** baixa; duas frases curtas.
+- **Tela 2:** baixa; leitura ritmada em ações.
+- **Tela 3:** baixa; uma virada de percepção.
+- **Tela 4:** média-baixa; três itens de uma linha.
+- **Tela 5:** média-baixa; um movimento e uma sequência curta.
+- **Tela 6:** baixa; síntese e pergunta.
 
 ## Verificação de copy
 
-- Linguagem direta e operacional: **sim**.
-- Problema → infraestrutura → próxima ação: **sim**.
-- CTA de interação/utilidade: **sim**.
-- Sem promessa, urgência artificial ou caso inventado: **sim**.
-- Hook principal centrado em ausência do dono: **não**.
+- Linguagem conversada, direta e não técnica: **sim**.
+- Cena reconhecível antes da estrutura: **sim**.
+- Problema → processo → ferramenta: **sim**.
+- Uma ideia dominante por tela: **sim**.
+- CTA proporcional e sem funil bloqueado: **sim**.
+- Sem prova, urgência, causalidade ou resultado inventado: **sim**.
+- Pronta para retorno ao estado `copy_review`: **sim**.

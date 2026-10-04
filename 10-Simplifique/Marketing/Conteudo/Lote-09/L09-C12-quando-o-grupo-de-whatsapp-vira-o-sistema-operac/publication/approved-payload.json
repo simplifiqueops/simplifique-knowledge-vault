@@ -1,0 +1,41 @@
+{
+  "request_id": "bc31813d-98a2-4092-882e-c42d0fa96e21",
+  "payload": {
+    "content": "Mensagem enviada não é o mesmo que decisão registrada. No fluxo do grupo, contexto se perde, versões se multiplicam e o próximo passo fica sem referência comum.\n\nA causa estrutural é informação operacional sem fonte definida.\n\nComece por um tipo de decisão recorrente e determine onde ficam o combinado, o responsável, o prazo e a atualização.\n\nSalve e revise: onde as decisões ficam registradas depois da conversa?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998944599_nqmjfic1_c12-01.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998946811_95yjosfs_c12-02.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998947975_m7jyghia_c12-03.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998949045_d6vy9atk_c12-04.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998950115_bov459pt_c12-05.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1790998951182_p8lvskhf_c12-06.png"
+      }
+    ],
+    "scheduledFor": "2026-10-04T21:00:00.000Z"
+  },
+  "authorization_source": "user: 12 não tem comentário e pode programar pra postagem já",
+  "timezone": "America/Sao_Paulo"
+}

@@ -1,0 +1,21 @@
+{
+  "candidate_id": "C13-DOCS-A",
+  "source": "Pexels",
+  "source_id": 12899096,
+  "page_url": "https://www.pexels.com/photo/reading-documents-in-office-12899096/",
+  "photographer": "Mizuno K",
+  "photographer_url": "https://www.pexels.com/@mizunokozuki",
+  "width": 4000,
+  "height": 6000,
+  "accessed_at": "2026-10-03T00:25:43-03:00",
+  "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C13-antes-de-dar-mais-autonomia-para-a-ia--defina-qu/assets/c13-documents-pexels-12899096.jpg",
+  "intended_use": "Imagem full-bleed para representar documentos sendo transferidos e revisados antes da expansão; não é evidência de cliente ou resultado.",
+  "score": {
+    "function": 2,
+    "fit": 2,
+    "naturalness": 2,
+    "technical": 2,
+    "traceability": 2,
+    "total": 10
+  }
+}

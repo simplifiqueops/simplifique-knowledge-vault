@@ -1,50 +1,55 @@
-# Copy — Responder rápido não é o mesmo que concluir o atendimento
+# Copy — Responder rápido não é o mesmo que resolver
 
 ## Copy visível
 
 ### ARTE
-Responder rápido não é o mesmo que concluir o atendimento.
+Responder rápido é bom.
 
-A primeira mensagem confirma contato. A conclusão exige desfecho, próximo passo e responsável.
+Resolver de verdade é melhor.
+
+Na Simplifique, a gente organiza o caminho do atendimento: quem recebe, quem assume e qual é o próximo passo.
 
 ### LEGENDA
-Um atendimento pode responder em segundos e continuar aberto por horas ou dias sem que ninguém saiba qual é o próximo movimento.
+Seu cliente chama, recebe uma resposta na hora e, mesmo assim, continua esperando.
 
-A falha estrutural aparece quando não há status de conclusão, responsável pela sequência, prazo de retorno e rota para exceções.
+Isso acontece quando a conversa começou, mas o atendimento ainda não tem um caminho claro até a solução.
 
-Compare um atendimento concluído com um pendente. Marque onde cada um terminou, qual próximo passo ficou registrado e quem assumiu o caso fora do padrão.
+A Simplifique ajuda a desenhar esse caminho, organizar responsabilidades e escolher a ferramenta certa para acompanhar cada pedido até o fim.
+
+Comece simples: pegue um atendimento que ficou parado e descubra onde ele perdeu o próximo passo.
 
 ### CTA
-Revise: onde o atendimento termina e quem assume a exceção?
+Qual tipo de atendimento mais costuma ficar sem resposta final aí?
 
 ## Alt text
-
-Peça sobre atendimento. A abertura é “Resposta em segundos. Problema resolvido em quanto tempo?”. O conteúdo apresenta o problema “O cliente recebe uma resposta rápida, mas o caso permanece sem desfecho ou encaminhamento claro.”, aponta como estrutura ausente “Status de conclusão, responsável pelo próximo passo, prazo e rota para exceções.” e propõe como próximo passo: Revisar um atendimento concluído e um pendente para localizar o ponto de saída e o responsável pela exceção.
+Peça estática sobre atendimento. O texto contrasta responder rápido com resolver de verdade e explica que a Simplifique organiza o caminho do atendimento: quem recebe, quem assume e qual é o próximo passo.
 
 ## Mapa de evidência
 
-- **Abertura:** adaptação do item vigente para uma cena operacional específica do território.
-- **Causa estrutural:** derivação explícita da premissa editorial, formulada como princípio e não como caso real.
-- **Próximo passo:** ação específica, proporcional e sem promessa de resultado.
-- **Legenda e CTA:** preservam o movimento e usam interação ou utilidade sem direcionar ao questionário.
+- **Abertura:** contraste derivado da premissa editorial vigente.
+- **Cena:** situação operacional formulada como princípio, sem ser apresentada como caso real.
+- **Papel da Simplifique:** descrição compatível com o posicionamento institucional de entender, mapear, organizar o processo e escolher a ferramenta necessária.
+- **Próximo passo:** ação simples, proporcional e sem promessa de resultado.
+- **CTA:** pergunta de interação; não envia tráfego ao diagnóstico.
 
 ## Alegações excluídas intencionalmente
 
-- Métricas, percentuais, economia de tempo, aumento de receita ou resultado garantido.
+- Métricas, percentuais, redução de prazo, aumento de satisfação ou resultado garantido.
 - Caso de cliente, depoimento, comentário ou notícia não documentada.
-- Causalidade universal ou solução automática.
+- Afirmação de que todo atendimento pendente tem a mesma causa.
 - CTA, URL ou QR code para o diagnóstico comercial.
 
 ## Alerta de densidade
 
-- **Abertura:** baixa; uma cena ou contraste central.
-- **Desenvolvimento:** baixa a média; uma função por bloco visual.
-- **Legenda:** média; problema, causa estrutural e próxima ação.
+- **Arte:** média; três blocos curtos. Na direção visual, preservar respiro e não acrescentar módulos explicativos.
+- **Legenda:** baixa a média; cena, explicação, papel da Simplifique e primeiro movimento.
 
 ## Verificação de copy
 
-- Linguagem direta e operacional: **sim**.
-- Problema → infraestrutura → próxima ação: **sim**.
+- Linguagem direta, conversada e sem jargão técnico: **sim**.
+- Deixa claro o que a Simplifique faz: **sim**.
+- Problema → infraestrutura → ferramenta: **sim**.
 - CTA de interação/utilidade: **sim**.
-- Sem promessa, urgência artificial, notícia ou caso inventado: **sim**.
-- Hook principal centrado em ausência ou sobrecarga do dono: **não**.
+- Sem promessa, urgência artificial, caso ou número inventado: **sim**.
+- Hook centrado em ausência ou sobrecarga do dono: **não**.
+- Design, curadoria, Figma, exportação, agendamento e publicação autorizados: **não**.

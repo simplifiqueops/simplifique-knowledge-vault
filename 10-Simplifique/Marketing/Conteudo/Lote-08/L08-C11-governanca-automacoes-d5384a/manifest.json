@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-C11-governanca-automacoes-d5384a",
+  "request_key": "social-d5384a9b07966269b967802a",
+  "status": "ready",
+  "completed_at": "2026-10-03T06:51:35-03:00",
+  "publication_status": "unpublished",
+  "copy_approved_by": "pablo",
+  "copy_approved_at": "2026-10-03T03:02:06Z",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "430:104",
+    "section_name": "[PRODUÇÃO 15] Carrossel — Quem percebe quando a automação para",
+    "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
+    "image_node_id": "430:106",
+    "logo_node_id": "430:174",
+    "logo_contrast_plate_id": "432:110",
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=430-104",
+    "dimensions": "1080x1350",
+    "editable": true,
+    "descendant_count": 73,
+    "font_families": ["Inter"],
+    "overflow_text": []
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "candidate_id": "C11-MONITOR-A",
+    "source": "Pexels",
+    "source_id": 30215680,
+    "photographer": "Oktay Köseoğlu",
+    "page_url": "https://www.pexels.com/photo/woman-working-on-laptop-in-a-dimly-lit-room-30215680/",
+    "score": 9,
+    "local_path": "assets/c11-monitoring-pexels-30215680.jpg",
+    "sha256": "0d0c3dc7978c29e1346570b89e63775a39d437669edca563d263f1214c8e808d"
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "non_blocking_notes": [
+      "Visible copy was reconciled to the text approved in Daily; unapproved support lines were removed during visual QA.",
+      "The first render exposed invisible signal text caused by low contrast; the text color was corrected and every changed frame was re-inspected.",
+      "The official white logo received a compact black contrast plate on the closing frame."
+    ],
+    "screenshots": [
+      "qa-screenshots/section-final.png",
+      "qa-screenshots/frame-01-final.png",
+      "qa-screenshots/frame-02-final.png",
+      "qa-screenshots/frame-03-final.png",
+      "qa-screenshots/frame-04-final.png",
+      "qa-screenshots/frame-05-final.png",
+      "qa-screenshots/frame-06-final.png"
+    ]
+  },
+  "gates": {
+    "diagnostic_cta_authorized": false,
+    "export_authorized": false,
+    "schedule_authorized": false,
+    "publication_authorized": false
+  }
+}

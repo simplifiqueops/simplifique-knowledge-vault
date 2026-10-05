@@ -1,62 +1,120 @@
-# Estratégia — Qual eixo mais prende sua empresa em você?
+# Estratégia — Você precisa perguntar para saber se o trabalho andou?
 
 ## Identificação
 
 - **request_key:** `social-l09-c24-202610`
 - **content_key:** `L09-C24-qual-eixo-mais-prende-sua-empresa-em-você`
-- **status de origem:** `queued`
+- **status de origem:** `changes_requested`
+- **feedback humano:** “tecnico demais falta o tom de conversa no conteudo.”
 - **formato solicitado:** carrossel
-- **canal:** Instagram, peça editável em modo design-only
-- **território:** indicadores e visibilidade operacional
+- **canal:** Instagram
+- **território:** gestão da informação e visibilidade operacional
+- **fase desta execução:** revisão de estratégia e copy; sem direção visual, Figma, exportação, agendamento ou publicação
+
+## Por que este conteúdo precisa existir
+
+Uma empresa pode ter mensagens, planilhas e sistemas e ainda depender de alguém perguntar “como está isso?” para descobrir se uma entrega avançou. A peça deve transformar esse incômodo cotidiano em um sinal simples de falta de visibilidade, sem começar por termos técnicos nem transformar o conteúdo em aula.
 
 ## Decisão editorial
 
-- **Dor/hipótese:** Quando status, desvios e próximos passos não estão visíveis, a operação reage tarde e depende de reconstruir informação.
-- **Consciência atual:** Percebe falta de tempo, mas ainda não localiza qual lacuna operacional exige intervenção constante.
-- **Consciência desejada:** Identifica se a lacuna principal está em autonomia, processo, visibilidade ou informação, começando por sinais observáveis.
-- **Objetivo:** Trocar uma dor difusa por uma leitura operacional específica, sem encaminhar ao diagnóstico comercial.
-- **Formato editorial:** autodiagnóstico de informação em carrossel.
-- **Gancho/pergunta de elevação:** Você só descobre o atraso quando o cliente cobra?
-- **Mudança de percepção:** de dor difusa para eixo operacional identificável.
-- **Próxima ação/CTA:** Escolha um eixo para revisar hoje: autonomia, processo, visibilidade ou informação.
-- **Pesquisa associada:** observar a resposta ao prompt e sinais relatados do território, sem tratar comentário como prova geral.
-- **Aprendizado esperado:** Respostas por eixo e salvamentos, sem tráfego ao questionário.
+- **Dor/hipótese:** O andamento do trabalho só aparece depois de uma cobrança porque as informações necessárias para acompanhá-lo não estão reunidas de forma simples e consultável.
+- **Público:** donos e gestores de pequenas empresas com equipe, entregas recorrentes e informações distribuídas entre conversas e ferramentas.
+- **Linha fixa:** Gestão, com apoio de processos e informação.
+- **Intenção primária:** Conexão.
+- **Consciência atual:** percebe que precisa cobrar atualizações o tempo todo e atribui isso à correria ou à equipe.
+- **Consciência desejada:** reconhece que perguntar repetidamente pelo andamento é um sinal de que falta uma referência comum para acompanhar o trabalho.
+- **Tese:** Se é preciso perguntar para descobrir como uma entrega está, o andamento ainda não está visível para a operação.
+- **Objetivo de negócio:** aumentar reconhecimento da Simplifique como quem organiza o caminho do trabalho e a informação necessária para acompanhá-lo.
+- **Mudança de percepção:** de “preciso cobrar mais” para “preciso tornar o andamento consultável”.
+- **Estrutura ausente:** um lugar comum que mostre o que está acontecendo, quem cuida, quando vence e o que está travando.
+- **Papel da ferramenta:** sustentar essa referência depois que as informações e responsabilidades forem definidas; não é protagonista nem solução isolada.
+- **Ângulo editorial:** cena cotidiana de cobrança e busca de informação.
+- **recommended_format:** carrossel de conexão com progressão narrativa.
+- **currently_executable_format:** carrossel image-led 1080×1350, condicionado à aprovação da copy.
+- **Canal:** Instagram.
+- **Hook:** “Você precisa perguntar para saber se o trabalho andou?”
+- **CTA:** “Qual trabalho você mais precisa cobrar para descobrir como está?”
+- **Próxima ação:** identificar uma entrega importante e reunir quatro respostas em um lugar consultável.
+- **Pesquisa associada:** observar respostas que nomeiem entregas cujo andamento depende de cobrança; comentários não serão tratados como prova geral.
+- **Aprendizado esperado:** quais tipos de trabalho geram mais necessidade de cobrança para descobrir status.
 
-## Estrutura operacional
+## Desenvolvimento lógico
 
-1. **Que problema isso resolve?** Atrasos e desvios aparecem apenas quando alguém cobra porque o andamento não está visível.
-2. **Qual estrutura está faltando?** Fonte de status, responsável pela atualização, cadência de revisão e critério de alerta.
-3. **Qual é a próxima ação?** Escolher um fluxo crítico e definir onde consultar status, responsável, prazo e alerta de desvio.
-4. **Camadas:** problema observável → regra de gestão/processo/informação → ferramenta ou automação, quando aplicável.
-5. **Papel da ferramenta:** Consolidar e exibir informação confiável depois que fonte, atualização e alerta forem definidos.
+1. Abrir com uma pergunta cotidiana, sem jargão.
+2. Mostrar a cena: mensagem de cobrança, busca em diferentes lugares e resposta incompleta.
+3. Nomear a virada: o problema não é só demora; é não haver uma referência comum.
+4. Traduzir a infraestrutura em quatro perguntas simples.
+5. Dar um primeiro movimento aplicável em uma entrega real.
+6. Fechar com pergunta de identificação, sem direcionamento ao diagnóstico.
+
+## Respostas obrigatórias do brief
+
+1. **Que problema isso resolve?** A necessidade recorrente de cobrar pessoas para descobrir o andamento de uma entrega.
+2. **Qual estrutura está faltando?** Uma referência comum com andamento, responsável, prazo e impedimento.
+3. **Qual é a próxima ação?** Escolher uma entrega importante e reunir essas quatro respostas no lugar em que a equipe acompanha o trabalho.
 
 ## Banco de premissas
 
-| Cena/sinal | O que revela | Consequência | Mudança de percepção | Evidência e confiança | Limite |
-|---|---|---|---|---|---|
-| Você só descobre o atraso quando o cliente cobra? | Quando status, desvios e próximos passos não estão visíveis, a operação reage tarde e depende de reconstruir informação. | Atrasos e desvios aparecem apenas quando alguém cobra porque o andamento não está visível. | de dor difusa para eixo operacional identificável. | Premissa editorial da fila vigente; adequada como princípio e pergunta operacional. | Não apresentar como caso, dado de mercado ou causalidade universal. |
-| Falta a estrutura: Fonte de status, responsável pela atualização, cadência de revisão e critério de alerta. | O problema permanece sem uma referência comum para orientar a execução. | Interrupção, retrabalho ou perda de contexto no território da peça. | O primeiro movimento é tornar a regra observável e aplicável. | Derivação operacional da premissa da fila; confiança moderada. | Confirmar a causa em cada operação antes de generalizar. |
+### Premissa 1 — cobrança para descobrir status
+- **Cena observável:** alguém envia “como está isso?” e precisa procurar respostas em mensagens, planilhas ou com outras pessoas.
+- **O que isso pode revelar:** o andamento não está disponível em uma referência comum.
+- **Consequência prática:** decisões e correções começam depois que alguém cobra.
+- **Crença atual:** a solução é cobrar com mais frequência.
+- **Mudança de percepção:** tornar o andamento consultável reduz a dependência da pergunta como mecanismo de acompanhamento.
+- **Consciência aplicável:** problema-aware.
+- **Fonte e confiança:** premissa editorial da fila Lote 09; confiança moderada como hipótese operacional.
+- **Limite:** não afirmar que toda cobrança decorre apenas de informação espalhada.
+
+### Premissa 2 — ferramenta vem depois da definição
+- **Cena observável:** a empresa possui ferramentas, mas cada pessoa ainda procura o status em um lugar diferente.
+- **O que isso pode revelar:** falta acordo sobre quais informações orientam o acompanhamento.
+- **Consequência prática:** o sistema registra dados sem criar uma leitura comum do trabalho.
+- **Crença atual:** adicionar um dashboard ou sistema resolverá a falta de visibilidade.
+- **Mudança de percepção:** primeiro definir as respostas essenciais; depois escolher onde mantê-las.
+- **Consciência aplicável:** solution-aware.
+- **Fonte e confiança:** diretriz institucional da Simplifique — problema primeiro, infraestrutura depois, ferramenta por último.
+- **Limite:** não negar a utilidade de ferramentas nem prometer resultado pela simples documentação.
 
 ## Evidência disponível
 
-- Título, premissa, movimento, formato e prompt de interação registrados na fila editorial vigente.
-- Princípio institucional: problema primeiro, infraestrutura depois e ferramenta por último.
-- Não há caso, métrica, depoimento ou resultado específico autorizado para esta peça.
+- Feedback humano explícito pedindo menos tecnicidade e mais tom de conversa.
+- Premissa, movimento e CTA de utilidade registrados na fila editorial.
+- Diretriz institucional vigente: problema primeiro, infraestrutura depois e ferramenta por último.
+- Não há caso, comentário público, métrica, depoimento ou resultado específico autorizado.
 
-## Riscos e alegações proibidas
+## Limite de evidência
 
-- Não inventar caso de cliente, comentário, número, prazo, economia ou resultado.
-- Não afirmar que uma única causa explica toda ocorrência do problema.
-- Não prometer resultado automático a partir de regra, ferramenta ou automação.
-- Não usar CTA, URL, QR code ou direcionamento para o questionário comercial.
-- Não converter dependência, ausência ou sobrecarga do dono em enredo genérico.
+A peça apresenta uma hipótese operacional e uma pergunta de diagnóstico cotidiano. Não afirma que a cena representa todos os negócios, que a mudança produzirá resultado mensurável ou que uma ferramenta específica resolve o problema.
+
+## Riscos
+
+- Trocar linguagem técnica por simplificação excessiva e esconder a estrutura necessária.
+- Soar como crítica à equipe, quando o foco é tornar a informação consultável.
+- Transformar quatro informações básicas em uma fórmula universal.
+- Repetir o enredo de dependência do dono como protagonista; nesta peça, o protagonista é a visibilidade do trabalho.
+
+## Alegações proibidas
+
+- Não inventar caso de cliente, comentário, métrica, economia, aumento de receita ou resultado.
+- Não afirmar causalidade universal entre cobrança e informação espalhada.
+- Não prometer que um dashboard, CRM, planilha ou automação eliminará atrasos.
+- Não usar “Faça o diagnóstico”, URL, QR code, “link na bio” ou qualquer rota ao questionário.
+- Não apresentar a Simplifique como responsável por um resultado não comprovado.
+
+## Derivações possíveis
+
+- Estático: “Se você precisa perguntar, o andamento ainda não está visível.”
+- Checklist utilitário: quatro respostas para acompanhar uma entrega sem reconstruir a história.
+- Conteúdo de autoridade: antes de escolher um dashboard, definir quais decisões ele precisa apoiar.
 
 ## Verificação estratégica
 
-- Problema operacional próprio do território: **sim**.
-- Causa estrutural identificada: **sim**.
-- Próximo passo específico e proporcional: **sim**.
-- CTA de interação/utilidade, sem direcionamento ao questionário: **sim**.
-- Formato compatível com design-only: **sim**.
-- Hook principal centrado em ausência ou sobrecarga do dono: **não**.
-- Brief pronto para copy: **sim**.
+- **Por que precisa existir:** claro.
+- **Problema reconhecível:** claro e cotidiano.
+- **Intenção primária:** conexão.
+- **Mudança de percepção:** clara.
+- **Evidência e limites:** explícitos.
+- **Próxima ação:** específica e proporcional.
+- **CTA compatível com o gate fechado:** sim.
+- **Formato nativo preservado:** sim.
+- **Pronto para revisão de copy:** sim.

@@ -2,7 +2,7 @@
   "content_key": "L09-C10-você-só-descobre-quanto-a-empresa-depende-de-voc",
   "request_key": "social-l09-c10-202610",
   "status": "ready",
-  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "checkpoint": "figma_comment_1951670541_revision_post_render_qa_complete",
   "publication_status": "unpublished",
   "publication_authorized": false,
   "exported": false,
@@ -16,6 +16,7 @@
     "overlay_node_id": "362:77",
     "logo_node_id": "362:134",
     "mutated_node_ids": ["362:79", "362:80", "362:99", "362:100"],
+    "revision_mutated_node_ids": ["362:101"],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=362-74",
     "dimensions": "1080x1350",
     "frame_count": 6,
@@ -38,7 +39,43 @@
     "image_fill_verified": true,
     "overflow_nodes": 0,
     "individual_frames_inspected": 6,
-    "section_inspected": true
+    "section_inspected": true,
+    "gradient_fill_verified": true,
+    "contrast_minimum": "5.10:1",
+    "post_revision_frames_inspected": 6
   },
-  "completed_at": "2026-10-02T09:08:02-03:00"
+  "revision": {
+    "mode": "in_place_comment_revision",
+    "duplicate_section_created": false,
+    "comment": {
+      "id": "1951670541",
+      "text": "Adicionar degrade laranja no Background.",
+      "node_id": "362:101",
+      "created_at": "2026-10-03T03:38:02.106Z",
+      "resolved_at": null,
+      "author": "Pablo Backstage"
+    },
+    "applied_at": "2026-10-04T13:50:41-03:00",
+    "mutated_node_ids": ["362:101"],
+    "background_fill": {
+      "type": "GRADIENT_LINEAR",
+      "stops": ["#FF8752", "#FF6A2A", "#E65324"]
+    },
+    "evidence": {
+      "pre_section": "qa-screenshots/section-pre-c10-comment-1951670541.png",
+      "pre_frame": "qa-screenshots/frame-04-pre-c10-comment-1951670541.png",
+      "post_section": "qa-screenshots/section-post-c10-comment-1951670541.png",
+      "post_frames": [
+        "qa-screenshots/frame-01-post-c10-comment-1951670541.png",
+        "qa-screenshots/frame-02-post-c10-comment-1951670541.png",
+        "qa-screenshots/frame-03-post-c10-comment-1951670541.png",
+        "qa-screenshots/frame-04-post-c10-comment-1951670541.png",
+        "qa-screenshots/frame-05-post-c10-comment-1951670541.png",
+        "qa-screenshots/frame-06-post-c10-comment-1951670541.png"
+      ]
+    },
+    "qa_decision": "approved",
+    "approved_for": "human_visual_review"
+  },
+  "completed_at": "2026-10-04T13:50:41-03:00"
 }

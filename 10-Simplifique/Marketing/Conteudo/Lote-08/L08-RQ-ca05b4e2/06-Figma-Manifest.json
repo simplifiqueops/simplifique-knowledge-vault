@@ -1,0 +1,34 @@
+{
+  "content_key": "L08-RQ-ca05b4e2",
+  "request_key": "social-ca05b4e2991132ea799a14be",
+  "status": "ready",
+  "publication_status": "unpublished",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node_id": "182:8",
+    "section_node_id": "457:146",
+    "section_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=457-146",
+    "section_name": "[PRODUÇÃO 23] Carrossel — Trabalho que continua",
+    "frame_ids": ["457:147", "457:154", "457:165", "457:174", "457:188", "457:202"],
+    "frame_count": 6,
+    "dimensions": "1080x1350",
+    "editable": true,
+    "overflowing_text": []
+  },
+  "image": {
+    "source": "Pexels",
+    "source_id": 4959797,
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/assets/c23-continuity-pexels-4959797.jpg",
+    "metadata_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/source-metadata/c23-continuity-pexels-4959797.json"
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "post_fix_screenshots": [
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/section-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/frame-01-final.png",
+      "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/frame-02-final.png"
+    ]
+  },
+  "completed_at": "2026-10-04T13:00:52-03:00"
+}

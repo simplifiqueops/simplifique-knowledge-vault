@@ -1,0 +1,57 @@
+{
+  "captured_at": "2026-10-04T14:00:03-03:00",
+  "figma_file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+  "section": {
+    "id": "430:104",
+    "name": "[PRODUÇÃO 15] Carrossel — Quem percebe quando a automação para",
+    "same_name_section_ids": ["430:104"],
+    "descendant_count": 74,
+    "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
+    "frame_dimensions": "1080x1350"
+  },
+  "changed_nodes": {
+    "430:128": {
+      "photo_node_id": "465:158",
+      "photo_dimensions": "1080x1350",
+      "scale_mode": "FILL",
+      "image_hash": "fe09284755ed205e7d2186cf6e25ba6d67a62af1",
+      "overlay_node_id": "465:159",
+      "overlay_opacity": 0.62
+    },
+    "430:166": {
+      "logo_node_id": "430:174",
+      "logo_type": "INSTANCE",
+      "logo_dimensions": "75x50.2",
+      "logo_color": "#111111",
+      "contrast_plate_node_id": "432:110",
+      "contrast_plate_exists": false
+    }
+  },
+  "comments": [
+    {
+      "id": "1951981556",
+      "text": "Coloca uma imagem de background nessa ",
+      "node_id": "430:128",
+      "created_at": "2026-10-04T16:24:38.332Z",
+      "resolved_at": null
+    },
+    {
+      "id": "1951981681",
+      "text": "Muda o logo pra preto e tira essa box detrás do logo",
+      "node_id": "430:166",
+      "created_at": "2026-10-04T16:25:24.573Z",
+      "resolved_at": null
+    }
+  ],
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "frames_inspected": 6,
+    "section_inspected": true,
+    "overflow_text": [],
+    "comments_resolved": false,
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  }
+}

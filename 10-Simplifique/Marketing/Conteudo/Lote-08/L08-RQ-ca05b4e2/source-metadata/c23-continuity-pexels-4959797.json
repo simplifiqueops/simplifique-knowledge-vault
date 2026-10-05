@@ -1,0 +1,21 @@
+{
+  "candidate_id": "C23-CONTINUITY-A",
+  "source": "Pexels",
+  "source_id": 4959797,
+  "page_url": "https://www.pexels.com/photo/photo-of-a-person-s-hands-using-a-black-phone-4959797/",
+  "photographer": "Kaboompics.com / Karolina Grabowska",
+  "photographer_url": "https://www.pexels.com/@karola-g",
+  "width": 2717,
+  "height": 4075,
+  "accessed_at": "2026-10-04",
+  "intended_use": "Capa full-bleed do carrossel, crop 4:5 com overlay preto",
+  "score": {
+    "function": 2,
+    "fit": 2,
+    "naturalness": 2,
+    "technical": 2,
+    "traceability": 2,
+    "total": 10
+  },
+  "risk": "A imagem pode sugerir multitarefa genérica; não tratá-la como prova de uso de IA."
+}

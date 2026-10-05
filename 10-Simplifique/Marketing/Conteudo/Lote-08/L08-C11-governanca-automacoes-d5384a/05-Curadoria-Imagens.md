@@ -56,3 +56,17 @@ A recomendação C11-MONITOR-A alcançou 9/10, é gratuita, rastreável e sem ri
 - **Metadados:** `source-metadata/c11-monitoring-pexels-30215680.json`
 - **SHA-256:** `0d0c3dc7978c29e1346570b89e63775a39d437669edca563d263f1214c8e808d`
 - **Data de acesso:** 03/10/2026.
+
+## Revisão por comentário — 04/10/2026
+
+- **Comentário:** `1951981556`, Pablo Backstage, criado em `2026-10-04T16:24:38.332Z`, nó `430:128`: “Coloca uma imagem de background nessa”.
+- **Decisão de curadoria:** não repetir a fotografia da capa. O candidato Pexels `34862446`, já avaliado na shortlist com 8/10, foi selecionado por mostrar conferência manual entre computador, anotações e celular, com proporção vertical e tratamento escuro compatível com a virada narrativa.
+- **Fonte:** Pexels.
+- **Fotógrafo:** Jakub Zerdzicki.
+- **Página:** https://www.pexels.com/photo/hands-writing-in-notebook-on-modern-office-desk-34862446/
+- **Arquivo local:** `assets/c11-monitoring-detail-pexels-34862446.jpg`.
+- **Metadados:** `source-metadata/c11-monitoring-detail-pexels-34862446.json`.
+- **SHA-256:** `f582ab125bcc72300f9ff3adb2e54c1eca419dc48fafa9972a824f7612327308`.
+- **Aplicação:** imagem full-bleed no nó `465:158`, modo `FILL`, com overlay preto controlado no nó `465:159`; copy e diagrama originais preservados acima das novas camadas.
+- **Risco controlado:** a cena é representativa e não é apresentada como cliente, incidente real ou evidência de desempenho.
+

@@ -1355,7 +1355,28 @@
           "social-f62e2b8ad0670f4f39aba005",
           "social-b4f9d3b46c06bcc3d9d1e825",
           "social-404c3e4bf4a3c127925d1d00",
-          "social-0528fbf02f6b4a9247f64a0e"
+          "social-0528fbf02f6b4a9247f64a0e",
+          "social-f3ad0534e47bf8b1e0611c3c",
+          "social-2937880b9323b8cad4b92cd1",
+          "social-0e4f6b84c21712df6a92c77a",
+          "social-369c7467a37c8e8ae77398f0",
+          "social-eda1ad3675d3809d19e6fb60",
+          "social-c103e3ffaf38fb0de6b79ab8",
+          "social-17e4ae4e76f9e71bd2fc9bb5",
+          "social-3320a5fa2a6db888a30a5dc6",
+          "social-0cea984791b4a5153f10682b",
+          "social-db87bb08ac3abb6f531aab38",
+          "social-3fc5d351d0310e3b8a776a51",
+          "social-d3a59f6410c74a5b0bcd1e35",
+          "social-7e071edece1163bf90eea46e",
+          "social-17eb9f120f1500f33857eca9",
+          "social-5126f88323bb52559305aa10",
+          "social-48a08c5726cde615ecc3c438",
+          "social-f9cdac3729f12f421f85a796",
+          "social-f08a82f5afc4805f604119d3",
+          "social-72e16229cce65167b387a04e",
+          "social-fc1ff52db8e9baf708d7a367",
+          "social-a2ddb4b81c4e4537c5a857c8"
         ],
         "requested_at": "2026-09-29T18:16:58Z",
         "desired_format": "carrossel",
@@ -1386,7 +1407,7 @@
           "Não generalizar além da amostra."
         ]
       },
-      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "checkpoint": "figma_comment_revision_and_post_render_qa_complete",
       "publication_status": "unpublished",
       "blocking_issues": [],
       "non_blocking_notes": [
@@ -1394,10 +1415,13 @@
         "O snapshot com example.com permaneceu excluído como evidência de tendência.",
         "A fotografia Pexels 30215680 foi aplicada com origem, autoria e arquivo local preservados.",
         "A primeira renderização revelou fills acidentais e textos invisíveis na tela 02; as correções foram aplicadas e todos os frames foram reinspecionados.",
+        "Comentários Figma 1951981556 (nó 430:128) e 1951981681 (nó 430:166) aplicados em lugar em 04/10/2026, com evidência pré/pós e QA de todos os frames.",
+        "Fotografia Pexels 34862446 aplicada em full-bleed no nó 465:158; autoria, página, arquivo local e SHA-256 preservados.",
+        "Logo oficial 430:174 alterado para preto; placa 432:110 removida; comentários permanecem não resolvidos.",
         "Artefato editável, não exportado, não agendado e não publicado."
       ],
       "started_at": "2026-10-01T20:45:37-03:00",
-      "updated_at": "2026-10-03T06:51:35-03:00",
+      "updated_at": "2026-10-04T14:00:03-03:00",
       "completed_at": "2026-10-03T06:51:35-03:00",
       "draft_completed_at": "2026-10-02T13:40:27-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a",
@@ -1416,7 +1440,20 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/qa-screenshots/frame-03-final.png",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/qa-screenshots/frame-04-final.png",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/qa-screenshots/frame-05-final.png",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/qa-screenshots/frame-06-final.png"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/qa-screenshots/frame-06-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/assets/c11-monitoring-detail-pexels-34862446.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/source-metadata/c11-monitoring-detail-pexels-34862446.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/pre-section.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/pre-frame-03.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/pre-frame-06.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-section.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-01.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-02.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-03.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-04.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-05.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/post-frame-06.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a/revision-evidence/revision-readback.json"
       ],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -1425,11 +1462,12 @@
         "page_node": "182:8",
         "section_id": "430:104",
         "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
-        "image_node_ids": ["430:106"],
+        "image_node_ids": ["430:106", "465:158"],
+        "overlay_node_ids": ["430:107", "465:159"],
         "logo_node_ids": ["430:174"],
         "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=430-104",
         "rendered": true,
-        "revision_mode": "new_section",
+        "revision_mode": "in_place_comment_revision",
         "duplicate_section_created": false
       },
       "image_curation": {
@@ -1439,14 +1477,51 @@
         "source_id": 30215680,
         "photographer": "Oktay Köseoğlu",
         "score": 9,
-        "approval_required": false
+        "approval_required": false,
+        "revision_asset": {
+          "selected_candidate": "C11-MONITOR-B",
+          "source": "Pexels",
+          "source_id": 34862446,
+          "photographer": "Jakub Zerdzicki",
+          "page_url": "https://www.pexels.com/photo/hands-writing-in-notebook-on-modern-office-desk-34862446/",
+          "local_path": "assets/c11-monitoring-detail-pexels-34862446.jpg",
+          "sha256": "f582ab125bcc72300f9ff3adb2e54c1eca419dc48fafa9972a824f7612327308",
+          "figma_node_id": "465:158"
+        }
+      },
+      "figma_comment_revision": {
+        "applied_at": "2026-10-04T14:00:03-03:00",
+        "comments_resolved": false,
+        "comments": [
+          {
+            "id": "1951981556",
+            "author": "Pablo Backstage",
+            "created_at": "2026-10-04T16:24:38.332Z",
+            "node_id": "430:128",
+            "text": "Coloca uma imagem de background nessa ",
+            "result": "applied_in_place",
+            "evidence_nodes": ["465:158", "465:159"]
+          },
+          {
+            "id": "1951981681",
+            "author": "Pablo Backstage",
+            "created_at": "2026-10-04T16:25:24.573Z",
+            "node_id": "430:166",
+            "text": "Muda o logo pra preto e tira essa box detrás do logo",
+            "result": "applied_in_place",
+            "evidence_nodes": ["430:174"],
+            "removed_nodes": ["432:110"]
+          }
+        ],
+        "qa_decision": "approved",
+        "evidence_directory": "revision-evidence"
       }
     },
     {
       "content_key": "L08-RQ-ca05b4e2",
       "order": 12,
-      "status": "copy_review",
-      "request_status": "copy_review",
+      "status": "ready",
+      "request_status": "ready",
       "format": "carrossel",
       "title": "Agentes persistentes conectados viram uma camada operacional para pequenos negócios",
       "territory": "ia",
@@ -1495,36 +1570,55 @@
         ]
       },
       "started_at": "2026-10-02T22:17:12-03:00",
-      "updated_at": "2026-10-02T22:17:12-03:00",
+      "updated_at": "2026-10-04T13:00:52-03:00",
       "draft_completed_at": "2026-10-02T22:17:12-03:00",
-      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "production_completed_at": "2026-10-04T13:00:52-03:00",
+      "checkpoint": "editable_figma_ready_for_human_review",
       "publication_status": "unpublished",
       "blocking_issues": [],
+      "figma": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node_id": "182:8",
+        "section_node_id": "457:146",
+        "section_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=457-146",
+        "frame_count": 6,
+        "dimensions": "1080x1350",
+        "editable": true
+      },
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/02-Copy-ou-Roteiro.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/citations-ledger.json",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/sources/retrieval-notes-2026-10-02.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/sources/retrieval-notes-2026-10-02.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/06-Figma-Manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/assets/c23-continuity-pexels-4959797.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/source-metadata/c23-continuity-pexels-4959797.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/frame-01-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-ca05b4e2/qa-screenshots/frame-02-final.png"
       ],
       "qa_decision": "approved",
-      "approved_for": "copy_review",
+      "approved_for": "figma_review",
       "non_blocking_notes": [
         "CTA do diagnóstico permaneceu bloqueado; a copy usa apenas pergunta de interação.",
         "As capacidades são apresentadas como anúncios dos fornecedores, sem promessa de impacto ou disponibilidade universal.",
-        "Design, curadoria, Figma, exportação, agendamento e publicação não autorizados."
+        "Arte editável pronta no Figma; exportação, agendamento e publicação não foram realizados nem autorizados."
       ]
     },
     {
       "content_key": "L08-RQ-e88acefa",
       "order": 13,
-      "status": "queued",
-      "request_status": "queued",
+      "status": "copy_review",
+      "request_status": "copy_review",
       "format": "carrossel",
       "title": "O sinal de maturidade não é usar IA, mas escolher um trabalho útil e conferir se ajudou",
       "territory": "produtividade",
       "source_topic_key": "radar-d773d51a8bfa1608",
-      "objective": "A evidência permite deslocar a conversa de adoção genérica para uma rotina mensurável: escolher uma dor, testar um trabalho delimitado e verificar se houve ganho sem criar nova dependência.",
+      "objective": "Deslocar a conversa de adoção genérica para uma rotina verificável: escolher um trabalho delimitado, definir o resultado esperado e conferir o que ajudou antes de ampliar.",
       "requires_user_on_camera": false,
       "daily_request": {
         "request_key": "social-e88acefa40356db529c779fe",
@@ -1567,6 +1661,70 @@
           "Não converter volume de tokens em horas poupadas, produtividade ou receita."
         ]
       },
+      "started_at": "2026-10-04T06:25:00-03:00",
+      "updated_at": "2026-10-04T06:25:00-03:00",
+      "draft_completed_at": "2026-10-04T06:25:00-03:00",
+      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "publication_status": "unpublished",
+      "blocking_issues": [],
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/sources/retrieval-notes-2026-10-04.md"
+      ],
+      "qa_decision": "approved",
+      "approved_for": "copy_review",
+      "non_blocking_notes": [
+        "CTA do diagnóstico permaneceu bloqueado; a copy usa somente orientação de utilidade.",
+        "Os números da OpenAI sustentam apenas uso declarado, não resultado operacional.",
+        "Design, curadoria, Figma, exportação, agendamento e publicação não autorizados."
+      ]
+    },
+    {
+      "content_key": "L08-RQ-d9a00c4b",
+      "order": 14,
+      "status": "queued",
+      "request_status": "queued",
+      "format": "carrossel",
+      "title": "Atendimento no WhatsApp passou a exigir controle de custo e continuidade por mensagem",
+      "territory": "whatsapp_atendimento",
+      "source_topic_key": "radar-whatsapp-service-messages-billing-20261001",
+      "objective": "Traduzir a mudança de cobrança da WhatsApp Business Platform em controle de custo, responsabilidade de cobrança e continuidade do atendimento.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-d9a00c4bae3b06fea931884d",
+        "requested_at": "2026-10-04T06:18:40Z",
+        "desired_format": "carrossel",
+        "requester": "pablo",
+        "planned_for": null
+      },
+      "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-d9a00c4bae3b06fea931884d.json",
+      "checkpoint": "reconciled_from_daily_outbox",
+      "publication_status": "unpublished",
+      "blocking_issues": []
+    },
+    {
+      "content_key": "L08-RQ-5a3dc623",
+      "order": 15,
+      "status": "queued",
+      "request_status": "queued",
+      "format": "carrossel",
+      "title": "Atendimento automatizado cria uma nova expectativa: resolver rápido sem esconder a pessoa",
+      "territory": "atendimento",
+      "source_topic_key": "radar-atendimento-ia-acesso-humano-20260929",
+      "objective": "Explicar que velocidade inicial não substitui uma rota clara para atendimento humano quando a automação não resolve.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-5a3dc623786f3d471a85f2ca",
+        "requested_at": "2026-10-04T06:19:20Z",
+        "desired_format": "carrossel",
+        "requester": "pablo",
+        "planned_for": null
+      },
+      "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-5a3dc623786f3d471a85f2ca.json",
+      "checkpoint": "reconciled_from_daily_outbox",
       "publication_status": "unpublished",
       "blocking_issues": []
     }

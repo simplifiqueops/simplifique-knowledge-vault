@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C21-crm-cheio-não-é-pipeline-conduzido",
+  "request_key": "social-l09-c21-202610",
+  "title": "CRM cheio não é pipeline conduzido",
+  "format": "estático",
+  "channel": "Instagram",
+  "dimensions": "1080x1350",
+  "timezone": "America/Sao_Paulo",
+  "phase": "visual_production",
+  "status": "ready",
+  "copy_gate": "approved_for_production",
+  "qa_decision": "approved",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "diagnostic_cta_authorized": false,
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "449:128",
+    "frame_ids": ["449:129"],
+    "image_node_ids": ["449:130"],
+    "logo_node_ids": ["449:141"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=449-128",
+    "editable": true,
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "candidate_id": "C21-CRM-VOLUME-A",
+    "source": "Pexels",
+    "source_id": 8296982,
+    "photographer": "Mikhail Nilov",
+    "page_url": "https://www.pexels.com/photo/a-person-with-a-laptop-8296982/",
+    "score": 9,
+    "approval_required": false,
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C21-crm-cheio-não-é-pipeline-conduzido/assets/c21-crm-volume-pexels-8296982.jpg",
+    "sha256": "0a085d8ebf1a1302ea933d3870256f2cb98af2e6451cc4b975117121dc324a9e"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "manifest.json",
+    "assets/c21-crm-volume-pexels-8296982.jpg",
+    "source-metadata/c21-crm-volume-pexels-8296982.json",
+    "qa-screenshots/frame-final.png",
+    "qa-screenshots/section-final.png"
+  ],
+  "verified_at": "2026-10-04T00:05:59-03:00"
+}

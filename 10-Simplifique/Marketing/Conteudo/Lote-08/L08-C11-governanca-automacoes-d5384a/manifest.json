@@ -4,6 +4,7 @@
   "request_key": "social-d5384a9b07966269b967802a",
   "status": "ready",
   "completed_at": "2026-10-03T06:51:35-03:00",
+  "updated_at": "2026-10-04T14:00:03-03:00",
   "publication_status": "unpublished",
   "copy_approved_by": "pablo",
   "copy_approved_at": "2026-10-03T03:02:06Z",
@@ -13,43 +14,114 @@
     "section_id": "430:104",
     "section_name": "[PRODUÇÃO 15] Carrossel — Quem percebe quando a automação para",
     "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
-    "image_node_id": "430:106",
+    "image_node_ids": ["430:106", "465:158"],
+    "overlay_node_ids": ["430:107", "465:159"],
     "logo_node_id": "430:174",
-    "logo_contrast_plate_id": "432:110",
+    "logo_contrast_plate_id": null,
+    "removed_node_ids": ["432:110"],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=430-104",
     "dimensions": "1080x1350",
     "editable": true,
-    "descendant_count": 73,
+    "frame_count": 6,
+    "descendant_count": 74,
     "font_families": ["Inter"],
-    "overflow_text": []
+    "text_count": 28,
+    "overflow_text": [],
+    "duplicate_section_created": false,
+    "revision_mode": "in_place_comment_revision"
   },
   "image_curation": {
     "status": "recommended_downloaded_and_applied",
-    "candidate_id": "C11-MONITOR-A",
-    "source": "Pexels",
-    "source_id": 30215680,
-    "photographer": "Oktay Köseoğlu",
-    "page_url": "https://www.pexels.com/photo/woman-working-on-laptop-in-a-dimly-lit-room-30215680/",
-    "score": 9,
-    "local_path": "assets/c11-monitoring-pexels-30215680.jpg",
-    "sha256": "0d0c3dc7978c29e1346570b89e63775a39d437669edca563d263f1214c8e808d"
+    "assets": [
+      {
+        "candidate_id": "C11-MONITOR-A",
+        "source": "Pexels",
+        "source_id": 30215680,
+        "photographer": "Oktay Köseoğlu",
+        "page_url": "https://www.pexels.com/photo/woman-working-on-laptop-in-a-dimly-lit-room-30215680/",
+        "score": 9,
+        "local_path": "assets/c11-monitoring-pexels-30215680.jpg",
+        "sha256": "0d0c3dc7978c29e1346570b89e63775a39d437669edca563d263f1214c8e808d",
+        "figma_node_id": "430:106",
+        "usage": "cover"
+      },
+      {
+        "candidate_id": "C11-MONITOR-B",
+        "source": "Pexels",
+        "source_id": 34862446,
+        "photographer": "Jakub Zerdzicki",
+        "photographer_url": "https://www.pexels.com/@jakubzerdzicki",
+        "page_url": "https://www.pexels.com/photo/hands-writing-in-notebook-on-modern-office-desk-34862446/",
+        "score": 8,
+        "local_path": "assets/c11-monitoring-detail-pexels-34862446.jpg",
+        "metadata_path": "source-metadata/c11-monitoring-detail-pexels-34862446.json",
+        "sha256": "f582ab125bcc72300f9ff3adb2e54c1eca419dc48fafa9972a824f7612327308",
+        "figma_node_id": "465:158",
+        "overlay_node_id": "465:159",
+        "usage": "full_bleed_background_frame_430_128"
+      }
+    ]
+  },
+  "revision": {
+    "applied_at": "2026-10-04T14:00:03-03:00",
+    "comments_resolved": false,
+    "comments": [
+      {
+        "id": "1951981556",
+        "author": "Pablo Backstage",
+        "created_at": "2026-10-04T16:24:38.332Z",
+        "resolved_at": null,
+        "node_id": "430:128",
+        "text": "Coloca uma imagem de background nessa ",
+        "result": "applied_in_place",
+        "evidence_nodes": ["465:158", "465:159"]
+      },
+      {
+        "id": "1951981681",
+        "author": "Pablo Backstage",
+        "created_at": "2026-10-04T16:25:24.573Z",
+        "resolved_at": null,
+        "node_id": "430:166",
+        "text": "Muda o logo pra preto e tira essa box detrás do logo",
+        "result": "applied_in_place",
+        "evidence_nodes": ["430:174"],
+        "removed_nodes": ["432:110"]
+      }
+    ],
+    "pre_edit_evidence": [
+      "revision-evidence/pre-section.png",
+      "revision-evidence/pre-frame-03.png",
+      "revision-evidence/pre-frame-06.png"
+    ],
+    "post_edit_evidence": [
+      "revision-evidence/post-section.png",
+      "revision-evidence/post-frame-01.png",
+      "revision-evidence/post-frame-02.png",
+      "revision-evidence/post-frame-03.png",
+      "revision-evidence/post-frame-04.png",
+      "revision-evidence/post-frame-05.png",
+      "revision-evidence/post-frame-06.png",
+      "revision-evidence/revision-readback.json"
+    ]
   },
   "qa": {
     "decision": "approved",
     "blocking_issues": [],
+    "approved_for": "user_review",
     "non_blocking_notes": [
-      "Visible copy was reconciled to the text approved in Daily; unapproved support lines were removed during visual QA.",
-      "The first render exposed invisible signal text caused by low contrast; the text color was corrected and every changed frame was re-inspected.",
-      "The official white logo received a compact black contrast plate on the closing frame."
+      "Approved copy, CTA gate and untouched frames were preserved.",
+      "Frame 430:128 now uses a distinct traceable Pexels background with controlled overlay.",
+      "Frame 430:166 retains the official compact logo instance in black without a backing plate.",
+      "Comments remain unresolved in Figma by request."
     ],
     "screenshots": [
-      "qa-screenshots/section-final.png",
-      "qa-screenshots/frame-01-final.png",
-      "qa-screenshots/frame-02-final.png",
-      "qa-screenshots/frame-03-final.png",
-      "qa-screenshots/frame-04-final.png",
-      "qa-screenshots/frame-05-final.png",
-      "qa-screenshots/frame-06-final.png"
+      "revision-evidence/post-section.png",
+      "revision-evidence/post-frame-01.png",
+      "revision-evidence/post-frame-02.png",
+      "revision-evidence/post-frame-03.png",
+      "revision-evidence/post-frame-04.png",
+      "revision-evidence/post-frame-05.png",
+      "revision-evidence/post-frame-06.png"
     ]
   },
   "gates": {

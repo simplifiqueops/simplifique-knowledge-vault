@@ -1,71 +1,103 @@
-# Copy — Qual eixo mais prende sua empresa em você?
+# Copy — Você precisa perguntar para saber se o trabalho andou?
 
 ## Copy visível
 
 ### CAPA
-Você só descobre o atraso quando o cliente cobra?
+Você precisa perguntar para saber se o trabalho andou?
 
 ### TELA 2
-O andamento está espalhado entre mensagens, planilhas e memória.
-Quando o desvio aparece, o prazo já passou.
+Você manda:
+
+“Como está aquela entrega?”
+
+A resposta começa com:
+
+“Deixa eu procurar.”
 
 ### TELA 3
-A causa estrutural é falta de visibilidade operacional:
-fonte de status, responsável pela atualização, cadência e alerta.
+A pessoa abre o WhatsApp.
+Confere a planilha.
+Pergunta para outra pessoa.
+
+E você continua sem uma resposta completa.
 
 ### TELA 4
-Esse sinal ajuda a localizar quatro eixos:
-— autonomia: quem pode decidir;
-— processo: como o trabalho avança;
-— visibilidade: o que está acontecendo;
-— informação: qual fonte orienta a ação.
+O problema não é só demora.
+
+É o andamento não estar visível em um lugar que todos conseguem consultar.
 
 ### TELA 5
-Comece pelo eixo visibilidade.
-Escolha um fluxo e registre status, responsável, prazo e condição de alerta.
+Antes de criar mais uma planilha, deixe quatro respostas claras:
+
+— o que está acontecendo;
+— quem está cuidando;
+— quando precisa ficar pronto;
+— o que está travando.
 
 ### TELA 6
-Depois, observe onde o fluxo ainda perde referência.
-O problema fica mais tratável quando o eixo aparece no trabalho real.
+Escolha uma entrega importante.
+
+Reúna essas quatro respostas no lugar em que a equipe já acompanha o trabalho.
+
+### TELA 7
+Se você precisa perguntar toda vez, o andamento ainda não está visível.
+
+Qual trabalho você mais precisa cobrar para descobrir como está?
 
 ### LEGENDA
-Falta de tempo é uma sensação ampla. Um atraso descoberto só depois da cobrança é um sinal operacional específico.
+Você pergunta como está uma entrega. A pessoa procura no WhatsApp, abre uma planilha, fala com alguém e volta com uma parte da resposta.
 
-Nesse caso, a estrutura ausente costuma estar na visibilidade: onde consultar o status, quem atualiza, quando revisar e o que dispara um alerta.
+A cobrança não é o único problema. O andamento do trabalho ainda não está fácil de consultar.
 
-Escolha um fluxo crítico e torne esses quatro pontos visíveis. A partir dele, avalie se a lacuna seguinte está em autonomia, processo ou informação.
+Antes de criar outro sistema, escolha uma entrega importante e deixe quatro respostas no mesmo lugar:
+
+— o que está acontecendo;
+— quem está cuidando;
+— quando precisa ficar pronto;
+— o que está travando.
+
+É esse caminho que a Simplifique organiza: primeiro a informação e a responsabilidade; depois, a ferramenta que ajuda a equipe a acompanhar.
 
 ### CTA
-Escolha um eixo para revisar hoje: autonomia, processo, visibilidade ou informação.
+Qual trabalho você mais precisa cobrar para descobrir como está?
 
 ## Alt text
 
-Peça sobre indicadores e visibilidade operacional. A abertura é “Você só descobre o atraso quando o cliente cobra?”. O conteúdo apresenta o problema “Atrasos e desvios aparecem apenas quando alguém cobra porque o andamento não está visível.”, aponta como estrutura ausente “Fonte de status, responsável pela atualização, cadência de revisão e critério de alerta.” e propõe como próximo passo: Escolher um fluxo crítico e definir onde consultar status, responsável, prazo e alerta de desvio.
+Carrossel de sete telas sobre acompanhamento de entregas. A capa pergunta se é preciso cobrar para saber se o trabalho andou. A sequência mostra uma pessoa procurando o status em WhatsApp, planilha e com colegas; explica que o andamento precisa estar visível em uma referência comum; propõe reunir o que está acontecendo, quem cuida, prazo e impedimento; e termina perguntando qual trabalho mais exige cobrança para descobrir o status.
 
 ## Mapa de evidência
 
-- **Abertura:** adaptação do item vigente para uma cena operacional específica do território.
-- **Causa estrutural:** derivação explícita da premissa editorial, formulada como princípio e não como caso real.
-- **Próximo passo:** ação específica, proporcional e sem promessa de resultado.
-- **Legenda e CTA:** preservam o movimento e usam interação ou utilidade sem direcionar ao questionário.
+- **Abertura e cena:** construção hipotética baseada na premissa da fila; não representa cliente ou caso real.
+- **Virada:** princípio operacional formulado como leitura diagnóstica, não como causalidade universal.
+- **Quatro respostas:** síntese prática de andamento, responsabilidade, prazo e impedimento.
+- **Papel da Simplifique:** descrição do método institucional — organizar problema e estrutura antes da ferramenta — sem promessa de resultado.
+- **CTA:** pergunta de pesquisa e identificação; não direciona ao questionário.
 
 ## Alegações excluídas intencionalmente
 
 - Métricas, percentuais, economia de tempo, aumento de receita ou resultado garantido.
-- Caso de cliente, depoimento, comentário ou notícia não documentada.
-- Causalidade universal ou solução automática.
-- CTA, URL ou QR code para o diagnóstico comercial.
+- Caso de cliente, depoimento, comentário público ou notícia não documentada.
+- Afirmação de que toda cobrança é causada por informação espalhada.
+- Promessa de que planilha, dashboard, CRM ou automação resolverá atrasos.
+- CTA “Faça o diagnóstico”, URL, QR code ou instrução de acesso ao questionário.
 
 ## Alerta de densidade
 
-- **Abertura:** baixa; uma cena ou contraste central.
-- **Desenvolvimento:** baixa a média; uma função por bloco visual.
-- **Legenda:** média; problema, causa estrutural e próxima ação.
+- **Capa:** baixa; uma pergunta em até quatro linhas.
+- **Tela 2:** baixa; diálogo curto com pausa visual.
+- **Tela 3:** baixa; sequência de três ações e uma consequência.
+- **Tela 4:** baixa; uma virada.
+- **Tela 5:** média; quatro linhas curtas, sem explicações adicionais.
+- **Tela 6:** baixa; um primeiro movimento.
+- **Tela 7:** baixa; síntese e pergunta final.
+- **Legenda:** média; preservar parágrafos curtos.
 
 ## Verificação de copy
 
-- Linguagem direta e operacional: **sim**.
-- Problema → infraestrutura → próxima ação: **sim**.
-- CTA de interação/utilidade: **sim**.
-- Sem promessa, urgência artificial, notícia ou caso inventado: **sim**.
-- Hook principal centrado em ausência ou sobrecarga do dono: **não**.
+- **Tom de conversa:** sim; abre com pergunta e cena cotidiana.
+- **Linguagem técnica removida:** sim; “visibilidade operacional”, “cadência”, “fonte de status” e “condição de alerta” não aparecem na copy pública.
+- **Problema → infraestrutura → ferramenta:** sim.
+- **Uma ideia dominante por tela:** sim.
+- **CTA proporcional e sem tráfego ao questionário:** sim.
+- **Sem caso, comentário, métrica, causalidade ou urgência inventada:** sim.
+- **Leitura em voz alta:** revisada; progressão natural e frases curtas.

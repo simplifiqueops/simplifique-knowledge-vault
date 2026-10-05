@@ -1,50 +1,71 @@
-# Copy — Automação sem trilha de decisão só deixa o erro mais rápido
+# Copy — Se a automação errar, você consegue descobrir o que aconteceu?
 
 ## Copy visível
 
 ### ARTE
-Automação sem trilha de decisão só deixa o erro mais rápido.
 
-Se o resultado sair errado, o registro precisa mostrar entrada, regra aplicada, ação e exceção.
+**Se a automação errar, você consegue descobrir o que aconteceu?**
+
+Sem um histórico claro, o time vira investigador.
 
 ### LEGENDA
-Uma automação falha e o time começa a procurar pistas em planilhas, mensagens e históricos incompletos.
 
-O problema estrutural não é apenas o erro. É não conseguir reconstruir qual dado entrou, qual regra foi aplicada, o que a automação fez e onde a exceção deveria ser revertida.
+A automação fez algo errado — ou simplesmente não fez.
 
-Escolha uma automação ativa e localize esses registros. Se algum não existir, defina onde será gravado antes de ampliar o fluxo.
+Aí começa a busca: alguém abre a planilha, procura mensagens, confere o sistema e tenta descobrir onde o problema começou.
+
+Não precisa ser assim.
+
+Toda automação em uso precisa deixar quatro respostas simples:
+
+1. O que ela recebeu?
+2. O que ela fez?
+3. Quem percebe quando algo sai errado?
+4. Quem assume a correção?
+
+É esse caminho que a Simplifique organiza antes de ampliar uma automação: processo claro, responsabilidade definida e ferramenta deixando um histórico que a equipe consegue entender.
+
+Comece por uma automação que já faz parte da rotina e responda às quatro perguntas.
 
 ### CTA
-Responda: onde sua automação registra decisões e exceções?
+
+**Escolha uma automação e responda às quatro perguntas.**
 
 ## Alt text
 
-Peça sobre automação e auditabilidade. A abertura é “Se a automação errar hoje, você consegue descobrir por quê?”. O conteúdo apresenta o problema “Quando uma automação produz um resultado incorreto, a equipe não consegue reconstruir a decisão.”, aponta como estrutura ausente “Log de entrada, versão da regra, ação executada, resultado, responsável e caminho de reversão.” e propõe como próximo passo: Escolher uma automação e localizar onde ela registra entrada, regra, ação, resultado e exceção.
+Post estático da Simplifique com a pergunta “Se a automação errar, você consegue descobrir o que aconteceu?” e a frase de apoio “Sem um histórico claro, o time vira investigador.” A peça orienta revisar o que a automação recebeu, o que fez, quem percebe a falha e quem assume a correção.
 
 ## Mapa de evidência
 
-- **Abertura:** adaptação do item vigente para uma cena operacional específica do território.
-- **Causa estrutural:** derivação explícita da premissa editorial, formulada como princípio e não como caso real.
-- **Próximo passo:** ação específica, proporcional e sem promessa de resultado.
-- **Legenda e CTA:** preservam o movimento e usam interação ou utilidade sem direcionar ao questionário.
+- **Abertura:** pergunta diagnóstica, sem afirmar que toda automação falha.
+- **Cena:** situação hipotética e reconhecível; não representa cliente real.
+- **Estrutura:** histórico, sinal, responsável e correção traduzem o princípio processo antes da ferramenta.[1]
+- **Papel da Simplifique:** descrição de método e território, sem promessa de resultado.[1]
+- **CTA:** ação de utilidade; não direciona ao diagnóstico bloqueado.[2]
 
 ## Alegações excluídas intencionalmente
 
 - Métricas, percentuais, economia de tempo, aumento de receita ou resultado garantido.
-- Caso de cliente, depoimento, comentário ou notícia não documentada.
-- Causalidade universal ou solução automática.
-- CTA, URL ou QR code para o diagnóstico comercial.
+- Caso de cliente, depoimento, comentário ou notícia apresentada como prova.
+- Afirmação de que registro impede falhas ou resolve automaticamente a causa.
+- CTA, URL, QR code ou “link na bio” para o diagnóstico.
 
 ## Alerta de densidade
 
-- **Abertura:** baixa; uma cena ou contraste central.
-- **Desenvolvimento:** baixa a média; uma função por bloco visual.
-- **Legenda:** média; problema, causa estrutural e próxima ação.
+- **Arte:** baixa; uma pergunta dominante e uma frase de apoio.
+- **Legenda:** média; quatro perguntas curtas e um fechamento.
+- **Risco:** não acrescentar termos técnicos ou módulos explicativos na arte.
 
 ## Verificação de copy
 
-- Linguagem direta e operacional: **sim**.
-- Problema → infraestrutura → próxima ação: **sim**.
-- CTA de interação/utilidade: **sim**.
-- Sem promessa, urgência artificial, notícia ou caso inventado: **sim**.
-- Hook principal centrado em ausência ou sobrecarga do dono: **não**.
+- Tom de conversa e barreira de entrada baixa: **sim**.
+- Cena concreta antes da estrutura: **sim**.
+- Uma ideia dominante na arte: **sim**.
+- Explica com clareza o que a Simplifique organiza: **sim**.
+- CTA de utilidade e gate respeitado: **sim**.
+- Sem promessa, urgência, caso ou causalidade inventada: **sim**.
+
+## Sources
+
+[1] https://app.notion.com/p/Marketing-Diretriz-Simplifique-3927266c1ec6816598c3c7943424fba9 — Marketing — Diretriz Simplifique
+[2] https://app.notion.com/p/Produtos-Simplifique-Ops-3e67266c1ec681c2ab32ed45925b0201 — Produtos Simplifique Ops

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "request_key": "social-l09-c22-202610",
+  "content_key": "L09-C22-delegou-a-tarefa--transfira-também-o-critério-de",
+  "title": "Delegou a tarefa? Transfira também o critério de pronto",
+  "queue": "Lote-09",
+  "phase": "visual_production",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "updated_at": "2026-10-04T08:39:29-03:00",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "blocking_issues": [],
+  "qa_decision": "approved",
+  "approved_for": "user_review",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "452:134",
+    "section_name": "[PRODUÇÃO 22] Carrossel — Critério de pronto",
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=452-134",
+    "frame_ids": [
+      "452:135",
+      "452:148",
+      "452:168",
+      "452:183",
+      "452:198",
+      "452:226"
+    ],
+    "frame_count": 6,
+    "dimensions": "1080x1350",
+    "editable": true,
+    "revision_mode": "new_section",
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C22-CHECKLIST-A",
+    "source": "Pexels",
+    "source_id": 35719571,
+    "photographer": "Betül Nur",
+    "page_url": "https://www.pexels.com/photo/close-up-of-hand-writing-checklist-in-notebook-35719571/",
+    "score": 9,
+    "approval_required": false,
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C22-delegou-a-tarefa--transfira-também-o-critério-de/assets/c22-checklist-pexels-35719571.jpg"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "assets/c22-checklist-pexels-35719571.jpg",
+    "source-metadata/c22-checklist-pexels-35719571.json",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-01-final.png",
+    "qa-screenshots/frame-02-final.png",
+    "qa-screenshots/frame-03-final.png",
+    "qa-screenshots/frame-04-final.png",
+    "qa-screenshots/frame-05-final.png",
+    "qa-screenshots/frame-06-final.png"
+  ]
+}

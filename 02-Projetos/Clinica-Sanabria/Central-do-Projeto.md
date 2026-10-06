@@ -1,8 +1,8 @@
 ---
 type: central-do-projeto
 projeto: Clínica Sanabria
-status: active
-fase_operacional: estável
+status: legacy
+fase_operacional: legado
 ciclo_servico: "último mês"
 data_finalizacao: 2026-10-09
 demandas_no_edc: 2

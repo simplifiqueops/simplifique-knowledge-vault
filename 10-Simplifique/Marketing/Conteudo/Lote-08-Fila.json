@@ -1376,7 +1376,14 @@
           "social-f08a82f5afc4805f604119d3",
           "social-72e16229cce65167b387a04e",
           "social-fc1ff52db8e9baf708d7a367",
-          "social-a2ddb4b81c4e4537c5a857c8"
+          "social-a2ddb4b81c4e4537c5a857c8",
+          "social-dfd65bfaebaf3d5a426580c2",
+          "social-4658f61c8a8320157b7a3321",
+          "social-d1c9587f9f9cedb36334f480",
+          "social-44a52667cb49825670472b8a",
+          "social-adac813e40e055322ce420fe",
+          "social-3622e5c82050db8e35f81c51",
+          "social-de73a908ec2ebdca407180ae"
         ],
         "requested_at": "2026-09-29T18:16:58Z",
         "desired_format": "carrossel",
@@ -1685,8 +1692,8 @@
     {
       "content_key": "L08-RQ-d9a00c4b",
       "order": 14,
-      "status": "queued",
-      "request_status": "queued",
+      "status": "copy_review",
+      "request_status": "copy_review",
       "format": "carrossel",
       "title": "Atendimento no WhatsApp passou a exigir controle de custo e continuidade por mensagem",
       "territory": "whatsapp_atendimento",
@@ -1701,15 +1708,32 @@
         "planned_for": null
       },
       "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-d9a00c4bae3b06fea931884d.json",
-      "checkpoint": "reconciled_from_daily_outbox",
+      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "started_at": "2026-10-05T09:28:00-03:00",
+      "updated_at": "2026-10-05T09:28:00-03:00",
+      "copy_completed_at": "2026-10-05T09:28:00-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/sources/retrieval-notes-2026-10-05.md"
+      ],
+      "approved_for": "copy_review",
       "publication_status": "unpublished",
-      "blocking_issues": []
+      "blocking_issues": [],
+      "non_blocking_notes": [
+        "A copy restringe a mudança à WhatsApp Business Platform/API.",
+        "Nenhum custo específico, economia ou resultado comercial foi inferido.",
+        "CTA do diagnóstico, URL e QR code permaneceram bloqueados.",
+        "Design, curadoria, Figma, exportação, agendamento e publicação não foram autorizados."
+      ]
     },
     {
       "content_key": "L08-RQ-5a3dc623",
       "order": 15,
-      "status": "queued",
-      "request_status": "queued",
+      "status": "copy_review",
+      "request_status": "copy_review",
       "format": "carrossel",
       "title": "Atendimento automatizado cria uma nova expectativa: resolver rápido sem esconder a pessoa",
       "territory": "atendimento",
@@ -1724,9 +1748,25 @@
         "planned_for": null
       },
       "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-5a3dc623786f3d471a85f2ca.json",
-      "checkpoint": "reconciled_from_daily_outbox",
+      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "started_at": "2026-10-05T11:38:35-03:00",
+      "updated_at": "2026-10-05T11:38:35-03:00",
+      "copy_completed_at": "2026-10-05T11:38:35-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/sources/retrieval-notes-2026-10-05.md"
+      ],
+      "approved_for": "copy_review",
       "publication_status": "unpublished",
-      "blocking_issues": []
+      "blocking_issues": [],
+      "non_blocking_notes": [
+        "A pesquisa da Alchemer foi delimitada a consumidores dos Estados Unidos e não foi tratada como retrato do Brasil.",
+        "CTA do diagnóstico, URL e QR code permaneceram bloqueados.",
+        "Design, curadoria, Figma, exportação, agendamento e publicação não foram autorizados."
+      ]
     }
   ]
 }

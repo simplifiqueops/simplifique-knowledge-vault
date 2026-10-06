@@ -1,50 +1,67 @@
-# Copy — Sua empresa está funcionando ou você está compensando o que falta?
+# Copy — Informação espalhada não resolve problema
 
 ## Copy visível
 
 ### ARTE
-Dois sistemas mostram números diferentes para o mesmo pedido.
 
-Se a equipe precisa conferir planilha, sistema e chat, a integração ainda não criou uma referência comum.
+**Informação espalhada não resolve problema.**
+
+Só espalha a procura.
+
+Se cada resposta exige abrir WhatsApp, planilha e sistema, falta uma referência comum.
 
 ### LEGENDA
-A operação até avança, mas cada divergência exige uma conferência manual para descobrir qual informação vale.
 
-A causa estrutural está na falta de uma fonte oficial para cada dado, de uma regra de sincronização e de uma rota para corrigir exceções.
+A informação existe. O problema é descobrir onde ela está — e qual versão vale.
 
-Escolha uma informação crítica — status do pedido, pagamento ou prazo — e defina onde ela nasce, o que dispara a atualização, como conferir a sincronização e quem trata a divergência.
+Uma pessoa procura no WhatsApp. Outra abre a planilha. Alguém confere o sistema. No fim, a equipe gastou tempo juntando pedaços antes mesmo de começar a resolver.
+
+O primeiro passo não é adicionar outra ferramenta.
+
+Escolha uma informação importante para a rotina e defina:
+
+- onde todos devem consultá-la;
+- quem mantém essa informação atualizada;
+- o que fazer quando aparecer uma diferença.
+
+É esse caminho que a Simplifique organiza: primeiro a informação e a responsabilidade; depois, a ferramenta que sustenta o trabalho.
 
 ### CTA
-Responda: qual informação hoje aparece diferente entre suas ferramentas?
+
+Qual informação sua equipe mais precisa procurar para conseguir trabalhar?
 
 ## Alt text
 
-Peça sobre ferramentas e integração de informação. A abertura é “Dois sistemas mostram números diferentes para o mesmo pedido. Qual deles orienta a ação?”. O conteúdo apresenta o problema “A equipe compara sistema, planilha e mensagens para descobrir qual informação está correta.”, aponta como estrutura ausente “Fonte oficial por dado, gatilho de atualização, regra de sincronização, reconciliação e responsável pela exceção.” e propõe como próximo passo: Escolher um dado crítico e definir fonte oficial, gatilho de atualização, conferência e rota de correção.
+Peça estática com a frase “Informação espalhada não resolve problema. Só espalha a procura.” O texto explica que procurar uma resposta entre WhatsApp, planilha e sistema indica falta de uma referência comum e convida o leitor a identificar qual informação a equipe mais precisa procurar.
 
 ## Mapa de evidência
 
-- **Abertura:** adaptação do item vigente para uma cena operacional específica do território.
-- **Causa estrutural:** derivação explícita da premissa editorial, formulada como princípio e não como caso real.
-- **Próximo passo:** ação específica, proporcional e sem promessa de resultado.
-- **Legenda e CTA:** preservam o movimento e usam interação ou utilidade sem direcionar ao questionário.
+- **Abertura:** deriva diretamente do feedback humano e não é apresentada como dado ou caso.
+- **Cena operacional:** composição hipotética e reconhecível de procura entre canais; não atribuída a cliente real.
+- **Causa estrutural:** formulada como leitura operacional delimitada — falta uma referência comum para a informação importante.
+- **Próximo passo:** utilidade simples e proporcional, sem promessa de resultado.
+- **Papel da Simplifique:** organização de informação e responsabilidade antes da ferramenta, coerente com o posicionamento vigente.
 
 ## Alegações excluídas intencionalmente
 
 - Métricas, percentuais, economia de tempo, aumento de receita ou resultado garantido.
 - Caso de cliente, depoimento, comentário ou notícia não documentada.
-- Causalidade universal ou solução automática.
+- Causalidade universal ou promessa de que uma única fonte elimina erros.
+- Recomendação de software ou integração específica.
 - CTA, URL ou QR code para o diagnóstico comercial.
 
 ## Alerta de densidade
 
-- **Abertura:** baixa; uma cena ou contraste central.
-- **Desenvolvimento:** baixa a média; uma função por bloco visual.
-- **Legenda:** média; problema, causa estrutural e próxima ação.
+- **Arte:** média; três blocos curtos. Na produção, preservar headline dominante e apoio em corpo legível no mobile.
+- **Legenda:** média; cena, primeiro movimento e conexão com a Simplifique.
+- **CTA:** baixa; uma pergunta direta.
 
 ## Verificação de copy
 
-- Linguagem direta e operacional: **sim**.
-- Problema → infraestrutura → próxima ação: **sim**.
-- CTA de interação/utilidade: **sim**.
+- Linguagem direta, conversacional e operacional: **sim**.
+- Uma ideia dominante na arte: **sim**.
+- Problema → infraestrutura → ferramenta: **sim**.
+- Explica claramente o que a Simplifique organiza: **sim**.
+- CTA de interação, sem direcionamento ao questionário: **sim**.
 - Sem promessa, urgência artificial, notícia ou caso inventado: **sim**.
-- Hook principal centrado em ausência ou sobrecarga do dono: **não**.
+- Design, curadoria e Figma: **não autorizados nesta fase**.

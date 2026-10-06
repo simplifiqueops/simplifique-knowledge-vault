@@ -19,6 +19,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|05/10/2026 — Reunião Time RP | Semanal — segmentação e plano da Black Friday]]
 - [[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais|02/10/2026 — Parcelado Hotmart e preparação da Black Friday]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday-complemento|28/09/2026 — Reunião Time RP | Semanal — Black Friday — complemento de evidência]]
 - [[03-Reunioes/2026/09/2026-09-28--semanal-time-rp-black-friday|28/09/2026 — Reunião Time RP | Semanal — Black Friday]]

@@ -2,12 +2,13 @@
 title: "Dermato+ — Estado de Clareza Atual"
 project: "Dermato+"
 type: estado-de-clareza-canonico
-status: closing
+status: legacy
+relationship_stage: legacy
 updated_at: "2026-10-02T15:49:47Z"
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca]]"
 fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-02"
 confianca: "alta para a decisão relatada de encerramento nesta semana e para os riscos financeiros; moderada para os procedimentos de fechamento, que não foram detalhados"
-canonical: true
+canonical: false
 ---
 
 # Dermato+ — Estado de Clareza Atual

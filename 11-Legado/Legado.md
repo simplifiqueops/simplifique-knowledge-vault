@@ -13,6 +13,8 @@ Conteúdo legado é evidência histórica, não verdade operacional atual.
 ## Organizações e clientes históricos
 
 - [[Backstage/Backstage|Backstage]]
+- [[01-Clientes/Dermato-Mais/Dermato-Mais|Dermato+]]
+- [[01-Clientes/Clinica-Sanabria/Clinica-Sanabria|Clínica Sanabria]]
 - [[Dis|DIS]]
 - [[Tuani-Bonamini|Tuani Bonamini]]
 

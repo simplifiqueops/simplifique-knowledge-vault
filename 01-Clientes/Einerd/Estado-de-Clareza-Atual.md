@@ -3,23 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-02T18:32:57-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-02"
-confianca: "alta para os três status em progresso e para a finalização dos spots verificados no Notion; média para o restante do estado de Audiovisual por falta de atualização operacional mais recente"
+atualizado_em: 2026-10-05T14:32:45-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd]]"
+fonte_atualizacao: "Reunião de 05/10/2026 — desempenho pós-migração, modelo anual e revisão de funis"
+confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; média para o contexto amplo de produtos, anúncios e criativos porque a transcrição foi compactada"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- O Notion registra como `Em progresso` a revisão da plataforma por Pablo, a reconciliação entre Monday, planilha de cursos e Google Drive e a conexão dos dados do painel audiovisual ao Daily.
-- Essas três mudanças confirmam início de execução, sem comprovar conclusão, entrega ou resolução das dependências associadas.
-- O Notion confirmou como finalizada a revisão e entrega dos spots comerciais; o item saiu dos próximos passos ativos e a dependência externa associada deixou de ser bloqueio vigente.
-- Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 28/09 tratou do bloqueio da conta Meta, da contingência de tráfego e do compartilhamento de pixel; não atribuiu nova demanda a Pablo nem alterou o estado confirmado das entregas audiovisuais.
-- Confirmações sem mudança: o painel continua como visão consolidada da operação de Audiovisual; a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella permanecem sem novo status confirmado.
-- Conflitos/lacunas: a transcrição de 28/09 foi compactada; o painel recebeu apenas uma menção breve, sem decisão ou compromisso. A sincronização com o Monday, os cadastros incompletos e o estado do bot Ella após o prazo de 25/09 continuam sem validação.
-- Contexto fora do escopo operacional deste EDC: a conta principal do Meta foi bloqueada e a equipe iniciou contingência de tráfego e investigação do compartilhamento de pixel. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
+- Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 05/10 definiu o modelo anual do YouTube Dark, a revisão dos funis e o reposicionamento “white” do YouTube Dark Games, mas não atribuiu nova demanda a Pablo nem confirmou conclusão das entregas audiovisuais vigentes.
+- Confirmações sem mudança: permanecem em progresso, conforme o último read-back do Notion, a revisão da plataforma por Pablo, a reconciliação entre Monday, planilha de cursos e Google Drive e a conexão dos dados do painel audiovisual ao Daily.
+- Confirmações sem mudança: a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
+- Conflitos/lacunas: a transcrição de 05/10 foi compactada; tarefas individuais de remessas e criativos aparecem no resumo automático, mas não foram promovidas ao EDC por ausência dos trechos correspondentes na transcrição.
+- Contexto fora do escopo operacional deste EDC: a operação de produtos e tráfego adotará o modelo anual do YouTube Dark, revisará funis a partir de quarta-feira e preparará uma versão “white” do YouTube Dark Games. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -110,6 +108,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|Desempenho pós-migração, modelo anual e revisão de funis — Ei Nerd — 05/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - Fechamento diário Notion → EDC — 02/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou três itens em progresso apesar do snapshot sem delta.
 - Fechamento diário Notion → EDC — 29/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; revisão e entrega dos spots comerciais verificadas como `Finalizado`.
 - [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|Bloqueio da conta Meta e contingência de tráfego — Ei Nerd — 28/09/2026]] — processada sem mudança material no escopo de Audiovisual.

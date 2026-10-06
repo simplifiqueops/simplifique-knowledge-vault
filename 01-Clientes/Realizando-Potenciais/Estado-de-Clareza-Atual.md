@@ -3,25 +3,23 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-04T18:32:35-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-04; Parcelado Hotmart e preparação da Black Friday — 2026-10-02"
-confianca: "alta para a finalização da automação de confirmação de leads e para as seis finalizações anteriores verificadas no Notion; média para os compromissos da reunião, cuja transcrição foi compactada; verificar o parcelamento não comprova a configuração final do Parcelado"
+atualizado_em: 2026-10-05T20:27:35Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday]]"
+fonte_atualizacao: "Reunião Time RP | Semanal — 2026-10-05; fechamento diário Notion → EDC — 2026-10-04"
+confianca: "média para o delta da reunião de 05/10, cuja transcrição foi compactada; alta para as finalizações anteriores verificadas no Notion; cronograma, Princípia, SLA e demais itens presentes apenas no resumo da reunião não foram promovidos"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
-- O Notion confirmou como finalizada a implementação e o teste da automação de confirmação de leads; a ação sai dos próximos passos ativos e deixa de ser tratada como prioridade ou gargalo.
-- O Notion confirmou seis finalizações: ajustes restantes da Naia; versão 3 da Naya e verificação de melhorias; envio do consolidado da Black Friday a Arcindo; upload dos dois arquivos no Google Drive; registro das datas da campanha; e verificação do parcelamento na Hotmart.
-- Essas seis ações saem dos próximos passos ativos. A conclusão dos dois itens da Naia encerra os resultados nomeados, mas a decisão sobre considerar a Naia operacional permanece separada.
-- A verificação do parcelamento foi concluída; não há evidência suficiente para promover a configuração final do Parcelado mencionada apenas no resumo da reunião.
-- Graci assumiu enviar os materiais da Black Friday e do Parcelado Hotmart e mapear a abertura do carrinho de 29 de outubro, sem prazo explícito para essas entregas.
-- O evento de 29 de outubro começará às 20h, com abertura do carrinho prevista entre 21h30 e 22h; a presença de Graci na live não foi tratada como compromisso porque ela não a garantiu.
-- Pablo informou a meta de deixar a produção pronta até o dia 14, com time reduzido e possibilidade de demora nas respostas, criando risco de capacidade para a preparação da campanha.
-- A transcrição foi compactada; preços, oferta, configuração final do Parcelado e decisão de antecipação presentes apenas no resumo não foram promovidos ao estado canônico.
-- As demais frentes vigentes não foram contraditas e permanecem preservadas.
+- A segmentação da base foi confirmada como dependência para definir públicos e metas de vendas da Black Friday; Pablo assumiu alinhar o tema com Thamyris e Mari no dia seguinte.
+- A planilha do plano de ação passa a ser a referência de acompanhamento das demandas da campanha, sem dependência do ClickUp; Pablo assumiu fixá-la no grupo e ficou acordada a publicação de um consolidado escrito, sem responsável explícito.
+- Os alinhamentos de quinta-feira serão separados, deixando a reunião com Arcindo por último para consolidar as definições anteriores.
+- As sugestões de bônus e componentes da oferta permanecem vagas; Mari deve detalhá-las antes da definição, pois podem consumir tempo de Vanessa e Arcindo.
+- O acesso de Arcindo à planilha foi concedido durante a reunião e não permanece como demanda aberta.
+- Cronograma, uso da Princípia, SLA comercial e estratégia “Black November” aparecem apenas no resumo e não foram promovidos porque os trechos correspondentes foram omitidos da transcrição compactada.
+- As demais frentes e finalizações anteriores verificadas no Notion não foram contraditas e permanecem preservadas.
 
 ## 1. Objetivo atual
 Executar o planejamento confirmado da Black Friday, validar a Naia após a conclusão dos ajustes registrados no Notion e finalizar os ajustes ainda abertos de página e materiais do Energia Infinita, mantendo as responsabilidades de estratégia, tecnologia e aprovação separadas da execução especializada.
@@ -36,14 +34,14 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Organizar a execução da Black Friday a partir dos documentos, datas e parcelamento já verificados, destravando materiais, chips, grupos, narrativa e conteúdo orgânico e protegendo a meta de produção até o dia 14.
+1. Concluir a segmentação da base e definir públicos para destravar as metas de vendas, mantendo a execução da Black Friday organizada na planilha do plano de ação e protegendo a meta de produção até o dia 14.
 2. Concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita.
 3. Manter dependências externas e execuções especializadas fora da fila direta de Pablo.
 
 ## 4. Frentes ativas
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
-- Black Friday: planejamento considerado suficiente para execução; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive, datas registradas e parcelamento verificado; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
+- Black Friday: planejamento considerado suficiente para execução; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive, datas registradas e parcelamento verificado; segmentação e definição de públicos ainda condicionam as metas; demandas passam a ser acompanhadas pela planilha do plano de ação; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
 - Energia Infinita: treinamento de edição concluído; ajuste da página em conferência e demais páginas, vídeo, materiais e conteúdo com ações abertas.
@@ -58,6 +56,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Vanessa: finalizar e repassar a narrativa a Letícia e acionar a Naya para apoiar textos de LinkedIn da campanha.
 - Letícia: pesquisar vídeos virais de vendas no Instagram e TikTok.
 - Graci Lima: enviar os materiais da Black Friday e do Parcelado Hotmart e mapear a abertura do carrinho de 29 de outubro.
+- Pablo: organizar no grupo o horário dos alinhamentos de quinta-feira, alinhar a segmentação e os públicos com Thamyris e Mari e fixar a planilha do plano de ação.
+- Mari: detalhar as sugestões de bônus e demais componentes da oferta antes da definição e do dimensionamento do tempo dos especialistas.
+- Responsável não definido: publicar no grupo um consolidado escrito do andamento.
 
 ## 6. Decisões vigentes
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
@@ -69,8 +70,12 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Usar o CSV como produto da Black Friday, decisão anterior reafirmada em 28/09/2026.
 - Considerar o planejamento da Black Friday definido o suficiente para seguir à execução.
 - Centralizar a Black Friday em um grupo e distribuir conteúdo também nos grupos já existentes.
+- Centralizar o acompanhamento das demandas da campanha na planilha do plano de ação, sem depender do ClickUp, e publicar um consolidado escrito no grupo.
+- Realizar separadamente os alinhamentos de quinta-feira e deixar a reunião com Arcindo por último, para consolidar as definições anteriores.
 
 ## 7. Gargalos
+- A segmentação atual da base não permite definir públicos e metas de vendas com segurança.
+- Os bônus e demais componentes sugeridos para a oferta ainda não têm detalhamento suficiente para decisão e dimensionamento do tempo de Vanessa e Arcindo.
 - As informações da Black Friday permanecem dispersas entre documentos, elevando o risco de perda de contexto na execução.
 - A capacidade e a confiabilidade dos chips atuais do Fufunel ainda precisam ser dimensionadas, com risco para a segurança do lançamento.
 - Os ajustes restantes das páginas, do vídeo, dos materiais e do conteúdo do Energia Infinita ainda precisam ser concluídos e conferidos.
@@ -78,7 +83,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - O time reduzido e a janela até o dia 14 podem comprometer a conclusão da produção da Black Friday no prazo pretendido.
 
 ## 8. Bloqueios
-- Decisão de Black Friday depende de dados, oferta, orçamento, especialista e critérios de qualidade.
+- A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
+- O fechamento da composição da oferta depende do detalhamento das sugestões apresentadas por Mari.
 - Dependências antigas de materiais da Vanessa permanecem válidas somente quando ainda não entregues; estado atual não foi atualizado nesta comunicação.
 - A incompatibilidade entre o Fathom vinculado ao e-mail de Thamyris e a conta Zoom da empresa impede o uso regular da ferramenta por ela; solução ainda não decidida.
 
@@ -89,6 +95,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Black Friday: planejamento considerado suficiente para execução; consolidado enviado, arquivos no Drive, datas registradas e parcelamento verificado no Notion; conclusão das demais frentes não confirmada.
 - Evento da Black Friday: início em 29 de outubro às 20h e abertura do carrinho prevista entre 21h30 e 22h; materiais de apoio ainda aguardados.
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
+- Segmentação da base: necessária para públicos e metas; conclusão ainda não confirmada.
+- Oferta da campanha: bônus e componentes sugeridos aguardam detalhamento antes da decisão.
 - Comunidades de WhatsApp: cerca de 20 grupos existentes informados por Thamyris em 28/09/2026; estado de reativação ainda não confirmado.
 - Energia Infinita: treinamento de edição concluído; alteração de página em conferência e demais ajustes operacionais abertos.
 - Naya: limite semanal atingido; horário de renovação mencionado na reunião, sem confirmação de retomada das tarefas.
@@ -122,12 +130,20 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Acionar a Naya para apoiar a produção de textos informativos conectados à venda da Black Friday no LinkedIn — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Enviar os materiais da Black Friday e do Parcelado Hotmart a Pablo e Mariane — Responsável: Graci Lima — Prazo: não definido.
 - Mapear a abertura do carrinho em 29 de outubro, com evento às 20h e abertura prevista entre 21h30 e 22h — Responsável: Graci Lima — Prazo: não definido.
+- Definir no grupo o horário da reunião de quinta-feira por votação — Responsável: Pablo — Prazo: amanhã.
+- Alinhar com Thamyris e Mari a definição dos públicos e a segmentação de leads — Responsável: Pablo — Prazo: amanhã.
+- Esclarecer as sugestões de bônus e demais componentes da oferta para permitir decisão e planejamento do tempo dos especialistas — Responsável: Mari — Prazo: quinta-feira.
+- Fixar no grupo a planilha do plano de ação como primeiro link de acompanhamento — Responsável: Pablo — Prazo: não definido.
+- Publicar no grupo um consolidado escrito do andamento — Responsável: não definido — Prazo: não definido.
 
 ## 13. Próxima decisão
+- Definir as metas de vendas após a segmentação da base e a consolidação dos públicos.
+- Definir quais bônus e componentes integrarão a oferta após o detalhamento de Mari.
 - Definir quais funis entram primeiro em execução após o levantamento de dados.
 - Validar se os ajustes concluídos são suficientes para considerar a Naia operacional.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|Reunião Time RP | Semanal — segmentação e plano da Black Friday — 05/10/2026]].
 - Fechamento diário Notion → EDC — 04/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da automação de confirmação de leads apesar do snapshot sem delta.
 - Fechamento diário Notion → EDC — 02/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou seis finalizações apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais|Parcelado Hotmart e preparação da Black Friday — 02/10/2026]].

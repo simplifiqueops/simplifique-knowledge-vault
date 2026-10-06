@@ -1,12 +1,13 @@
 ---
 type: estado-de-clareza-canonico
-status: needs-validation
+status: legacy
+relationship_stage: legacy
 cliente: "Backstage"
 projeto: "Backstage — legado e frentes sem decisão vigente"
 atualizado_em: 2026-09-23T11:37:50-03:00
 fonte_atualizacao: "Atualização direta de gestão — 2026-09-23"
 confianca: "alta para a inexistência de decisão sobre Naia no Backstage e para a responsabilidade de Eudes pelo link de suporte"
-canonical: true
+canonical: false
 ---
 
 # Estado de Clareza Atual — Backstage

@@ -229,6 +229,29 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 
 **Aceite:** navegação final Visão Geral, Operação, Marketing, Comercial e Sistema; telas secundárias coerentes; login verificado separadamente; ausência de navegação mobile duplicada.
 
+### FILA FUTURA — Espaço de Legado
+
+**Estado:** planejado, sem execução no ciclo atual e sem alterar a ordem das oito fases.
+
+**Objetivo:** oferecer acesso ao histórico de clientes e projetos encerrados sem carregá-los nos indicadores, demandas, prioridades ou fila de Atenção da operação atual.
+
+**Escopo previsto:**
+- seção própria e secundária para Legado;
+- listagem somente leitura de organizações e projetos encerrados;
+- acesso a EDC histórico, reuniões, decisões, entregas, evidências e aprendizados preservados;
+- busca e filtros leves por organização, período e tipo de evidência;
+- distinção visual explícita entre `ativo`, `prospect` e `legado`;
+- reativação somente por nova decisão explícita, nunca por atividade histórica ou demanda antiga.
+
+**Guardas:**
+- itens de Legado não entram nos KPIs da Home;
+- não entram em Projetos ativos, Demandas ou Atenção;
+- não geram alertas de desatualização, prazos ou bloqueios;
+- pendências residuais são preservadas como histórico, não promovidas automaticamente a trabalho atual;
+- nenhuma exclusão de evidências ou arquivos históricos durante a migração.
+
+**Aceite futuro:** Backstage, Dermato+ e Clínica Sanabria ficam consultáveis no espaço de Legado, mas permanecem com contribuição zero para os totais operacionais do Daily; read-back deve comprovar a separação.
+
 ---
 
 ## 4. Estimativa total

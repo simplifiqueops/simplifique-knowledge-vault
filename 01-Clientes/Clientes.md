@@ -7,8 +7,7 @@ Mapa das organizações que fazem ou fizeram parte da carteira de clientes da Si
 ## Ativos
 
 - [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Realizando Potenciais]] — índice com estado de clareza, bases canônicas, fontes e estrutura de direcionamento e copy.
-- [[Clinica-Sanabria|Clínica Sanabria]] — índice com estado de clareza, histórico, escopo, evidências e aprendizados.
-- [[Dermato-Mais|Dermato+]] — operação em reação comercial de 30 dias; índice com estado canônico, plano resumido, fontes auditáveis e histórico separado por vigência.
+
 - [[Einerd|Ei Nerd]] — operação com bloqueio no Meta e teste de low-ticket planejado; planilha de cursos, Monday e Google Drive ainda não estão conectados, portanto edição, execução e entrega não estão confirmadas.
 - [[01-Clientes/Patricia-de-Lucca/Patricia-de-Lucca|Patrícia de Lucca]] — piloto de automação de conteúdo e teste do funil diagnóstico de R$5,90 definidos em 02/10/2026; frentes anteriores ainda sem execução confirmada.
 
@@ -23,6 +22,14 @@ Mapa das organizações que fazem ou fizeram parte da carteira de clientes da Si
 ## Relacionamento inativo com potencial de reativação
 
 - [[Dr-Fernando-Baratella|Dr. Fernando Baratella]]
+
+## Legado
+
+- [[11-Legado/Backstage/Backstage|Backstage]]
+- [[01-Clientes/Dermato-Mais/Dermato-Mais|Dermato+]]
+- [[01-Clientes/Clinica-Sanabria/Clinica-Sanabria|Clínica Sanabria]]
+
+Esses relacionamentos permanecem como evidência histórica e não compõem a carteira ativa nem os indicadores operacionais do Daily.
 
 ## Relacionados
 

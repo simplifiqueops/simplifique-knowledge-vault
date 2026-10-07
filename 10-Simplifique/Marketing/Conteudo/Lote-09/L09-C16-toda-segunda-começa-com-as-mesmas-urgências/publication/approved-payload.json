@@ -1,0 +1,43 @@
+{
+  "request_id": "078039aa-f0ad-4a94-a8f8-7814045d63c9",
+  "payload": {
+    "content": "Uma urgência que retorna toda semana já oferece informação suficiente para ser tratada como processo recorrente.\n\nA repetição costuma permanecer quando ninguém definiu um gatilho preventivo, um responsável, um prazo anterior ao pico e uma checagem.\n\nEscolha uma urgência desta semana e transforme o passo anterior em rotina.\n\nSalve e marque: qual urgência mais se repete na sua semana?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335019475_3v3hkv0o_01-435-111.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335023338_pqzuhnjq_02-435-120.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335024446_fiwo4ere_03-435-136.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335025558_fhhodxyw_04-435-144.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335026723_c32ceypb_05-435-159.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335028362_o8v0qd0f_06-435-171.png"
+      }
+    ],
+    "scheduledFor": "2026-10-08T18:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 16
+}

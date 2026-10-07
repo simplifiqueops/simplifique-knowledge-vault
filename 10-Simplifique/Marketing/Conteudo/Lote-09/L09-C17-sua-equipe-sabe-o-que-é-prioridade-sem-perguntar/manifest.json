@@ -5,8 +5,8 @@
   "title": "Prioridade que muda no chat não é prioridade compartilhada",
   "format": "static",
   "status": "ready",
-  "updated_at": "2026-10-03T13:23:32-03:00",
-  "publication_status": "unpublished",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00",
+  "publication_status": "scheduled",
   "export_status": "not_exported",
   "diagnostic_cta_authorized": false,
   "artifacts": [
@@ -26,9 +26,15 @@
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "439:116",
-    "frame_ids": ["439:117"],
-    "image_node_ids": ["439:118"],
-    "logo_node_ids": ["439:127"],
+    "frame_ids": [
+      "439:117"
+    ],
+    "image_node_ids": [
+      "439:118"
+    ],
+    "logo_node_ids": [
+      "439:127"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=439-116",
     "rendered": true,
     "revision_mode": "new_section",
@@ -48,5 +54,14 @@
     "decision": "approved",
     "blocking_issues": [],
     "approved_for": "user_review"
-  }
+  },
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a7d67a29a7b801f3944",
+  "scheduled_for": "2026-10-09T09:00:00-03:00",
+  "scheduling_request_id": "b832edd4-f076-4688-a91b-65f366f12ef6",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00"
 }

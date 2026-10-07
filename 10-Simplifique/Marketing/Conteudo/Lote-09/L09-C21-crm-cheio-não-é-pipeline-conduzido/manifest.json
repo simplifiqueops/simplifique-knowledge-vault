@@ -11,16 +11,22 @@
   "status": "ready",
   "copy_gate": "approved_for_production",
   "qa_decision": "approved",
-  "publication_status": "unpublished",
+  "publication_status": "scheduled",
   "export_status": "not_exported",
   "diagnostic_cta_authorized": false,
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "449:128",
-    "frame_ids": ["449:129"],
-    "image_node_ids": ["449:130"],
-    "logo_node_ids": ["449:141"],
+    "frame_ids": [
+      "449:129"
+    ],
+    "image_node_ids": [
+      "449:130"
+    ],
+    "logo_node_ids": [
+      "449:141"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=449-128",
     "editable": true,
     "duplicate_section_created": false
@@ -49,5 +55,15 @@
     "qa-screenshots/frame-final.png",
     "qa-screenshots/section-final.png"
   ],
-  "verified_at": "2026-10-04T00:05:59-03:00"
+  "verified_at": "2026-10-04T00:05:59-03:00",
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a8167a29a7b801f394c",
+  "scheduled_for": "2026-10-09T18:00:00-03:00",
+  "scheduling_request_id": "32914a75-2735-42f1-916d-044c983f3a34",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00"
 }

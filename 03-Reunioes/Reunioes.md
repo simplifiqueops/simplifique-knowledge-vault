@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|06/10/2026 — Plataformas de pagamento e segmentação BN26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|05/10/2026 — Reunião Time RP | Semanal — segmentação e plano da Black Friday — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|05/10/2026 — Desempenho pós-migração, modelo anual e revisão de funis — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais|02/10/2026 — Parcelado Hotmart e preparação da Black Friday — Realizando Potenciais]]

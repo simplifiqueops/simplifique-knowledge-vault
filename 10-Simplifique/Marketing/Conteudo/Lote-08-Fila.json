@@ -1415,7 +1415,7 @@
         ]
       },
       "checkpoint": "figma_comment_revision_and_post_render_qa_complete",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "non_blocking_notes": [
         "A pauta anterior sobre limite, aprovação e reversão foi substituída após feedback de repetição.",
@@ -1468,10 +1468,25 @@
         "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
         "page_node": "182:8",
         "section_id": "430:104",
-        "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
-        "image_node_ids": ["430:106", "465:158"],
-        "overlay_node_ids": ["430:107", "465:159"],
-        "logo_node_ids": ["430:174"],
+        "frame_ids": [
+          "430:105",
+          "430:114",
+          "430:128",
+          "430:136",
+          "430:152",
+          "430:166"
+        ],
+        "image_node_ids": [
+          "430:106",
+          "465:158"
+        ],
+        "overlay_node_ids": [
+          "430:107",
+          "465:159"
+        ],
+        "logo_node_ids": [
+          "430:174"
+        ],
         "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=430-104",
         "rendered": true,
         "revision_mode": "in_place_comment_revision",
@@ -1507,7 +1522,10 @@
             "node_id": "430:128",
             "text": "Coloca uma imagem de background nessa ",
             "result": "applied_in_place",
-            "evidence_nodes": ["465:158", "465:159"]
+            "evidence_nodes": [
+              "465:158",
+              "465:159"
+            ]
           },
           {
             "id": "1951981681",
@@ -1516,13 +1534,25 @@
             "node_id": "430:166",
             "text": "Muda o logo pra preto e tira essa box detrás do logo",
             "result": "applied_in_place",
-            "evidence_nodes": ["430:174"],
-            "removed_nodes": ["432:110"]
+            "evidence_nodes": [
+              "430:174"
+            ],
+            "removed_nodes": [
+              "432:110"
+            ]
           }
         ],
         "qa_decision": "approved",
         "evidence_directory": "revision-evidence"
-      }
+      },
+      "publication_authorized": true,
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a6a36c518088d2d4f6d",
+      "scheduled_for": "2026-10-08T09:00:00-03:00",
+      "scheduling_request_id": "5720c4ba-9602-4a43-a117-957bfff336f0",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "content_key": "L08-RQ-ca05b4e2",

@@ -1,0 +1,23 @@
+{
+  "request_id": "b832edd4-f076-4688-a91b-65f366f12ef6",
+  "payload": {
+    "content": "A equipe começa uma tarefa. Chega outra mensagem e tudo muda de direção. O problema não é comunicar uma urgência real — é não ter um critério comum para compará-la ao que já estava em andamento.\n\nSem regra visível, prioridade vira ordem momentânea.\n\nDefina quais fatores podem alterar a fila — urgência, impacto, prazo ou dependência — e registre a mudança no mesmo lugar em que o trabalho é acompanhado.\n\nResponda: qual critério hoje muda a ordem do trabalho na sua equipe?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335035041_of9y6uep_01-439-117.png"
+      }
+    ],
+    "scheduledFor": "2026-10-09T09:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 17
+}

@@ -4,8 +4,8 @@
   "request_key": "social-d5384a9b07966269b967802a",
   "status": "ready",
   "completed_at": "2026-10-03T06:51:35-03:00",
-  "updated_at": "2026-10-04T14:00:03-03:00",
-  "publication_status": "unpublished",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00",
+  "publication_status": "scheduled",
   "copy_approved_by": "pablo",
   "copy_approved_at": "2026-10-03T03:02:06Z",
   "figma": {
@@ -13,18 +13,35 @@
     "page_node": "182:8",
     "section_id": "430:104",
     "section_name": "[PRODUÇÃO 15] Carrossel — Quem percebe quando a automação para",
-    "frame_ids": ["430:105", "430:114", "430:128", "430:136", "430:152", "430:166"],
-    "image_node_ids": ["430:106", "465:158"],
-    "overlay_node_ids": ["430:107", "465:159"],
+    "frame_ids": [
+      "430:105",
+      "430:114",
+      "430:128",
+      "430:136",
+      "430:152",
+      "430:166"
+    ],
+    "image_node_ids": [
+      "430:106",
+      "465:158"
+    ],
+    "overlay_node_ids": [
+      "430:107",
+      "465:159"
+    ],
     "logo_node_id": "430:174",
     "logo_contrast_plate_id": null,
-    "removed_node_ids": ["432:110"],
+    "removed_node_ids": [
+      "432:110"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=430-104",
     "dimensions": "1080x1350",
     "editable": true,
     "frame_count": 6,
     "descendant_count": 74,
-    "font_families": ["Inter"],
+    "font_families": [
+      "Inter"
+    ],
     "text_count": 28,
     "overflow_text": [],
     "duplicate_section_created": false,
@@ -74,7 +91,10 @@
         "node_id": "430:128",
         "text": "Coloca uma imagem de background nessa ",
         "result": "applied_in_place",
-        "evidence_nodes": ["465:158", "465:159"]
+        "evidence_nodes": [
+          "465:158",
+          "465:159"
+        ]
       },
       {
         "id": "1951981681",
@@ -84,8 +104,12 @@
         "node_id": "430:166",
         "text": "Muda o logo pra preto e tira essa box detrás do logo",
         "result": "applied_in_place",
-        "evidence_nodes": ["430:174"],
-        "removed_nodes": ["432:110"]
+        "evidence_nodes": [
+          "430:174"
+        ],
+        "removed_nodes": [
+          "432:110"
+        ]
       }
     ],
     "pre_edit_evidence": [
@@ -126,8 +150,17 @@
   },
   "gates": {
     "diagnostic_cta_authorized": false,
-    "export_authorized": false,
-    "schedule_authorized": false,
-    "publication_authorized": false
-  }
+    "export_authorized": true,
+    "schedule_authorized": true,
+    "publication_authorized": true
+  },
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a6a36c518088d2d4f6d",
+  "scheduled_for": "2026-10-08T09:00:00-03:00",
+  "scheduling_request_id": "5720c4ba-9602-4a43-a117-957bfff336f0",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00"
 }

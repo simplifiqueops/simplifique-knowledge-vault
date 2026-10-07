@@ -1,0 +1,23 @@
+{
+  "request_id": "32914a75-2735-42f1-916d-044c983f3a34",
+  "payload": {
+    "content": "Um CRM pode ter muitos nomes e ainda não responder à pergunta mais útil do comercial: o que precisa acontecer agora?\n\nA falha não está no cadastro em si. Está na ausência de critérios para cada etapa e de informações obrigatórias para conduzir a oportunidade.\n\nEscolha uma etapa do pipeline e torne visíveis três campos: próxima ação, responsável e prazo. Depois, revise os contatos que estão ali sem um próximo movimento definido.\n\nComente: qual campo mais falta no acompanhamento do seu pipeline?",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335038311_3lnf4sza_01-449-129.png"
+      }
+    ],
+    "scheduledFor": "2026-10-09T18:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 21
+}

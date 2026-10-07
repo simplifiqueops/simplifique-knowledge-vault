@@ -1,0 +1,43 @@
+{
+  "request_id": "22bc0dfa-773e-4e51-abfd-63a581799f03",
+  "payload": {
+    "content": "Quando “pronto” significa coisas diferentes para quem pede, executa e confere, a tarefa volta para revisão mesmo depois de concluída.\n\nA causa estrutural é um critério de aceitação implícito e distante do ponto de trabalho.\n\nEscolha uma tarefa recorrente e registre entrega esperada, verificações, evidência e rota de exceção no lugar em que ela é executada.\n\nAplique o checklist em uma tarefa recorrente antes da próxima execução.",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335042278_zbx3p9m6_01-452-135.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335043727_d9ohvntk_02-452-148.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335045420_5q5i8n2w_03-452-168.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335046559_o77o7opc_04-452-183.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335047736_3m9f5ids_05-452-198.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335048884_5xmty2o9_06-452-226.png"
+      }
+    ],
+    "scheduledFor": "2026-10-10T09:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 22
+}

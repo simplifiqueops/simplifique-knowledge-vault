@@ -4,17 +4,28 @@
   "request_key": "social-l09-c16-202610",
   "status": "ready",
   "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
-  "updated_at": "2026-10-03T11:03:33-03:00",
-  "publication_status": "unpublished",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00",
+  "publication_status": "scheduled",
   "qa_decision": "approved",
   "approved_for": "user_review",
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "435:110",
-    "frame_ids": ["435:111", "435:120", "435:136", "435:144", "435:159", "435:171"],
-    "image_node_ids": ["435:112"],
-    "logo_node_ids": ["435:180"],
+    "frame_ids": [
+      "435:111",
+      "435:120",
+      "435:136",
+      "435:144",
+      "435:159",
+      "435:171"
+    ],
+    "image_node_ids": [
+      "435:112"
+    ],
+    "logo_node_ids": [
+      "435:180"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=435-110",
     "rendered": true,
     "revision_mode": "new_section",
@@ -35,5 +46,14 @@
     "O texto impresso no planner está em inglês, mas permanece secundário e não funciona como conteúdo editorial.",
     "A seção completa e os seis frames foram inspecionados em 1080×1350.",
     "Artefato editável, não exportado, não agendado e não publicado."
-  ]
+  ],
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a7ab78174116e9cd2ef",
+  "scheduled_for": "2026-10-08T18:00:00-03:00",
+  "scheduling_request_id": "078039aa-f0ad-4a94-a8f8-7814045d63c9",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00"
 }

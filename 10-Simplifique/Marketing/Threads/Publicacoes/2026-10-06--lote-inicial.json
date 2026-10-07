@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "canal": "Threads pessoal do Pablo",
+  "conta": "@franzas.pablo",
+  "timezone": "America/Sao_Paulo",
+  "autorizacao": "Aprovo publicar agora e agendar",
+  "itens": [
+    {
+      "numero": 4,
+      "texto": "É curioso como uma reunião de vinte minutos pode exigir duas horas de preparação e gerar mais quatro reuniões.",
+      "post_id": "6ac5a0a72f32e724e96d2c21",
+      "status": "published",
+      "publicado_em": "2026-10-06T22:30:32-03:00",
+      "url": "https://www.threads.com/@franzas.pablo/post/DeLLsAjiiyA"
+    },
+    {
+      "numero": 5,
+      "texto": "Tem processo que ninguém gosta, ninguém entende e ninguém muda.\n\nEle só continua ali, firme, porque sempre foi assim.",
+      "post_id": "6ac5a0b9cf2f123c5a118da5",
+      "status": "scheduled",
+      "agendado_para": "2026-10-07T09:00:00-03:00"
+    },
+    {
+      "numero": 8,
+      "texto": "A empresa compra uma ferramenta nova pra organizar o trabalho.\n\nTrês semanas depois alguém cria uma planilha pra controlar o uso da ferramenta.",
+      "post_id": "6ac5a0ba7634f029140fdb00",
+      "status": "scheduled",
+      "agendado_para": "2026-10-07T13:00:00-03:00"
+    },
+    {
+      "numero": 9,
+      "texto": "Planejar o dia é uma atividade muito bonita até chegar a primeira mensagem com ‘consegue ver uma coisinha pra mim?’",
+      "post_id": "6ac5a0bccf2f123c5a118db4",
+      "status": "scheduled",
+      "agendado_para": "2026-10-07T18:00:00-03:00"
+    },
+    {
+      "numero": 10,
+      "texto": "Resolver em quinze minutos uma coisa que irritava alguém há três meses dá uma satisfação desproporcional.",
+      "post_id": "6ac5a0bccf2f123c5a118db7",
+      "status": "scheduled",
+      "agendado_para": "2026-10-08T09:00:00-03:00"
+    }
+  ]
+}

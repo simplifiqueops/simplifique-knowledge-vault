@@ -3,20 +3,34 @@
   "request_key": "social-l09-c10-202610",
   "status": "ready",
   "checkpoint": "figma_comment_1951670541_revision_post_render_qa_complete",
-  "publication_status": "unpublished",
-  "publication_authorized": false,
-  "exported": false,
-  "scheduled": false,
+  "publication_status": "scheduled",
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
   "figma": {
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "362:74",
-    "frame_ids": ["362:75", "362:82", "362:94", "362:101", "362:114", "362:128"],
+    "frame_ids": [
+      "362:75",
+      "362:82",
+      "362:94",
+      "362:101",
+      "362:114",
+      "362:128"
+    ],
     "image_node_id": "362:76",
     "overlay_node_id": "362:77",
     "logo_node_id": "362:134",
-    "mutated_node_ids": ["362:79", "362:80", "362:99", "362:100"],
-    "revision_mutated_node_ids": ["362:101"],
+    "mutated_node_ids": [
+      "362:79",
+      "362:80",
+      "362:99",
+      "362:100"
+    ],
+    "revision_mutated_node_ids": [
+      "362:101"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=362-74",
     "dimensions": "1080x1350",
     "frame_count": 6,
@@ -56,10 +70,16 @@
       "author": "Pablo Backstage"
     },
     "applied_at": "2026-10-04T13:50:41-03:00",
-    "mutated_node_ids": ["362:101"],
+    "mutated_node_ids": [
+      "362:101"
+    ],
     "background_fill": {
       "type": "GRADIENT_LINEAR",
-      "stops": ["#FF8752", "#FF6A2A", "#E65324"]
+      "stops": [
+        "#FF8752",
+        "#FF6A2A",
+        "#E65324"
+      ]
     },
     "evidence": {
       "pre_section": "qa-screenshots/section-pre-c10-comment-1951670541.png",
@@ -77,5 +97,12 @@
     "qa_decision": "approved",
     "approved_for": "human_visual_review"
   },
-  "completed_at": "2026-10-04T13:50:41-03:00"
+  "completed_at": "2026-10-04T13:50:41-03:00",
+  "zernio_post_id": "6ac59a5a67a29a7b801f388e",
+  "scheduled_for": "2026-10-07T09:00:00-03:00",
+  "scheduling_request_id": "4bf3a86a-9a43-480c-8594-0b3b1e8ff9a6",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00"
 }

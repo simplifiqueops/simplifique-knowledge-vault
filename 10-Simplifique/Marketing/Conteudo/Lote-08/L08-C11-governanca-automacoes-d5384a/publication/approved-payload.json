@@ -1,0 +1,43 @@
+{
+  "request_id": "5720c4ba-9602-4a43-a117-957bfff336f0",
+  "payload": {
+    "content": "Uma automação entra no ar, funciona no teste e passa a fazer parte da rotina.\n\nDepois de um tempo, um pedido deixa de chegar, uma tarefa não é criada ou um aviso não aparece. O problema cresce quando ninguém foi definido para perceber isso.\n\nAutomatizar não encerra o processo. A operação ainda precisa saber:\n\n1. qual sinal confirma que o fluxo executou;\n2. quem acompanha quando algo não acontece;\n3. como o trabalho continua até a automação voltar.\n\nEscolha uma automação ativa e responda essas três perguntas. Se as respostas não estão claras, o ponto cego não está só na ferramenta. Está no acompanhamento.\n\nSalve e revise quem acompanha uma automação ativa.",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335005947_5kn7psbp_01-430-105.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335007301_gg1gua6v_02-430-114.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335008437_xdt06egz_03-430-128.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335009701_0j7w94ps_04-430-136.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335010836_gfapzowt_05-430-152.png"
+      },
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335011904_5o7owmu5_06-430-166.png"
+      }
+    ],
+    "scheduledFor": "2026-10-08T09:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 15
+}

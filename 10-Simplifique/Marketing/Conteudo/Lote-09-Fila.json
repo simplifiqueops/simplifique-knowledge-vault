@@ -37,7 +37,7 @@
       "status": "ready",
       "planned_for": "2026-10-03T18:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "ready",
       "channel": "Instagram",
@@ -60,7 +60,7 @@
       "checkpoint": "figma_comment_1951670541_revision_post_render_qa_complete",
       "updated_at": "2026-10-04T13:50:41-03:00",
       "completed_at": "2026-10-04T13:50:41-03:00",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -128,7 +128,14 @@
         ],
         "qa_decision": "approved",
         "approved_for": "human_visual_review"
-      }
+      },
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a5a67a29a7b801f388e",
+      "scheduled_for": "2026-10-07T09:00:00-03:00",
+      "scheduling_request_id": "4bf3a86a-9a43-480c-8594-0b3b1e8ff9a6",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 11,
@@ -359,7 +366,7 @@
       "status": "ready",
       "planned_for": "2026-10-05T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "approved_for_production",
       "channel": "Instagram",
@@ -396,7 +403,7 @@
       "copy_completed_at": "2026-10-02T17:57:13-03:00",
       "daily_readback_at": "2026-10-02T20:57:13Z",
       "completed_at": "2026-10-04T14:08:16-03:00",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C13-antes-de-dar-mais-autonomia-para-a-ia--defina-qu",
       "artifacts": [
@@ -490,7 +497,14 @@
         ],
         "qa_decision": "approved",
         "approved_for": "human_visual_review"
-      }
+      },
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a5d36c518088d2d4f2d",
+      "scheduled_for": "2026-10-07T18:00:00-03:00",
+      "scheduling_request_id": "75c75e18-2f59-48f3-9ce8-ec883353a562",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 14,
@@ -692,7 +706,7 @@
       "status": "ready",
       "planned_for": "2026-10-06T18:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "approved_for_production",
       "channel": "Instagram",
@@ -717,7 +731,7 @@
       "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
       "updated_at": "2026-10-03T11:11:50-03:00",
       "completed_at": "2026-10-03T11:11:50-03:00",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -776,7 +790,14 @@
         "O texto impresso no planner está em inglês, mas permanece secundário e não funciona como conteúdo editorial.",
         "A seção completa e os seis frames foram inspecionados em 1080×1350.",
         "Artefato editável, não exportado, não agendado e não publicado."
-      ]
+      ],
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a7ab78174116e9cd2ef",
+      "scheduled_for": "2026-10-08T18:00:00-03:00",
+      "scheduling_request_id": "078039aa-f0ad-4a94-a8f8-7814045d63c9",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 17,
@@ -796,7 +817,7 @@
       "status": "ready",
       "planned_for": "2026-10-07T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "approved_for_production",
       "channel": "Instagram",
@@ -821,7 +842,7 @@
       "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
       "updated_at": "2026-10-03T13:23:32-03:00",
       "completed_at": "2026-10-03T13:23:32-03:00",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -872,7 +893,14 @@
         "A fotografia Pexels 18386859 foi aplicada com origem, autoria e arquivo local preservados.",
         "O primeiro screenshot levou à redução do cartão da headline; o frame e a seção foram reinspecionados após a correção.",
         "Artefato editável, não exportado, não agendado e não publicado."
-      ]
+      ],
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a7d67a29a7b801f3944",
+      "scheduled_for": "2026-10-09T09:00:00-03:00",
+      "scheduling_request_id": "b832edd4-f076-4688-a91b-65f366f12ef6",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 18,
@@ -1058,7 +1086,7 @@
       "completed_at": "2026-10-04T00:05:59-03:00",
       "planned_for": "2026-10-09T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "approved_for_production",
       "channel": "Instagram",
@@ -1079,7 +1107,7 @@
       "daily_readback_at": "2026-10-02T11:49:08Z",
       "approved_by": "pablo",
       "approved_at": "2026-10-02T11:49:08Z",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -1128,7 +1156,14 @@
         "A fotografia Pexels 8296982 foi aplicada com origem, autoria e arquivo local preservados.",
         "A seção e o frame foram inspecionados em resolução nativa; não há clipping, overlap, overflow ou nós fora do frame.",
         "Artefato editável, não exportado, não agendado e não publicado."
-      ]
+      ],
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a8167a29a7b801f394c",
+      "scheduled_for": "2026-10-09T18:00:00-03:00",
+      "scheduling_request_id": "32914a75-2735-42f1-916d-044c983f3a34",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 22,
@@ -1149,7 +1184,7 @@
       "copy_completed_at": "2026-10-02T05:29:00Z",
       "planned_for": "2026-10-09T18:00:00-03:00",
       "timezone": "America/Sao_Paulo",
-      "publication_authorized": false,
+      "publication_authorized": true,
       "design_authorized": true,
       "copy_gate": "approved_for_production",
       "channel": "Instagram",
@@ -1174,7 +1209,7 @@
       "production_started_at": "2026-10-04T08:31:42-03:00",
       "updated_at": "2026-10-04T08:39:29-03:00",
       "completed_at": "2026-10-04T08:39:29-03:00",
-      "publication_status": "unpublished",
+      "publication_status": "scheduled",
       "blocking_issues": [],
       "qa_decision": "approved",
       "approved_for": "user_review",
@@ -1224,7 +1259,14 @@
         "A fotografia Pexels 35719571 foi aplicada com origem, autoria e arquivo local preservados.",
         "O primeiro render apresentou reflow inconsistente; os textos foram ajustados para altura automática e os seis frames foram reinspecionados.",
         "Artefato editável, não exportado, não agendado e não publicado."
-      ]
+      ],
+      "publication_approved_by": "Pablo Souza",
+      "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+      "zernio_post_id": "6ac59a8e272aca6395e5b364",
+      "scheduled_for": "2026-10-10T09:00:00-03:00",
+      "scheduling_request_id": "22bc0dfa-773e-4e51-abfd-63a581799f03",
+      "scheduling_readback_verified": true,
+      "scheduling_readback_at": "2026-10-06T22:03:06.085441-03:00"
     },
     {
       "n": 23,

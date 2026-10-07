@@ -1,0 +1,23 @@
+{
+  "request_id": "75c75e18-2f59-48f3-9ce8-ec883353a562",
+  "payload": {
+    "content": "Na primeira unidade, muita coisa foi resolvida no caminho: qual documento usar, quem aprova, quais decisões continuam valendo e onde o processo costuma travar.\n\nSe esse aprendizado continua espalhado entre mensagens, e-mails e pastas, a nova unidade começa refazendo perguntas que a empresa já respondeu.\n\nAntes de automatizar a expansão, reúna um pacote simples:\n\n— fonte oficial;\n— documentos obrigatórios;\n— decisões vigentes;\n— pendências abertas;\n— responsável pela revisão.\n\nA ferramenta pode ajudar a localizar, organizar e preparar. A decisão final continua com a equipe.\n\nEscolha um processo que será repetido na expansão e liste onde estão os documentos, as decisões, as pendências e o responsável pela revisão.",
+    "platforms": [
+      {
+        "platform": "instagram",
+        "accountId": "6ab74356d6773943351d9845"
+      }
+    ],
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "https://media.zernio.com/temp/1791335002832_mnp1y21c_01-419-99.png"
+      }
+    ],
+    "scheduledFor": "2026-10-07T18:00:00",
+    "timezone": "America/Sao_Paulo"
+  },
+  "authorization_source": "user command: APROVO AGENDAR",
+  "timezone": "America/Sao_Paulo",
+  "production_number": 13
+}

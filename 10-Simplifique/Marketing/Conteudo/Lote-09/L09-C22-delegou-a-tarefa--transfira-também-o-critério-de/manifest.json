@@ -7,8 +7,8 @@
   "phase": "visual_production",
   "status": "ready",
   "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
-  "updated_at": "2026-10-04T08:39:29-03:00",
-  "publication_status": "unpublished",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00",
+  "publication_status": "scheduled",
   "export_status": "not_exported",
   "blocking_issues": [],
   "qa_decision": "approved",
@@ -59,5 +59,14 @@
     "qa-screenshots/frame-04-final.png",
     "qa-screenshots/frame-05-final.png",
     "qa-screenshots/frame-06-final.png"
-  ]
+  ],
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a8e272aca6395e5b364",
+  "scheduled_for": "2026-10-10T09:00:00-03:00",
+  "scheduling_request_id": "22bc0dfa-773e-4e51-abfd-63a581799f03",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00"
 }

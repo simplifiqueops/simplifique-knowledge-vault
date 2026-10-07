@@ -1,0 +1,19 @@
+{
+  "request_id": "75c75e18-2f59-48f3-9ce8-ec883353a562",
+  "readback": {
+    "post_id": "6ac59a5d36c518088d2d4f2d",
+    "status": "scheduled",
+    "scheduledFor": "2026-10-07T21:00:00.000Z",
+    "content_ok": true,
+    "media_count": 1,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "status": "pending",
+        "account_id": "6ab74356d6773943351d9845",
+        "username": null,
+        "scheduledFor": "2026-10-07T21:00:00.000Z"
+      }
+    ]
+  }
+}

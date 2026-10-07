@@ -5,7 +5,7 @@
   "status": "ready",
   "checkpoint": "figma_comments_1951670686_1951670746_revision_post_render_qa_complete",
   "completed_at": "2026-10-04T14:08:16-03:00",
-  "publication_status": "unpublished",
+  "publication_status": "scheduled",
   "artifacts": [
     "01-Estrategia.md",
     "02-Copy-ou-Roteiro.md",
@@ -29,11 +29,22 @@
     "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
     "page_node": "182:8",
     "section_id": "419:98",
-    "frame_ids": ["419:99"],
-    "image_node_ids": ["419:100"],
-    "overlay_node_ids": ["419:101", "419:102"],
-    "editorial_block_node_ids": ["419:103"],
-    "logo_node_ids": ["419:109"],
+    "frame_ids": [
+      "419:99"
+    ],
+    "image_node_ids": [
+      "419:100"
+    ],
+    "overlay_node_ids": [
+      "419:101",
+      "419:102"
+    ],
+    "editorial_block_node_ids": [
+      "419:103"
+    ],
+    "logo_node_ids": [
+      "419:109"
+    ],
     "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=419-98",
     "frame_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=419-99",
     "revision_mode": "in_place_comment_revision",
@@ -59,7 +70,9 @@
         "comment_node_id": "419:99",
         "comment_created_at": "2026-10-03T03:39:29.756Z",
         "comment_resolved_at": null,
-        "mutated_node_ids": ["419:109"]
+        "mutated_node_ids": [
+          "419:109"
+        ]
       },
       {
         "comment_id": "1951670746",
@@ -67,17 +80,49 @@
         "comment_node_id": "419:99",
         "comment_created_at": "2026-10-03T03:39:55.114Z",
         "comment_resolved_at": null,
-        "mutated_node_ids": ["419:103"]
+        "mutated_node_ids": [
+          "419:103"
+        ]
       }
     ],
-    "mutated_node_ids": ["419:103", "419:109"],
+    "mutated_node_ids": [
+      "419:103",
+      "419:109"
+    ],
     "pre_edit_state": {
-      "editorial_block": {"node_id": "419:103", "x": 88, "y": 172, "width": 820, "height": 399},
-      "logo": {"node_id": "419:109", "x": 88, "y": 1216, "width": 112, "height": 74.96533203125}
+      "editorial_block": {
+        "node_id": "419:103",
+        "x": 88,
+        "y": 172,
+        "width": 820,
+        "height": 399
+      },
+      "logo": {
+        "node_id": "419:109",
+        "x": 88,
+        "y": 1216,
+        "width": 112,
+        "height": 74.96533203125
+      }
     },
     "post_edit_state": {
-      "editorial_block": {"node_id": "419:103", "x": 88, "y": 360, "width": 820, "height": 399, "center_y": 559.5, "layout_mode": "VERTICAL"},
-      "logo": {"node_id": "419:109", "x": 484, "y": 1216, "width": 112, "height": 74.96533203125, "center_x": 540}
+      "editorial_block": {
+        "node_id": "419:103",
+        "x": 88,
+        "y": 360,
+        "width": 820,
+        "height": 399,
+        "center_y": 559.5,
+        "layout_mode": "VERTICAL"
+      },
+      "logo": {
+        "node_id": "419:109",
+        "x": 484,
+        "y": 1216,
+        "width": 112,
+        "height": 74.96533203125,
+        "center_x": 540
+      }
     },
     "qa_decision": "approved",
     "approved_for": "human_visual_review"
@@ -87,5 +132,15 @@
     "blocking_issues": [],
     "approved_for": "human_visual_review",
     "verified_at": "2026-10-04T14:08:16-03:00"
-  }
+  },
+  "publication_authorized": true,
+  "exported": true,
+  "scheduled": true,
+  "zernio_post_id": "6ac59a5d36c518088d2d4f2d",
+  "scheduled_for": "2026-10-07T18:00:00-03:00",
+  "scheduling_request_id": "75c75e18-2f59-48f3-9ce8-ec883353a562",
+  "scheduling_readback_verified": true,
+  "publication_approved_by": "Pablo Souza",
+  "publication_approved_at": "2026-10-06T22:03:06.085441-03:00",
+  "updated_at": "2026-10-06T22:03:06.085441-03:00"
 }

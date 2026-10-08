@@ -4,7 +4,7 @@ projeto: Realizando Potenciais
 status: active
 demandas_no_edc: 23
 decisoes_pendentes: 5
-edc_atualizado_em: 2026-10-06
+edc_atualizado_em: 2026-10-07
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---

@@ -3,9 +3,9 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-06T14:36:01Z
+atualizado_em: 2026-10-07T18:32:55-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-06; fechamento diário Notion → EDC — 2026-10-04"
+fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-06; fechamento diário Notion → EDC — 2026-10-07"
 confianca: "média para o delta da reunião de 06/10, cuja transcrição foi compactada; alta para as finalizações anteriores verificadas no Notion; itens presentes apenas no resumo ou nos action items não foram promovidos"
 canonical: true
 ---
@@ -13,6 +13,7 @@ canonical: true
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- A verificação independente de 07/10 confirmou no Notion que a votação do horário e o alinhamento de públicos/segmentação continuavam `Não iniciado`, ambos com prazo de 06/10/2026; os prazos relativos preservados no EDC foram normalizados para a data canônica, sem inferir conclusão nem nova urgência.
 - O prefixo `BN26` passa a identificar os itens da Black November 2026, e Pablo assumiu aplicá-lo e criar uma categoria própria de etiquetas.
 - Pablo assumiu refinar o relatório e o dicionário de tags, separando bases antigas, origens atuais e compras para sustentar a segmentação.
 - Na ausência de integração entre Princípia e Hotmart, o fluxo provisório é manter o parcelamento recorrente no cartão pela Hotmart até a comparação dos cenários; Pablo assumiu enviar o comparativo ao grupo.
@@ -135,8 +136,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Acionar a Naya para apoiar a produção de textos informativos conectados à venda da Black Friday no LinkedIn — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Enviar os materiais da Black Friday e do Parcelado Hotmart a Pablo e Mariane — Responsável: Graci Lima — Prazo: não definido.
 - Mapear a abertura do carrinho em 29 de outubro, com evento às 20h e abertura prevista entre 21h30 e 22h — Responsável: Graci Lima — Prazo: não definido.
-- Definir no grupo o horário da reunião de quinta-feira por votação — Responsável: Pablo — Prazo: amanhã.
-- Alinhar com Thamyris e Mari a definição dos públicos e a segmentação de leads — Responsável: Pablo — Prazo: amanhã.
+- Definir no grupo o horário da reunião de quinta-feira por votação — Responsável: Pablo — Prazo: 06/10/2026, vencido no Notion.
+- Alinhar com Thamyris e Mari a definição dos públicos e a segmentação de leads — Responsável: Pablo — Prazo: 06/10/2026, vencido no Notion.
 - Esclarecer as sugestões de bônus e demais componentes da oferta para permitir decisão e planejamento do tempo dos especialistas — Responsável: Mari — Prazo: quinta-feira.
 - Fixar no grupo a planilha do plano de ação como primeiro link de acompanhamento — Responsável: Pablo — Prazo: não definido.
 - Publicar no grupo um consolidado escrito do andamento — Responsável: não definido — Prazo: não definido.
@@ -153,6 +154,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Definir a divisão final das modalidades de pagamento entre Hotmart e Princípia após a comparação dos cenários.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 07/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente normalizou dois prazos canônicos apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|Plataformas de pagamento e segmentação BN26 — 06/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|Reunião Time RP | Semanal — segmentação e plano da Black Friday — 05/10/2026]].
 - Fechamento diário Notion → EDC — 04/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da automação de confirmação de leads apesar do snapshot sem delta.

@@ -2,9 +2,9 @@
 type: estado-de-clareza-canonico
 status: active
 projeto: "Simplifique — estratégia e infraestrutura interna"
-atualizado_em: 2026-10-02T15:49:47Z
+atualizado_em: 2026-10-07T18:32:55-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-02"
+fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-02; fechamento diário Notion → EDC — 2026-10-07"
 confianca: "alta para os compromissos de definir produtos e testar o funil de R$5,90; a mudança estratégica mais ampla permanece direção relatada, não decisão coletiva confirmada"
 canonical: true
 ---
@@ -12,6 +12,7 @@ canonical: true
 # Estado de Clareza Atual — Simplifique
 
 ## Delta da última atualização
+- A verificação independente de 07/10 encontrou um conflito anterior ao EDC vigente: o Notion marca o primeiro bloco de prospecção como `Em progresso` desde 02/10 às 01h12 (-03), enquanto a atualização direta posterior de Pablo afirma que a prospecção ainda não começou. O conflito permanece explícito; o status antigo do tracker não foi tratado como prova de execução.
 - Pablo assumiu definir produtos de gestão e design com preços claros e lançar um funil diagnóstico de R$5,90 para teste no perfil de Patrícia.
 - O teste cria um primeiro movimento comercial concreto, mas ainda não possui meta de conversão, volume ou critério de continuidade confirmados.
 - A direção de concentrar a Simplifique em gestão de negócios e infoprodutos foi relatada no resumo, mas não foi promovida como decisão coletiva por estar ausente dos trechos preservados da transcrição.
@@ -21,7 +22,7 @@ canonical: true
 - A afirmação anterior de que a prospecção havia sido retomada foi invalidada pela atualização mais recente.
 - Pablo identifica procrastinação e fuga da frente comercial como causa operacional atual.
 - Diagnóstica MS e Dra. Cláudia continuam prospects e permanecem no Comercial da Simplifique, não na carteira de projetos contratados.
-- O Notion mantém como não iniciados a definição da oferta a prospectar e o primeiro bloco de prospecção; o Simplifique Ops permanece em programação contínua.
+- O Notion mantém como não iniciada a definição da oferta a prospectar, mas marca o primeiro bloco de prospecção como `Em progresso`; a atualização direta posterior de Pablo contradiz esse status e informa que a prospecção ainda não começou. O Simplifique Ops permanece em programação contínua.
 - A reunião de acompanhamento com o lead de CRM foi cancelada no Notion; esse cancelamento não comprova encerramento da oportunidade nem decisão comercial adicional.
 - O estado anterior foi preservado em [[10-Simplifique/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao]].
 
@@ -45,7 +46,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 
 ## 4. Frentes ativas
 - Esteira comercial: definição de produtos e teste do funil diagnóstico de R$5,90.
-- Prospecção: oferta e primeiro bloco não iniciados no Notion.
+- Prospecção: oferta não iniciada no Notion; primeiro bloco marcado como `Em progresso`, em conflito com a atualização direta posterior de Pablo de que a execução ainda não começou.
 - Diagnóstica MS: proposta no Canva aguardando revisão estética e reunião.
 - Dra. Cláudia: contrato enviado, aguardando assinatura sob acompanhamento de Lucas Cacalli.
 - Simplifique Ops: uso e evolução internos.
@@ -64,6 +65,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - O piloto de R$5,90 ainda não possui critério de sucesso confirmado.
 - Procrastinação e fuga da prospecção.
 - Cadência anterior declarada sem execução comprovada.
+- Divergência entre o status `Em progresso` no Notion e a atualização direta posterior que nega o início da prospecção.
 
 ## 8. Bloqueios
 - Nenhum bloqueio externo confirmado para iniciar a prospecção.
@@ -71,7 +73,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 ## 9. Indicadores
 - Produtos de gestão e design precificados: não confirmado.
 - Funil diagnóstico de R$5,90 testado: não.
-- Prospecção iniciada: não.
+- Prospecção iniciada: não confirmada; Notion marca o primeiro bloco como `Em progresso`, mas a atualização direta posterior de Pablo afirma que ainda não começou.
 - Contatos realizados no ciclo atual: não informados.
 - Conversões: não informadas.
 
@@ -86,7 +88,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 ## 12. Próximo passo
 - Definir os produtos de gestão e design com preços claros — Responsável: Pablo — Prazo: não definido.
 - Lançar o funil diagnóstico de R$5,90 e testá-lo no perfil de Patrícia — Responsável: Pablo — Prazo: não definido — Dependência: página, oferta e fluxo mínimo de conversão.
-- Executar o primeiro bloco de prospecção e registrar contatos, respostas e próximos follow-ups — Responsável: Pablo — Prazo: não definido — Critério de conclusão: primeira rodada executada e registrada.
+- Executar o primeiro bloco de prospecção e registrar contatos, respostas e próximos follow-ups — Responsável: Pablo — Prazo: não definido — Critério de conclusão: primeira rodada executada e registrada — Conflito de estado: o Notion marca `Em progresso`, mas a atualização direta posterior informa que a execução ainda não começou; reconciliar o status antes de considerar avanço.
 - Revisar a estética da proposta da Diagnóstica MS e prepará-la para apresentação — Responsável: Pablo — Prazo: não definido — Sincronização externa: não.
 
 ## 13. Próxima decisão
@@ -94,6 +96,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Definir uma cadência comercial mínima que Pablo consiga cumprir de forma sustentável após o primeiro bloco executado.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 07/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente de status, data e última edição recuperou a divergência da prospecção apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca|02/10/2026 — Finanças, produtos e automação de conteúdo]].
 - Fechamento diário Notion → EDC — 28/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.
 - Fechamento diário Notion → EDC — 24/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`.

@@ -3,23 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-07T18:32:55-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-06; fechamento diário Notion → EDC — 2026-10-07"
-confianca: "média para o delta da reunião de 06/10, cuja transcrição foi compactada; alta para as finalizações anteriores verificadas no Notion; itens presentes apenas no resumo ou nos action items não foram promovidos"
+atualizado_em: 2026-10-08T18:18:53-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais]]"
+fonte_atualizacao: "Reunião com Neg — 2026-10-08"
+confianca: "média para o delta da reunião com Neg de 08/10, cuja transcrição foi compactada; somente decisões e compromissos sustentados pelos trechos visíveis foram promovidos; informações presentes apenas no resumo automático não foram promovidas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
-- A verificação independente de 07/10 confirmou no Notion que a votação do horário e o alinhamento de públicos/segmentação continuavam `Não iniciado`, ambos com prazo de 06/10/2026; os prazos relativos preservados no EDC foram normalizados para a data canônica, sem inferir conclusão nem nova urgência.
-- O prefixo `BN26` passa a identificar os itens da Black November 2026, e Pablo assumiu aplicá-lo e criar uma categoria própria de etiquetas.
-- Pablo assumiu refinar o relatório e o dicionário de tags, separando bases antigas, origens atuais e compras para sustentar a segmentação.
-- Na ausência de integração entre Princípia e Hotmart, o fluxo provisório é manter o parcelamento recorrente no cartão pela Hotmart até a comparação dos cenários; Pablo assumiu enviar o comparativo ao grupo.
-- A atribuição da planilha de comparação diverge entre a transcrição, que sustenta Pablo, e o resumo automático, que cita Mari; a responsabilidade registrada segue a fonte principal e permanece como ponto de validação.
-- A divisão definitiva de pagamentos entre as plataformas, o nome interno “Ace”, as mensagens de utilidade e os demais itens presentes apenas no resumo ou nos action items não foram promovidos.
-- As demais frentes e finalizações anteriores não foram contraditas e permanecem preservadas.
+- O próximo cross-check da campanha foi marcado para terça-feira, dia 13, pela manhã, sem horário anterior às 10h30; o horário exato continua sem confirmação.
+- Pablo assumiu publicar essa definição no grupo e enviar o consolidado das decisões até a manhã seguinte.
+- Estratégias, metas, plataformas, orçamentos e responsáveis descritos apenas no resumo automático não foram promovidos porque os trechos correspondentes estão ausentes da transcrição compactada.
+- As demais frentes, decisões e finalizações anteriores não foram contraditas e permanecem preservadas.
 
 ## 1. Objetivo atual
 Executar o planejamento confirmado da Black Friday, validar a Naia após a conclusão dos ajustes registrados no Notion e finalizar os ajustes ainda abertos de página e materiais do Energia Infinita, mantendo as responsabilidades de estratégia, tecnologia e aprovação separadas da execução especializada.
@@ -41,7 +38,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 ## 4. Frentes ativas
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
-- Black November 2026: planejamento considerado suficiente para execução; `BN26` definido como prefixo operacional; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; segmentação e definição de públicos ainda condicionam as metas; relatório e dicionário de tags estão em refinamento; demandas são acompanhadas pela planilha do plano de ação; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
+- Black November 2026: planejamento considerado suficiente para execução; `BN26` definido como prefixo operacional; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; segmentação e definição de públicos ainda condicionam as metas; relatório e dicionário de tags estão em refinamento; demandas são acompanhadas pela planilha do plano de ação; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; a landing page do “Alicerce do Extraordinário” aguarda ajustes aprovados de fonte e copy; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
 - Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a comparação dos cenários e a divisão definitiva entre plataformas seguem abertas.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
@@ -61,6 +58,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Mari: detalhar as sugestões de bônus e demais componentes da oferta antes da definição e do dimensionamento do tempo dos especialistas.
 - Responsável não definido: publicar no grupo um consolidado escrito do andamento.
 - Pablo: aplicar o prefixo `BN26`, criar a categoria de etiquetas, refinar o relatório e o dicionário de tags e enviar ao grupo a comparação dos cenários de pagamento.
+- Pablo: marcar os ajustes aprovados na landing page do “Alicerce do Extraordinário” e encaminhá-la à Naya para publicação.
+- Pablo: publicar no grupo a definição do próximo cross-check e enviar o consolidado das decisões até a manhã seguinte.
 
 ## 6. Decisões vigentes
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
@@ -76,6 +75,10 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Realizar separadamente os alinhamentos de quinta-feira e deixar a reunião com Arcindo por último, para consolidar as definições anteriores.
 - Usar o prefixo `BN26` para identificar tudo que pertence à Black November 2026.
 - Manter provisoriamente o parcelamento recorrente no cartão pela Hotmart até a comparação dos cenários de pagamento.
+- Substituir a fonte intermediária da landing page do “Alicerce do Extraordinário” por uma serifa mais grossa para melhorar a legibilidade.
+- Alterar na landing page o público de “profissionais de desenvolvimento humano” para “profissionais de saúde emocional”.
+- Manter o evento “Alicerce do Extraordinário” às 20h.
+- Realizar o próximo cross-check da campanha na terça-feira, dia 13, pela manhã, em horário não anterior às 10h30.
 
 ## 7. Gargalos
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
@@ -85,6 +88,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Os ajustes restantes das páginas, do vídeo, dos materiais e do conteúdo do Energia Infinita ainda precisam ser concluídos e conferidos.
 - A cota semanal da Naya foi atingida; tarefas dependentes da ferramenta podem aguardar a renovação do limite.
 - O time reduzido e a janela até o dia 14 podem comprometer a conclusão da produção da Black Friday no prazo pretendido.
+- A fonte fina usada na landing page pode prejudicar a legibilidade para parte do público até que seja substituída.
 
 ## 8. Bloqueios
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
@@ -102,6 +106,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
 - Segmentação da base: 516 tags atômicas foram mencionadas na reunião de 06/10; organização por base antiga, origem atual e compra ainda precisa ser refinada antes da definição segura de públicos e metas.
 - Pagamentos da Black November: fluxo provisório de parcelamento recorrente no cartão pela Hotmart; comparativo e divisão definitiva entre plataformas ainda pendentes.
+- Landing page do “Alicerce do Extraordinário”: ajustes de fonte e público aprovados; publicação da versão ajustada ainda não confirmada.
 - Oferta da campanha: bônus e componentes sugeridos aguardam detalhamento antes da decisão.
 - Comunidades de WhatsApp: cerca de 20 grupos existentes informados por Thamyris em 28/09/2026; estado de reativação ainda não confirmado.
 - Energia Infinita: treinamento de edição concluído; alteração de página em conferência e demais ajustes operacionais abertos.
@@ -145,6 +150,10 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Criar uma categoria de etiquetas para a `BN26` — Responsável: Pablo — Prazo: não definido.
 - Refinar o relatório e o dicionário de tags para separar bases antigas, origens atuais e tags de compra — Responsável: Pablo — Prazo: não definido.
 - Preparar e enviar ao grupo a comparação dos cenários de pagamento — Responsável: Pablo — Prazo: não definido.
+- Marcar os ajustes aprovados na landing page do “Alicerce do Extraordinário” — Responsável: Pablo — Prazo: não definido.
+- Encaminhar a landing page ajustada à Naya para publicação — Responsável: Pablo — Prazo: não definido.
+- Publicar no grupo a definição da reunião de terça-feira pela manhã — Responsável: Pablo — Prazo: não definido.
+- Enviar ao grupo o consolidado do que ficou decidido — Responsável: Pablo — Prazo: até amanhã cedo.
 
 ## 13. Próxima decisão
 - Definir as metas de vendas após a segmentação da base e a consolidação dos públicos.
@@ -154,6 +163,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Definir a divisão final das modalidades de pagamento entre Hotmart e Princípia após a comparação dos cenários.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais|Fechamento da estratégia de Black Friday com Neg — 08/10/2026]].
+- [[03-Reunioes/2026/10/2026-10-08--conteudo-landing-page-alicerce-extraordinario-realizando-potenciais|Conteúdo e landing page do Alicerce do Extraordinário — 08/10/2026]].
 - Fechamento diário Notion → EDC — 07/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente normalizou dois prazos canônicos apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|Plataformas de pagamento e segmentação BN26 — 06/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|Reunião Time RP | Semanal — segmentação e plano da Black Friday — 05/10/2026]].

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-RQ-e88acefa",
+  "request_key": "social-e88acefa40356db529c779fe",
+  "status": "ready",
+  "verified_at": "2026-10-08T02:50:56-03:00",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_id": "182:8",
+    "section_id": "504:158",
+    "section_name": "[PRODUÇÃO 24] Carrossel — IA útil precisa de conferência",
+    "url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=504-158",
+    "frame_ids": ["504:159", "504:172", "504:180", "504:193", "504:205", "504:217"],
+    "dimensions": "1080x1350",
+    "editable": true,
+    "auto_layout_node_ids": ["505:14", "505:15", "505:16", "505:17", "505:18", "505:19", "505:20", "505:21"]
+  },
+  "image": {
+    "candidate_id": "pexels-5965705",
+    "source_page": "https://www.pexels.com/photo/crop-faceless-black-person-highlighting-words-in-text-5965705/",
+    "photographer": "Charlotte May",
+    "local_path": "assets/e88-review-pexels-5965705.jpg",
+    "sha256": "a0dc2cbe88bfb3c16524e5325863cefcfbe159d021702c26a9a2d641d539be62"
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "comments_for_section": [],
+    "overflow_nodes": [],
+    "export_status": "not_exported",
+    "publication_status": "unpublished"
+  }
+}

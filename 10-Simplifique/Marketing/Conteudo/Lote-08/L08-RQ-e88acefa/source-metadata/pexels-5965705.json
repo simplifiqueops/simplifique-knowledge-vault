@@ -1,0 +1,30 @@
+{
+  "status": "downloaded",
+  "candidate_id": "pexels-5965705",
+  "source": "Pexels",
+  "page_url": "https://www.pexels.com/photo/crop-faceless-black-person-highlighting-words-in-text-5965705/",
+  "photographer": "Charlotte May",
+  "photographer_url": "https://www.pexels.com/@charlotte-may",
+  "original_dimensions": {
+    "width": 3571,
+    "height": 5356
+  },
+  "accessed_at": "2026-10-08T02:50:56-03:00",
+  "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/assets/e88-review-pexels-5965705.jpg",
+  "sha256": "a0dc2cbe88bfb3c16524e5325863cefcfbe159d021702c26a9a2d641d539be62",
+  "score": {
+    "function": 2,
+    "fit": 2,
+    "naturalness": 2,
+    "technical": 2,
+    "traceability": 2,
+    "total": 10
+  },
+  "planned_use": [
+    "slide 01 full-bleed background",
+    "slide 02 right-side crop"
+  ],
+  "selection_reason": "A cena mostra revisão humana com laptop e marca-texto, reforçando a conferência como etapa operacional sem sugerir cliente ou resultado real.",
+  "risk": "Representação editorial; não é evidência de cliente, desempenho, produtividade ou resultado.",
+  "auto_selection": true
+}

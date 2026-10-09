@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais|08/10/2026 — Fechamento da estratégia de Black Friday com Neg — Realizando Potenciais]]
+- [[03-Reunioes/2026/10/2026-10-08--conteudo-landing-page-alicerce-extraordinario-realizando-potenciais|08/10/2026 — Conteúdo e landing page do Alicerce do Extraordinário — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|06/10/2026 — Plataformas de pagamento e segmentação BN26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|05/10/2026 — Reunião Time RP | Semanal — segmentação e plano da Black Friday — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|05/10/2026 — Desempenho pós-migração, modelo anual e revisão de funis — Ei Nerd]]

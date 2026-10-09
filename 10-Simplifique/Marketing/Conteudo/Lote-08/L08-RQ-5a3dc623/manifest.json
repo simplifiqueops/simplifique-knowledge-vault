@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-RQ-5a3dc623",
+  "request_key": "social-5a3dc623786f3d471a85f2ca",
+  "title": "Atendimento automatizado cria uma nova expectativa: resolver rápido sem esconder a pessoa",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "updated_at": "2026-10-08T07:14:08-03:00",
+  "publication_status": "unpublished",
+  "export_status": "not_exported",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node_id": "182:8",
+    "section_node_id": "512:188",
+    "section_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=512-188",
+    "frame_ids": [
+      "512:189",
+      "512:202",
+      "512:213",
+      "512:220",
+      "512:240",
+      "512:246"
+    ],
+    "frame_count": 6,
+    "dimensions": "1080x1350",
+    "editable": true,
+    "revision_mode": "targeted_in_place_fix",
+    "duplicate_section_created": false,
+    "image_node_ids": ["512:190"],
+    "logo_node_ids": ["512:195", "512:260"],
+    "mutated_node_ids": [
+      "512:221", "512:222", "512:225", "512:227", "512:228",
+      "512:230", "512:232", "512:233", "512:235", "512:237",
+      "512:238", "512:239", "512:226", "512:231", "512:236"
+    ]
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "PEXELS-8867204",
+    "source": "Pexels",
+    "source_id": 8867204,
+    "photographer": "Yan Krukau",
+    "page_url": "https://www.pexels.com/photo/woman-working-at-a-call-center-8867204/",
+    "local_path": "assets/5a3-human-support-pexels-8867204.jpg",
+    "sha256": "8b7602ba82f032a26e16877ac499a55b59b2f8571acfcb2fa9286b4402b1a47a",
+    "score": 9,
+    "approval_required": false
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "figma_comments_at_ready": [],
+    "section_screenshot": "qa-screenshots/section-final.png",
+    "section_screenshot_sha256": "5defa14efd65df1b938b93a325915b7647e9a282a2b3d8fbed7694c27ecda633",
+    "frame_04_screenshot": "qa-screenshots/frame-04-final.png",
+    "frame_04_screenshot_sha256": "bc145fe6c7c5a994962126ed256706ffd4aa991529f38a06a7521e862e420948"
+  },
+  "gates": {
+    "diagnostic_cta_blocked": true,
+    "export_authorized": false,
+    "scheduling_authorized": false,
+    "publication_authorized": false
+  }
+}

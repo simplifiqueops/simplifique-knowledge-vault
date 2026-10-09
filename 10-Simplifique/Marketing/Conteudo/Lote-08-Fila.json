@@ -72,7 +72,7 @@
     {
       "content_key": "L08-C02-bot-responde-resolve",
       "order": 2,
-      "status": "draft_ready",
+      "status": "ready",
       "format": "carousel",
       "title": "Seu bot responde, mas consegue concluir o atendimento?",
       "territory": "ia",
@@ -281,7 +281,7 @@
     {
       "content_key": "L08-C04-limites-agentes",
       "order": 4,
-      "status": "draft_ready",
+      "status": "ready",
       "format": "static",
       "title": "Se a IA errar, o que ela está autorizada a alterar?",
       "territory": "automação",
@@ -1649,8 +1649,8 @@
     {
       "content_key": "L08-RQ-e88acefa",
       "order": 13,
-      "status": "copy_review",
-      "request_status": "copy_review",
+      "status": "ready",
+      "request_status": "ready",
       "format": "carrossel",
       "title": "O sinal de maturidade não é usar IA, mas escolher um trabalho útil e conferir se ajudou",
       "territory": "produtividade",
@@ -1699,9 +1699,9 @@
         ]
       },
       "started_at": "2026-10-04T06:25:00-03:00",
-      "updated_at": "2026-10-04T06:25:00-03:00",
+      "updated_at": "2026-10-08T02:50:56-03:00",
       "draft_completed_at": "2026-10-04T06:25:00-03:00",
-      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "checkpoint": "figma_rendered_and_qa_approved",
       "publication_status": "unpublished",
       "blocking_issues": [],
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa",
@@ -1709,21 +1709,31 @@
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/02-Copy-ou-Roteiro.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/citations-ledger.json",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/sources/retrieval-notes-2026-10-04.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/sources/retrieval-notes-2026-10-04.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/source-metadata/pexels-5965705.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/04-QA-Final.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-e88acefa/manifest.json"
       ],
       "qa_decision": "approved",
-      "approved_for": "copy_review",
+      "approved_for": "human_figma_review",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-08T04:49:48Z",
       "non_blocking_notes": [
-        "CTA do diagnóstico permaneceu bloqueado; a copy usa somente orientação de utilidade.",
-        "Os números da OpenAI sustentam apenas uso declarado, não resultado operacional.",
-        "Design, curadoria, Figma, exportação, agendamento e publicação não autorizados."
-      ]
+        "Imagem Pexels 5965705 aplicada como representação editorial, sem alegação de cliente ou resultado.",
+        "CTA do diagnóstico permaneceu bloqueado; a arte usa somente orientação de utilidade.",
+        "Arte editável pronta para revisão humana no Figma; exportação, agendamento e publicação não autorizados."
+      ],
+      "figma_section_id": "504:158",
+      "figma_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=504-158",
+      "export_status": "not_exported",
+      "ready_at": "2026-10-08T02:50:56-03:00"
     },
     {
       "content_key": "L08-RQ-d9a00c4b",
       "order": 14,
-      "status": "copy_review",
-      "request_status": "copy_review",
+      "status": "ready",
+      "request_status": "ready",
       "format": "carrossel",
       "title": "Atendimento no WhatsApp passou a exigir controle de custo e continuidade por mensagem",
       "territory": "whatsapp_atendimento",
@@ -1738,32 +1748,83 @@
         "planned_for": null
       },
       "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-d9a00c4bae3b06fea931884d.json",
-      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
       "started_at": "2026-10-05T09:28:00-03:00",
-      "updated_at": "2026-10-05T09:28:00-03:00",
+      "updated_at": "2026-10-08T05:00:12-03:00",
       "copy_completed_at": "2026-10-05T09:28:00-03:00",
+      "completed_at": "2026-10-08T05:00:12-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/04-QA-Final.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/05-Curadoria-Imagens.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/citations-ledger.json",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/sources/retrieval-notes-2026-10-05.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/sources/retrieval-notes-2026-10-05.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/assets/d9-cost-phone-pexels-6969954.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/source-metadata/pexels-6969954.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d9a00c4b/qa-screenshots/section-initial.png"
       ],
-      "approved_for": "copy_review",
+      "approved_for": "human_figma_review",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-08T04:49:00Z",
       "publication_status": "unpublished",
       "blocking_issues": [],
+      "qa_decision": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "508:176",
+        "frame_ids": [
+          "508:177",
+          "508:190",
+          "508:203",
+          "508:211",
+          "508:221",
+          "508:233"
+        ],
+        "image_node_ids": [
+          "508:178"
+        ],
+        "overlay_node_ids": [
+          "508:179"
+        ],
+        "logo_node_ids": [
+          "508:183",
+          "508:247"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=508-176",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "PEXELS-6969954",
+        "source": "Pexels",
+        "source_id": 6969954,
+        "photographer": "Mikhail Nilov",
+        "page_url": "https://www.pexels.com/photo/hands-holding-credit-card-and-smartphone-6969954/",
+        "score": 10,
+        "approval_required": false
+      },
+      "export_status": "not_exported",
       "non_blocking_notes": [
         "A copy restringe a mudança à WhatsApp Business Platform/API.",
         "Nenhum custo específico, economia ou resultado comercial foi inferido.",
         "CTA do diagnóstico, URL e QR code permaneceram bloqueados.",
-        "Design, curadoria, Figma, exportação, agendamento e publicação não foram autorizados."
+        "Imagem Pexels 6969954 aplicada como representação editorial, com origem e autoria preservadas.",
+        "Seção e seis frames inspecionados em 1080×1350; nenhum clipping, overlap ou overflow bloqueante.",
+        "Arte editável pronta para revisão humana; não exportada, não agendada e não publicada."
       ]
     },
     {
       "content_key": "L08-RQ-5a3dc623",
       "order": 15,
-      "status": "copy_review",
-      "request_status": "copy_review",
+      "status": "ready",
+      "request_status": "ready",
       "format": "carrossel",
       "title": "Atendimento automatizado cria uma nova expectativa: resolver rápido sem esconder a pessoa",
       "territory": "atendimento",
@@ -1778,24 +1839,101 @@
         "planned_for": null
       },
       "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-5a3dc623786f3d471a85f2ca.json",
-      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
       "started_at": "2026-10-05T11:38:35-03:00",
-      "updated_at": "2026-10-05T11:38:35-03:00",
+      "updated_at": "2026-10-08T07:14:08-03:00",
       "copy_completed_at": "2026-10-05T11:38:35-03:00",
+      "completed_at": "2026-10-08T07:14:08-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/02-Copy-ou-Roteiro.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/citations-ledger.json",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/sources/retrieval-notes-2026-10-05.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/sources/retrieval-notes-2026-10-05.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/04-QA-Final.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/assets/5a3-human-support-pexels-8867204.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/source-metadata/5a3-human-support-pexels-8867204.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-5a3dc623/qa-screenshots/frame-04-final.png"
       ],
-      "approved_for": "copy_review",
+      "approved_for": "human_figma_review",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-08T04:37:28Z",
       "publication_status": "unpublished",
       "blocking_issues": [],
       "non_blocking_notes": [
         "A pesquisa da Alchemer foi delimitada a consumidores dos Estados Unidos e não foi tratada como retrato do Brasil.",
         "CTA do diagnóstico, URL e QR code permaneceram bloqueados.",
-        "Design, curadoria, Figma, exportação, agendamento e publicação não foram autorizados."
+        "Fotografia Pexels 8867204 aplicada como representação editorial, com origem e autoria preservadas.",
+        "Clipping identificado na tela 04 foi corrigido in-place; a seção e a tela corrigida foram reinspecionadas.",
+        "Arte editável pronta para revisão humana; não exportada, não agendada e não publicada."
+      ],
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "512:188",
+        "frame_ids": ["512:189", "512:202", "512:213", "512:220", "512:240", "512:246"],
+        "image_node_ids": ["512:190"],
+        "logo_node_ids": ["512:195", "512:260"],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=512-188",
+        "rendered": true,
+        "editable": true,
+        "revision_mode": "targeted_in_place_fix",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "PEXELS-8867204",
+        "source": "Pexels",
+        "source_id": 8867204,
+        "photographer": "Yan Krukau",
+        "page_url": "https://www.pexels.com/photo/woman-working-at-a-call-center-8867204/",
+        "score": 9,
+        "approval_required": false
+      },
+      "qa_decision": "approved",
+      "export_status": "not_exported"
+    },
+    {
+      "content_key": "L08-RQ-d5d16909",
+      "order": 16,
+      "status": "copy_review",
+      "request_status": "copy_review",
+      "copy_gate": "copy_review",
+      "format": "estático",
+      "title": "Atendimento automatizado precisa permitir intervenção humana sem apagar o que já aconteceu",
+      "territory": "crm_atendimento",
+      "source_topic_key": "radar-zendesk-human-takeover-ai-ticket-20261006",
+      "objective": "Traduzir a passagem da automação para uma pessoa como regra operacional de permissão, contexto preservado e responsabilidade clara.",
+      "requires_user_on_camera": false,
+      "daily_request": {
+        "request_key": "social-d5d16909b0f33f9a0bc007d9",
+        "requested_at": "2026-10-08T04:51:07Z",
+        "desired_format": "estático",
+        "requester": "pablo",
+        "planned_for": null
+      },
+      "frozen_snapshot_source": "/home/simplifique/.hermes/state/simplifique-social-requests/processed/social-d5d16909b0f33f9a0bc007d9.json",
+      "checkpoint": "strategy_and_copy_complete_for_daily_review",
+      "started_at": "2026-10-08T09:19:52-03:00",
+      "copy_completed_at": "2026-10-08T09:19:52-03:00",
+      "updated_at": "2026-10-08T09:19:52-03:00",
+      "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d5d16909",
+      "artifacts": [
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d5d16909/01-Estrategia.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d5d16909/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d5d16909/citations-ledger.json"
+      ],
+      "publication_status": "unpublished",
+      "approved_for": "copy_review",
+      "blocking_issues": [],
+      "non_blocking_notes": [
+        "Estratégia e copy foram diferenciadas do ativo L08-RQ-5a3dc623: esta peça trata de tomada de controle, contexto preservado e registro, não apenas acesso humano.",
+        "CTA do diagnóstico, URL e QR code permaneceram bloqueados.",
+        "Nenhuma produção visual, exportação, agendamento ou publicação foi executada."
       ]
     }
   ]

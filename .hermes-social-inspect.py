@@ -6,7 +6,9 @@ keys=[
 'social-e88acefa40356db529c779fe',
 'social-l09-c15-202610','social-l09-c18-202610','social-l09-c19-202610',
 'social-l09-c20-202610','social-l09-c21-202610','social-l09-c22-202610',
-'social-l09-c23-202610','social-l09-c24-202610','social-l09-c25-202610'
+'social-l09-c23-202610','social-l09-c24-202610','social-l09-c25-202610',
+'social-d9a00c4bae3b06fea931884d','social-5a3dc623786f3d471a85f2ca',
+'social-d5d16909b0f33f9a0bc007d9'
 ]
 con=sqlite3.connect(DB); con.row_factory=sqlite3.Row
 cols=[r['name'] for r in con.execute('pragma table_info(social_content_requests)')]

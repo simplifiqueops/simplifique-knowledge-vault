@@ -19,6 +19,8 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais|08/10/2026 — Fechamento da estratégia de Black Friday com Neg]]
+- [[03-Reunioes/2026/10/2026-10-08--conteudo-landing-page-alicerce-extraordinario-realizando-potenciais|08/10/2026 — Conteúdo e landing page do Alicerce do Extraordinário]]
 - [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|06/10/2026 — Plataformas de pagamento e segmentação BN26]]
 - [[03-Reunioes/2026/10/2026-10-05--semanal-time-rp-segmentacao-plano-black-friday|05/10/2026 — Reunião Time RP | Semanal — segmentação e plano da Black Friday]]
 - [[03-Reunioes/2026/10/2026-10-02--parcelado-hotmart-black-friday-realizando-potenciais|02/10/2026 — Parcelado Hotmart e preparação da Black Friday]]

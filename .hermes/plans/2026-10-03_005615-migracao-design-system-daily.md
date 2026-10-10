@@ -141,6 +141,8 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 
 ### FASE 4 — Projetos e Atenção
 
+**Estado:** concluída e publicada em 09/10/2026; commit `124c2f7`; fingerprint público `824ddbffb11af273`; revisão independente aprovada; suíte `160/160`.
+
 **Objetivo:** transformar Projetos em acervo operacional e consolidar exceções em uma fila única.
 
 **Escopo:** lista leve, progresso/estado comprovado, drawer com objetivo, fases, demandas, decisões, dependências, bloqueios, responsáveis, histórico e próxima ação; atenção transversal por severidade.
@@ -158,6 +160,8 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 **Aceite:** padrão `415:15` adaptado; nenhum modal legado quebrado; prospects não entram na carteira; severidade e progresso derivados de evidência.
 
 ### FASE 5 — Marketing
+
+**Estado:** concluída e publicada em 09/10/2026; commit `d9dd2c7`; fingerprint público `35847192a9d3ab92`; revisão independente aprovada; suíte `169/169`.
 
 **Objetivo:** consolidar Content Operations no padrão `416:15`.
 

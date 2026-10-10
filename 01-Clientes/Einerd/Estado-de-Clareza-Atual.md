@@ -3,21 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-05T14:32:45-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd]]"
-fonte_atualizacao: "Reunião de 05/10/2026 — desempenho pós-migração, modelo anual e revisão de funis"
-confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; média para o contexto amplo de produtos, anúncios e criativos porque a transcrição foi compactada"
+atualizado_em: 2026-10-09T21:30:52Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd]]"
+fonte_atualizacao: "Reunião de 09/10/2026 — Domínios, desempenho e novas remessas"
+confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; média para o contexto de domínios, anúncios, remessas e produtos porque a transcrição foi compactada e começa em 00:04:36"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 05/10 definiu o modelo anual do YouTube Dark, a revisão dos funis e o reposicionamento “white” do YouTube Dark Games, mas não atribuiu nova demanda a Pablo nem confirmou conclusão das entregas audiovisuais vigentes.
+- Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 09/10 às 21:30 UTC definiu o domínio `criador digital` para o Google, liberou no Meta remessas antes condicionadas à aprovação de IA e gerou ações de orçamento, campanhas, novas remessas e produto, mas não atribuiu demanda a Pablo nem confirmou conclusão das entregas audiovisuais vigentes.
 - Confirmações sem mudança: permanecem em progresso, conforme o último read-back do Notion, a revisão da plataforma por Pablo, a reconciliação entre Monday, planilha de cursos e Google Drive e a conexão dos dados do painel audiovisual ao Daily.
 - Confirmações sem mudança: a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
-- Conflitos/lacunas: a transcrição de 05/10 foi compactada; tarefas individuais de remessas e criativos aparecem no resumo automático, mas não foram promovidas ao EDC por ausência dos trechos correspondentes na transcrição.
-- Contexto fora do escopo operacional deste EDC: a operação de produtos e tráfego adotará o modelo anual do YouTube Dark, revisará funis a partir de quarta-feira e preparará uma versão “white” do YouTube Dark Games. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
+- Conflitos/lacunas: a transcrição mais recente foi compactada e começa em `00:04:36`; a definição do domínio do Meta aparece apenas no resumo automático, e a origem dos anúncios vencedores alterna entre as remessas 16 e 17.
+- Contexto fora do escopo operacional deste EDC: a operação de produtos e tráfego ajustará orçamento, lançará campanha de vencedores, preparará as remessas 30 e 31 e criará e precificará o produto “Passar no Enem”. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -108,6 +108,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|Domínios, desempenho e novas remessas — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
+- [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|Black Friday, ofertas e operação de tráfego — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|Desempenho pós-migração, modelo anual e revisão de funis — Ei Nerd — 05/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - Fechamento diário Notion → EDC — 02/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou três itens em progresso apesar do snapshot sem delta.
 - Fechamento diário Notion → EDC — 29/09/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; revisão e entrega dos spots comerciais verificadas como `Finalizado`.

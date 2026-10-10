@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 8
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-10-05
+edc_atualizado_em: 2026-10-09
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -31,6 +31,8 @@ cssclasses: [simplifique-projetos]
 ## Preparação para DEP
 - Sinal atual: revisão da plataforma, reconciliação operacional e integração com o Daily em progresso.
 - Lacuna principal: confirmar as conclusões, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.
+- Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|09/10/2026 às 21:30 UTC]] definiu `criador digital` para o Google, liberou remessas no Meta e gerou ações de orçamento, campanhas, novas remessas e produto, sem nova demanda confirmada para Pablo ou mudança no backlog canônico de Audiovisual.
+- Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|09/10/2026]] liberou remessas revisadas no Meta e definiu a correção do redirecionamento de `youtubedark.com.br`, sem nova demanda confirmada para Pablo ou mudança no backlog canônico de Audiovisual.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|05/10/2026]] definiu o modelo anual do YouTube Dark, a revisão dos funis e o reposicionamento “white” do YouTube Dark Games, sem nova demanda confirmada para Pablo.
 - Sinal externo ao escopo do EDC: o bloqueio da conta Meta e a contingência de tráfego foram registrados em [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026]], sem nova demanda confirmada para Audiovisual.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

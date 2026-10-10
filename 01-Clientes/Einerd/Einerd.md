@@ -25,6 +25,8 @@ Cliente da Simplifique.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|09/10/2026 — Domínios, desempenho e novas remessas]].
+- [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|09/10/2026 — Black Friday, ofertas e operação de tráfego]].
 - [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|05/10/2026 — Desempenho pós-migração, modelo anual e revisão de funis]].
 - [[03-Reunioes/2026/09/2026-09-28--bloqueio-meta-contingencia-trafego-einerd|28/09/2026 — Bloqueio da conta Meta e contingência de tráfego]].
 - [[03-Reunioes/2026/09/2026-09-24--demonstracao-plataforma-audiovisual-produtos-einerd|24/09/2026 — Demonstração da plataforma de audiovisual e produtos]].

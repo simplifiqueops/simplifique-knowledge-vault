@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at",
+  "request_key": "social-l09-c19-202610",
+  "status": "ready",
+  "completed_at": "2026-10-12T21:25:49-03:00",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "531:218",
+    "section_name": "[PRODUÇÃO 29] Estático — Responder rápido x resolver",
+    "section_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=531-218",
+    "frame_ids": ["531:219"],
+    "image_node_ids": ["531:220"],
+    "overlay_node_ids": ["531:221", "531:222"],
+    "logo_node_ids": ["531:228"],
+    "frame_dimensions": "1080x1350",
+    "editable": true,
+    "duplicate_section_created": false
+  },
+  "image": {
+    "candidate_id": "C19-WAIT-A",
+    "source": "Pexels",
+    "source_id": 7339179,
+    "photographer": "cottonbro studio",
+    "page_url": "https://www.pexels.com/photo/man-in-yellow-sweater-holding-a-phone-on-a-cafe-7339179/",
+    "local_path": "assets/c19-customer-waiting-pexels-7339179.jpg",
+    "local_sha256": "380aa083b6397f398c2871f96a702e7f676a9f3be0f2ce50f520a46d13b20ece",
+    "figma_image_hash": "9b3fb942c06742e73b480ec1d9a910168813033a",
+    "score": 9,
+    "approval_required": false
+  },
+  "qa": {
+    "decision": "approved",
+    "approved_for": "human_visual_review",
+    "blocking_issues": [],
+    "frame_count": 1,
+    "out_of_bounds_node_ids": [],
+    "missing_fonts": [],
+    "auto_layout_count": 1,
+    "image_count": 1,
+    "editable_counts": {"text": 3, "shapes": 10, "instances": 1},
+    "flattened_full_ui_raster_present": false,
+    "figma_comments_refreshed_at": "2026-10-12T21:25:49-03:00",
+    "newer_unresolved_comments": []
+  },
+  "screenshots": [
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-final.png"
+  ],
+  "publication": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  }
+}

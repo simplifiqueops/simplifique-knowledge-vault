@@ -651,12 +651,12 @@
       "learning": "Comentários com situações específicas de atendimento e salvamentos.",
       "content_key": "L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo",
       "order": 15,
-      "status": "copy_review",
+      "status": "ready",
       "planned_for": "2026-10-06T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
       "publication_authorized": false,
-      "design_authorized": false,
-      "copy_gate": "copy_review",
+      "design_authorized": true,
+      "copy_gate": "approved_for_production",
       "channel": "Instagram",
       "requires_user_on_camera": false,
       "daily_request": {
@@ -676,17 +676,78 @@
       "daily_readback_at": "2026-10-03T12:00:27Z",
       "decision_note": "Pra mim esse conteúdo não fez sentido nenhum com o que precisamos e devemos trabalhar, o que tem a ver com estruturação, sistemas, é uma questão de processos mas tá tecnica demais.",
       "revision_note": "Copy revisada para uma cena cotidiana de cliente passado de um lado para outro, com estrutura mínima explicada como entrada, responsável e resposta.",
-      "checkpoint": "strategy_and_copy_revised_for_daily_review",
-      "updated_at": "2026-10-03T09:00:27-03:00",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "updated_at": "2026-10-12T15:02:34-03:00",
       "copy_completed_at": "2026-10-03T09:00:27-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/01-Estrategia.md",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/02-Copy-ou-Roteiro.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/assets/c15-waiting-phone-pexels-8682773.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/source-metadata/c15-waiting-phone-pexels-8682773.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/section-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-01-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-02-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-03-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-04-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-05-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-06-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-01-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-02-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo/qa-screenshots/frame-05-final.png"
       ],
       "publication_status": "unpublished",
       "blocking_issues": [],
-      "approved_for": "copy_review"
+      "approved_for": "user_review",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-12T17:47:51Z",
+      "production_started_at": "2026-10-12T14:55:13-03:00",
+      "completed_at": "2026-10-12T15:02:34-03:00",
+      "qa_decision": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "519:200",
+        "frame_ids": [
+          "519:201",
+          "519:202",
+          "519:203",
+          "519:204",
+          "519:205",
+          "519:206"
+        ],
+        "image_node_ids": [
+          "519:207"
+        ],
+        "logo_node_ids": [
+          "519:212",
+          "519:266"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=519-200",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C15-WAIT-A",
+        "source": "Pexels",
+        "source_id": 8682773,
+        "photographer": "Ron Lach",
+        "page_url": "https://www.pexels.com/photo/woman-talking-on-the-telephone-8682773/",
+        "score": 9,
+        "approval_required": false
+      },
+      "non_blocking_notes": [
+        "A fotografia Pexels 8682773 foi aplicada com origem, autoria e arquivo local preservados.",
+        "A seção completa e os seis frames foram inspecionados em 1080×1350; nenhum clipping, overlap ou fonte ausente foi detectado.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ]
     },
     {
       "n": 16,
@@ -980,13 +1041,13 @@
       "learning": "Respostas específicas sobre atendimentos que costumam perder o próximo passo.",
       "content_key": "L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at",
       "order": 19,
-      "status": "copy_review",
+      "status": "ready",
       "copy_completed_at": "2026-10-03T19:41:57-03:00",
       "planned_for": "2026-10-08T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
       "publication_authorized": false,
-      "design_authorized": false,
-      "copy_gate": "copy_review",
+      "design_authorized": true,
+      "copy_gate": "approved_for_production",
       "channel": "Instagram",
       "requires_user_on_camera": false,
       "daily_request": {
@@ -1005,16 +1066,71 @@
       "daily_readback_at": "2026-10-03T22:41:57Z",
       "decision_note": "O conteudo ficou muito bom porém muito técnico, eu quero simplificar a comunicação e a barreira de entrada para o Lead, quero que seja claro o que podemos fazer.",
       "revision_note": "Copy simplificada para linguagem de conversa e explicação direta do papel da Simplifique: organizar o caminho do atendimento, responsabilidades e a ferramenta que sustenta o acompanhamento.",
-      "checkpoint": "strategy_and_copy_revised_for_daily_review",
-      "updated_at": "2026-10-03T19:41:57-03:00",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "updated_at": "2026-10-12T21:25:49-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/01-Estrategia.md",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/02-Copy-ou-Roteiro.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/assets/c19-customer-waiting-pexels-7339179.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/source-metadata/c19-customer-waiting-pexels-7339179.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/figma-comments-readback.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/qa-screenshots/section-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/qa-screenshots/frame-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C19-responder-rápido-não-é-o-mesmo-que-concluir-o-at/qa-screenshots/frame-final.png"
       ],
       "publication_status": "unpublished",
       "blocking_issues": [],
-      "approved_for": "copy_review"
+      "approved_for": "user_review",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-12T23:25:13Z",
+      "production_started_at": "2026-10-12T21:20:09-03:00",
+      "completed_at": "2026-10-12T21:25:49-03:00",
+      "qa_decision": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "531:218",
+        "frame_ids": [
+          "531:219"
+        ],
+        "image_node_ids": [
+          "531:220"
+        ],
+        "overlay_node_ids": [
+          "531:221",
+          "531:222"
+        ],
+        "logo_node_ids": [
+          "531:228"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=531-218",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C19-WAIT-A",
+        "source": "Pexels",
+        "source_id": 7339179,
+        "photographer": "cottonbro studio",
+        "page_url": "https://www.pexels.com/photo/man-in-yellow-sweater-holding-a-phone-on-a-cafe-7339179/",
+        "score": 9,
+        "approval_required": false
+      },
+      "non_blocking_notes": [
+        "A fotografia Pexels 7339179 foi aplicada com origem, autoria e arquivo local preservados.",
+        "O primeiro render ocultava a fotografia; o wash foi removido, o gradiente suavizado e o logo reposicionado antes da reinspeção.",
+        "A seção e o frame foram inspecionados em 1080×1350; não há clipping, overlap, overflow ou fontes ausentes.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ]
     },
     {
       "n": 20,

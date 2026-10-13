@@ -178,23 +178,26 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 
 **Aceite:** gates humanos preservados; célula do calendário sem copy integral; lane sem data; dois slots diários claros; Zernio é a evidência de programado/publicado; CTA bloqueado continua bloqueado.
 
-### FASE 6 — Comercial e Diagnósticos
+### FASE 6 — Comercial, Diagnósticos e Pomodoro
 
-**Objetivo:** criar leitura gerencial consolidada sem construir CRM paralelo.
+**Estado:** concluída e publicada em 12/10/2026; commit `45847dc`; fingerprint público `2099e52b2e758f80`; revisão independente aprovada; suíte `178/178`; assets públicos Comercial, Demandas, Pomodoro e CSS idênticos aos arquivos locais.
 
-**Escopo:** leads para abordar, sem contato, follow-ups, propostas, oportunidades paradas, conversão quando comprovada, próximos movimentos, mudanças recentes e diagnósticos separados.
+**Objetivo:** criar leitura gerencial consolidada sem construir CRM paralelo e oferecer uma fila pessoal de execução sem alterar a fonte canônica.
 
-**Arquivos prováveis:**
+**Escopo:** leads para abordar, sem contato, follow-ups, propostas, oportunidades paradas, conversão somente quando comprovada, próximos movimentos, mudanças recentes e diagnósticos separados; fila Pomodoro por `sync_key`, com até 20 itens, ciclos 25/5, persistência isolada por usuário e controles acessíveis.
+
+**Arquivos implementados:**
+- `app.py`
 - `templates/index.html`
 - `static/commercial.js`
-- `static/app.js`
+- `static/demands.js`
+- `static/pomodoro.js`
 - `static/style.css`
 - `test_app.py`
-- `test_commercial_sync.py`
 
-**Estimativa:** 3–4 h; 1 ciclo.
+**Estimativa original:** 3–4 h; 1 ciclo.
 
-**Aceite:** dados continuam vindos do Notion/CRM; sem edição local; funil só com estágios e denominadores válidos; prospects separados de contratados.
+**Aceite:** dados continuam vindo do Notion/CRM; sem edição local; funil só com estágios e denominadores válidos; prospects separados de contratados; concluir foco nunca conclui a demanda; armazenamento do Pomodoro é individual, limitado, validado e fail-closed; foco de teclado é preservado em ticks e transições.
 
 ### FASE 7 — Saúde do Sistema
 

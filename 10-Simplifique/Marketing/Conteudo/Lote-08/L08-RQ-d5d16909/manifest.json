@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "content_key": "L08-RQ-d5d16909",
+  "request_key": "social-d5d16909b0f33f9a0bc007d9",
+  "topic_key": "radar-zendesk-human-takeover-ai-ticket-20261006",
+  "status": "ready",
+  "updated_at": "2026-10-12T19:14:48-03:00",
+  "copy_approved_at": "2026-10-12T17:47:27Z",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "524:212",
+    "section_name": "[PRODUÇÃO 28] Estático — Atendimento transferido ou reiniciado",
+    "frame_ids": ["524:213"],
+    "image_node_ids": ["524:214"],
+    "overlay_node_ids": ["524:215"],
+    "content_node_ids": ["524:216"],
+    "text_node_ids": ["524:217", "524:218", "524:219", "524:220"],
+    "logo_node_ids": ["524:222"],
+    "dimensions": "1080x1350",
+    "editable": true,
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=524-212",
+    "duplicate_section_created": false
+  },
+  "image": {
+    "candidate_id": "PEXELS-8867415",
+    "source": "Pexels",
+    "source_id": 8867415,
+    "photographer": "Yan Krukau",
+    "page_url": "https://www.pexels.com/photo/two-women-working-in-the-office-8867415/",
+    "local_path": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-RQ-d5d16909/assets/d5d-handoff-pexels-8867415.jpg",
+    "sha256": "59de3502faf612ce23081382622b3282d39833e8ee57ac28cb5e6bc4dfd972a5",
+    "score": 9
+  },
+  "qa": {
+    "decision": "approved",
+    "frame_count": 1,
+    "top_level_overflow": [],
+    "fonts": ["Inter|Semi Bold", "Inter|Bold", "Inter|Extra Bold"],
+    "image_filled_nodes": 1,
+    "duplicate_section_ids": ["524:212"],
+    "comments_refreshed_at": "2026-10-12T19:14:48-03:00",
+    "new_unresolved_comments_for_section": 0,
+    "screenshots": [
+      "qa-screenshots/frame-initial.png",
+      "qa-screenshots/frame-final.png",
+      "qa-screenshots/section-initial.png"
+    ]
+  },
+  "export_status": "not_exported",
+  "scheduling_status": "not_authorized",
+  "publication_status": "unpublished"
+}

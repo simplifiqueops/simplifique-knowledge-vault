@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C15-quanto-da-sua-empresa-para-quando-você-não-respo",
+  "request_key": "social-l09-c15-202610",
+  "status": "ready",
+  "completed_at": "2026-10-12T15:00:01-03:00",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "519:200",
+    "section_name": "[PRODUÇÃO 27] Carrossel — Cliente passado de um lado para outro",
+    "section_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=519-200",
+    "frame_ids": ["519:201", "519:202", "519:203", "519:204", "519:205", "519:206"],
+    "image_node_ids": ["519:207"],
+    "logo_node_ids": ["519:212", "519:266"],
+    "frame_dimensions": "1080x1350",
+    "editable": true,
+    "duplicate_section_created": false
+  },
+  "image": {
+    "candidate_id": "C15-WAIT-A",
+    "source": "Pexels",
+    "source_id": 8682773,
+    "photographer": "Ron Lach",
+    "page_url": "https://www.pexels.com/photo/woman-talking-on-the-telephone-8682773/",
+    "local_path": "assets/c15-waiting-phone-pexels-8682773.jpg",
+    "local_sha256": "5ea9be2b1d3f176126545fafb72e183e65cf39186b2a5633550e102929b11f9d",
+    "figma_image_hash": "813b74b88ec8f1e7c3f22fa968d04dc2e44142cb",
+    "score": 9,
+    "approval_required": false
+  },
+  "qa": {
+    "decision": "approved",
+    "approved_for": "human_visual_review",
+    "blocking_issues": [],
+    "frame_count": 6,
+    "out_of_bounds_node_ids": [],
+    "missing_fonts": [],
+    "auto_layout_count": 17,
+    "image_count": 1,
+    "flattened_full_ui_raster_present": false,
+    "figma_comments_refreshed_at": "2026-10-12T15:00:01-03:00",
+    "newer_unresolved_comments": []
+  },
+  "screenshots": [
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-01-initial.png",
+    "qa-screenshots/frame-02-initial.png",
+    "qa-screenshots/frame-03-initial.png",
+    "qa-screenshots/frame-04-initial.png",
+    "qa-screenshots/frame-05-initial.png",
+    "qa-screenshots/frame-06-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-01-final.png",
+    "qa-screenshots/frame-02-final.png",
+    "qa-screenshots/frame-05-final.png"
+  ],
+  "publication": {
+    "exported": false,
+    "scheduled": false,
+    "published": false
+  }
+}

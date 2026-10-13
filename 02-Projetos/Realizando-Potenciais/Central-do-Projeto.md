@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 27
+demandas_no_edc: 25
 decisoes_pendentes: 5
-edc_atualizado_em: 2026-10-08
+edc_atualizado_em: 2026-10-12
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** concluir a segmentação com as tags `BN26`, comparar os cenários de pagamento e publicar a landing page do “Alicerce do Extraordinário” com os ajustes aprovados; o próximo cross-check ficou para terça-feira, dia 13, pela manhã. **27 demandas** e **5 decisões pendentes** no EDC.
+> **P1:** concluir a segmentação com as tags `BN26`, comparar os cenários de pagamento e publicar a landing page do “Alicerce do Extraordinário” com os ajustes aprovados; o próximo cross-check ficou para terça-feira, dia 13, pela manhã. **25 demandas** e **5 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,7 +22,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 27
+## Demandas visíveis — 25
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 5

@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 25
-decisoes_pendentes: 5
-edc_atualizado_em: 2026-10-12
+demandas_no_edc: 37
+decisoes_pendentes: 9
+edc_atualizado_em: 2026-10-13
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** concluir a segmentação com as tags `BN26`, comparar os cenários de pagamento e publicar a landing page do “Alicerce do Extraordinário” com os ajustes aprovados; o próximo cross-check ficou para terça-feira, dia 13, pela manhã. **25 demandas** e **5 decisões pendentes** no EDC.
+> **P1:** colocar a captação do Alicerce em operação em 14/10/2026, executar o plano de comunicação sem API para o G4 e instituir o RPD e a revisão diária com o NEG às 17h; a base financeira das metas e as quantidades de API por grupo ainda precisam ser reconciliadas. **37 demandas** e **9 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 25
+## Demandas visíveis — 37
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 5
+## Decisões pendentes — 9
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: a Black November está em execução; `BN26` foi definido como prefixo operacional, os ajustes de fonte e público da landing page foram aprovados e o próximo cross-check foi marcado para terça-feira, dia 13, pela manhã; a organização das tags, a comparação dos meios de pagamento e a publicação da página seguem abertas.
-- Lacuna principal: concluir a segmentação, definir a divisão final entre Hotmart e Princípia, publicar a landing page com legibilidade corrigida, definir metas e componentes da oferta, validar a Naia como operacional e proteger a produção até o dia 14 diante do time reduzido.
+- Sinal atual: a Black November está em execução; os conteúdos do Alicerce e o RPD diário começam em 14/10/2026, haverá revisão diária com o NEG às 17h, o G4 fica fora da API e receberá os dois envios de e-mail já definidos.
+- Lacuna principal: validar a base financeira conflitante das metas e as quantidades de API por grupo, atribuir as responsabilidades pelo RPD e pela call diária, concluir os testes de página, automação e rastreamento e decidir sobre o resumo editado do replay após o orçamento.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

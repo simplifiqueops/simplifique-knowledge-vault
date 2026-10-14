@@ -23,6 +23,9 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|13/10/2026 — Comunicação, API e automação da BF26 — Realizando Potenciais]]
+- [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|13/10/2026 — Ajustes do plano de comunicação e rotina de RPD — BF26 — Realizando Potenciais]]
+- [[03-Reunioes/2026/10/2026-10-13--fechamento-executivo-meta-bf26-realizando-potenciais|13/10/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|09/10/2026 — Domínios, desempenho e novas remessas — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|09/10/2026 — Black Friday, ofertas e operação de tráfego — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais|08/10/2026 — Fechamento da estratégia de Black Friday com Neg — Realizando Potenciais]]

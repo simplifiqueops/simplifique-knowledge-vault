@@ -19,6 +19,9 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|13/10/2026 — Comunicação, API e automação da BF26]]
+- [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|13/10/2026 — Ajustes do plano de comunicação e rotina de RPD — BF26]]
+- [[03-Reunioes/2026/10/2026-10-13--fechamento-executivo-meta-bf26-realizando-potenciais|13/10/2026 — RP | BF26 — Fechamento executivo da meta]]
 - [[03-Reunioes/2026/10/2026-10-08--fechamento-estrategia-black-friday-reuniao-neg-realizando-potenciais|08/10/2026 — Fechamento da estratégia de Black Friday com Neg]]
 - [[03-Reunioes/2026/10/2026-10-08--conteudo-landing-page-alicerce-extraordinario-realizando-potenciais|08/10/2026 — Conteúdo e landing page do Alicerce do Extraordinário]]
 - [[03-Reunioes/2026/10/2026-10-06--plataformas-pagamento-segmentacao-bn26-realizando-potenciais|06/10/2026 — Plataformas de pagamento e segmentação BN26]]

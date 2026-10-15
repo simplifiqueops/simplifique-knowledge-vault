@@ -3,9 +3,9 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-09T21:30:52Z
+atualizado_em: 2026-10-14T18:31:40-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd]]"
-fonte_atualizacao: "Reunião de 09/10/2026 — Domínios, desempenho e novas remessas"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-14; Reunião de 09/10/2026 — Domínios, desempenho e novas remessas"
 confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; média para o contexto de domínios, anúncios, remessas e produtos porque a transcrição foi compactada e começa em 00:04:36"
 canonical: true
 ---
@@ -13,8 +13,9 @@ canonical: true
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
+- O fechamento diário recuperou, apesar de `pull` sem delta, a finalização no Notion da reconciliação entre Monday, planilha de cursos e Google Drive. A ação sai dos próximos passos ativos; o resultado detalhado da reconciliação não foi reproduzido no EDC.
 - Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 09/10 às 21:30 UTC definiu o domínio `criador digital` para o Google, liberou no Meta remessas antes condicionadas à aprovação de IA e gerou ações de orçamento, campanhas, novas remessas e produto, mas não atribuiu demanda a Pablo nem confirmou conclusão das entregas audiovisuais vigentes.
-- Confirmações sem mudança: permanecem em progresso, conforme o último read-back do Notion, a revisão da plataforma por Pablo, a reconciliação entre Monday, planilha de cursos e Google Drive e a conexão dos dados do painel audiovisual ao Daily.
+- Confirmações de execução: permanecem em progresso a revisão da plataforma por Pablo e a conexão dos dados do painel audiovisual ao Daily; a reconciliação das fontes foi finalizada.
 - Confirmações sem mudança: a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
 - Conflitos/lacunas: a transcrição mais recente foi compactada e começa em `00:04:36`; a definição do domínio do Meta aparece apenas no resumo automático, e a origem dos anúncios vencedores alterna entre as remessas 16 e 17.
 - Contexto fora do escopo operacional deste EDC: a operação de produtos e tráfego ajustará orçamento, lançará campanha de vencedores, preparará as remessas 30 e 31 e criará e precificará o produto “Passar no Enem”. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
@@ -33,13 +34,12 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 1. Validar a versão demonstrada da plataforma com acesso de Pablo e corrigir divergências de sincronização com o Monday.
 2. Concluir o bot Ella até 25/09/2026.
 3. Conectar a visão do painel audiovisual ao Daily.
-4. Reconciliar as entregas audiovisuais abertas nas fontes operacionais.
-5. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
+4. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
 
 ## 4. Frentes ativas
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo está em progresso, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
-- Governança de demandas: reconciliação operacional e conexão do painel ao Daily em progresso.
+- Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
 - Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
@@ -73,6 +73,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Integração com Daily: em progresso; conclusão não confirmada.
 - Curso de YouTube Dark: estudo não iniciado ou progresso não informado.
 - Spots comerciais: revisão e entrega finalizadas no Notion em 29/09/2026.
+- Reconciliação das fontes de Audiovisual: finalizada no Notion em 14/10/2026; resultado detalhado não consolidado no EDC.
 
 ## 10. O que está pausado
 - Transformar inteligência de marketing e funis em demandas operacionais de Pablo sem estudo e validação.
@@ -84,6 +85,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Tratar a incorporação das gravações de Marcel como demanda aberta: essa etapa já foi finalizada; resta concluir o bot Ella.
 - Manter como abertas a atualização da planilha de remessa com indicação dos vídeos a gravar e a revisão da VSL do YouTube da Arquite Internacional: o Notion registra ambas como `Finalizado`.
 - Manter como aberta a revisão e entrega dos spots comerciais: o Notion registra o item como `Finalizado`.
+- Manter como aberta a reconciliação entre Monday, planilha de cursos e Google Drive: o Notion registra o item como `Finalizado`.
 
 ## 12. Próximo passo
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -92,7 +94,6 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Verificar a sincronização de tarefas e status entre a plataforma e o Monday — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Concluir o bot Ella no Monday — Responsável: Pablo — Prazo: 25/09/2026 — Status: Em progresso — Critério de conclusão: bot validado no fluxo definido e retirado da fila.
 - Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Dependência: estrutura mínima do painel validada.
-- Reconciliar Monday, planilha de cursos e Google Drive antes de declarar pendências ou entregas de Audiovisual — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
 
 ## 13. Próxima decisão
@@ -108,6 +109,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da reconciliação das fontes apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|Domínios, desempenho e novas remessas — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|Black Friday, ofertas e operação de tráfego — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - [[03-Reunioes/2026/10/2026-10-05--desempenho-modelo-anual-revisao-funis-einerd|Desempenho pós-migração, modelo anual e revisão de funis — Ei Nerd — 05/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.

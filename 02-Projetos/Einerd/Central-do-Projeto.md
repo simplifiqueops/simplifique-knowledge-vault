@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 8
+demandas_no_edc: 7
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-10-09
+edc_atualizado_em: 2026-10-14
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** revisão da plataforma, reconciliação das fontes e conexão ao Daily estão em progresso; ainda faltam completar os produtos, validar a sincronização e concluir o bot Ella. **8 demandas visíveis** e **3 decisões pendentes** no EDC.
+> **P1 · Audiovisual:** a reconciliação das fontes foi finalizada; revisão da plataforma e conexão ao Daily continuam em progresso, e ainda faltam completar os produtos, validar a sincronização e concluir o bot Ella. **7 demandas visíveis** e **3 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,7 +22,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 8
+## Demandas visíveis — 7
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 3

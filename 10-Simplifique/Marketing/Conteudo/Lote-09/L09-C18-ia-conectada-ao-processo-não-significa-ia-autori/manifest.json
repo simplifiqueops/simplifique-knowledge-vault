@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "content_key": "L09-C18-ia-conectada-ao-processo-não-significa-ia-autori",
+  "request_key": "social-l09-c18-202610",
+  "status": "ready",
+  "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+  "updated_at": "2026-10-14T08:06:55-03:00",
+  "qa": {
+    "decision": "approved",
+    "approved_for": "human_visual_review",
+    "blocking_issues": [],
+    "comments_readback_count": 0,
+    "post_render_verified": true
+  },
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "537:224",
+    "frame_ids": [
+      "537:225",
+      "537:230",
+      "537:237",
+      "537:245",
+      "537:261",
+      "537:270",
+      "537:277"
+    ],
+    "image_node_ids": ["537:231"],
+    "logo_node_ids": ["537:283"],
+    "signature_plate_node_ids": ["540:230"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=537-224",
+    "dimensions": "1080x1350",
+    "frame_count": 7,
+    "rendered": true,
+    "editable": true,
+    "duplicate_section_created": false,
+    "exported": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "source": "Pexels",
+    "source_id": 9869392,
+    "photographer": "Ron Lach",
+    "score": 9,
+    "approval_required": false,
+    "local_file": "assets/c18-document-review-pexels-9869392.jpg",
+    "metadata_file": "source-metadata/c18-document-review-pexels-9869392.json"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "citations-ledger.json",
+    "assets/c18-document-review-pexels-9869392.jpg",
+    "source-metadata/c18-document-review-pexels-9869392.json",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-01-final.png",
+    "qa-screenshots/frame-02-final.png",
+    "qa-screenshots/frame-03-final.png",
+    "qa-screenshots/frame-04-final.png",
+    "qa-screenshots/frame-05-final.png",
+    "qa-screenshots/frame-06-final.png",
+    "qa-screenshots/frame-07-final.png"
+  ],
+  "publication": {
+    "status": "unpublished",
+    "authorized": false,
+    "scheduled": false
+  }
+}

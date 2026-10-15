@@ -1,0 +1,78 @@
+{
+  "request_key": "social-l09-c25-202610",
+  "content_key": "L09-C25-sua-empresa-está-funcionando-ou-você-está-compen",
+  "title": "Informação espalhada não resolve problema",
+  "queue": "Lote-09-Fila.json",
+  "phase": "approved_for_production_to_ready",
+  "status": "ready",
+  "copy_approval": {
+    "approved_by": "pablo",
+    "approved_at": "2026-10-14T10:44:44Z",
+    "daily_readback_verified": true
+  },
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "543:230",
+    "frame_ids": ["543:231"],
+    "image_node_ids": ["543:232"],
+    "overlay_node_ids": ["543:233", "543:234"],
+    "content_node_ids": ["543:235", "543:236", "543:237", "543:238", "543:239", "543:240"],
+    "logo_node_ids": ["543:241"],
+    "signature_node_ids": ["543:248"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=543-230",
+    "dimensions": "1080x1350",
+    "editable": true,
+    "duplicate_section_created": false,
+    "exported": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C25-INFORMATION-SEARCH-A",
+    "source": "Pexels",
+    "source_id": 6325909,
+    "photographer": "Vanessa Garcia",
+    "page_url": "https://www.pexels.com/photo/person-working-typing-sitting-6325909/",
+    "score": 10,
+    "approval_required": false,
+    "local_path": "assets/c25-information-search-pexels-6325909.jpg",
+    "sha256": "d1ffb8cad994a72431ee8385083528ecc0f6748fdff43dd00c56e9508bf48f0c",
+    "figma_image_hash": "67057fd0cc21991d42627a57564951d291a3212a"
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "scores": {
+      "identification": 5,
+      "naturalness": 5,
+      "interest": 4,
+      "diversity": 4
+    },
+    "section_frame_count": 1,
+    "missing_fonts": 0,
+    "bounds_violations": 0,
+    "unresolved_figma_comments": 0,
+    "comments_checked_at": "2026-10-14T13:22:47.784834+00:00"
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "citations-ledger.json",
+    "figma-comments-readback.json",
+    "assets/c25-information-search-pexels-6325909.jpg",
+    "source-metadata/c25-information-search-pexels-6325909.json",
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-final.png"
+  ],
+  "publication": {
+    "status": "unpublished",
+    "scheduled": false,
+    "authorized": false
+  },
+  "completed_at": "2026-10-14T10:23:32-03:00"
+}

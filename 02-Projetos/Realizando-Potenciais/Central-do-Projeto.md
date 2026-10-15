@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 37
+demandas_no_edc: 28
 decisoes_pendentes: 9
-edc_atualizado_em: 2026-10-13
+edc_atualizado_em: 2026-10-14
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** colocar a captação do Alicerce em operação em 14/10/2026, executar o plano de comunicação sem API para o G4 e instituir o RPD e a revisão diária com o NEG às 17h; a base financeira das metas e as quantidades de API por grupo ainda precisam ser reconciliadas. **37 demandas** e **9 decisões pendentes** no EDC.
+> **P1:** colocar a captação do Alicerce em operação, concluir a integração da Principia com o Full Funnel e a automação do Congresso de Vendas, executar o plano de comunicação sem API para o G4 e instituir o RPD e a revisão diária com o NEG às 17h. **28 demandas** e **9 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,7 +22,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 37
+## Demandas visíveis — 28
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 9

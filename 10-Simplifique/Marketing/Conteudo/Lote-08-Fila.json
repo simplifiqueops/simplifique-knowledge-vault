@@ -1407,7 +1407,16 @@
           "social-c5bbeca15374785d1336717d",
           "social-ea112fbc6c8ec426ab56bb5e",
           "social-f014236e876cd9cab0f920f8",
-          "social-f0dceefe5f216448cafcd67d"
+          "social-f0dceefe5f216448cafcd67d",
+          "social-024b1b1739d8339998d7f5a4",
+          "social-0b1be250fcf83fbd8b19c7ad",
+          "social-46516425f15827f59d33b570",
+          "social-04cc6986d646e4436607cb10",
+          "social-32c4600c940a7a219bc75678",
+          "social-6b0383e50ce6adc2f313e488",
+          "social-7ccd432936c7ac9dd71f81b8",
+          "social-9efa848a6239496ce54fe954",
+          "social-cf44d08c0de1da6d84bb3f7d"
         ],
         "requested_at": "2026-09-29T18:16:58Z",
         "desired_format": "carrossel",
@@ -1442,7 +1451,7 @@
       "publication_status": "scheduled",
       "blocking_issues": [],
       "non_blocking_notes": [
-        "87 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
+        "96 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
         "A pauta anterior sobre limite, aprovação e reversão foi substituída após feedback de repetição.",
         "O snapshot com example.com permaneceu excluído como evidência de tendência.",
         "A fotografia Pexels 30215680 foi aplicada com origem, autoria e arquivo local preservados.",
@@ -1453,7 +1462,7 @@
         "Artefato editável, não exportado, não agendado e não publicado."
       ],
       "started_at": "2026-10-01T20:45:37-03:00",
-      "updated_at": "2026-10-12T19:09:09-03:00",
+      "updated_at": "2026-10-14T13:11:42.122424Z",
       "completed_at": "2026-10-03T06:51:35-03:00",
       "draft_completed_at": "2026-10-02T13:40:27-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a",

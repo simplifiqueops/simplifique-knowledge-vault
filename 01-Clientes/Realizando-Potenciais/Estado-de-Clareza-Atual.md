@@ -3,10 +3,10 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-13T17:45:52-03:00
+atualizado_em: 2026-10-14T18:31:40-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu"
-fonte_complementar: "https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-14"
+fonte_complementar: "https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
 confianca: "média: a transcrição da reunião mais recente foi compactada e contém uma lacuna intermediária; somente decisões e compromissos sustentados pelos trechos visíveis foram promovidos; quantidades de mensagens de API ainda precisam de validação"
 canonical: true
 ---
@@ -14,6 +14,9 @@ canonical: true
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O fechamento diário recuperou, apesar de `pull` sem delta, nove finalizações no Notion: agendamento com Arcindo; consolidado das decisões; publicação da definição da reunião; marcação dos ajustes da landing page; comparação dos cenários de pagamento; refinamento do relatório e do dicionário de tags; criação da categoria `BN26`; aplicação do prefixo `BN26`; e fixação da planilha do plano de ação.
+- A duplicação da automação anterior para o Congresso de Vendas e a integração da Principia com o Full Funnel estão `Em progresso` no Notion. A atualização do corpo da mensagem e da tag continua `Não iniciado`.
+- As finalizações retiram essas nove ações dos próximos passos ativos, mas não comprovam a publicação da landing page, a decisão final entre plataformas de pagamento nem a conclusão das duas frentes em progresso.
 - Foi definida uma call diária às 17h com o NEG para revisar os dados e ajustar a campanha; o responsável individual não ficou definido.
 - O G4 não receberá comunicação pela API devido ao risco de bloqueio da conta oficial.
 - Realizando Potenciais assumiu o envio de e-mails de aquecimento a cada dois dias para os inscritos.
@@ -35,18 +38,18 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 
 ## 3. Prioridades
 1. Deixar a captação dos conteúdos do Alicerce operacional para 14/10/2026, com automação, integração de vendas e rastreamento testados e com a lentidão da página verificada.
-2. Concluir a segmentação da base com a organização das tags `BN26` e definir públicos para destravar as metas de vendas, mantendo a execução da Black Friday organizada na planilha do plano de ação.
+2. Usar o relatório e o dicionário de tags já refinados para definir públicos e destravar as metas de vendas, mantendo a execução da Black Friday organizada na planilha do plano de ação.
 3. Concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita.
 4. Manter dependências externas e execuções especializadas fora da fila direta de Pablo.
 
 ## 4. Frentes ativas
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
-- Black November 2026: planejamento considerado suficiente para execução; `BN26` definido como prefixo operacional; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado no Notion; relatório e dicionário de tags estão em refinamento; demandas são acompanhadas pela planilha do plano de ação; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começam em 14/10/2026 e usarão inicialmente o Alicerce 26 durante o teste de rastreamento por URL; a página de captura será a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; a landing page do “Alicerce do Extraordinário” aguarda ajustes aprovados de fonte e copy; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
+- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começam em 14/10/2026 e usarão inicialmente o Alicerce 26 durante o teste de rastreamento por URL; a página de captura será a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; os ajustes aprovados da landing page do “Alicerce do Extraordinário” foram marcados, mas sua publicação ainda não foi confirmada; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
 - Comunicação da BF26: dois envios de e-mail ao G4 e 18 envios para cada um dos grupos G5 e G6 permanecem registrados pela reunião anterior; o G4 foi excluído dos envios por API; Realizando Potenciais fará e-mails de aquecimento a cada dois dias para os inscritos; as quantidades de API por grupo aguardam validação.
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
-- Automação do Congresso de Vendas: Pablo duplicará a estrutura da palestra anterior e adaptará o corpo da mensagem e a tag, preservando a automação existente para reutilização.
-- Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a comparação dos cenários e a divisão definitiva entre plataformas seguem abertas.
+- Automação do Congresso de Vendas: duplicação da estrutura anterior `Em progresso`; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
+- Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a preparação e o envio da comparação dos cenários foram finalizados, mas a divisão definitiva entre plataformas segue aberta.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
 - Energia Infinita: treinamento de edição concluído; ajuste da página em conferência e demais páginas, vídeo, materiais e conteúdo com ações abertas.
@@ -61,13 +64,13 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Vanessa: finalizar e repassar a narrativa a Letícia e acionar a Naya para apoiar textos de LinkedIn da campanha.
 - Letícia: pesquisar vídeos virais de vendas no Instagram e TikTok.
 - Graci Lima: enviar os materiais da Black Friday e do Parcelado Hotmart e mapear a abertura do carrinho de 29 de outubro.
-- Pablo: fixar a planilha do plano de ação; a definição no grupo do horário da reunião de quinta-feira e o alinhamento de públicos e segmentação com Thamyris e Mari constam como finalizados no Notion.
+- Pablo: fixação da planilha do plano de ação, definição no grupo do horário da reunião e alinhamento de públicos e segmentação com Thamyris e Mari constam como finalizados no Notion.
 - Mari: detalhar as sugestões de bônus e demais componentes da oferta antes da definição e do dimensionamento do tempo dos especialistas.
 - Responsável não definido: publicar no grupo um consolidado escrito do andamento.
-- Pablo: aplicar o prefixo `BN26`, criar a categoria de etiquetas, refinar o relatório e o dicionário de tags e enviar ao grupo a comparação dos cenários de pagamento.
-- Pablo: marcar os ajustes aprovados na landing page do “Alicerce do Extraordinário” e encaminhá-la à Naya para publicação.
-- Pablo: publicar no grupo a definição do próximo cross-check e enviar o consolidado das decisões até a manhã seguinte.
-- Pablo: testar o carregamento da página e dos formulários, acionar a Naya se a lentidão for confirmada, agendar alinhamento com Arcindo, testar o rastreamento por URL e configurar a integração da Principia com o Full Funnel.
+- Pablo: aplicação do prefixo `BN26`, criação da categoria, refinamento do relatório e do dicionário de tags e comparação dos cenários de pagamento constam como finalizados no Notion.
+- Pablo: marcação dos ajustes aprovados na landing page consta como finalizada; o encaminhamento à Naya para publicação continua aberto.
+- Pablo: publicação da definição do próximo cross-check, envio do consolidado das decisões e agendamento do alinhamento com Arcindo constam como finalizados no Notion.
+- Pablo: testar o carregamento da página e dos formulários, acionar a Naya se a lentidão for confirmada, testar o rastreamento por URL e concluir a integração da Principia com o Full Funnel, atualmente `Em progresso`.
 - Letícia Castiglioni: analisar o perfil de Felipe Viana como referência de ganchos e retenção.
 - Dra. Vanessa Cesnik: escrever a copy da automação de boas-vindas.
 - Participante identificado como Realizando Potenciais: conversar com os contatos que interagirem e abrirem conversa pelo WhatsApp, mantendo o aquecimento individual a partir de 14/10/2026.
@@ -133,8 +136,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
 - Segmentação da base: 516 tags atômicas foram mencionadas na reunião de 06/10; organização por base antiga, origem atual e compra ainda precisa ser refinada antes da definição segura de públicos e metas.
 - Coordenação da segmentação: alinhamento com Thamyris e Mari sobre públicos e segmentação de leads finalizado no Notion em 12/10/2026; execução da segmentação e metas não foram marcadas como concluídas.
-- Pagamentos da Black November: fluxo provisório de parcelamento recorrente no cartão pela Hotmart; comparativo e divisão definitiva entre plataformas ainda pendentes.
-- Landing page do “Alicerce do Extraordinário”: ajustes de fonte e público aprovados; publicação da versão ajustada ainda não confirmada.
+- Pagamentos da Black November: fluxo provisório de parcelamento recorrente no cartão pela Hotmart; comparação dos cenários finalizada no Notion e divisão definitiva entre plataformas ainda pendente.
+- Landing page do “Alicerce do Extraordinário”: ajustes de fonte e público aprovados e marcação finalizada no Notion; publicação da versão ajustada ainda não confirmada.
 - Oferta da campanha: bônus e componentes sugeridos aguardam detalhamento antes da decisão.
 - Comunidades de WhatsApp: cerca de 20 grupos existentes informados por Thamyris em 28/09/2026; estado de reativação ainda não confirmado.
 - Energia Infinita: treinamento de edição concluído; alteração de página em conferência e demais ajustes operacionais abertos.
@@ -160,6 +163,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Manter como abertas as seis ações finalizadas no Notion em 02/10/2026: ajustes restantes da Naia, versão 3 e melhorias, consolidado para Arcindo, arquivos no Drive, datas da campanha e verificação do parcelamento.
 - Manter como pendente a implementação e o teste da automação de confirmação de leads: o Notion confirmou a finalização em 04/10/2026.
 - Manter como abertas a definição por votação do horário da reunião de quinta-feira e o alinhamento com Thamyris e Mari sobre públicos e segmentação: o Notion confirmou as duas finalizações em 12/10/2026.
+- Manter como abertas as nove ações finalizadas no Notion em 14/10/2026: agendamento com Arcindo, consolidado das decisões, definição da reunião, marcação dos ajustes da landing page, comparação de pagamentos, refinamento das tags, categoria `BN26`, prefixo `BN26` e fixação da planilha do plano de ação.
 
 ## 12. Próximo passo
 - Analisar a frequência orgânica de conteúdo da Vanessa: identificar quando começou a publicação de três conteúdos por dia; comparar esse período com períodos de menor volume de vídeos; excluir da análise as publicações com distribuição de tráfego pago; medir ganho de seguidores, curtidas e engajamento; e concluir qual frequência e combinação de formatos gera melhor resultado orgânico — Responsável: Pablo — Prazo: não definido.
@@ -177,19 +181,10 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Enviar os materiais da Black Friday e do Parcelado Hotmart a Pablo e Mariane — Responsável: Graci Lima — Prazo: não definido.
 - Mapear a abertura do carrinho em 29 de outubro, com evento às 20h e abertura prevista entre 21h30 e 22h — Responsável: Graci Lima — Prazo: não definido.
 - Esclarecer as sugestões de bônus e demais componentes da oferta para permitir decisão e planejamento do tempo dos especialistas — Responsável: Mari — Prazo: quinta-feira.
-- Fixar no grupo a planilha do plano de ação como primeiro link de acompanhamento — Responsável: Pablo — Prazo: não definido.
 - Publicar no grupo um consolidado escrito do andamento — Responsável: não definido — Prazo: não definido.
-- Aplicar o prefixo `BN26` aos itens da Black November 2026 — Responsável: Pablo — Prazo: não definido.
-- Criar uma categoria de etiquetas para a `BN26` — Responsável: Pablo — Prazo: não definido.
-- Refinar o relatório e o dicionário de tags para separar bases antigas, origens atuais e tags de compra — Responsável: Pablo — Prazo: não definido.
-- Preparar e enviar ao grupo a comparação dos cenários de pagamento — Responsável: Pablo — Prazo: não definido.
-- Marcar os ajustes aprovados na landing page do “Alicerce do Extraordinário” — Responsável: Pablo — Prazo: não definido.
 - Encaminhar a landing page ajustada à Naya para publicação — Responsável: Pablo — Prazo: não definido.
-- Publicar no grupo a definição da reunião de terça-feira pela manhã — Responsável: Pablo — Prazo: não definido.
-- Enviar ao grupo o consolidado do que ficou decidido — Responsável: Pablo — Prazo: até amanhã cedo.
 - Testar o tempo de carregamento da página e dos formulários e solicitar à Naya a correção da lentidão, se confirmada — Responsável: Pablo — Prazo: não definido.
 - Analisar o perfil de Felipe Viana como referência de ganchos e retenção — Responsável: Letícia Castiglioni — Prazo: hoje (13/10/2026).
-- Agendar uma conversa de alinhamento com Arcindo Negreiros — Responsável: Pablo — Prazo: hoje à tarde (13/10/2026).
 - Escrever a copy da automação de boas-vindas — Responsável: Dra. Vanessa Cesnik — Prazo: hoje (13/10/2026).
 - Testar em dois conteúdos se a origem pode ser rastreada pela URL — Responsável: Pablo — Prazo: em dois dias.
 - Configurar a integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda — Responsável: Pablo — Prazo: hoje (13/10/2026).
@@ -212,6 +207,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Validar a quantidade de mensagens de API destinada a cada grupo, pois os trechos disponíveis registram números sem associação inequívoca aos públicos.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou nove finalizações e duas frentes em progresso apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|Comunicação, API e automação da BF26 — 13/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|Ajustes do plano de comunicação e rotina de RPD — BF26 — 13/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-13--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — 13/10/2026]].

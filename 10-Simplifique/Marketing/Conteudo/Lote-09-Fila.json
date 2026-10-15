@@ -979,13 +979,13 @@
       "radar": true,
       "content_key": "L09-C18-ia-conectada-ao-processo-não-significa-ia-autori",
       "order": 18,
-      "status": "copy_review",
+      "status": "ready",
       "copy_completed_at": "2026-10-03T15:33:27-03:00",
       "planned_for": "2026-10-07T18:00:00-03:00",
       "timezone": "America/Sao_Paulo",
       "publication_authorized": false,
-      "design_authorized": false,
-      "copy_gate": "copy_review",
+      "design_authorized": true,
+      "copy_gate": "approved_for_production",
       "channel": "Instagram",
       "requires_user_on_camera": false,
       "daily_request": {
@@ -1013,18 +1013,81 @@
         "change": "Fallback evergreen substituído por atualização do Google Docs sobre sugestões programáticas para revisão humana.",
         "evidence_limit": "Capacidade de API; não apresentar como automação pronta nem como garantia de correção."
       },
-      "checkpoint": "strategy_and_copy_revised_for_daily_review",
-      "updated_at": "2026-10-03T15:33:27-03:00",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "updated_at": "2026-10-14T08:06:55-03:00",
+      "completed_at": "2026-10-14T08:06:55-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/manifest.json",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/citations-ledger.json",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/sources/retrieval-notes-2026-10-03.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/assets/c18-document-review-pexels-9869392.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/source-metadata/c18-document-review-pexels-9869392.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-01-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-02-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-03-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-04-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-05-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-06-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C18-ia-conectada-ao-processo-não-significa-ia-autori/qa-screenshots/frame-07-final.png"
       ],
       "publication_status": "unpublished",
       "blocking_issues": [],
-      "approved_for": "copy_review"
+      "qa_decision": "approved",
+      "approved_for": "user_review",
+      "approved_by": "pablo",
+      "production_started_at": "2026-10-14T07:57:16-03:00",
+      "figma_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=537-224",
+      "figma_section_id": "537:224",
+      "rendered_frames": 7,
+      "rendered_dimensions": "1080x1350",
+      "rendered_qa": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "537:224",
+        "frame_ids": [
+          "537:225",
+          "537:230",
+          "537:237",
+          "537:245",
+          "537:261",
+          "537:270",
+          "537:277"
+        ],
+        "image_node_ids": [
+          "537:231"
+        ],
+        "logo_node_ids": [
+          "537:283"
+        ],
+        "signature_plate_node_ids": [
+          "540:230"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=537-224",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C18-DOC-REVIEW-A",
+        "source": "Pexels",
+        "source_id": 9869392,
+        "photographer": "Ron Lach",
+        "score": 9,
+        "approval_required": false
+      },
+      "non_blocking_notes": [
+        "A fotografia Pexels 9869392 foi aplicada com origem, autoria e arquivo local preservados.",
+        "A seção completa e os sete frames foram inspecionados em 1080×1350; não há clipping, overlap, overflow, fontes ausentes ou comentários Figma vinculados ao ativo.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ]
     },
     {
       "n": 19,
@@ -1509,13 +1572,13 @@
       "radar": true,
       "content_key": "L09-C25-sua-empresa-está-funcionando-ou-você-está-compen",
       "order": 25,
-      "status": "copy_review",
+      "status": "ready",
       "copy_completed_at": "2026-10-05T13:45:13-03:00",
       "planned_for": "2026-10-11T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
       "publication_authorized": false,
-      "design_authorized": false,
-      "copy_gate": "copy_review",
+      "design_authorized": true,
+      "copy_gate": "approved_for_production",
       "channel": "Instagram",
       "requires_user_on_camera": false,
       "daily_request": {
@@ -1539,16 +1602,75 @@
         "decision": "preserve_evergreen_fallback",
         "reason": "As pautas recentes de atendimento interno, roteamento e proteção de informação não melhoravam a aderência ao feedback sem deslocar a peça para notícia, fornecedor ou linguagem técnica."
       },
-      "checkpoint": "strategy_and_copy_revised_for_daily_review",
-      "updated_at": "2026-10-05T13:45:13-03:00",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "updated_at": "2026-10-14T10:23:32-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/01-Estrategia.md",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/02-Copy-ou-Roteiro.md"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/02-Copy-ou-Roteiro.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/citations-ledger.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/figma-comments-readback.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/assets/c25-information-search-pexels-6325909.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/source-metadata/c25-information-search-pexels-6325909.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/qa-screenshots/section-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/qa-screenshots/frame-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/qa-screenshots/section-final.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C25-sua-empresa-está-funcionando-ou-você-está-compen/qa-screenshots/frame-final.png"
       ],
       "publication_status": "unpublished",
       "blocking_issues": [],
-      "approved_for": "copy_review"
+      "approved_for": "user_review",
+      "production_started_at": "2026-10-14T10:23:32-03:00",
+      "completed_at": "2026-10-14T10:23:32-03:00",
+      "qa_decision": "approved",
+      "approved_by": "pablo",
+      "approved_at": "2026-10-14T10:44:44Z",
+      "figma_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=543-230",
+      "figma_section_id": "543:230",
+      "rendered_frames": 1,
+      "rendered_dimensions": "1080x1350",
+      "rendered_qa": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "543:230",
+        "frame_ids": [
+          "543:231"
+        ],
+        "image_node_ids": [
+          "543:232"
+        ],
+        "overlay_node_ids": [
+          "543:233",
+          "543:234"
+        ],
+        "logo_node_ids": [
+          "543:241"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=543-230",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C25-INFORMATION-SEARCH-A",
+        "source": "Pexels",
+        "source_id": 6325909,
+        "photographer": "Vanessa Garcia",
+        "page_url": "https://www.pexels.com/photo/person-working-typing-sitting-6325909/",
+        "score": 10,
+        "approval_required": false
+      },
+      "non_blocking_notes": [
+        "A fotografia Pexels 6325909 foi aplicada com origem, autoria e arquivo local preservados.",
+        "A seção e o frame foram inspecionados em resolução nativa; não há clipping, overlap, overflow, fontes ausentes, duplicatas ou comentários Figma vinculados ao ativo.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ]
     }
   ],
   "window": {

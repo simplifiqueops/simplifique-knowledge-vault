@@ -3,17 +3,24 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-14T18:31:40-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-14"
-fonte_complementar: "https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "média: a transcrição da reunião mais recente foi compactada e contém uma lacuna intermediária; somente decisões e compromissos sustentados pelos trechos visíveis foram promovidos; quantidades de mensagens de API ainda precisam de validação"
+atualizado_em: 2026-10-15T18:02:10-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-15--dashboard-dados-campanha-bf26-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au"
+fonte_complementar: "Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+confianca: "média: a transcrição da reunião mais recente foi compactada; as divergências de segmentação e a possível falha no envio do G1 ainda precisam de verificação; o responsável pela inclusão de Novos Inscritos não foi definido"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O dashboard da BF26 passou a consolidar inscrições, respostas à pesquisa e entradas no grupo; no momento da reunião exibia 60 inscrições confirmadas, 41 pesquisas respondidas e 41 entradas no grupo.
+- Foi aceita a inclusão do grupo `Novos Inscritos` para separar quem não possui as tags dos grupos existentes.
+- A seção `Execução` será usada para centralizar as demandas de produção e registrar todas as novas ações da campanha.
+- Pablo assumiu automatizar a atualização do indicador de entrada no grupo, confirmar as inscrições e o envio do G1, pedir à Naya o consolidado de abertura e clique, solicitar a verificação da regra divergente e inserir as demandas de produção em `Execução`.
+- Permanecem ativas a divergência entre as reinscrições e as contagens por grupo, a possível falha de envio do primeiro e-mail do G1 e a dependência de fontes atualizadas para a confiabilidade do dashboard.
+- A transcrição compactada não permitiu confirmar o significado de `RDP` nem atribuir responsável à inclusão de `Novos Inscritos`; a possível remoção da tela de segmentação não foi tratada como decisão.
+- As demais frentes, decisões e finalizações anteriores não foram contraditas e permanecem preservadas.
 - O fechamento diário recuperou, apesar de `pull` sem delta, nove finalizações no Notion: agendamento com Arcindo; consolidado das decisões; publicação da definição da reunião; marcação dos ajustes da landing page; comparação dos cenários de pagamento; refinamento do relatório e do dicionário de tags; criação da categoria `BN26`; aplicação do prefixo `BN26`; e fixação da planilha do plano de ação.
 - A duplicação da automação anterior para o Congresso de Vendas e a integração da Principia com o Full Funnel estão `Em progresso` no Notion. A atualização do corpo da mensagem e da tag continua `Não iniciado`.
 - As finalizações retiram essas nove ações dos próximos passos ativos, mas não comprovam a publicação da landing page, a decisão final entre plataformas de pagamento nem a conclusão das duas frentes em progresso.
@@ -48,6 +55,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começam em 14/10/2026 e usarão inicialmente o Alicerce 26 durante o teste de rastreamento por URL; a página de captura será a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; os ajustes aprovados da landing page do “Alicerce do Extraordinário” foram marcados, mas sua publicação ainda não foi confirmada; evento de 29 de outubro começa às 20h, com carrinho previsto entre 21h30 e 22h.
 - Comunicação da BF26: dois envios de e-mail ao G4 e 18 envios para cada um dos grupos G5 e G6 permanecem registrados pela reunião anterior; o G4 foi excluído dos envios por API; Realizando Potenciais fará e-mails de aquecimento a cada dois dias para os inscritos; as quantidades de API por grupo aguardam validação.
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
+- Dashboard da BF26: consolidação de inscrições, respostas à pesquisa, entradas no grupo e execução; a segmentação ganhará o grupo `Novos Inscritos`, mas a regra de reinscrições e as contagens por grupo ainda precisam de verificação.
 - Automação do Congresso de Vendas: duplicação da estrutura anterior `Em progresso`; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
 - Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a preparação e o envio da comparação dos cenários foram finalizados, mas a divisão definitiva entre plataformas segue aberta.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
@@ -78,6 +86,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Responsável não definido: realizar a call diária às 17h com o NEG para revisar os dados e ajustar a campanha.
 - Participante identificado como Realizando Potenciais: enviar e-mails de aquecimento a cada dois dias para os inscritos.
 - Pablo: duplicar a automação anterior para o Congresso de Vendas e adaptar o corpo da mensagem e a tag.
+- Pablo: automatizar a atualização do indicador de entrada no grupo, confirmar as inscrições e o envio do G1, solicitar à Naya o consolidado de abertura e clique, pedir a verificação da regra divergente e inserir as demandas de produção em `Execução`.
+- Responsável não definido: adicionar ao dashboard o grupo `Novos Inscritos`.
 
 ## 6. Decisões vigentes
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
@@ -107,6 +117,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Realizar uma call diária às 17h com o NEG para revisar os dados do dia e ajustar a campanha.
 - Não enviar comunicação pela API ao G4.
 - Duplicar a automação anterior para o Congresso de Vendas, preservando a estrutura existente para reutilização.
+- Adicionar ao dashboard o grupo `Novos Inscritos` para reunir quem não possui as tags dos grupos existentes.
+- Centralizar as demandas de produção e as novas ações da campanha na seção `Execução`.
 
 ## 7. Gargalos
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
@@ -119,6 +131,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - A fonte fina usada na landing page pode prejudicar a legibilidade para parte do público até que seja substituída.
 - A lentidão observada no carregamento da página e dos formulários pode prejudicar a captação de leads.
 - O volume de envios pela API oficial pode bloquear a conta e interromper esse canal de comunicação; o G4 foi excluído da API como medida de contenção.
+- A divergência entre o total de pessoas já presentes na base e as contagens por grupo impede confiar integralmente na origem e na segmentação exibidas no dashboard.
+- O primeiro e-mail do G1 registrou 25 aberturas e apenas um clique; uma possível falha de envio no Full Funnel ainda não foi verificada.
+- A confiabilidade do dashboard depende de as fontes de execução permanecerem atualizadas.
 
 ## 8. Bloqueios
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
@@ -148,6 +163,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Comunicação da BF26: dois envios de e-mail definidos para o G4 e 18 para cada um dos grupos G5 e G6 na reunião anterior; o G4 não receberá mensagens por API; Realizando Potenciais fará aquecimento por e-mail a cada dois dias; quantidades de API por grupo não validadas na transcrição compactada mais recente.
 - Rotina de RPD: início definido para 14/10/2026, com atualização diária até as 17h; responsável não definido.
 - Call de acompanhamento: revisão diária dos dados com o NEG às 17h; responsável individual não definido.
+- Jornada do dashboard em 15/10/2026: 60 inscrições confirmadas, 41 pesquisas respondidas e 41 entradas no grupo; os números representam o retrato exibido durante a reunião, não uma auditoria independente.
+- Segmentação no dashboard: o total de 11 pessoas já presentes na base diverge das contagens apresentadas por grupo; regra e origem da diferença ainda não verificadas.
+- E-mail 1 do G1: 25 aberturas, um clique e nenhuma inscrição identificada no dashboard; envio pelo Full Funnel e atribuição das inscrições ainda aguardam confirmação.
 
 ## 10. O que está pausado
 - Escalar automações ou funis antes de concluir ajustes e critérios.
@@ -194,6 +212,12 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Enviar e-mails de aquecimento para os inscritos — Responsável: Realizando Potenciais — Prazo: a cada 2 dias.
 - Duplicar a automação anterior para o Congresso de Vendas — Responsável: Pablo — Prazo: não definido.
 - Atualizar o corpo da mensagem e a tag da nova automação — Responsável: Pablo — Prazo: não definido.
+- Automatizar a atualização do indicador de entrada no grupo — Responsável: Pablo — Prazo: não definido.
+- Confirmar se houve inscrição do Grupo 1 e se ocorreu falha de envio no Full Funnel — Responsável: Pablo — Prazo: não definido.
+- Solicitar à Naya o consolidado dos dados de abertura e clique dos e-mails — Responsável: Pablo — Prazo: não definido.
+- Solicitar a verificação da regra que gera a divergência entre reinscrições e inscritos por grupo — Responsável: Pablo — Prazo: não definido.
+- Adicionar o grupo `Novos Inscritos` ao dashboard — Responsável: não definido — Prazo: não definido.
+- Inserir as demandas de produção na seção `Execução` — Responsável: Pablo — Prazo: não definido.
 
 ## 13. Próxima decisão
 - Confirmar, após o teste em dois conteúdos, se o rastreamento por URL é suficiente ou se será necessário adotar tags diárias.
@@ -205,8 +229,10 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Validar se a base financeira das metas de vendas é R$ 797 ou R$ 1.500.
 - Decidir se será produzido um resumo editado do replay após conhecer o orçamento da Gabi; descartar a execução se o custo for alto.
 - Validar a quantidade de mensagens de API destinada a cada grupo, pois os trechos disponíveis registram números sem associação inequívoca aos públicos.
+- Decidir se a tela de segmentação deve permanecer após a verificação das regras e a comparação com os dados já disponíveis em Pesquisa.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-15--dashboard-dados-campanha-bf26-realizando-potenciais|Dashboard de dados da campanha BF26 — 15/10/2026]].
 - Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou nove finalizações e duas frentes em progresso apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|Comunicação, API e automação da BF26 — 13/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|Ajustes do plano de comunicação e rotina de RPD — BF26 — 13/10/2026]].

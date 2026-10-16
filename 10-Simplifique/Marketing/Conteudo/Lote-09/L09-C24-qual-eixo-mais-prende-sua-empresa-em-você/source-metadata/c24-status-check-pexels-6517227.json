@@ -1,0 +1,15 @@
+{
+  "candidate_id": "C24-STATUS-CHECK-A",
+  "source": "Pexels",
+  "source_id": 6517227,
+  "page_url": "https://www.pexels.com/photo/woman-in-sweater-talking-on-phone-while-using-a-laptop-6517227/",
+  "photographer": "RDNE Stock project",
+  "photographer_url": "https://www.pexels.com/@rdne",
+  "source_dimensions": {"width": 4358, "height": 6537},
+  "local_file": "assets/c24-status-check-pexels-6517227.jpg",
+  "local_dimensions": {"width": 1800, "height": 2700},
+  "accessed_at": "2026-10-15T00:00:00-03:00",
+  "intended_use": "Fotografia full-bleed na capa do carrossel, como cena ilustrativa de consulta simultânea a telefone e notebook.",
+  "score": {"function": 2, "fit": 2, "naturalness": 2, "technical": 2, "traceability": 2, "total": 10},
+  "risk": "Imagem de stock; não representa cliente, operação ou resultado da Simplifique. O post-it visível é parte da cena e não contém evidência editorial."
+}

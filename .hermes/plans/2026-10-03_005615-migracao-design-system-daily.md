@@ -201,6 +201,8 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 
 ### FASE 7 — Saúde do Sistema
 
+**Estado:** concluída e publicada em 15/10/2026; commit `638dbbe`; fingerprint público `fef0101c43861f20`; revisão independente aprovada; suíte `205/205`; assets públicos `integration-health.js` e `style.css` idênticos aos arquivos locais. A validação visual foi estrutural porque o Chromium local não iniciou por ausência de `libatk-1.0.so.0`.
+
 **Objetivo:** responder se o sistema que sustenta a operação está funcionando.
 
 **Escopo:** integrações, automações, sincronizações, serviços essenciais, frescor, último sucesso, contagem, reconciliação e conclusão Saudável/Atenção/Crítico.
@@ -216,6 +218,8 @@ A migração terá as **8 fases já definidas**. A auditoria é um checkpoint pr
 **Aceite:** conclusão primeiro e detalhe sob demanda; falha crítica sobe para Atenção; sem logs brutos ou controles de infraestrutura; oneshot e timer tratados corretamente.
 
 ### FASE 8 — Atividade e telas secundárias
+
+**Estado:** concluída e publicada em 15/10/2026; commit `0399c09`; fingerprint público `491e9cd63e439e7c`; revisão independente aprovada após correção de cinco bloqueios; suíte `215/215`; assets públicos `style.css`, `activity.js`, `metrics.js`, `navigation.js`, `account.js` e `login.js` idênticos aos arquivos locais. Login respondeu `200`, raiz redirecionou para `/login` e o timer de status Daily → Notion permaneceu ativo no escopo do usuário. A validação visual foi estrutural porque o Chromium local não iniciou por ausência de `libatk-1.0.so.0`.
 
 **Objetivo:** fechar a coerência visual do produto.
 

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "request_key": "social-l09-c24-202610",
+  "content_key": "L09-C24-qual-eixo-mais-prende-sua-empresa-em-você",
+  "title": "Você precisa perguntar para saber se o trabalho andou?",
+  "lifecycle": {
+    "copy_approved_at": "2026-10-16T01:16:13Z",
+    "production_started_at": "2026-10-15T22:00:00-03:00",
+    "ready_at": "2026-10-15T23:01:22-03:00",
+    "status": "ready",
+    "approved_for": "user_review"
+  },
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "549:236",
+    "section_name": "[PRODUÇÃO 32] Carrossel — Andamento consultável",
+    "frame_ids": ["549:237", "549:254", "549:262", "549:278", "549:283", "549:297", "549:304"],
+    "image_node_ids": ["549:238"],
+    "logo_node_ids": ["549:246", "549:310"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=549-236",
+    "dimensions": "1080x1350",
+    "frame_count": 7,
+    "duplicate_section_count": 1,
+    "rendered": true,
+    "editable": true,
+    "exported": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "selected_candidate": "C24-STATUS-CHECK-A",
+    "source": "Pexels",
+    "source_id": 6517227,
+    "photographer": "RDNE Stock project",
+    "page_url": "https://www.pexels.com/photo/woman-in-sweater-talking-on-phone-while-using-a-laptop-6517227/",
+    "score": 10,
+    "approval_required": false,
+    "local_file": "assets/c24-status-check-pexels-6517227.jpg",
+    "figma_image_hash": "a551fd0c4a62887d817ded9d0345ae23b573b02b"
+  },
+  "qa": {
+    "decision": "approved",
+    "blocking_issues": [],
+    "font_family": "Inter",
+    "missing_fonts": 0,
+    "text_overflow_nodes": 0,
+    "linked_unresolved_figma_comments": 0,
+    "comments_refetched_at": "2026-10-16T02:01:22.729405+00:00"
+  },
+  "publication": {
+    "authorized": false,
+    "scheduled": false,
+    "published": false
+  },
+  "artifacts": [
+    "01-Estrategia.md",
+    "02-Copy-ou-Roteiro.md",
+    "03-Direcao-Visual-ou-Audiovisual.md",
+    "04-QA.md",
+    "05-Curadoria-Imagens.md",
+    "citations-ledger.json",
+    "figma-comments-readback.json",
+    "assets/c24-status-check-pexels-6517227.jpg",
+    "source-metadata/c24-status-check-pexels-6517227.json",
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/section-final.png",
+    "qa-screenshots/frame-01-initial.png",
+    "qa-screenshots/frame-02-initial.png",
+    "qa-screenshots/frame-03-initial.png",
+    "qa-screenshots/frame-04-initial.png",
+    "qa-screenshots/frame-05-initial.png",
+    "qa-screenshots/frame-06-initial.png",
+    "qa-screenshots/frame-07-initial.png",
+    "qa-screenshots/frame-01-final.png",
+    "qa-screenshots/frame-02-final.png",
+    "qa-screenshots/frame-03-final.png",
+    "qa-screenshots/frame-06-final.png",
+    "qa-screenshots/frame-07-final.png"
+  ]
+}

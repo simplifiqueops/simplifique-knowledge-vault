@@ -4,8 +4,8 @@ status: legacy
 relationship_stage: legacy
 cliente: "Backstage"
 projeto: "Backstage — legado e frentes sem decisão vigente"
-atualizado_em: 2026-09-23T11:37:50-03:00
-fonte_atualizacao: "Atualização direta de gestão — 2026-09-23"
+atualizado_em: 2026-10-16T18:31:47-03:00
+fonte_atualizacao: "Fechamento operacional Notion → EDC — 2026-10-16"
 confianca: "alta para a inexistência de decisão sobre Naia no Backstage e para a responsabilidade de Eudes pelo link de suporte"
 canonical: false
 ---
@@ -13,6 +13,7 @@ canonical: false
 # Estado de Clareza Atual — Backstage
 
 ## Delta da última atualização
+- Fechamento operacional Notion → EDC: o cálculo dos custos da infraestrutura da mini franquia Backstage, incluindo VPS da Hostinger e One Password, consta como **Finalizado** no Notion; não foi identificada frente operacional subsequente nem reativação do projeto.
 - Pablo esclareceu que **não existe decisão de criar ou operar uma Naia para o Backstage**. A Naia vigente pertence somente ao projeto Realizando Potenciais.
 - A confusão veio da participação de Eudes, que trouxe o contato, mas isso não constitui decisão, demanda ou escopo do Backstage.
 - O envio do link do suporte para Denderson é responsabilidade de **Eudes** e não compete a Pablo nem ao projeto Backstage.
@@ -46,12 +47,14 @@ Preservar o legado do Backstage sem promover hipóteses ou contatos compartilhad
 - Nenhum bloqueio ativo confirmado.
 
 ## 9. Indicadores
-- Nenhum indicador vigente confirmado.
+- Cálculo dos custos da infraestrutura da mini franquia: finalizado no Notion.
+- Nenhum indicador operacional ativo confirmado.
 
 ## 10. O que está pausado
 - Qualquer desenho de Naia ou automação atribuído ao Backstage.
 
 ## 11. O que já não vale mais
+- Tratar o cálculo dos custos da infraestrutura da mini franquia como pendente.
 - Tratar a instalação, configuração, integrações ou governança da Naia como frente do Backstage.
 - Tratar o link de suporte para Denderson como demanda de Pablo ou do Backstage.
 
@@ -62,5 +65,6 @@ Preservar o legado do Backstage sem promover hipóteses ou contatos compartilhad
 - Nenhuma decisão de reativação confirmada.
 
 ## Fontes vigentes
+- Base Notion `Projetos e Clientes - Demandas Pablo` — fechamento operacional de 16/10/2026; registro finalizado, última edição em 23/09/2026 às 23:57 (America/Sao_Paulo).
 - Atualização direta de gestão — 23/09/2026.
 - [[11-Legado/Backstage/Historico-de-Clareza/Estado-de-Clareza-2026-09-23-pre-recalibracao|Estado anterior preservado]].

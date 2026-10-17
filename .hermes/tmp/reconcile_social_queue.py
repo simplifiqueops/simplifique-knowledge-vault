@@ -52,3 +52,7 @@ print('PENDING')
 for path in sorted(pending.glob('*.json')) if pending.exists() else []:
     data = json.loads(path.read_text(encoding='utf-8'))
     print(json.dumps({'file': str(path), **data}, ensure_ascii=False))
+
+print('AUTOMATION_GOVERNANCE_DB_ROWS')
+for row in connection.execute("select request_key,topic_key,topic_title,status,planned_for,decision,decision_note,approved_by,approved_at,figma_url,updated_at,requested_at,copy_text from social_content_requests where topic_key='automation-governance-2026-09' order by requested_at"):
+    print(json.dumps(dict(row), ensure_ascii=False))

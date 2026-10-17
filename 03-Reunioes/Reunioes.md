@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd|16/10/2026 — Lançamentos, Black November e criativos — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-15--dashboard-dados-campanha-bf26-realizando-potenciais|15/10/2026 — Dashboard de dados da campanha BF26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|13/10/2026 — Comunicação, API e automação da BF26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|13/10/2026 — Ajustes do plano de comunicação e rotina de RPD — BF26 — Realizando Potenciais]]

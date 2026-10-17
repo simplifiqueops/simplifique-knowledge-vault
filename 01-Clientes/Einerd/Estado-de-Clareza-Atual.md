@@ -3,22 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-14T18:31:40-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-14; Reunião de 09/10/2026 — Domínios, desempenho e novas remessas"
-confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; média para o contexto de domínios, anúncios, remessas e produtos porque a transcrição foi compactada e começa em 00:04:36"
+atualizado_em: 2026-10-16T14:48:40-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd]]"
+fonte_atualizacao: "Reunião de 16/10/2026 — Lançamentos, Black November e criativos; Fechamento diário Notion → EDC — 2026-10-14"
+confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; baixa a média para o contexto de produtos, Black November e criativos porque a transcrição omite quase toda a reunião"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- O fechamento diário recuperou, apesar de `pull` sem delta, a finalização no Notion da reconciliação entre Monday, planilha de cursos e Google Drive. A ação sai dos próximos passos ativos; o resultado detalhado da reconciliação não foi reproduzido no EDC.
-- Mudanças confirmadas: nenhuma mudança material no escopo canônico de Audiovisual. A reunião de 09/10 às 21:30 UTC definiu o domínio `criador digital` para o Google, liberou no Meta remessas antes condicionadas à aprovação de IA e gerou ações de orçamento, campanhas, novas remessas e produto, mas não atribuiu demanda a Pablo nem confirmou conclusão das entregas audiovisuais vigentes.
-- Confirmações de execução: permanecem em progresso a revisão da plataforma por Pablo e a conexão dos dados do painel audiovisual ao Daily; a reconciliação das fontes foi finalizada.
-- Confirmações sem mudança: a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
-- Conflitos/lacunas: a transcrição mais recente foi compactada e começa em `00:04:36`; a definição do domínio do Meta aparece apenas no resumo automático, e a origem dos anúncios vencedores alterna entre as remessas 16 e 17.
-- Contexto fora do escopo operacional deste EDC: a operação de produtos e tráfego ajustará orçamento, lançará campanha de vencedores, preparará as remessas 30 e 31 e criará e precificará o produto “Passar no Enem”. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
+- Mudanças confirmadas em 16/10: nenhuma mudança material no escopo canônico de Audiovisual. A reunião confirmou a distribuição da futura extensão do TubeClub pela loja oficial do Google e registrou uma demanda de organização de materiais para Marcel Rodrigues, mas não atribuiu demanda a Pablo nem confirmou conclusão das entregas vigentes.
+- Confirmações sem mudança: permanecem em progresso a revisão da plataforma por Pablo e a conexão dos dados do painel audiovisual ao Daily; a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
+- Estado operacional anterior preservado: a reconciliação entre Monday, planilha de cursos e Google Drive foi finalizada no Notion em 14/10; o resultado detalhado não foi reproduzido no EDC.
+- Conflitos/lacunas: a transcrição de 16/10 omite quase toda a reunião. Preços do TubeClub, campanha Black November, VSLs, funil de alunos, remessas, reativação de funis e painel de dados aparecem apenas no resumo automático e não foram promovidos como estado confirmado.
+- Contexto fora do escopo operacional deste EDC: a operação de produtos, anúncios e criativos discutiu TubeClub, Passar no Enem e Black Friday. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -109,6 +108,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd|Lançamentos, Black November e criativos — Ei Nerd — 16/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da reconciliação das fontes apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|Domínios, desempenho e novas remessas — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|Black Friday, ofertas e operação de tráfego — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.

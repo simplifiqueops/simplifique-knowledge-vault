@@ -1,0 +1,146 @@
+{
+  "processed": [
+    {
+      "request_key": "social-09ca4a3452370c3ddc662ae7",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-09ca4a3452370c3ddc662ae7.json",
+      "db_readback": {
+        "request_key": "social-09ca4a3452370c3ddc662ae7",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-1d7baffa5b6bed260ce3a42c",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-1d7baffa5b6bed260ce3a42c.json",
+      "db_readback": {
+        "request_key": "social-1d7baffa5b6bed260ce3a42c",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-1faf437fb5e7f71fbcc80a36",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-1faf437fb5e7f71fbcc80a36.json",
+      "db_readback": {
+        "request_key": "social-1faf437fb5e7f71fbcc80a36",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-2f83d566d810ceef45bb9899",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-2f83d566d810ceef45bb9899.json",
+      "db_readback": {
+        "request_key": "social-2f83d566d810ceef45bb9899",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-7049e7ed58649e061d900aa3",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-7049e7ed58649e061d900aa3.json",
+      "db_readback": {
+        "request_key": "social-7049e7ed58649e061d900aa3",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-816976d5f483c091b69ff102",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-816976d5f483c091b69ff102.json",
+      "db_readback": {
+        "request_key": "social-816976d5f483c091b69ff102",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-9e34950e1d83af5e56924161",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-9e34950e1d83af5e56924161.json",
+      "db_readback": {
+        "request_key": "social-9e34950e1d83af5e56924161",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-a3c0ba86c8e721f1155e48ac",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-a3c0ba86c8e721f1155e48ac.json",
+      "db_readback": {
+        "request_key": "social-a3c0ba86c8e721f1155e48ac",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-a9b24a9862fc63d669387f26",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-a9b24a9862fc63d669387f26.json",
+      "db_readback": {
+        "request_key": "social-a9b24a9862fc63d669387f26",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    },
+    {
+      "request_key": "social-abc7fe783ae85a72412d25bf",
+      "topic_key": "automation-governance-2026-09",
+      "canonical_request_key": "social-d5384a9b07966269b967802a",
+      "outcome": "inserted_discarded_duplicate",
+      "archived_to": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/social-abc7fe783ae85a72412d25bf.json",
+      "db_readback": {
+        "request_key": "social-abc7fe783ae85a72412d25bf",
+        "topic_key": "automation-governance-2026-09",
+        "status": "discarded",
+        "decision": "discarded",
+        "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09."
+      }
+    }
+  ],
+  "skipped": [],
+  "pending_remaining": []
+}

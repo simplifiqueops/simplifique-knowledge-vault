@@ -3,21 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-16T14:48:40-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd]]"
-fonte_atualizacao: "Reunião de 16/10/2026 — Lançamentos, Black November e criativos; Fechamento diário Notion → EDC — 2026-10-14"
-confianca: "alta para a ausência de nova atribuição a Pablo nos trechos disponíveis; baixa a média para o contexto de produtos, Black November e criativos porque a transcrição omite quase toda a reunião"
+atualizado_em: 2026-10-19T21:01:05Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd]]"
+fonte_atualizacao: "Reunião de 19/10/2026 — Fluxo audiovisual e onboarding do gerente de projeto"
+confianca: "média: os compromissos de Pablo e o fluxo vigente têm evidência explícita, mas a transcrição fornecida omite trechos intermediários"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas em 16/10: nenhuma mudança material no escopo canônico de Audiovisual. A reunião confirmou a distribuição da futura extensão do TubeClub pela loja oficial do Google e registrou uma demanda de organização de materiais para Marcel Rodrigues, mas não atribuiu demanda a Pablo nem confirmou conclusão das entregas vigentes.
-- Confirmações sem mudança: permanecem em progresso a revisão da plataforma por Pablo e a conexão dos dados do painel audiovisual ao Daily; a completude dos produtos, a validação final da sincronização com o Monday e a conclusão do bot Ella seguem sem novo status confirmado.
-- Estado operacional anterior preservado: a reconciliação entre Monday, planilha de cursos e Google Drive foi finalizada no Notion em 14/10; o resultado detalhado não foi reproduzido no EDC.
-- Conflitos/lacunas: a transcrição de 16/10 omite quase toda a reunião. Preços do TubeClub, campanha Black November, VSLs, funil de alunos, remessas, reativação de funis e painel de dados aparecem apenas no resumo automático e não foram promovidos como estado confirmado.
-- Contexto fora do escopo operacional deste EDC: a operação de produtos, anúncios e criativos discutiu TubeClub, Passar no Enem e Black Friday. O DDR completo permanece no registro da reunião, sem transformar a frente ampla de marketing em backlog de Pablo.
+- Mudanças confirmadas em 19/10: Hallefy Moraes foi apresentado como novo gerente de projeto; Pablo assumiu atualizar o documento de SLA e compartilhá-lo com Hallefy, além de conferir o estado da edição brasileira do YouTube Dark e avisar Daniel até amanhã cedo.
+- Confirmações sem mudança: o Monday permanece como registro operacional das tarefas e entregas audiovisuais, com aviso e dúvidas no grupo público; revisão da plataforma, conexão ao Daily, validação da sincronização, preenchimento dos produtos e conclusão do bot Ella não receberam novo status.
+- Risco confirmado: o descumprimento da nomenclatura definida pelo tráfego pode prejudicar a identificação dos criativos e a leitura das métricas.
+- Conflitos/lacunas: a transcrição foi compactada; a mudança de marcação de Carla para Hallefy não foi promovida por provável erro de diarização, e a atualização das planilhas de internacionalização permaneceu ambígua.
+- Fonte: [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|Fluxo audiovisual e onboarding do gerente de projeto — Ei Nerd — 19/10/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -34,8 +34,10 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 2. Concluir o bot Ella até 25/09/2026.
 3. Conectar a visão do painel audiovisual ao Daily.
 4. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
+5. Atualizar o SLA de edição e alinhá-lo com Hallefy.
 
 ## 4. Frentes ativas
+- Gestão do fluxo audiovisual: Hallefy Moraes iniciou o onboarding como gerente de projeto; Pablo mantém a operação vigente no Monday e atualizará o SLA para compartilhamento com Hallefy.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo está em progresso, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
@@ -43,18 +45,22 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
 ## 5. Responsáveis
-- Pablo: painel audiovisual, integração com o Daily, conclusão do bot Ella, revisão das entregas audiovisuais que lhe forem atribuídas e estudo do curso de YouTube Dark.
+- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, conferência da edição brasileira do YouTube Dark, painel audiovisual, integração com o Daily, conclusão do bot Ella e estudo do curso de YouTube Dark.
+- Hallefy Moraes: gerente de projeto em onboarding; responsabilidades operacionais específicas não foram confirmadas na transcrição disponível.
 - Marcel: criar e enviar o acesso de Pablo, preencher os detalhes dos produtos e verificar a sincronização de tarefas e status entre a plataforma e o Monday; prazo não definido.
 - Carla: governança das tasks e pastas do Monday conforme decisões anteriores.
 - Editores e demais responsáveis: execução das entregas registradas no Monday e na planilha; responsabilidades individuais dependem da reconciliação operacional.
 
 ## 6. Decisões vigentes
+- As tarefas e entregas audiovisuais permanecem registradas no Monday, com aviso e dúvidas no grupo público para preservar visibilidade.
 - O EDC principal fica restrito ao estado operacional de Audiovisual e às dependências que o afetam.
 - Inteligência de marketing, produtos e funis fica em base separada até Pablo aprofundar o estudo.
 - O painel audiovisual será a nova visão consolidada e deverá conversar com o Daily.
 - O bot Ella deve ser concluído até 25/09/2026.
 
 ## 7. Gargalos
+- O documento de SLA aguarda atualização por Pablo; o trecho disponível não permite caracterizar com precisão a defasagem atual.
+- Falhas no cumprimento da nomenclatura definida pelo tráfego prejudicam a identificação dos criativos e a leitura das métricas.
 - Monday, planilha de cursos e Google Drive não estão conciliados automaticamente.
 - A visão atual exige consultas manuais e dificulta identificar o estado real das entregas.
 - A sincronização entre a nova plataforma e o Monday ainda não foi validada.
@@ -67,6 +73,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 
 ## 9. Indicadores
+- SLA de edição: atualização assumida por Pablo; prazo não definido.
+- Edição brasileira do YouTube Dark: conferência e retorno a Daniel assumidos por Pablo para amanhã cedo; resultado ainda não confirmado.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada; revisão por Pablo em progresso, enquanto completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
 - Bot Ella: em andamento; prazo definido em 25/09/2026.
 - Integração com Daily: em progresso; conclusão não confirmada.
@@ -87,6 +95,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como aberta a reconciliação entre Monday, planilha de cursos e Google Drive: o Notion registra o item como `Finalizado`.
 
 ## 12. Próximo passo
+- Atualizar o documento de SLA e compartilhá-lo com Hallefy — Responsável: Pablo — Prazo: não definido.
+- Conferir o estado da edição brasileira do YouTube Dark e avisar Daniel — Responsável: Pablo — Prazo: amanhã cedo.
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Revisar a plataforma após receber o acesso e apontar ajustes necessários — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso.
 - Preencher os detalhes dos produtos na plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -108,6 +118,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|Fluxo audiovisual e onboarding do gerente de projeto — Ei Nerd — 19/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd|Lançamentos, Black November e criativos — Ei Nerd — 16/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.
 - Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da reconciliação das fontes apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|Domínios, desempenho e novas remessas — Ei Nerd — 09/10/2026]] — processada sem mudança material no escopo canônico de Audiovisual.

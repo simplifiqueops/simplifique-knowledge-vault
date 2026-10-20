@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A prioridade imediata de Audiovisual é validar a primeira versão da plataforma demonstrada por Marcel, criar o acesso de Pablo, completar os dados dos produtos e conferir a sincronização com o Monday, sem perder o prazo vigente do bot Ella em 25/09/2026.
+> A operação audiovisual segue registrada no Monday e agora inclui o onboarding de Hallefy como gerente de projeto, a atualização do SLA por Pablo e a conferência da edição brasileira do YouTube Dark até amanhã cedo, sem encerrar as pendências anteriores da plataforma, do Daily e do bot Ella.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|19/10/2026 — Fluxo audiovisual e onboarding do gerente de projeto]].
 - [[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd|16/10/2026 — Lançamentos, Black November e criativos]].
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|09/10/2026 — Domínios, desempenho e novas remessas]].
 - [[03-Reunioes/2026/10/2026-10-09--black-friday-ofertas-operacao-trafego-einerd|09/10/2026 — Black Friday, ofertas e operação de tráfego]].

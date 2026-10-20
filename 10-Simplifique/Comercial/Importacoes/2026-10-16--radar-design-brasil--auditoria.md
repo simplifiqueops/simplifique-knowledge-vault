@@ -37,3 +37,14 @@ status: concluida
 - Telefone e e-mail existentes foram preservados; campos ausentes receberam valores utilizáveis da fonte.
 - Identificadores compartilhados ou ambíguos foram mantidos fora da carga para validação manual.
 - A importação não autorizou nem realizou contato, disparo ou campanha.
+
+## Links diretos para WhatsApp — 2026-10-19
+
+- Escopo: registros cujo status permanecia `Oportunidade` no momento do read-back.
+- Oportunidades verificadas: **4.813**.
+- Links `https://wa.me/NUMERO_NORMALIZADO` confirmados: **4.727**.
+- Registros sem telefone, mantidos sem link: **86**.
+- Telefones inválidos: **0**.
+- Atualizações pendentes após o read-back: **0**.
+- Mensagens enviadas: **0**.
+- Durante a execução, quatro registros deixaram o status `Oportunidade`; o read-back final respeitou o estado vigente no Notion e não os incluiu no escopo.

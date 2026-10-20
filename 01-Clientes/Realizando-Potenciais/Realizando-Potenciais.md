@@ -19,6 +19,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais|19/10/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais--complemento|complemento de evidência]]
 - [[03-Reunioes/2026/10/2026-10-15--dashboard-dados-campanha-bf26-realizando-potenciais|15/10/2026 — Dashboard de dados da campanha BF26]]
 - [[03-Reunioes/2026/10/2026-10-13--comunicacao-api-automacao-bf26-realizando-potenciais|13/10/2026 — Comunicação, API e automação da BF26]]
 - [[03-Reunioes/2026/10/2026-10-13--ajustes-comunicacao-rpd-bf26-realizando-potenciais|13/10/2026 — Ajustes do plano de comunicação e rotina de RPD — BF26]]

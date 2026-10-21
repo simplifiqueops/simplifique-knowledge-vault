@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday e agora inclui o onboarding de Hallefy como gerente de projeto, a atualização do SLA por Pablo e a conferência da edição brasileira do YouTube Dark até amanhã cedo, sem encerrar as pendências anteriores da plataforma, do Daily e do bot Ella.
+> A operação audiovisual segue registrada no Monday; Hallefy continua em onboarding como gerente de projeto e deverá alinhar a organização das demandas com a equipe, sem encerrar as pendências anteriores de SLA, plataforma, Daily e bot Ella.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|20/10/2026 — Reembolsos, ROAS e alinhamento operacional]].
 - [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|19/10/2026 — Fluxo audiovisual e onboarding do gerente de projeto]].
 - [[03-Reunioes/2026/10/2026-10-16--lancamentos-black-november-criativos-einerd|16/10/2026 — Lançamentos, Black November e criativos]].
 - [[03-Reunioes/2026/10/2026-10-09--dominios-desempenho-novas-remessas-einerd|09/10/2026 — Domínios, desempenho e novas remessas]].

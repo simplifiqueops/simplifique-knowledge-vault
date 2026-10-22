@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-21--podcast-black-friday-diagnostico-patricia-de-lucca|21/10/2026 — Podcast, Black Friday e diagnóstico — Patrícia de Lucca]]
 - [[03-Reunioes/2026/10/2026-10-20--teste-paginas-comunicacao-bf26-realizando-potenciais|20/10/2026 — Teste de páginas e comunicação da BF26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|20/10/2026 — Reembolsos, ROAS e alinhamento operacional — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|19/10/2026 — Fluxo audiovisual e onboarding do gerente de projeto — Ei Nerd]]

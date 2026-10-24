@@ -3,51 +3,24 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-22T20:39:17Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-22--oferta-comunicacao-bf26-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/xM575zbjusFxfHEUnup2xqX8MJgdDvzs"
+atualizado_em: 2026-10-23T19:58:15Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_"
 fonte_complementar: "[[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "média: a transcrição de 22/10 foi compactada; somente decisões, compromissos e riscos sustentados pelos trechos visíveis foram promovidos; composição e preços presentes apenas no resumo não foram incorporados"
+confianca: "média: a transcrição de 23/10 foi compactada; somente decisões, compromissos e riscos sustentados pelos trechos visíveis foram promovidos; o plano de dezembro a junho presente apenas no resumo não foi incorporado"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
-- A comunicação da BF26 entrou em nova revisão: os próximos criativos devem incorporar a dimensão de desejo identificada na comunicação de melhor desempenho.
-- A abertura em 29 de outubro foi reafirmada e a Black November seguirá até 27 de novembro.
-- Ficou acordado revisar as mensagens e executar os ajustes confirmados como necessários até o dia seguinte; os trechos disponíveis não permitem atribuir um responsável individual.
-- O tráfego ainda não havia gerado inscrições e o alcance orgânico relatado estava próximo de zero, mantendo ativo o risco de captação insuficiente.
-- A composição e a precificação da oferta descritas apenas no resumo automático não foram incorporadas; a criação de duas páginas adicionais, uma ação em 11/11 e uma reunião às 15h permaneceram condicionais.
-- O fechamento diário confirmou no Notion a finalização da verificação sobre inscrição do Grupo 1 e possível falha de envio no Full Funnel; o resultado da verificação não está documentado na fonte operacional, portanto a conclusão causal permanece em aberto.
-- A ação de verificação saiu dos próximos passos ativos. Os três itens criados no Notion após a atualização da reunião — configurar o novo criativo, ajustar os links por canal e estruturar a proposta de comunidade — já estavam refletidos no EDC e permanecem `Não iniciado`.
-- A estratégia de recuperação da captação deixou de aguardar isoladamente o resultado de uma única página: desde 20/10 serão testadas as versões 2, “Sobrevivência”, e 4, “Desejo”, com estímulos simultâneos em canais distintos.
-- Ficou definido usar a versão 2 nos e-mails e a versão 4 nos grupos de WhatsApp, com ajuste dos links para rastreamento por trigger link.
-- O novo criativo será aplicado às quatro páginas; Vanessa assumiu preparar e enviar a legenda e revisar o e-mail G4, enquanto Pablo assumiu configurar os quatro testes e ajustar os links.
-- Pablo também assumiu estruturar uma proposta sobre comunidade para apresentar ao grupo.
-- O plano da Naya foi elevado para 20x durante a reunião, depois de a conta atingir 93% do limite semanal; o risco imediato de interrupção por cota foi removido do estado vigente.
-- O ritmo de inscrições permanece como risco ativo para a meta da campanha.
-- O compartilhamento complementar do Fathom, iniciado dois segundos após o registro principal, confirmou o ajuste da página, a organização dos depoimentos até o dia seguinte e o risco de a campanha não atingir a meta; não houve mudança material adicional no EDC.
-- O ritmo atual de inscrições foi reconhecido como insuficiente para atingir a meta se permanecer inalterado.
-
-- Pablo informou estar finalizando a página e assumiu reunir e transcrever os depoimentos disponíveis, com prazo explícito de deixá-los prontos até o dia seguinte.
-- As propostas de mind maps e de uso das palestras como iscas não foram promovidas, e as ações presentes somente no resumo ou nos action items ficaram como lacunas por causa da compactação da transcrição.
-- O dashboard da BF26 passou a consolidar inscrições, respostas à pesquisa e entradas no grupo; no momento da reunião exibia 60 inscrições confirmadas, 41 pesquisas respondidas e 41 entradas no grupo.
-- Foi aceita a inclusão do grupo `Novos Inscritos` para separar quem não possui as tags dos grupos existentes.
-- A seção `Execução` será usada para centralizar as demandas de produção e registrar todas as novas ações da campanha.
-- Pablo assumiu automatizar a atualização do indicador de entrada no grupo, pedir à Naya o consolidado de abertura e clique, solicitar a verificação da regra divergente e inserir as demandas de produção em `Execução`; a confirmação das inscrições e do envio do G1 consta como finalizada no Notion.
-- Permanecem ativas a divergência entre as reinscrições e as contagens por grupo, a possível falha de envio do primeiro e-mail do G1 e a dependência de fontes atualizadas para a confiabilidade do dashboard.
-- A transcrição compactada não permitiu confirmar o significado de `RDP` nem atribuir responsável à inclusão de `Novos Inscritos`; a possível remoção da tela de segmentação não foi tratada como decisão.
-- As demais frentes, decisões e finalizações anteriores não foram contraditas e permanecem preservadas.
-- O fechamento diário recuperou, apesar de `pull` sem delta, nove finalizações no Notion: agendamento com Arcindo; consolidado das decisões; publicação da definição da reunião; marcação dos ajustes da landing page; comparação dos cenários de pagamento; refinamento do relatório e do dicionário de tags; criação da categoria `BN26`; aplicação do prefixo `BN26`; e fixação da planilha do plano de ação.
-- A duplicação da automação anterior para o Congresso de Vendas e a integração da Principia com o Full Funnel estão `Em progresso` no Notion. A atualização do corpo da mensagem e da tag continua `Não iniciado`.
-- As finalizações retiram essas nove ações dos próximos passos ativos, mas não comprovam a publicação da landing page, a decisão final entre plataformas de pagamento nem a conclusão das duas frentes em progresso.
-- Foi definida uma call diária às 17h com o NEG para revisar os dados e ajustar a campanha; o responsável individual não ficou definido.
-- O G4 não receberá comunicação pela API devido ao risco de bloqueio da conta oficial.
-- Realizando Potenciais assumiu o envio de e-mails de aquecimento a cada dois dias para os inscritos.
-- Pablo assumiu duplicar a automação anterior para o Congresso de Vendas e adaptar o corpo da mensagem e a tag.
-- As quantidades de mensagens de API por grupo, a edição do replay, a realocação adicional para o G8, a atualização da calculadora e o novo PDF não foram promovidos nesta atualização porque os trechos visíveis são incompletos ou não contêm compromisso explícito verificável.
-- As demais frentes, decisões e finalizações anteriores não foram contraditas e permanecem preservadas.
+- A janela operacional da Black November mudou para 5 a 27 de novembro, substituindo a abertura anteriormente registrada para 29 de outubro.
+- CSV e os três workshops foram reafirmados como ofertas da campanha; Pablo assumiu registrar essa composição no termo de abertura.
+- Criativos, e-mails e mensagens precisam ser revisados para refletir a nova data de início; o responsável não ficou definido nos trechos disponíveis.
+- Pablo e Arcindo Negreiros assumiram apresentar ao time, na reunião de segunda-feira, a trilha geral até abril e detalhar novembro e dezembro.
+- A redução de uma semana na janela de vendas mantém ativo o risco de pressão sobre comunicação e execução comercial.
+- O plano de lotes, preços e lançamentos de dezembro a junho, a cadência de comunicação e a metodologia “Playa” constam apenas no resumo ou em trechos omitidos e não foram incorporados ao estado canônico.
+- As demais frentes, decisões, demandas e riscos anteriores não foram contraditos e permanecem vigentes.
 
 ## 1. Objetivo atual
 Executar o planejamento confirmado da Black Friday, validar a Naia após a conclusão dos ajustes registrados no Notion e finalizar os ajustes ainda abertos de página e materiais do Energia Infinita, mantendo as responsabilidades de estratégia, tecnologia e aprovação separadas da execução especializada.
@@ -62,7 +35,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Recuperar o ritmo de inscrições da BF26 revisando a comunicação para incorporar desejo e executando os ajustes confirmados, sem interromper a medição do teste das páginas 2 e 4 por canal.
+1. Reprogramar a comunicação e a execução comercial para a Black November de 5 a 27 de novembro, revisando criativos, e-mails e mensagens sem interromper a medição das páginas 2 e 4 por canal.
 2. Usar o relatório e o dicionário de tags já refinados para definir públicos e destravar as metas de vendas, mantendo a execução da Black Friday organizada na planilha do plano de ação.
 3. Concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita.
 4. Manter dependências externas e execuções especializadas fora da fila direta de Pablo.
@@ -71,7 +44,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
 - Full Funnel: pertence à operação da Realizando Potenciais. Pablo pretende conceder acesso à Simplifique para leitura de dados e extração de inteligência sobre a organização e para apoiar a continuidade operacional quando a janela de tokens da Naia se esgotar; acesso ainda não concedido, escopo e permissões ainda precisam ser definidos.
-- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV reafirmado como produto; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a abertura de 29 de outubro foi reafirmada e a campanha seguirá até 27 de novembro; o evento começa às 20h, com carrinho previsto entre 21h30 e 22h.
+- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV e três workshops foram reafirmados como ofertas; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a janela operacional da Black November foi redefinida para 5 a 27 de novembro.
 - Comunicação da BF26: dois envios de e-mail ao G4 e 18 envios para cada um dos grupos G5 e G6 permanecem registrados pela reunião anterior; o G4 foi excluído dos envios por API; Realizando Potenciais fará e-mails de aquecimento a cada dois dias para os inscritos; desde 20/10, os e-mails direcionam para a página versão 2 e os grupos de WhatsApp para a versão 4, com trigger links; as quantidades de API por grupo aguardam validação.
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
 - Dashboard da BF26: consolidação de inscrições, respostas à pesquisa, entradas no grupo e execução; a segmentação ganhará o grupo `Novos Inscritos`, mas a regra de reinscrições e as contagens por grupo ainda precisam de verificação.
@@ -110,7 +83,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Dra. Vanessa Cesnik: preparar e enviar a legenda do criativo de teste e revisar a cópia do e-mail G4.
 - Pablo: configurar o novo criativo nos quatro testes de página, ajustar os links da versão 2 para e-mail e da versão 4 para WhatsApp e estruturar uma proposta sobre comunidade.
 - Responsável não definido: adicionar ao dashboard o grupo `Novos Inscritos`.
-- Responsável não definido: revisar as mensagens da campanha e realizar os ajustes confirmados como necessários até o dia seguinte à reunião de 22/10/2026.
+- Pablo: atualizar o termo de abertura com o CSV e os três workshops.
+- Responsável não definido: revisar criativos, e-mails e mensagens para refletir o início da Black November em 5 de novembro.
+- Pablo e Arcindo Negreiros: apresentar à equipe a trilha geral até abril, com foco nos detalhes de novembro e dezembro, na reunião de segunda-feira.
 
 ## 6. Decisões vigentes
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
@@ -148,8 +123,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Testar o novo criativo nas quatro páginas de destino.
 - Manter a Naya no plano 20x para evitar interrupção por limite de uso.
 - Fazer com que os novos criativos incorporem a dimensão de desejo já identificada na comunicação de melhor desempenho.
-- Manter a abertura da campanha em 29 de outubro.
-- Estender a Black November até 27 de novembro.
+- Realizar a Black November de 5 a 27 de novembro.
+- Manter o CSV e os três workshops como ofertas da Black November.
+- Apresentar à equipe, na reunião de segunda-feira, a trilha geral até abril e detalhar novembro e dezembro.
 
 ## 7. Gargalos
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
@@ -166,6 +142,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - A confiabilidade do dashboard depende de as fontes de execução permanecerem atualizadas.
 - A manutenção do ritmo atual de inscrições pode impedir o atingimento da meta da campanha.
 - Os criativos enviados a tráfego ainda não haviam gerado inscrições em 22/10/2026, e o alcance orgânico relatado estava próximo de zero.
+- A mudança do início da Black November para 5 de novembro reduziu em uma semana a janela de vendas e aumentou a pressão sobre comunicação e execução comercial.
 
 ## 8. Bloqueios
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
@@ -179,7 +156,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Ferramentas: inventário e atualização da Naia finalizados no Notion; composição detalhada não validada neste fechamento.
 - Automação de confirmação: implementação e teste finalizados no Notion em 04/10/2026.
 - Black Friday: planejamento considerado suficiente para execução; consolidado enviado, arquivos no Drive, datas registradas e parcelamento verificado no Notion; conclusão das demais frentes não confirmada.
-- Evento da Black Friday: início em 29 de outubro às 20h e abertura do carrinho prevista entre 21h30 e 22h; materiais de apoio ainda aguardados.
+- Black November: janela operacional redefinida para 5 a 27 de novembro; a programação anterior de evento em 29 de outubro e abertura do carrinho entre 21h30 e 22h foi superada quanto ao início da campanha.
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
 - Segmentação da base: 516 tags atômicas foram mencionadas na reunião de 06/10; organização por base antiga, origem atual e compra ainda precisa ser refinada antes da definição segura de públicos e metas.
 - Coordenação da segmentação: alinhamento com Thamyris e Mari sobre públicos e segmentação de leads finalizado no Notion em 12/10/2026; execução da segmentação e metas não foram marcadas como concluídas.
@@ -219,6 +196,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Tratar conteúdo e e-mail apenas como camada condicionada ao resultado de uma única página: desde 20/10/2026, a operação testa simultaneamente as páginas 2 e 4 em canais distintos e aplica o novo criativo às quatro páginas.
 - Tratar o limite semanal da Naya como bloqueio imediato: o plano foi elevado para 20x e a cota reiniciada em 20/10/2026.
 - Manter como aberta a ação de confirmar a inscrição do Grupo 1 e verificar possível falha de envio no Full Funnel: o Notion registra o item como `Finalizado`; o resultado da verificação continua não documentado.
+- Tratar 29 de outubro como abertura vigente da Black November: a reunião de 23/10 redefiniu a janela para 5 a 27 de novembro.
 
 ## 12. Próximo passo
 - Analisar a frequência orgânica de conteúdo da Vanessa: identificar quando começou a publicação de três conteúdos por dia; comparar esse período com períodos de menor volume de vídeos; excluir da análise as publicações com distribuição de tráfego pago; medir ganho de seguidores, curtidas e engajamento; e concluir qual frequência e combinação de formatos gera melhor resultado orgânico — Responsável: Pablo — Prazo: não definido.
@@ -260,7 +238,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Revisar a cópia do e-mail G4 — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Ajustar os links para direcionar e-mails à versão 2 e grupos de WhatsApp à versão 4 — Responsável: Pablo — Prazo: a partir de hoje (20/10/2026).
 - Estruturar uma proposta sobre o uso de comunidade para apresentar ao grupo — Responsável: Pablo — Prazo: não definido.
-- Revisar as mensagens da campanha e realizar os ajustes confirmados como necessários — Responsável: não definido — Prazo: amanhã (23/10/2026).
+- Atualizar o termo de abertura com o CSV e os três workshops — Responsável: Pablo — Prazo: não definido.
+- Revisar os criativos, e-mails e mensagens para refletir o início da Black November em 5 de novembro — Responsável: não definido — Prazo: não definido.
+- Apresentar à equipe a trilha geral até abril, com foco nos detalhes de novembro e dezembro — Responsável: Pablo e Arcindo Negreiros — Prazo: reunião de segunda-feira.
 
 ## 13. Próxima decisão
 - Confirmar, após o teste em dois conteúdos, se o rastreamento por URL é suficiente ou se será necessário adotar tags diárias.
@@ -276,6 +256,7 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Avaliar o resultado do teste entre as versões 2 e 4 e definir qual página e combinação de canais deve prevalecer.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais|Calendário e ofertas da Black November — Realizando Potenciais — 23/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-22--oferta-comunicacao-bf26-realizando-potenciais|Oferta e revisão da comunicação da BF26 — Realizando Potenciais — 22/10/2026]].
 - Fechamento diário Notion → EDC — 20/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente confirmou uma finalização apesar do snapshot sem delta e validou três novos itens já refletidos no EDC.
 - [[03-Reunioes/2026/10/2026-10-20--teste-paginas-comunicacao-bf26-realizando-potenciais|Teste de páginas e comunicação da BF26 — Realizando Potenciais — 20/10/2026]].

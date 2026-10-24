@@ -1,20 +1,58 @@
 #!/usr/bin/env python3
-import json, sqlite3
+import json
+import sqlite3
 from pathlib import Path
-DB=Path('/home/simplifique/apps/daily-dashboard/data/users.db')
-keys=[
-'social-e88acefa40356db529c779fe',
-'social-l09-c15-202610','social-l09-c18-202610','social-l09-c19-202610',
-'social-l09-c20-202610','social-l09-c21-202610','social-l09-c22-202610',
-'social-l09-c23-202610','social-l09-c24-202610','social-l09-c25-202610',
-'social-d9a00c4bae3b06fea931884d','social-5a3dc623786f3d471a85f2ca',
-'social-d5d16909b0f33f9a0bc007d9'
+
+queues = [
+    Path('/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08-Fila.json'),
+    Path('/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09-Fila.json'),
 ]
-con=sqlite3.connect(DB); con.row_factory=sqlite3.Row
-cols=[r['name'] for r in con.execute('pragma table_info(social_content_requests)')]
-print(json.dumps({'columns':cols},ensure_ascii=False))
-q='select request_key,topic_key,topic_title,desired_format,copy_text,planned_for,decision,decision_note,approved_by,approved_at,figma_url,status,requester,requested_at,updated_at from social_content_requests where request_key in (%s) or topic_key=? order by requested_at,planned_for'%(','.join('?'*len(keys)))
-params=keys+['automation-governance-2026-09']
-print(json.dumps([dict(r) for r in con.execute(q,params)],ensure_ascii=False,indent=2))
-out=Path('/home/simplifique/.hermes/state/simplifique-social-requests/pending')
-print(json.dumps({'pending':[str(p) for p in sorted(out.glob('*.json'))]},ensure_ascii=False,indent=2))
+print('QUEUE_CANDIDATES')
+request_keys = []
+for path in queues:
+    data = json.loads(path.read_text(encoding='utf-8'))
+    for item in data.get('items', []):
+        request_key = (item.get('daily_request') or {}).get('request_key')
+        if request_key:
+            request_keys.append(request_key)
+        if item.get('status') not in {'ready', 'published', 'scheduled', 'discarded', 'deferred_video'}:
+            print(json.dumps({
+                'queue': path.name,
+                'order': item.get('order'),
+                'content_key': item.get('content_key'),
+                'status': item.get('status'),
+                'copy_gate': item.get('copy_gate'),
+                'request_key': request_key,
+                'planned_for': item.get('planned_for'),
+            }, ensure_ascii=False))
+
+con = sqlite3.connect('file:/home/simplifique/apps/daily-dashboard/data/users.db?mode=ro', uri=True)
+con.row_factory = sqlite3.Row
+print('DB_MATCHES')
+if request_keys:
+    marks = ','.join('?' for _ in request_keys)
+    sql = f'''select request_key, topic_key, topic_title, desired_format, status, decision,
+                     decision_note, approved_by, approved_at, planned_for, updated_at, figma_url,
+                     copy_text
+              from social_content_requests where request_key in ({marks})
+              order by requested_at, planned_for, request_key'''
+    for row in con.execute(sql, request_keys):
+        print(json.dumps(dict(row), ensure_ascii=False))
+print('DB_UNMATCHED_ACTIVE')
+for row in con.execute('''select request_key, topic_key, topic_title, desired_format, status, decision,
+                                 decision_note, approved_by, approved_at, planned_for, requested_at,
+                                 updated_at, figma_url, copy_text
+                          from social_content_requests
+                          where status not in ('ready','discarded')
+                          order by requested_at, planned_for, request_key'''):
+    if row['request_key'] not in request_keys:
+        print(json.dumps(dict(row), ensure_ascii=False))
+
+print('PENDING_JSON')
+outbox = Path('/home/simplifique/.hermes/state/simplifique-social-requests/pending')
+for path in sorted(outbox.glob('*.json')) if outbox.exists() else []:
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+    except Exception as exc:
+        data = {'error': str(exc)}
+    print(path, json.dumps(data, ensure_ascii=False))

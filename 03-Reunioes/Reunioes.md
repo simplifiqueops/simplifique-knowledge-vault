@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais|23/10/2026 — Calendário e ofertas da Black November — Realizando Potenciais]]
+- [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|23/10/2026 — Estratégia do TubeClub, SaaS e performance — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-22--oferta-comunicacao-bf26-realizando-potenciais|22/10/2026 — Oferta e revisão da comunicação da BF26 — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-21--podcast-black-friday-diagnostico-patricia-de-lucca|21/10/2026 — Podcast, Black Friday e diagnóstico — Patrícia de Lucca]]
 - [[03-Reunioes/2026/10/2026-10-20--teste-paginas-comunicacao-bf26-realizando-potenciais|20/10/2026 — Teste de páginas e comunicação da BF26 — Realizando Potenciais]]

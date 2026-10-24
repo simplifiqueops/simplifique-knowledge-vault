@@ -3,23 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-20T18:32:31-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-20; Reunião de 20/10/2026 — Reembolsos, ROAS e alinhamento operacional"
-confianca: "média: a transcrição fornecida foi compactada; o alinhamento do novo gestor tem evidência explícita, enquanto conclusões automáticas sem confirmação na transcrição não foram promovidas"
+atualizado_em: 2026-10-23T14:52:46-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd]]"
+fonte_atualizacao: "Reunião de 23/10/2026 — Estratégia do TubeClub, SaaS e performance"
+confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada e reconciliada; a hora informada na entrada diverge do início registrado pelo Fathom"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- O fechamento diário confirmou no Notion a finalização de duas etapas do painel audiovisual: revisar a plataforma após o acesso e evoluir o painel a partir da prévia enviada a Marcel.
-- Essas finalizações retiram a revisão da plataforma dos próximos passos ativos, mas não comprovam a conclusão da sincronização com o Monday, do preenchimento dos produtos nem da integração com o Daily.
-- Mudanças confirmadas em 20/10: Hallefy Moraes deverá contatar membros da equipe entre o dia da reunião e o dia seguinte para alinhar a organização das demandas.
-- Confirmações sem mudança na reunião: Hallefy permanece em onboarding como gerente de projeto; conexão ao Daily, validação da sincronização, preenchimento dos produtos e conclusão do bot Ella não receberam novo status.
-- Sinal externo ao escopo canônico de Audiovisual: Daniel Ferreira passa a assumir mais da operação com o novo gestor; retomada de Fórmula e VVSA, alinhamento de Black Friday, conversas individuais e riscos de reembolso/ROAS foram registrados na reunião sem ampliar o backlog audiovisual de Pablo.
-- Conflitos/lacunas: a transcrição foi compactada; o novo gestor aparece como Hallefy no estado canônico, mas como “Aleph” e “Alex” em falas e no resumo automático; conclusões automáticas sem confirmação inequívoca na transcrição não foram promovidas.
-- Fonte: [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|Reembolsos, ROAS e alinhamento operacional — Ei Nerd — 20/10/2026]].
+- Mudanças confirmadas em 23/10: a VSL atual do TubeClub permanecerá com nove treinamentos durante a Black Friday e será substituída por uma nova VSL após a campanha; duas remessas da Black Friday estavam com Fernando para conclusão no final do dia.
+- Confirmações sem mudança: o EDC continua restrito ao estado de Audiovisual e às dependências que o afetam; painel, Daily, bot Ella, SLA e sincronização com o Monday não receberam novo status.
+- Sinais externos ao escopo canônico de Audiovisual: TubeClub segue para assinatura SaaS com créditos; LTV:CAC orientará a aquisição de SaaS; a operação diversificará tráfego e formalizará o fluxo de conteúdo orgânico.
+- Riscos novos para o contexto audiovisual: menor volume de spots orgânicos enfraquece o remarketing; a WSales pode não estar implementada no início da Black Friday; a ficha precisa ser revertida após a campanha para não divergir da oferta.
+- Conflitos/lacunas: a data/hora informada na entrada diverge do início registrado pelo Fathom; alguns blocos da transcrição apresentam alternância de vozes sob um único locutor.
+- Fonte: [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -40,6 +39,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 
 ## 4. Frentes ativas
 - Gestão do fluxo audiovisual: Hallefy Moraes iniciou o onboarding como gerente de projeto; Pablo mantém a operação vigente no Monday e atualizará o SLA para compartilhamento com Hallefy.
+- Black Friday do TubeClub: manter a VSL atual com nove treinamentos durante a campanha; duas remessas estavam com Fernando para conclusão no final do dia; uma nova VSL deverá substituir a versão de campanha depois da Black Friday.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo e a evolução a partir da prévia constam como finalizadas no Notion, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
@@ -54,6 +54,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Editores e demais responsáveis: execução das entregas registradas no Monday e na planilha; responsabilidades individuais dependem da reconciliação operacional.
 
 ## 6. Decisões vigentes
+- Manter a VSL atual do TubeClub com nove treinamentos durante a Black Friday e substituí-la por uma nova VSL após a campanha.
 - As tarefas e entregas audiovisuais permanecem registradas no Monday, com aviso e dúvidas no grupo público para preservar visibilidade.
 - O EDC principal fica restrito ao estado operacional de Audiovisual e às dependências que o afetam.
 - Inteligência de marketing, produtos e funis fica em base separada até Pablo aprofundar o estudo.
@@ -61,6 +62,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O bot Ella deve ser concluído até 25/09/2026.
 
 ## 7. Gargalos
+- A redução dos spots orgânicos diminui o volume disponível para remarketing e pressiona o ROAS geral.
+- A implementação atrasada da WSales pode deixar a Black Friday sem essa frente no início da campanha.
 - O documento de SLA aguarda atualização por Pablo; o trecho disponível não permite caracterizar com precisão a defasagem atual.
 - Falhas no cumprimento da nomenclatura definida pelo tráfego prejudicam a identificação dos criativos e a leitura das métricas.
 - Monday, planilha de cursos e Google Drive não estão conciliados automaticamente.
@@ -75,6 +78,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 
 ## 9. Indicadores
+- Remessas da Black Friday: duas com Fernando, previstas para conclusão no final do dia de 23/10/2026; entrega ainda não comprovada no Vault.
+- ROAS geral da operação: queda declarada de cerca de 4 para 3,6–3,7; relação com menor volume orgânico apresentada na reunião, sem série histórica consolidada no Vault.
 - SLA de edição: atualização assumida por Pablo; prazo não definido.
 - Edição brasileira do YouTube Dark: conferência e retorno a Daniel assumidos por Pablo para amanhã cedo; resultado ainda não confirmado.
 - Painel audiovisual e de produtos: revisão por Pablo e evolução a partir da prévia finalizadas no Notion em 20/10/2026; completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
@@ -89,6 +94,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Expansão do painel além do mínimo necessário antes da validação com Marcel.
 
 ## 11. O que já não vale mais
+- Regravar imediatamente a VSL atual do TubeClub para incluir as novas ferramentas: a equipe decidiu manter a versão de nove treinamentos durante a Black Friday e produzir a nova VSL depois da campanha.
 - Usar o EDC do Ei Nerd como backlog amplo de páginas, tráfego, campanhas e decisões de marketing de toda a equipe.
 - Tratar a prévia do painel como não iniciada: ela já foi enviada a Marcel e a frente está andando.
 - Tratar a incorporação das gravações de Marcel como demanda aberta: essa etapa já foi finalizada; resta concluir o bot Ella.
@@ -98,6 +104,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como abertas a revisão da plataforma após o acesso e a evolução do painel a partir da prévia enviada a Marcel: o Notion registra ambas como `Finalizado`.
 
 ## 12. Próximo passo
+- Finalizar as duas remessas da Black Friday já recebidas — Responsável: Fernando Origuela — Prazo: hoje, no final do dia, conforme reunião de 23/10/2026.
+- Criar a nova VSL padrão do TubeClub após a campanha — Responsável: não definido — Prazo: após a Black Friday.
 - Contatar os membros da equipe para alinhar a organização das demandas — Responsável: Hallefy Moraes — Prazo: entre hoje e amanhã, conforme reunião de 20/10/2026.
 - Atualizar o documento de SLA e compartilhá-lo com Hallefy — Responsável: Pablo — Prazo: não definido.
 - Conferir o estado da edição brasileira do YouTube Dark e avisar Daniel — Responsável: Pablo — Prazo: amanhã cedo.
@@ -121,6 +129,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].
 - Fechamento diário Notion → EDC — 20/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente confirmou duas finalizações do painel audiovisual apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|Reembolsos, ROAS e alinhamento operacional — Ei Nerd — 20/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|Fluxo audiovisual e onboarding do gerente de projeto — Ei Nerd — 19/10/2026]].

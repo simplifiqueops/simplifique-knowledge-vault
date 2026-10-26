@@ -1,0 +1,40 @@
+{
+  "processed_request_key": "social-6bfd0e16b7a2aff2b503ab3e",
+  "topic_key": "automation-governance-2026-09",
+  "daily_readback": {
+    "request_key": "social-6bfd0e16b7a2aff2b503ab3e",
+    "topic_key": "automation-governance-2026-09",
+    "status": "discarded",
+    "decision": "discarded",
+    "decision_note": "Duplicado de social-d5384a9b07966269b967802a; mesmo topic_key automation-governance-2026-09.",
+    "updated_at": "2026-10-25T19:14:37.735664Z"
+  },
+  "canonical_readback": {
+    "request_key": "social-d5384a9b07966269b967802a",
+    "topic_key": "automation-governance-2026-09",
+    "status": "ready"
+  },
+  "archive": "/home/simplifique/.hermes/state/simplifique-social-requests/reconciled/duplicates/social-6bfd0e16b7a2aff2b503ab3e.json",
+  "archive_reconciliation": {
+    "status": "duplicate_archived",
+    "duplicate_of": "social-d5384a9b07966269b967802a",
+    "topic_key": "automation-governance-2026-09",
+    "reconciled_at": "2026-10-25T19:14:37.735664Z",
+    "database_readback": "discarded"
+  },
+  "source_still_pending": false,
+  "pending_remaining_count": 11,
+  "pending_remaining": [
+    "social-047e830a8faa574991645bc8.json",
+    "social-3bab8c2b469d9208b3d0e8b7.json",
+    "social-3c2d9af6f10687723da574ac.json",
+    "social-4916fd1919e58be696f275f6.json",
+    "social-5486e8e3c7cb7f0144295d21.json",
+    "social-59b46e3f1ab902c7eeafed9e.json",
+    "social-77835563231219b13ecbeba3.json",
+    "social-889a206bfc3f8c6fe739bbc1.json",
+    "social-a6a4e5bec0f5125d088964de.json",
+    "social-be146ab83d7f04bd84c11e9a.json",
+    "social-f289b143d0de64be7c71b6eb.json"
+  ]
+}

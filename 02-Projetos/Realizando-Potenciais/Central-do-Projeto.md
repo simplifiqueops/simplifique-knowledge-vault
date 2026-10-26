@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 42
+demandas_no_edc: 41
 decisoes_pendentes: 11
-edc_atualizado_em: 2026-10-23
+edc_atualizado_em: 2026-10-25
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** reprogramar comunicação e execução para a Black November de 5 a 27 de novembro, sem interromper a medição das páginas 2 e 4 por canal. **42 demandas** e **11 decisões pendentes** no EDC.
+> **P1:** reprogramar comunicação e execução para a Black November de 5 a 27 de novembro, sem interromper a medição das páginas 2 e 4 por canal. **41 demandas** e **11 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,7 +22,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 42
+## Demandas visíveis — 41
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 11

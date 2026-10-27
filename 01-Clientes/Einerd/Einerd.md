@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday; para a Black Friday, a VSL atual do TubeClub permanece com nove treinamentos, duas remessas estavam com Fernando para o final de 23/10 e uma nova VSL deverá substituir a versão de campanha depois da ação. As pendências anteriores de SLA, plataforma, Daily e bot Ella não receberam novo status.
+> A operação audiovisual segue registrada no Monday; o downsell de YouTube Dark saiu do fluxo atual da Black Friday, o downsell semestral do TubeClub ficou em R$497 e as copies precisam explicitar o acesso anual do YouTube Dark e a renovação automática do TubeClub. As pendências anteriores de SLA, plataforma, Daily e bot Ella não receberam novo status.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|26/10/2026 — Black Friday, plano de 90 dias e correção de copies]].
 - [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|23/10/2026 — Estratégia do TubeClub, SaaS e performance]].
 - [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|20/10/2026 — Reembolsos, ROAS e alinhamento operacional]].
 - [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|19/10/2026 — Fluxo audiovisual e onboarding do gerente de projeto]].

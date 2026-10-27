@@ -19,6 +19,9 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais|26/10/2026 — RP | BF26 — Estrutura da planilha de mensagens de WhatsApp]]
+- [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098|26/10/2026 — RP | BF26 — complemento de evidência]] · [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa-876582098|transcrição completa — call 876582098]]
+- [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais|26/10/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa]]
 - [[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais|23/10/2026 — Calendário e ofertas da Black November]]
 - [[03-Reunioes/2026/10/2026-10-22--oferta-comunicacao-bf26-realizando-potenciais|22/10/2026 — Oferta e revisão da comunicação da BF26]]
 - [[03-Reunioes/2026/10/2026-10-20--teste-paginas-comunicacao-bf26-realizando-potenciais|20/10/2026 — Teste de páginas e comunicação da BF26]]

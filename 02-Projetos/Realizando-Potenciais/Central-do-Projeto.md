@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 41
-decisoes_pendentes: 11
-edc_atualizado_em: 2026-10-25
+demandas_no_edc: 51
+decisoes_pendentes: 12
+edc_atualizado_em: 2026-10-26
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** reprogramar comunicação e execução para a Black November de 5 a 27 de novembro, sem interromper a medição das páginas 2 e 4 por canal. **41 demandas** e **11 decisões pendentes** no EDC.
+> **P1:** estruturar e executar a comunicação dos 17 grupos de WhatsApp, começando pelas 850 linhas codificadas, pelo scraping via prints e pelas UTMs por grupo, sem perder os e-mails concentrados até o dia 5. **51 demandas** e **12 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 41
+## Demandas visíveis — 51
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 11
+## Decisões pendentes — 12
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: a Black November foi redefinida para 5 a 27 de novembro; CSV e três workshops permanecem como ofertas e a comunicação precisa ser revisada para a nova data.
-- Lacuna principal: definir o responsável pela revisão de criativos, e-mails e mensagens, medir o desempenho por página e canal e verificar a divergência entre reinscrições e contagens por grupo.
+- Sinal atual: a operação definiu 850 linhas para W1 a W17, com códigos por fase, grupo e mensagem, e iniciou o uso da Naya por Thamyris.
+- Lacuna principal: confirmar a execução da planilha e do scraping, impedir limpeza no documento errado, corrigir a exclusão de inscritos e medir o primeiro lote por grupo.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

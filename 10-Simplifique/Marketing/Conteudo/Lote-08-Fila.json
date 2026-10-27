@@ -1482,7 +1482,12 @@
           "social-889a206bfc3f8c6fe739bbc1",
           "social-a6a4e5bec0f5125d088964de",
           "social-be146ab83d7f04bd84c11e9a",
-          "social-f289b143d0de64be7c71b6eb"
+          "social-f289b143d0de64be7c71b6eb",
+          "social-049f658587d74d0b27161714",
+          "social-1920d9a90cc2142537e16466",
+          "social-2915abb6ea06dafb251999db",
+          "social-78068171358d897fcb7b5b72",
+          "social-ab9a0cf481c526e48bff6603"
         ],
         "requested_at": "2026-09-29T18:16:58Z",
         "desired_format": "carrossel",
@@ -1517,7 +1522,7 @@
       "publication_status": "scheduled",
       "blocking_issues": [],
       "non_blocking_notes": [
-        "162 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
+        "167 clique(s) repetido(s) para o mesmo topic_key foram deduplicados no request canônico.",
         "A pauta anterior sobre limite, aprovação e reversão foi substituída após feedback de repetição.",
         "O snapshot com example.com permaneceu excluído como evidência de tendência.",
         "A fotografia Pexels 30215680 foi aplicada com origem, autoria e arquivo local preservados.",
@@ -1528,7 +1533,7 @@
         "Artefato editável, não exportado, não agendado e não publicado."
       ],
       "started_at": "2026-10-01T20:45:37-03:00",
-      "updated_at": "2026-10-25T21:17:41.606337Z",
+      "updated_at": "2026-10-26T17:33:11.311631Z",
       "completed_at": "2026-10-03T06:51:35-03:00",
       "draft_completed_at": "2026-10-02T13:40:27-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08/L08-C11-governanca-automacoes-d5384a",

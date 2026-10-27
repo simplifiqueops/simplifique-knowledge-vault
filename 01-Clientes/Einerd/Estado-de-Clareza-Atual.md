@@ -3,22 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-23T14:52:46-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd]]"
-fonte_atualizacao: "Reunião de 23/10/2026 — Estratégia do TubeClub, SaaS e performance"
-confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada e reconciliada; a hora informada na entrada diverge do início registrado pelo Fathom"
+atualizado_em: 2026-10-26T14:17:37-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd]]"
+fonte_atualizacao: "Reunião de 26/10/2026 — Black Friday, plano de 90 dias e correção de copies"
+confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada e reconciliada; a entrada original continha transcrição compactada e a hora informada diverge do início registrado pelo Fathom"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas em 23/10: a VSL atual do TubeClub permanecerá com nove treinamentos durante a Black Friday e será substituída por uma nova VSL após a campanha; duas remessas da Black Friday estavam com Fernando para conclusão no final do dia.
+- Mudanças confirmadas em 26/10: o downsell de YouTube Dark saiu do fluxo atual da Black Friday e foi reposicionado no funil do Fórmula; o downsell semestral do TubeClub ficou em R$497 e o “Mais um Ano” permaneceu em R$397; as copies precisam distinguir o acesso anual do YouTube Dark da assinatura anual com renovação automática do TubeClub.
 - Confirmações sem mudança: o EDC continua restrito ao estado de Audiovisual e às dependências que o afetam; painel, Daily, bot Ella, SLA e sincronização com o Monday não receberam novo status.
-- Sinais externos ao escopo canônico de Audiovisual: TubeClub segue para assinatura SaaS com créditos; LTV:CAC orientará a aquisição de SaaS; a operação diversificará tráfego e formalizará o fluxo de conteúdo orgânico.
-- Riscos novos para o contexto audiovisual: menor volume de spots orgânicos enfraquece o remarketing; a WSales pode não estar implementada no início da Black Friday; a ficha precisa ser revertida após a campanha para não divergir da oferta.
-- Conflitos/lacunas: a data/hora informada na entrada diverge do início registrado pelo Fathom; alguns blocos da transcrição apresentam alternância de vozes sob um único locutor.
-- Fonte: [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].
+- Sinais externos ao escopo canônico de Audiovisual: o plano de 90 dias prioriza base, recorrência e backend, mas ainda depende de desdobramento individual e definições adicionais; ROAS diário foi reportado em 2,85 e o LTV da PlaySquad em 2,43 meses.
+- Riscos novos para o contexto audiovisual: a VSL pode exibir R$597 até ser corrigida; a copy do YouTube Dark não informa o acesso anual; a copy do TubeClub não explicita a renovação automática.
+- Conflitos/lacunas: a data/hora informada na entrada diverge do início registrado pelo Fathom; alguns blocos da transcrição apresentam alternância de vozes sob um único locutor; não houve responsável explícito para as duas correções de copy.
+- Fonte: [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|Black Friday, plano de 90 dias e correção de copies — Ei Nerd — 26/10/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -31,15 +31,16 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Aprendizados de YouTube Dark registrados na base de inteligência.
 
 ## 3. Prioridades
-1. Validar a sincronização da plataforma com o Monday e corrigir divergências encontradas.
-2. Concluir o bot Ella até 25/09/2026.
-3. Conectar a visão do painel audiovisual ao Daily.
-4. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
-5. Atualizar o SLA de edição e alinhá-lo com Hallefy.
+1. Corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub.
+2. Validar a sincronização da plataforma com o Monday e corrigir divergências encontradas.
+3. Concluir o bot Ella até 25/09/2026.
+4. Conectar a visão do painel audiovisual ao Daily.
+5. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
+6. Atualizar o SLA de edição e alinhá-lo com Hallefy.
 
 ## 4. Frentes ativas
 - Gestão do fluxo audiovisual: Hallefy Moraes iniciou o onboarding como gerente de projeto; Pablo mantém a operação vigente no Monday e atualizará o SLA para compartilhamento com Hallefy.
-- Black Friday do TubeClub: manter a VSL atual com nove treinamentos durante a campanha; duas remessas estavam com Fernando para conclusão no final do dia; uma nova VSL deverá substituir a versão de campanha depois da Black Friday.
+- Black Friday e copies: manter a VSL atual do TubeClub com nove treinamentos durante a campanha; corrigir o downsell semestral para R$497; retirar o downsell de YouTube Dark do fluxo atual; explicitar o acesso anual do YouTube Dark e a renovação automática do TubeClub.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo e a evolução a partir da prévia constam como finalizadas no Notion, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
@@ -54,6 +55,9 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Editores e demais responsáveis: execução das entregas registradas no Monday e na planilha; responsabilidades individuais dependem da reconciliação operacional.
 
 ## 6. Decisões vigentes
+- Retirar o downsell de YouTube Dark do fluxo atual da Black Friday e utilizá-lo no funil do Fórmula após a recusa do upsell de TubeClub.
+- Fixar em R$497 o downsell de seis meses do TubeClub e manter em R$397 o upsell “Mais um Ano”.
+- Diferenciar a comunicação dos produtos: YouTube Dark oferece um ano de acesso sem renovação automática; TubeClub é uma assinatura anual com renovação automática.
 - Manter a VSL atual do TubeClub com nove treinamentos durante a Black Friday e substituí-la por uma nova VSL após a campanha.
 - As tarefas e entregas audiovisuais permanecem registradas no Monday, com aviso e dúvidas no grupo público para preservar visibilidade.
 - O EDC principal fica restrito ao estado operacional de Audiovisual e às dependências que o afetam.
@@ -62,6 +66,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O bot Ella deve ser concluído até 25/09/2026.
 
 ## 7. Gargalos
+- A VSL do downsell semestral do TubeClub pode continuar exibindo R$597 até a correção para R$497.
+- A copy do YouTube Dark não informa o acesso anual, e a copy do TubeClub não explicita a renovação automática.
 - A redução dos spots orgânicos diminui o volume disponível para remarketing e pressiona o ROAS geral.
 - A implementação atrasada da WSales pode deixar a Black Friday sem essa frente no início da campanha.
 - O documento de SLA aguarda atualização por Pablo; o trecho disponível não permite caracterizar com precisão a defasagem atual.
@@ -104,6 +110,10 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como abertas a revisão da plataforma após o acesso e a evolução do painel a partir da prévia enviada a Marcel: o Notion registra ambas como `Finalizado`.
 
 ## 12. Próximo passo
+- Corrigir para R$497 o preço do downsell semestral do TubeClub na VSL usando IA — Responsável: Hallefy Moraes — Prazo: não definido.
+- Atualizar a copy do YouTube Dark e regravar a oferta para informar o acesso anual — Responsável: não definido — Prazo: não definido.
+- Explicitar a renovação automática nas copies do TubeClub — Responsável: não definido — Prazo: não definido.
+- Definir o processo de conteúdo orgânico, da planilha de ideias à aprovação e roteirização — Responsável: Daniel Ferreira e Kemuel de Mel Leopoldino — Prazo: não definido.
 - Finalizar as duas remessas da Black Friday já recebidas — Responsável: Fernando Origuela — Prazo: hoje, no final do dia, conforme reunião de 23/10/2026.
 - Criar a nova VSL padrão do TubeClub após a campanha — Responsável: não definido — Prazo: após a Black Friday.
 - Contatar os membros da equipe para alinhar a organização das demandas — Responsável: Hallefy Moraes — Prazo: entre hoje e amanhã, conforme reunião de 20/10/2026.
@@ -129,6 +139,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|Black Friday, plano de 90 dias e correção de copies — Ei Nerd — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].
 - Fechamento diário Notion → EDC — 20/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente confirmou duas finalizações do painel audiovisual apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|Reembolsos, ROAS e alinhamento operacional — Ei Nerd — 20/10/2026]].

@@ -3,28 +3,28 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-25T18:31:04-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais]]"
-fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-10-25"
-fonte_complementar: "https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para a finalização dos ajustes de links confirmada no Notion; média para o restante do estado oriundo da transcrição compactada de 23/10"
+atualizado_em: 2026-10-26T21:33:57Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/TRzNRQHimSzLvsi-5epnyypWmRzpzEPt"
+fonte_complementar: "[[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+confianca: "alta para os itens presentes na captura de 21:33:57Z; a transcrição recebida estava compactada, e as lacunas permanecem explícitas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
-- O Notion confirmou como `Finalizado` o ajuste dos links para direcionar e-mails à página versão 2 e grupos de WhatsApp à versão 4; a ação saiu dos próximos passos ativos.
-- A janela operacional da Black November mudou para 5 a 27 de novembro, substituindo a abertura anteriormente registrada para 29 de outubro.
-- CSV e os três workshops foram reafirmados como ofertas da campanha; Pablo assumiu registrar essa composição no termo de abertura.
-- Criativos, e-mails e mensagens precisam ser revisados para refletir a nova data de início; o responsável não ficou definido nos trechos disponíveis.
-- Pablo e Arcindo Negreiros assumiram apresentar ao time, na reunião de segunda-feira, a trilha geral até abril e detalhar novembro e dezembro.
-- A redução de uma semana na janela de vendas mantém ativo o risco de pressão sobre comunicação e execução comercial.
-- O plano de lotes, preços e lançamentos de dezembro a junho, a cadência de comunicação e a metodologia “Playa” constam apenas no resumo ou em trechos omitidos e não foram incorporados ao estado canônico.
-- As demais frentes, decisões, demandas e riscos anteriores não foram contraditos e permanecem vigentes.
+- A produção dos grupos de WhatsApp foi separada da área de e-mails e automações do Fufunel.
+- O lote principal foi definido em 850 linhas, com 50 mensagens para cada grupo de W1 a W17 e uma linha por mensagem e por grupo; W18 e os sete grupos de webinário ficaram fora desse lote.
+- Os códigos seguirão `BF26-[fase]-[grupo]-[número da mensagem]`, usando `CAP` para captura e `CAR` para carrinho.
+- A cadência foi detalhada de 4/11 a 27/11, com maior concentração em 5/11, 6/11, 26/11 e 27/11.
+- Thamyris deverá enviar prints dos grupos à Naya para extração de contatos e aplicação de tags; a Naya deverá organizar as 850 linhas na planilha.
+- O acesso de Thamyris à Naya foi liberado e o alinhamento das 18h foi realizado; ambos deixam de ser próximos passos abertos.
+- Permanece o risco de a limpeza automatizada atingir por engano o documento usado pelo Fufunel.
+- A transcrição recebida estava compactada; os itens ausentes não foram reconstruídos e as demais informações vigentes não contraditas foram preservadas.
 
 ## 1. Objetivo atual
-Executar o planejamento confirmado da Black Friday, validar a Naia após a conclusão dos ajustes registrados no Notion e finalizar os ajustes ainda abertos de página e materiais do Energia Infinita, mantendo as responsabilidades de estratégia, tecnologia e aprovação separadas da execução especializada.
+Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp segmentado e a concentração de e-mails orientada pelo dashboard, sem perder a validação da Naia e os ajustes ainda abertos do Energia Infinita.
 
 ## 2. Resultado esperado
 - Naia operacional com ferramentas, acessos e limitações conhecidos.
@@ -36,8 +36,8 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Reprogramar a comunicação e a execução comercial para a Black November de 5 a 27 de novembro, revisando criativos, e-mails e mensagens sem interromper a medição das páginas 2 e 4 por canal.
-2. Usar o relatório e o dicionário de tags já refinados para definir públicos e destravar as metas de vendas, mantendo a execução da Black Friday organizada na planilha do plano de ação.
+1. Organizar e executar a comunicação personalizada dos 17 grupos de WhatsApp, começando pela estrutura de 850 linhas com códigos e UTMs por grupo e pela extração dos contatos via prints.
+2. Programar dez e-mails para cada um de G1, G2, G3 e G8 até o dia 5, auditando diariamente a exclusão de inscritos e a eficiência dos envios.
 3. Concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita.
 4. Manter dependências externas e execuções especializadas fora da fila direta de Pablo.
 
@@ -45,8 +45,9 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
 - Full Funnel: pertence à operação da Realizando Potenciais. Pablo pretende conceder acesso à Simplifique para leitura de dados e extração de inteligência sobre a organização e para apoiar a continuidade operacional quando a janela de tokens da Naia se esgotar; acesso ainda não concedido, escopo e permissões ainda precisam ser definidos.
-- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV e três workshops foram reafirmados como ofertas; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; foram confirmadas metas de 50 vendas no cenário conservador, 53 no cenário base e 100 no otimista, mas a base financeira permanece conflitante entre R$ 797 e R$ 1.500; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a janela operacional da Black November foi redefinida para 5 a 27 de novembro.
-- Comunicação da BF26: dois envios de e-mail ao G4 e 18 envios para cada um dos grupos G5 e G6 permanecem registrados pela reunião anterior; o G4 foi excluído dos envios por API; Realizando Potenciais fará e-mails de aquecimento a cada dois dias para os inscritos; o ajuste dos links para direcionar e-mails à página versão 2 e grupos de WhatsApp à versão 4, com trigger links, consta como finalizado no Notion; as quantidades de API por grupo aguardam validação.
+- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV e três workshops foram reafirmados como ofertas; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; o piso de 50 vendas foi reafirmado em 26/10, sem redução pelo aumento do ticket; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a janela operacional da Black November foi redefinida para 5 a 27 de novembro.
+- Comunicação da BF26: o WhatsApp é a primeira linha de ação e receberá comunicação personalizada para 17 grupos, enviada de forma pessoal até o dia 5; o e-mail é a segunda linha, com dez envios para cada um de G1, G2, G3 e G8 até o dia 5; o G4 não integra essa concentração por custo e baixa resposta; o ajuste dos links para direcionar e-mails à página versão 2 e grupos de WhatsApp à versão 4, com trigger links, consta como finalizado no Notion.
+- Planilha de mensagens da BF26: as produções de grupos de WhatsApp foram separadas das produções de e-mails e automações do Fufunel; W1 a W17 receberão 50 mensagens cada em uma estrutura de 850 linhas, com códigos por fase, grupo e mensagem; W18 e os sete grupos de webinário ficaram fora desse lote.
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
 - Dashboard da BF26: consolidação de inscrições, respostas à pesquisa, entradas no grupo e execução; a segmentação ganhará o grupo `Novos Inscritos`, mas a regra de reinscrições e as contagens por grupo ainda precisam de verificação.
 - Automação do Congresso de Vendas: duplicação da estrutura anterior `Em progresso`; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
@@ -87,6 +88,12 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Pablo: atualizar o termo de abertura com o CSV e os três workshops.
 - Responsável não definido: revisar criativos, e-mails e mensagens para refletir o início da Black November em 5 de novembro.
 - Pablo e Arcindo Negreiros: apresentar à equipe a trilha geral até abril, com foco nos detalhes de novembro e dezembro, na reunião de segunda-feira.
+- Pablo: programar dez e-mails para cada um de G1, G2, G3 e G8 até o dia 5; levantar o histórico de pesquisas e comunicações; preparar UTMs e links encurtados por grupo. O acesso de Thamyris à Naya foi liberado em 26/10/2026.
+- Thamyris Valentim: enviar a planilha dos grupos a Pablo; executar e testar a comunicação personalizada nos grupos; finalizar o formulário da Cúpula e enviá-lo a Vanessa para validação.
+- Dra. Vanessa Cesnik: apoiar Thamyris nos primeiros ciclos de construção e análise das mensagens personalizadas.
+- Responsável não definido: auditar diariamente os envios de e-mail e confirmar se a mensagem de mudança de data foi enviada.
+- Naya: organizar na planilha as 850 linhas de mensagens para W1 a W17 com os novos códigos.
+- Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
@@ -127,6 +134,15 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Realizar a Black November de 5 a 27 de novembro.
 - Manter o CSV e os três workshops como ofertas da Black November.
 - Apresentar à equipe, na reunião de segunda-feira, a trilha geral até abril e detalhar novembro e dezembro.
+- Manter o piso de 50 vendas, sem reduzi-lo em razão do aumento do ticket.
+- Priorizar o WhatsApp como primeira linha de ação, com comunicação personalizada por grupo e envio pessoal até o dia 5.
+- Enviar dez e-mails para cada um de G1, G2, G3 e G8 entre o dia da reunião e o dia 5, sem concentrar o esforço atual no G4.
+- Produzir as mensagens de WhatsApp em lotes curtos e ajustar os lotes seguintes com análise diária dos resultados.
+- Operar o acompanhamento da campanha em ciclo diário de dados, decisão e ação.
+- Separar as produções de grupos de WhatsApp das produções de e-mails e automações do Fufunel.
+- Adotar códigos no formato `BF26-[fase]-[grupo]-[número da mensagem]`, usando `CAP` para captura e `CAR` para carrinho.
+- Estruturar uma linha por mensagem e por grupo para W1 a W17, totalizando 850 linhas; W18 e os sete grupos de webinário ficam fora desse lote.
+- Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
@@ -144,6 +160,11 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - A manutenção do ritmo atual de inscrições pode impedir o atingimento da meta da campanha.
 - Os criativos enviados a tráfego ainda não haviam gerado inscrições em 22/10/2026, e o alcance orgânico relatado estava próximo de zero.
 - A mudança do início da Black November para 5 de novembro reduziu em uma semana a janela de vendas e aumentou a pressão sobre comunicação e execução comercial.
+- A campanha ainda não atingiu metade do piso de 50 vendas após duas semanas, com aproximadamente uma semana restante no horizonte citado em 26/10.
+- O mesmo link nos grupos de WhatsApp impede atribuir as inscrições por grupo e reduz a segurança da análise de comunicação.
+- A ausência de fiscalização diária permitiu que pessoas já inscritas continuassem recebendo e-mails por dez dias, com desperdício de orçamento e desgaste do público.
+- O processo decisório continua vulnerável quando a equipe não transforma os dados do dashboard em recomendações e depende da análise pessoal de Arcindo Negreiros.
+- A limpeza automatizada da planilha pode atingir por engano o documento usado pelo Fufunel, em vez da área exclusiva dos grupos de WhatsApp.
 
 ## 8. Bloqueios
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
@@ -179,6 +200,10 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Segmentação no dashboard: o total de 11 pessoas já presentes na base diverge das contagens apresentadas por grupo; regra e origem da diferença ainda não verificadas.
 - E-mail 1 do G1: 25 aberturas, um clique e nenhuma inscrição identificada no dashboard; a ação de verificar inscrição e possível falha de envio foi finalizada no Notion em 20/10/2026, mas o resultado não foi documentado na fonte operacional.
 - Captação da BF26 em 19/10/2026: o resumo automático informou 91 inscritos, 17% da meta de 529 e cerca de quatro inscrições por dia; os números não foram auditados de forma independente nos trechos visíveis, mas a insuficiência do ritmo para a meta foi confirmada por Pablo.
+- Canais em 26/10/2026: o dashboard exibido registrou 63 inscrições pelo WhatsApp, 37 pelo e-mail e 30 pelo ManyChat; os números são retrato da reunião, não auditoria independente.
+- Meta de vendas em 26/10/2026: piso de 50 vendas reafirmado; a operação relatou não ter atingido metade após duas semanas.
+- Eficiência de e-mail em 26/10/2026: inscritos permaneceram nos envios por dez dias; correção ainda não confirmada.
+- Estrutura de mensagens de WhatsApp em 26/10/2026: lote de 850 linhas para W1 a W17, com 50 mensagens por grupo e códigos únicos por fase, grupo e mensagem; execução ainda não confirmada.
 
 ## 10. O que está pausado
 - Escalar automações ou funis antes de concluir ajustes e critérios.
@@ -200,6 +225,11 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Manter como aberta a ação de confirmar a inscrição do Grupo 1 e verificar possível falha de envio no Full Funnel: o Notion registra o item como `Finalizado`; o resultado da verificação continua não documentado.
 - Tratar 29 de outubro como abertura vigente da Black November: a reunião de 23/10 redefiniu a janela para 5 a 27 de novembro.
 - Manter como aberto o ajuste dos links por canal: o Notion confirmou a finalização do direcionamento de e-mails à versão 2 e grupos de WhatsApp à versão 4.
+- Reduzir o piso comercial para 38 vendas por causa do aumento do ticket: o piso de 50 vendas foi reafirmado em 26/10/2026.
+- Tratar e-mail como primeira linha de ação da BF26: em 26/10/2026 o WhatsApp passou a ocupar essa posição.
+- Usar a mesma comunicação e o mesmo link para todos os grupos de WhatsApp como estratégia vigente: a operação decidiu personalizar mensagens e UTMs por grupo.
+- Manter como aberta a liberação do acesso de Thamyris Valentim à Naya: o acesso foi concedido durante a reunião de 26/10/2026.
+- Manter como aberto o alinhamento das 18h para iniciar a construção das mensagens: a reunião de estruturação foi realizada.
 
 ## 12. Próximo passo
 - Analisar a frequência orgânica de conteúdo da Vanessa: identificar quando começou a publicação de três conteúdos por dia; comparar esse período com períodos de menor volume de vídeos; excluir da análise as publicações com distribuição de tráfego pago; medir ganho de seguidores, curtidas e engajamento; e concluir qual frequência e combinação de formatos gera melhor resultado orgânico — Responsável: Pablo — Prazo: não definido.
@@ -243,6 +273,16 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Atualizar o termo de abertura com o CSV e os três workshops — Responsável: Pablo — Prazo: não definido.
 - Revisar os criativos, e-mails e mensagens para refletir o início da Black November em 5 de novembro — Responsável: não definido — Prazo: não definido.
 - Apresentar à equipe a trilha geral até abril, com foco nos detalhes de novembro e dezembro — Responsável: Pablo e Arcindo Negreiros — Prazo: reunião de segunda-feira.
+- Programar dez e-mails para cada um dos grupos G1, G2, G3 e G8 — Responsável: Pablo — Prazo: do dia da reunião até o dia 5.
+- Enviar a planilha dos grupos de WhatsApp a Pablo — Responsável: Thamyris Valentim — Prazo: não definido.
+- Levantar o histórico de pesquisas e comunicações dos grupos e repassar o contexto para a construção das mensagens — Responsável: Pablo — Prazo: não definido.
+- Construir, revisar, enviar e testar mensagens personalizadas para os 17 grupos de WhatsApp — Responsável: Thamyris Valentim, com apoio inicial de Dra. Vanessa Cesnik — Prazo: primeiro lote amanhã e depois de amanhã; sequência ao longo dos próximos 10 dias.
+- Preparar links encurtados com UTMs específicas por grupo — Responsável: Pablo — Prazo: durante a construção das mensagens.
+- Auditar tentativas, entregas, endereços ativos e exclusão de inscritos dos envios de e-mail — Responsável: não definido — Prazo: diariamente.
+- Finalizar o formulário da Cúpula e enviá-lo para validação — Responsável: Thamyris Valentim — Prazo: não definido.
+- Confirmar se a mensagem de mudança de data foi enviada — Responsável: não definido — Prazo: não definido.
+- Organizar na planilha 850 linhas, com uma linha por mensagem e por grupo de W1 a W17, usando os novos códigos — Responsável: Naya — Prazo: não definido.
+- Enviar prints dos grupos de WhatsApp à Naya para extrair os contatos e aplicar as tags — Responsável: Thamyris Valentim — Prazo: não definido.
 
 ## 13. Próxima decisão
 - Confirmar, após o teste em dois conteúdos, se o rastreamento por URL é suficiente ou se será necessário adotar tags diárias.
@@ -256,8 +296,12 @@ Executar o planejamento confirmado da Black Friday, validar a Naia após a concl
 - Validar a quantidade de mensagens de API destinada a cada grupo, pois os trechos disponíveis registram números sem associação inequívoca aos públicos.
 - Decidir se a tela de segmentação deve permanecer após a verificação das regras e a comparação com os dados já disponíveis em Pesquisa.
 - Avaliar o resultado do teste entre as versões 2 e 4 e definir qual página e combinação de canais deve prevalecer.
+- Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais|RP | BF26 — Estrutura da planilha de mensagens de WhatsApp — 26/10/2026]].
+- [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098|RP | BF26 — Fechamento executivo da meta — complemento de evidência — 26/10/2026]].
+- [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — 26/10/2026]].
 - Fechamento diário Notion → EDC — 25/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou uma finalização editada após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-23--calendario-ofertas-black-november-realizando-potenciais|Calendário e ofertas da Black November — Realizando Potenciais — 23/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-22--oferta-comunicacao-bf26-realizando-potenciais|Oferta e revisão da comunicação da BF26 — Realizando Potenciais — 22/10/2026]].

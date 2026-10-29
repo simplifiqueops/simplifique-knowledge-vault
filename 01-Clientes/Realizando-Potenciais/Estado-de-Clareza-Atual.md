@@ -3,10 +3,10 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-26T21:33:57Z
+atualizado_em: 2026-10-28T18:32:12-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]"
 fonte_atualizacao: "https://fathom.video/share/TRzNRQHimSzLvsi-5epnyypWmRzpzEPt"
-fonte_complementar: "[[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+fonte_complementar: "Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
 confianca: "alta para os itens presentes na captura de 21:33:57Z; a transcrição recebida estava compactada, e as lacunas permanecem explícitas"
 canonical: true
 ---
@@ -14,6 +14,8 @@ canonical: true
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O fechamento diário recuperou três finalizações no Notion editadas após a atualização anterior do EDC: dimensionamento e encaminhamento dos chips, duplicação da automação do Congresso de Vendas e organização dos depoimentos disponíveis.
+- As três ações saem dos próximos passos ativos; o Notion comprova a conclusão das tarefas, mas não documenta o resultado do dimensionamento dos chips, o conteúdo dos depoimentos nem o funcionamento final da automação duplicada.
 - A produção dos grupos de WhatsApp foi separada da área de e-mails e automações do Fufunel.
 - O lote principal foi definido em 850 linhas, com 50 mensagens para cada grupo de W1 a W17 e uma linha por mensagem e por grupo; W18 e os sete grupos de webinário ficaram fora desse lote.
 - Os códigos seguirão `BF26-[fase]-[grupo]-[número da mensagem]`, usando `CAP` para captura e `CAR` para carrinho.
@@ -45,12 +47,12 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
 - Ferramentas: inventário consolidado e Naia atualizada segundo o status finalizado do Notion; o conteúdo detalhado do inventário não foi reproduzido no EDC.
 - Full Funnel: pertence à operação da Realizando Potenciais. Pablo pretende conceder acesso à Simplifique para leitura de dados e extração de inteligência sobre a organização e para apoiar a continuidade operacional quando a janela de tokens da Naia se esgotar; acesso ainda não concedido, escopo e permissões ainda precisam ser definidos.
-- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente e refinamento do relatório e do dicionário de tags constam como finalizados no Notion; CSV e três workshops foram reafirmados como ofertas; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, chips, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; o piso de 50 vendas foi reafirmado em 26/10, sem redução pelo aumento do ticket; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a janela operacional da Black November foi redefinida para 5 a 27 de novembro.
+- Black November 2026: planejamento considerado suficiente para execução; aplicação do prefixo `BN26`, criação da categoria correspondente, refinamento do relatório e do dicionário de tags e dimensionamento e encaminhamento dos chips constam como finalizados no Notion; CSV e três workshops foram reafirmados como ofertas; consolidado enviado a Arcindo, arquivos no Drive e datas registradas; o alinhamento de públicos e segmentação com Thamyris e Mari consta como finalizado; a planilha do plano de ação foi fixada como primeiro link de acompanhamento; materiais, grupos, narrativa e conteúdo orgânico seguem em organização; os conteúdos do Alicerce começaram em 14/10/2026; a página de captura é a passagem para cadastro, pesquisa e segmentação por tags; o piso de 50 vendas foi reafirmado em 26/10, sem redução pelo aumento do ticket; desde 20/10, a recuperação do ritmo de inscrições usa teste das páginas 2, “Sobrevivência”, e 4, “Desejo”, com novo criativo nas quatro páginas; a janela operacional da Black November foi redefinida para 5 a 27 de novembro.
 - Comunicação da BF26: o WhatsApp é a primeira linha de ação e receberá comunicação personalizada para 17 grupos, enviada de forma pessoal até o dia 5; o e-mail é a segunda linha, com dez envios para cada um de G1, G2, G3 e G8 até o dia 5; o G4 não integra essa concentração por custo e baixa resposta; o ajuste dos links para direcionar e-mails à página versão 2 e grupos de WhatsApp à versão 4, com trigger links, consta como finalizado no Notion.
 - Planilha de mensagens da BF26: as produções de grupos de WhatsApp foram separadas das produções de e-mails e automações do Fufunel; W1 a W17 receberão 50 mensagens cada em uma estrutura de 850 linhas, com códigos por fase, grupo e mensagem; W18 e os sete grupos de webinário ficaram fora desse lote.
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
 - Dashboard da BF26: consolidação de inscrições, respostas à pesquisa, entradas no grupo e execução; a segmentação ganhará o grupo `Novos Inscritos`, mas a regra de reinscrições e as contagens por grupo ainda precisam de verificação.
-- Automação do Congresso de Vendas: duplicação da estrutura anterior `Em progresso`; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
+- Automação do Congresso de Vendas: duplicação da estrutura anterior finalizada no Notion; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
 - Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a preparação e o envio da comparação dos cenários foram finalizados, mas a divisão definitiva entre plataformas segue aberta.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
@@ -62,7 +64,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Neg/Arcindo e equipe: participação nas decisões de ferramentas e nas decisões estratégicas do projeto; ações individuais não detalhadas nesta atualização.
 - Especialista humano de tráfego: necessário para a estratégia de mídia da Black Friday; pessoa ainda não confirmada.
 - Thamyris: enviar as regras do LABEX e o link do Telegram e reativar os cerca de 20 grupos de WhatsApp existentes.
-- Pablo e Mari: dimensionar a necessidade de chips, consultar opções e encaminhar compra e integração no Fufunel.
+- Pablo e Mari: dimensionamento e encaminhamento dos chips constam como finalizados no Notion; o resultado e a integração efetiva não foram documentados na fonte operacional.
 - Vanessa: finalizar e repassar a narrativa a Letícia e acionar a Naya para apoiar textos de LinkedIn da campanha.
 - Letícia: pesquisar vídeos virais de vendas no Instagram e TikTok.
 - Graci Lima: enviar os materiais da Black Friday e do Parcelado Hotmart e mapear a abertura do carrinho de 29 de outubro.
@@ -79,9 +81,9 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Responsável não definido: registrar diariamente no RPD os dados da operação até as 17h, a partir de 14/10/2026.
 - Responsável não definido: realizar a call diária às 17h com o NEG para revisar os dados e ajustar a campanha.
 - Participante identificado como Realizando Potenciais: enviar e-mails de aquecimento a cada dois dias para os inscritos.
-- Pablo: duplicar a automação anterior para o Congresso de Vendas e adaptar o corpo da mensagem e a tag.
+- Pablo: duplicação da automação anterior para o Congresso de Vendas finalizada no Notion; adaptação do corpo da mensagem e da tag continua aberta.
 - Pablo: automatizar a atualização do indicador de entrada no grupo, solicitar à Naya o consolidado de abertura e clique, pedir a verificação da regra divergente e inserir as demandas de produção em `Execução`; a confirmação das inscrições e do envio do G1 consta como finalizada no Notion.
-- Pablo: concluir o ajuste da página de captação e reunir, transcrever e organizar o acesso aos depoimentos disponíveis.
+- Pablo: concluir o ajuste da página de captação; reunião, transcrição e organização do acesso aos depoimentos constam como finalizadas no Notion.
 - Dra. Vanessa Cesnik: preparar e enviar a legenda do criativo de teste e revisar a cópia do e-mail G4.
 - Pablo: configurar o novo criativo nos quatro testes de página e estruturar uma proposta sobre comunidade; o ajuste dos links da versão 2 para e-mail e da versão 4 para WhatsApp consta como finalizado no Notion.
 - Responsável não definido: adicionar ao dashboard o grupo `Novos Inscritos`.
@@ -148,7 +150,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
 - Os bônus e demais componentes sugeridos para a oferta ainda não têm detalhamento suficiente para decisão e dimensionamento do tempo de Vanessa e Arcindo.
 - As informações da Black Friday permanecem dispersas entre documentos, elevando o risco de perda de contexto na execução.
-- A capacidade e a confiabilidade dos chips atuais do Fufunel ainda precisam ser dimensionadas, com risco para a segurança do lançamento.
+- O dimensionamento e o encaminhamento dos chips foram finalizados no Notion, mas o resultado, a compra e a integração efetiva no Fufunel não estão documentados no Vault.
 - Os ajustes restantes das páginas, do vídeo, dos materiais e do conteúdo do Energia Infinita ainda precisam ser concluídos e conferidos.
 - O time reduzido e a janela até o dia 14 podem comprometer a conclusão da produção da Black Friday no prazo pretendido.
 - A fonte fina usada na landing page pode prejudicar a legibilidade para parte do público até que seja substituída.
@@ -230,6 +232,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Usar a mesma comunicação e o mesmo link para todos os grupos de WhatsApp como estratégia vigente: a operação decidiu personalizar mensagens e UTMs por grupo.
 - Manter como aberta a liberação do acesso de Thamyris Valentim à Naya: o acesso foi concedido durante a reunião de 26/10/2026.
 - Manter como aberto o alinhamento das 18h para iniciar a construção das mensagens: a reunião de estruturação foi realizada.
+- Manter como abertas o dimensionamento e encaminhamento dos chips, a duplicação da automação do Congresso de Vendas e a organização dos depoimentos: o Notion registra as três ações como `Finalizado`; os resultados detalhados não constam na fonte operacional.
 
 ## 12. Próximo passo
 - Analisar a frequência orgânica de conteúdo da Vanessa: identificar quando começou a publicação de três conteúdos por dia; comparar esse período com períodos de menor volume de vídeos; excluir da análise as publicações com distribuição de tráfego pago; medir ganho de seguidores, curtidas e engajamento; e concluir qual frequência e combinação de formatos gera melhor resultado orgânico — Responsável: Pablo — Prazo: não definido.
@@ -238,7 +241,6 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Terminar de subir os materiais da reunião anterior — Responsável: Thamyris — Prazo: não definido.
 - Cobrar o envio dos casos para a próxima semana — Responsável: Thamyris — Prazo: não definido.
 - Enviar ao grupo o link da página com as regras do LABEX e o acesso ao Telegram — Responsável: Thamyris Valentim — Prazo: não definido.
-- Dimensionar a necessidade de chips para o lançamento, verificar opções com Lucas e outros contatos e encaminhar a compra e integração no Fufunel — Responsável: Pablo e Mari — Prazo: não definido.
 - Reativar os cerca de 20 grupos de WhatsApp existentes — Responsável: Thamyris Valentim — Prazo: não definido.
 - Preparar ideias de atividades interativas para os grupos durante a Black Friday — Responsável: não definido — Prazo: para a semana que vem.
 - Finalizar a narrativa da campanha e repassar as informações a Letícia para alinhamento do conteúdo orgânico — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
@@ -258,14 +260,12 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Registrar diariamente no RPD os dados da operação — Responsável: não definido — Prazo: diariamente até as 17h, a partir de amanhã (14/10/2026).
 - Realizar a call de revisão dos dados da campanha com o NEG — Responsável: não definido — Prazo: diariamente às 17h.
 - Enviar e-mails de aquecimento para os inscritos — Responsável: Realizando Potenciais — Prazo: a cada 2 dias.
-- Duplicar a automação anterior para o Congresso de Vendas — Responsável: Pablo — Prazo: não definido.
 - Atualizar o corpo da mensagem e a tag da nova automação — Responsável: Pablo — Prazo: não definido.
 - Automatizar a atualização do indicador de entrada no grupo — Responsável: Pablo — Prazo: não definido.
 - Solicitar à Naya o consolidado dos dados de abertura e clique dos e-mails — Responsável: Pablo — Prazo: não definido.
 - Solicitar a verificação da regra que gera a divergência entre reinscrições e inscritos por grupo — Responsável: Pablo — Prazo: não definido.
 - Adicionar o grupo `Novos Inscritos` ao dashboard — Responsável: não definido — Prazo: não definido.
 - Inserir as demandas de produção na seção `Execução` — Responsável: Pablo — Prazo: não definido.
-- Reunir e transcrever os depoimentos disponíveis e organizar o acesso ao material — Responsável: Pablo — Prazo: amanhã (20/10/2026).
 - Preparar e enviar a legenda do criativo de teste — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Configurar o novo criativo nos quatro testes de página — Responsável: Pablo — Prazo: não definido.
 - Revisar a cópia do e-mail G4 — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
@@ -299,6 +299,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 28/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou três finalizações editadas após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais|RP | BF26 — Estrutura da planilha de mensagens de WhatsApp — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098|RP | BF26 — Fechamento executivo da meta — complemento de evidência — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — 26/10/2026]].

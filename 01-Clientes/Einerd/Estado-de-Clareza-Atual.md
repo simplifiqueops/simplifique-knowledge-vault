@@ -3,7 +3,7 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-26T14:17:37-03:00
+atualizado_em: 2026-10-28T18:32:12-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd]]"
 fonte_atualizacao: "Reunião de 26/10/2026 — Black Friday, plano de 90 dias e correção de copies"
 confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada e reconciliada; a entrada original continha transcrição compactada e a hora informada diverge do início registrado pelo Fathom"
@@ -13,6 +13,8 @@ canonical: true
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
+- O fechamento diário recuperou duas finalizações no Notion editadas após a atualização anterior do EDC: revisão do material do VVSA e conferência da edição brasileira do YouTube Dark com aviso a Daniel.
+- A conferência da edição brasileira sai dos próximos passos ativos; o status finalizado não documenta o resultado da conferência nem o conteúdo do retorno a Daniel.
 - Mudanças confirmadas em 26/10: o downsell de YouTube Dark saiu do fluxo atual da Black Friday e foi reposicionado no funil do Fórmula; o downsell semestral do TubeClub ficou em R$497 e o “Mais um Ano” permaneceu em R$397; as copies precisam distinguir o acesso anual do YouTube Dark da assinatura anual com renovação automática do TubeClub.
 - Confirmações sem mudança: o EDC continua restrito ao estado de Audiovisual e às dependências que o afetam; painel, Daily, bot Ella, SLA e sincronização com o Monday não receberam novo status.
 - Sinais externos ao escopo canônico de Audiovisual: o plano de 90 dias prioriza base, recorrência e backend, mas ainda depende de desdobramento individual e definições adicionais; ROAS diário foi reportado em 2,85 e o LTV da PlaySquad em 2,43 meses.
@@ -44,11 +46,11 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo e a evolução a partir da prévia constam como finalizadas no Notion, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
-- Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais foram finalizados no Notion.
+- Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais e a revisão do material do VVSA foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 
 ## 5. Responsáveis
-- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, conferência da edição brasileira do YouTube Dark, painel audiovisual, integração com o Daily, conclusão do bot Ella e estudo do curso de YouTube Dark.
+- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, conclusão do bot Ella e estudo do curso de YouTube Dark; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
 - Hallefy Moraes: gerente de projeto em onboarding; deverá contatar membros da equipe para alinhar a organização das demandas entre o dia da reunião de 20/10 e o dia seguinte.
 - Marcel: criar e enviar o acesso de Pablo, preencher os detalhes dos produtos e verificar a sincronização de tarefas e status entre a plataforma e o Monday; prazo não definido.
 - Carla: governança das tasks e pastas do Monday conforme decisões anteriores.
@@ -87,7 +89,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Remessas da Black Friday: duas com Fernando, previstas para conclusão no final do dia de 23/10/2026; entrega ainda não comprovada no Vault.
 - ROAS geral da operação: queda declarada de cerca de 4 para 3,6–3,7; relação com menor volume orgânico apresentada na reunião, sem série histórica consolidada no Vault.
 - SLA de edição: atualização assumida por Pablo; prazo não definido.
-- Edição brasileira do YouTube Dark: conferência e retorno a Daniel assumidos por Pablo para amanhã cedo; resultado ainda não confirmado.
+- Edição brasileira do YouTube Dark: conferência e aviso a Daniel finalizados no Notion em 27/10/2026; resultado da conferência não documentado na fonte operacional.
+- Material do VVSA: revisão finalizada no Notion em 27/10/2026; conteúdo da revisão não documentado na fonte operacional.
 - Painel audiovisual e de produtos: revisão por Pablo e evolução a partir da prévia finalizadas no Notion em 20/10/2026; completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
 - Bot Ella: em andamento; prazo definido em 25/09/2026.
 - Integração com Daily: em progresso; conclusão não confirmada.
@@ -108,6 +111,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como aberta a revisão e entrega dos spots comerciais: o Notion registra o item como `Finalizado`.
 - Manter como aberta a reconciliação entre Monday, planilha de cursos e Google Drive: o Notion registra o item como `Finalizado`.
 - Manter como abertas a revisão da plataforma após o acesso e a evolução do painel a partir da prévia enviada a Marcel: o Notion registra ambas como `Finalizado`.
+- Manter como abertas a revisão do material do VVSA e a conferência da edição brasileira do YouTube Dark com aviso a Daniel: o Notion registra ambas como `Finalizado`.
 
 ## 12. Próximo passo
 - Corrigir para R$497 o preço do downsell semestral do TubeClub na VSL usando IA — Responsável: Hallefy Moraes — Prazo: não definido.
@@ -118,7 +122,6 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Criar a nova VSL padrão do TubeClub após a campanha — Responsável: não definido — Prazo: após a Black Friday.
 - Contatar os membros da equipe para alinhar a organização das demandas — Responsável: Hallefy Moraes — Prazo: entre hoje e amanhã, conforme reunião de 20/10/2026.
 - Atualizar o documento de SLA e compartilhá-lo com Hallefy — Responsável: Pablo — Prazo: não definido.
-- Conferir o estado da edição brasileira do YouTube Dark e avisar Daniel — Responsável: Pablo — Prazo: amanhã cedo.
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Preencher os detalhes dos produtos na plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Verificar a sincronização de tarefas e status entre a plataforma e o Monday — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -139,6 +142,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 28/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou duas finalizações editadas após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|Black Friday, plano de 90 dias e correção de copies — Ei Nerd — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].
 - Fechamento diário Notion → EDC — 20/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente confirmou duas finalizações do painel audiovisual apesar do snapshot sem delta.

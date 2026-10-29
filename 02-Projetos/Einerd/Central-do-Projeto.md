@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 15
+demandas_no_edc: 14
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-10-26
+edc_atualizado_em: 2026-10-28
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub; SLA, conexão ao Daily, sincronização, produtos e bot Ella seguem abertos. **15 demandas visíveis** e **3 decisões pendentes** no EDC.
+> **P1 · Audiovisual:** corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub; SLA, conexão ao Daily, sincronização, produtos e bot Ella seguem abertos. **14 demandas visíveis** e **3 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,7 +22,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 15
+## Demandas visíveis — 14
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 3
@@ -30,7 +30,7 @@ cssclasses: [simplifique-projetos]
 
 ## Preparação para DEP
 - Sinal atual: o fluxo atual da Black Friday não usará o downsell de YouTube Dark; o downsell semestral do TubeClub ficou em R$497 e as copies de YouTube Dark e TubeClub precisam de correções de transparência antes de permanecerem em circulação.
-- Lacuna principal: corrigir a VSL e as copies, atualizar o SLA, confirmar o resultado da edição brasileira do YouTube Dark, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.
+- Lacuna principal: corrigir a VSL e as copies, atualizar o SLA, documentar o resultado da conferência já finalizada da edição brasileira do YouTube Dark, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|26/10/2026]] confirmou as correções de preço e comunicação e registrou o processo de conteúdo orgânico como demanda de Daniel e Kemuel.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-19--fluxo-audiovisual-onboarding-gerente-projeto-einerd|19/10/2026]] confirmou o Monday e o grupo público como fluxo vigente e registrou risco de perda de rastreabilidade quando a nomenclatura do tráfego não é seguida.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-20--reembolsos-roas-alinhamento-operacional-einerd|20/10/2026]] registrou Daniel assumindo mais da operação com o novo gestor, retomada de Fórmula e VVSA, alinhamento de Black Friday, conversas individuais e riscos de reembolso/ROAS; no escopo audiovisual, acrescentou apenas o alinhamento de demandas por Hallefy.

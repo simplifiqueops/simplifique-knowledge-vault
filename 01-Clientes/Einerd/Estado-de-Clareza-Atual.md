@@ -3,24 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-28T18:32:12-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd]]"
-fonte_atualizacao: "Reunião de 26/10/2026 — Black Friday, plano de 90 dias e correção de copies"
-confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada e reconciliada; a entrada original continha transcrição compactada e a hora informada diverge do início registrado pelo Fathom"
+atualizado_em: 2026-10-29T16:32:01-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd]]"
+fonte_atualizacao: "Reunião de 29/10/2026 — modelo operacional por projeto e fase"
+confianca: "alta para a direção e os riscos citados: a transcrição completa do Fathom foi recuperada; a adoção organizacional do modelo ainda não foi confirmada e há inconsistências de diarização no encerramento"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- O fechamento diário recuperou duas finalizações no Notion editadas após a atualização anterior do EDC: revisão do material do VVSA e conferência da edição brasileira do YouTube Dark com aviso a Daniel.
-- A conferência da edição brasileira sai dos próximos passos ativos; o status finalizado não documenta o resultado da conferência nem o conteúdo do retorno a Daniel.
-- Mudanças confirmadas em 26/10: o downsell de YouTube Dark saiu do fluxo atual da Black Friday e foi reposicionado no funil do Fórmula; o downsell semestral do TubeClub ficou em R$497 e o “Mais um Ano” permaneceu em R$397; as copies precisam distinguir o acesso anual do YouTube Dark da assinatura anual com renovação automática do TubeClub.
-- Confirmações sem mudança: o EDC continua restrito ao estado de Audiovisual e às dependências que o afetam; painel, Daily, bot Ella, SLA e sincronização com o Monday não receberam novo status.
-- Sinais externos ao escopo canônico de Audiovisual: o plano de 90 dias prioriza base, recorrência e backend, mas ainda depende de desdobramento individual e definições adicionais; ROAS diário foi reportado em 2,85 e o LTV da PlaySquad em 2,43 meses.
-- Riscos novos para o contexto audiovisual: a VSL pode exibir R$597 até ser corrigida; a copy do YouTube Dark não informa o acesso anual; a copy do TubeClub não explicita a renovação automática.
-- Conflitos/lacunas: a data/hora informada na entrada diverge do início registrado pelo Fathom; alguns blocos da transcrição apresentam alternância de vozes sob um único locutor; não houve responsável explícito para as duas correções de copy.
-- Fonte: [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|Black Friday, plano de 90 dias e correção de copies — Ei Nerd — 26/10/2026]].
+- A reunião de 29/10 foi processada sem mudança material nas 13 dimensões do escopo canônico de Audiovisual; as prioridades vigentes, responsáveis e próximos passos permanecem inalterados.
+- Direção operacional externa ao escopo canônico: Pablo e Hallefy convergiram em usar uma visão combinada por projeto e por fase como proposta-base para os próximos alinhamentos; a adoção pelos heads ainda não foi confirmada.
+- Movimento confirmado: Hallefy registrou que conversaria com Daniel sobre a operacionalização do modelo; prazo indicado na conversa: “daqui a pouco”.
+- Riscos externos confirmados: comunicação mais difícil com o crescimento do time, centralização de decisões, dados pulverizados e perda de ritmo durante a curva de adoção no fim do ano.
+- Conflitos/lacunas: a entrada informou um horário posterior ao início registrado pelo Fathom; a diarização alterna locutores de forma inconsistente no encerramento; não há aprovação organizacional comprovada para o modelo.
+- Fonte: [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|Modelo operacional por projeto e fase — Ei Nerd — 29/10/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -142,6 +140,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|Modelo operacional por projeto e fase — Ei Nerd — 29/10/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra direção operacional e riscos externos ao escopo.
 - Fechamento diário Notion → EDC — 28/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou duas finalizações editadas após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|Black Friday, plano de 90 dias e correção de copies — Ei Nerd — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-23--estrategia-tubeclub-saas-performance-einerd|Estratégia do TubeClub, SaaS e performance — Ei Nerd — 23/10/2026]].

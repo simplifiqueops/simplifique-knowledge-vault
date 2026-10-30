@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 14
 decisoes_pendentes: 3
-edc_atualizado_em: 2026-10-28
+edc_atualizado_em: 2026-10-29
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -29,6 +29,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026]] alinhou o modelo combinado por projeto e por fase como proposta-base e registrou riscos de centralização, comunicação, dados pulverizados e adoção no fim do ano, sem mudança material nas demandas canônicas de Audiovisual.
 - Sinal atual: o fluxo atual da Black Friday não usará o downsell de YouTube Dark; o downsell semestral do TubeClub ficou em R$497 e as copies de YouTube Dark e TubeClub precisam de correções de transparência antes de permanecerem em circulação.
 - Lacuna principal: corrigir a VSL e as copies, atualizar o SLA, documentar o resultado da conferência já finalizada da edição brasileira do YouTube Dark, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|26/10/2026]] confirmou as correções de preço e comunicação e registrou o processo de conteúdo orgânico como demanda de Daniel e Kemuel.

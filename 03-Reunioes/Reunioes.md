@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026 — Modelo operacional por projeto e fase — Ei Nerd]]
 - [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais|26/10/2026 — RP | BF26 — Estrutura da planilha de mensagens de WhatsApp — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098|26/10/2026 — RP | BF26 — complemento de evidência — Realizando Potenciais]]
 - [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais|26/10/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]]

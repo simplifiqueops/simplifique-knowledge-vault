@@ -1,0 +1,43 @@
+{
+  "source": "Pexels",
+  "accessed": "2026-10-29",
+  "license_url": "https://www.pexels.com/license/",
+  "selected": [
+    {
+      "query": "professional woman looking at laptop thoughtful office",
+      "id": 8837788,
+      "width": 4000,
+      "height": 6000,
+      "url": "https://www.pexels.com/photo/elegant-businesswoman-sitting-at-table-in-office-8837788/",
+      "photographer": "Yan Krukau",
+      "photographer_url": "https://www.pexels.com/@yankrukov",
+      "alt": "A focused businesswoman in a white shirt working at a modern office desk with a laptop and notepad.",
+      "preview": "https://images.pexels.com/photos/8837788/pexels-photo-8837788.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "download": "https://images.pexels.com/photos/8837788/pexels-photo-8837788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "query": "woman hand keyboard laptop desk natural light",
+      "id": 6660415,
+      "width": 4373,
+      "height": 6560,
+      "url": "https://www.pexels.com/photo/close-up-of-hand-and-laptop-6660415/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "alt": "A woman's hand using a laptop touchpad on a wooden desk, showcasing modern technology.",
+      "preview": "https://images.pexels.com/photos/6660415/pexels-photo-6660415.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "download": "https://images.pexels.com/photos/6660415/pexels-photo-6660415.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "query": "empty workspace notebook sunlight minimal",
+      "id": 8947763,
+      "width": 4293,
+      "height": 6440,
+      "url": "https://www.pexels.com/photo/blank-notebook-on-the-table-8947763/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "alt": "Minimalist flat lay with blank notebook, glasses, red flowers, and pencil on grey surface.",
+      "preview": "https://images.pexels.com/photos/8947763/pexels-photo-8947763.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "download": "https://images.pexels.com/photos/8947763/pexels-photo-8947763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
+}

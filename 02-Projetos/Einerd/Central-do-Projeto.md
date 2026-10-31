@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 14
-decisoes_pendentes: 3
-edc_atualizado_em: 2026-10-29
+demandas_no_edc: 27
+decisoes_pendentes: 5
+edc_atualizado_em: 2026-10-30
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub; SLA, conexão ao Daily, sincronização, produtos e bot Ella seguem abertos. **14 demandas visíveis** e **3 decisões pendentes** no EDC.
+> **P1 · Audiovisual:** corrigir a VSL e as copies, consolidar fichas e ativos dos produtos e desenhar o pipeline de produção por IA; SLA, Daily, sincronização, onboarding e bot Ella seguem abertos. **27 demandas visíveis** e **5 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,14 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 14
+## Demandas visíveis — 27
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 3
+## Decisões pendentes — 5
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|30/10/2026]] definiu onboarding por checklists e três trilhas, internacionalização e edição com base em IA e novas demandas de documentação, ativos, backup, pipeline e checklist de copy; a automação segue manual e centralizada.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026]] alinhou o modelo combinado por projeto e por fase como proposta-base e registrou riscos de centralização, comunicação, dados pulverizados e adoção no fim do ano, sem mudança material nas demandas canônicas de Audiovisual.
 - Sinal atual: o fluxo atual da Black Friday não usará o downsell de YouTube Dark; o downsell semestral do TubeClub ficou em R$497 e as copies de YouTube Dark e TubeClub precisam de correções de transparência antes de permanecerem em circulação.
 - Lacuna principal: corrigir a VSL e as copies, atualizar o SLA, documentar o resultado da conferência já finalizada da edição brasileira do YouTube Dark, validar a sincronização da nova plataforma com o Monday, completar os cadastros de produtos e definir os dados que entram no Daily.

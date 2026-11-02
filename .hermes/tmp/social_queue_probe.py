@@ -1,5 +1,4 @@
 import json
-import os
 import sqlite3
 from pathlib import Path
 
@@ -7,42 +6,29 @@ queue_paths = [
     Path('/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-08-Fila.json'),
     Path('/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09-Fila.json'),
 ]
+queue_keys = set()
 for path in queue_paths:
     data = json.loads(path.read_text(encoding='utf-8'))
-    print(f'QUEUE {path.name} items={len(data.get("items", []))}')
     for item in data.get('items', []):
-        request = item.get('daily_request') or {}
-        print(json.dumps({
-            'order': item.get('order'),
-            'content_key': item.get('content_key'),
-            'status': item.get('status'),
-            'copy_gate': item.get('copy_gate'),
-            'request_key': request.get('request_key'),
-            'planned_for': item.get('planned_for'),
-        }, ensure_ascii=False))
+        request_key = (item.get('daily_request') or {}).get('request_key') or item.get('request_key')
+        if request_key:
+            queue_keys.add(request_key)
 
-connection = sqlite3.connect('/home/simplifique/apps/daily-dashboard/data/users.db')
-connection.row_factory = sqlite3.Row
-tables = [row[0] for row in connection.execute("select name from sqlite_master where type='table' order by name")]
-print('TABLES ' + json.dumps(tables))
-for table in tables:
-    columns = [row[1] for row in connection.execute(f'pragma table_info({table})')]
-    if table == 'social_content_requests':
-        print('SCHEMA ' + json.dumps(columns))
-        rows = connection.execute(f'select * from {table} order by requested_at asc, rowid asc').fetchall()
-        for row in rows:
-            print('DBROW ' + json.dumps(dict(row), ensure_ascii=False, default=str))
-
-roots = [
-    Path('/home/simplifique/.hermes/state'),
-    Path('/home/simplifique/apps/daily-dashboard/data'),
-]
-for root in roots:
-    if root.exists():
-        for path in root.rglob('*.json'):
-            try:
-                text = path.read_text(encoding='utf-8')
-            except Exception:
-                continue
-            if 'social-l08-' in text or 'social-l09-' in text:
-                print('PENDING_JSON ' + str(path))
+active = ('queued', 'copy_in_production', 'copy_review', 'changes_requested', 'approved_for_production', 'in_production')
+with sqlite3.connect('/home/simplifique/apps/daily-dashboard/data/users.db') as connection:
+    connection.row_factory = sqlite3.Row
+    placeholders = ','.join('?' for _ in active)
+    rows = connection.execute(
+        f'''select request_key, topic_key, topic_title, desired_format, status, decision,
+                   decision_note, planned_for, approved_by, approved_at, figma_url,
+                   requested_at, updated_at,
+                   case when copy_text is null then 0 else length(copy_text) end as copy_chars
+            from social_content_requests
+            where status in ({placeholders})
+            order by requested_at, request_key''',
+        active,
+    ).fetchall()
+    for row in rows:
+        record = dict(row)
+        record['in_queue'] = record['request_key'] in queue_keys
+        print(json.dumps(record, ensure_ascii=False, default=str))

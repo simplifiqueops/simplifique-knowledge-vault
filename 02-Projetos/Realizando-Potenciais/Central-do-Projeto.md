@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 48
-decisoes_pendentes: 12
-edc_atualizado_em: 2026-10-28
+demandas_no_edc: 83
+decisoes_pendentes: 14
+edc_atualizado_em: 2026-11-02
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** estruturar e executar a comunicação dos 17 grupos de WhatsApp, começando pelas 850 linhas codificadas, pelo scraping via prints e pelas UTMs por grupo, sem perder os e-mails concentrados até o dia 5. **48 demandas** e **12 decisões pendentes** no EDC.
+> **P1:** homologar o funil em 4/11 e concluir página, StreamYard, calendário de aplicação e ativos para a live de 5/11, sem perder a comunicação dos 17 grupos, as UTMs e os e-mails até o dia 5. **83 demandas** e **14 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 48
+## Demandas visíveis — 83
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 12
+## Decisões pendentes — 14
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: a operação definiu 850 linhas para W1 a W17, com códigos por fase, grupo e mensagem, e iniciou o uso da Naya por Thamyris.
-- Lacuna principal: confirmar a execução da planilha e do scraping, impedir limpeza no documento errado, corrigir a exclusão de inscritos e medir o primeiro lote por grupo.
+- Sinal atual: a oferta foi consolidada como programa de seis meses, com homologação em 4/11, live em 5/11 e cadência de três conteúdos diários.
+- Lacuna principal: concluir a homologação, confirmar o processo manual de notas, fechar a data da Sala Secreta, validar responsáveis e prazos divergentes entre as duas fontes da reunião e verificar a execução da planilha, do scraping e das UTMs por grupo.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

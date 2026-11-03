@@ -1,0 +1,592 @@
+const imgPrimeiraDobraManifestoEVisaoOperacional = "https://www.figma.com/api/mcp/asset/9b276797-9c30-4214-8694-bf2409f277a0.png";
+const imgOperacoesQueConstruimosBlackprint = "https://www.figma.com/api/mcp/asset/73193704-4ef0-4d99-83a1-c114910cd0af.png";
+const imgLeituraCriterioEDecisao = "https://www.figma.com/api/mcp/asset/74891edb-ff32-450c-850c-8db06fcd2562.png";
+const imgFilosofiaSimplicidadeComMetodo = "https://www.figma.com/api/mcp/asset/f96a1c98-6cc7-4aef-873d-18c320a81d81.png";
+const imgConversaoProximoPasso = "https://www.figma.com/api/mcp/asset/bbd4a469-f7eb-4850-9e35-86930d5bf192.png";
+const imgBlackprintPontilhadoBrancoDiscreto = "https://www.figma.com/api/mcp/asset/66de1918-1638-41e0-bc58-974713fe37f3.svg";
+
+export default function HomepageInteligenciaOperacionalEditorialV3() {
+  return (
+    <div className="bg-[var(--branco-simplifique,#f6f3ef)] content-stretch flex flex-col items-start relative size-full" data-node-id="581:8" data-name="Homepage — Inteligência Operacional | Editorial V3">
+      <div className="bg-[var(--preto-simplifique,#111)] content-stretch flex items-center justify-between overflow-clip px-[88px] py-[22px] relative shrink-0 w-[1440px]" data-node-id="581:9" data-name="Navegação editorial">
+        <div className="content-stretch flex gap-[8.253px] items-center overflow-clip relative shrink-0 w-[224px]" data-node-id="581:10" data-name="Assinatura de marca">
+          <div className="h-[17.684px] relative shrink-0 w-[26.526px]" data-node-id="583:70" data-name="Logo / Símbolo oficial — instância do DS">
+            <div className="absolute flex inset-[0_65.72%_48.79%_0] items-center justify-center" data-node-id="I583:70;8:77" style={{ containerType: "size" }}>
+              <div className="flex-none h-[hypot(23.1402cqw,76.8598cqh)] rotate-[-16.76deg] w-[hypot(76.8598cqw,-23.1402cqh)]">
+                <div className="bg-[#f6f3ef] relative size-full" />
+              </div>
+            </div>
+            <div className="absolute bg-[#f6f3ef] inset-[11.86%_0_47.04%_72.49%]" data-node-id="I583:70;8:78" />
+            <div className="absolute bg-[#f6f3ef] inset-[11.86%_32.28%_47.04%_40.21%]" data-node-id="I583:70;8:79" />
+            <div className="absolute bg-[#f6f3ef] inset-[58.89%_64.55%_0_7.94%]" data-node-id="I583:70;8:80" />
+            <div className="absolute bg-[#f6f3ef] inset-[58.89%_0_0_72.49%]" data-node-id="I583:70;8:81" />
+            <div className="absolute bg-[#f6f3ef] inset-[58.89%_32.28%_0_40.21%]" data-node-id="I583:70;8:82" />
+          </div>
+          <div className="h-[26.559px] relative shrink-0 w-[146.189px]" data-node-id="620:14" data-name="Lettering oficial / Bruno Ace SC">
+            <p className="[word-break:break-word] absolute font-['Bruno_Ace_SC:Regular'] inset-[0_-0.55%_-1.66%_0] leading-[normal] not-italic text-[#f6f3ef] text-[22px] whitespace-nowrap" data-node-id="I620:14;8:75">
+              Simplifique
+            </p>
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex font-['Manrope:Medium'] font-medium gap-[30px] items-center leading-[16px] overflow-clip relative shrink-0 text-[13px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[570px]" data-node-id="581:16" data-name="Links de navegação">
+          <p className="relative shrink-0 w-[100px]" data-node-id="581:17">
+            Nossa visão
+          </p>
+          <p className="relative shrink-0 w-[123px]" data-node-id="581:18">
+            O que fazemos
+          </p>
+          <p className="relative shrink-0 w-[130px]" data-node-id="581:19">
+            Como atuamos
+          </p>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[42px] items-start overflow-clip px-[88px] py-[72px] relative shrink-0 w-[1440px]" data-node-id="581:23" data-name="Primeira dobra — manifesto e visão operacional">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgPrimeiraDobraManifestoEVisaoOperacional} />
+        <div className="content-stretch flex items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="581:24" data-name="Composição de duas colunas">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[690px]" data-node-id="581:25" data-name="Manifesto">
+            <div className="content-stretch flex gap-[10px] items-center overflow-clip relative shrink-0 w-[610px]" data-node-id="581:26" data-name="Categoria">
+              <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[4px] relative shrink-0 w-[18px]" data-node-id="581:27" data-name="Marcador" />
+              <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[510px]" data-node-id="581:28">
+                INTELIGÊNCIA OPERACIONAL
+              </p>
+            </div>
+            <div className="h-[24px] relative shrink-0 w-px" data-node-id="581:29" data-name="Espaço" />
+            <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[61px] min-w-full relative shrink-0 text-[51px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[min-content]" data-node-id="581:30">
+              Inteligência para decidir.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[57px] min-w-full relative shrink-0 text-[48px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[min-content]" data-node-id="581:31">
+              Estrutura para fazer acontecer.
+            </p>
+            <div className="h-[21px] relative shrink-0 w-px" data-node-id="581:32" data-name="Espaço" />
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[26px] relative shrink-0 text-[#e7ded2] text-[20px] w-[605px]" data-node-id="581:33">
+              A Simplifique une gestão, processos e tecnologia para ajudar empresas a entender o que acontece, decidir o que importa e acompanhar o que precisa ser feito.
+            </p>
+            <div className="h-[15px] relative shrink-0 w-px" data-node-id="581:34" data-name="Espaço" />
+            <div className="content-stretch flex items-center overflow-clip relative shrink-0 w-[650px]" data-node-id="581:35" data-name="Ações da página">
+              <div className="bg-[var(--laranja-simplifique,#ff7a2f)] border border-solid border-white content-stretch flex items-center justify-between overflow-clip px-[31px] py-[17px] relative rounded-[10px] shrink-0 w-[332px]" data-node-id="581:36" data-name="Ação / Conversar sobre minha operação">
+                <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[20px] relative shrink-0 text-[#fbf7f1] text-[18px] text-center whitespace-nowrap" data-node-id="581:37">
+                  CONSTRUIR MINHA OPERAÇÃO
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[22px] items-center justify-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="581:69" data-name="Barra de manifesto">
+          <div className="bg-[#3a332d] h-px relative shrink-0 w-[1264px]" data-node-id="581:70" data-name="Linha estrutural" />
+          <div className="[word-break:break-word] content-stretch flex gap-[24px] items-center justify-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="581:71" data-name="Princípios">
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[#afa69b] text-[12px] w-[200px]" data-node-id="581:72">
+              ENXERGAR
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[22px] relative shrink-0 text-[18px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[23px]" data-node-id="581:73">
+              →
+            </p>
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[#afa69b] text-[12px] w-[200px]" data-node-id="581:74">
+              INTERPRETAR
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[22px] relative shrink-0 text-[18px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[23px]" data-node-id="581:75">
+              →
+            </p>
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[12px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[200px]" data-node-id="581:76">
+              DECIDIR
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[22px] relative shrink-0 text-[18px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[23px]" data-node-id="581:77">
+              →
+            </p>
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[#afa69b] text-[12px] w-[200px]" data-node-id="581:78">
+              EXECUTAR
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#080909] h-[760px] overflow-clip relative shrink-0 w-[1440px]" data-node-id="679:8" data-name="SOS — Problema e resposta">
+        <p className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[1.2] left-[88px] text-[#ff7a2f] text-[12px] top-[72px] w-[1264px]" data-node-id="679:9">
+          S.O.S. — O PROBLEMA E A RESPOSTA
+        </p>
+        <p className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[1.12] left-[88px] text-[#f6f3ef] text-[52px] top-[112px] w-[1264px]" data-node-id="679:10">
+          Teu negócio já deu sinais de SOS?
+        </p>
+        <div className="absolute bg-[#111] h-[360px] left-[88px] overflow-clip rounded-[4px] top-[225px] w-[600px]" data-node-id="679:11" data-name="SOS do problema">
+          <div className="absolute bg-[#ff7a2f] h-[360px] left-0 top-0 w-[8px]" data-node-id="679:12" data-name="Accent" />
+          <p className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[1.2] left-[40px] text-[#ff7a2f] text-[12px] top-[36px] w-[510px]" data-node-id="679:13">
+            SOS / O PROBLEMA
+          </p>
+          <div className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[0] left-[40px] text-[#f6f3ef] text-[32px] top-[82px] w-[510px]" data-node-id="679:14">
+            <p className="leading-[1.13] mb-0">Sinais de Operação</p>
+            <p className="leading-[1.13]">Sobrecarregada</p>
+          </div>
+          <p className="[word-break:break-word] absolute font-['Manrope:Regular'] font-normal h-[10px] leading-[1.48] left-[40px] text-[#eae6dd] text-[19px] top-[190px] w-[510px]" data-node-id="679:15">
+            Decisões no WhatsApp. Demandas sem dono. Oportunidades sem próximo passo. Informações que só uma pessoa consegue encontrar.
+          </p>
+        </div>
+        <div className="absolute bg-[#f6f3ef] h-[360px] left-[752px] overflow-clip rounded-[4px] top-[225px] w-[600px]" data-node-id="679:16" data-name="SOS da resposta">
+          <div className="absolute bg-[#ff7a2f] h-[360px] left-0 top-0 w-[8px]" data-node-id="679:17" data-name="Accent" />
+          <p className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[1.2] left-[40px] text-[#ff7a2f] text-[12px] top-[36px] w-[510px]" data-node-id="679:18">
+            SOS / A RESPOSTA
+          </p>
+          <div className="[word-break:break-word] absolute font-['Manrope:Bold'] font-bold h-[10px] leading-[0] left-[40px] text-[#080909] text-[32px] top-[82px] w-[510px]" data-node-id="679:19">
+            <p className="leading-[1.13] mb-0">Sistema Operacional</p>
+            <p className="leading-[1.13]">Simplifique</p>
+          </div>
+          <p className="[word-break:break-word] absolute font-['Manrope:Regular'] font-normal h-[10px] leading-[1.48] left-[40px] text-[#111] text-[19px] top-[190px] w-[510px]" data-node-id="679:20">
+            Conectamos informações, prioridades, responsabilidades, processos e acompanhamento para a operação avançar com clareza e continuidade.
+          </p>
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Manrope:Medium'] font-medium h-[10px] leading-[1.3] left-[720px] text-[#f6f3ef] text-[24px] text-center top-[645px] w-[1264px]" data-node-id="679:21">
+          Os sinais não pedem apenas mais uma ferramenta. Pedem um sistema.
+        </p>
+      </div>
+      <div className="bg-[var(--branco-simplifique,#f6f3ef)] content-stretch flex flex-col gap-[44px] items-start overflow-clip px-[88px] py-[113px] relative shrink-0 w-[1440px]" data-node-id="582:8" data-name="Problema concreto / leitura editorial">
+        <div className="[word-break:break-word] content-stretch flex gap-[112px] items-start overflow-clip relative shrink-0 w-[1264px]" data-node-id="582:9" data-name="Cenário">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 text-[49px] w-[705px]" data-node-id="582:10" data-name="Mensagem editorial">
+            <p className="font-['Manrope:Medium'] font-medium leading-[58px] relative shrink-0 text-[color:var(--preto-simplifique,#111)] w-[680px]" data-node-id="582:11">
+              A empresa cresce.
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[color:var(--cobre-simplifique,#ac8e72)] w-[680px]" data-node-id="582:12">
+              <span className="leading-[58px]">{`A visão do todo `}</span>
+              <span className="font-['Manrope:Bold'] font-bold leading-[58px] text-[#ff7a2f]">nem sempre</span>
+              <span className="leading-[58px]">{` acompanha.`}</span>
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[21px] items-start overflow-clip relative shrink-0 text-[color:var(--preto-simplifique,#111)] w-[435px]" data-node-id="582:13" data-name="O que acontece na prática">
+            <p className="font-['Manrope:Medium'] font-medium leading-[29px] relative shrink-0 text-[20px] w-[435px]" data-node-id="582:14">
+              As vendas acontecem. A equipe trabalha. Os clientes chegam. Os projetos avançam.
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[28px] relative shrink-0 text-[18px] w-[435px]" data-node-id="582:15">
+              Mas uma decisão fica no WhatsApp. Um prazo, na planilha. Uma oportunidade, parada no CRM. E sempre existe algo que só uma pessoa sabe responder.
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[28px] relative shrink-0 text-[18px] w-[435px]" data-node-id="582:16">
+              A empresa funciona. Só que entender o que está acontecendo começa a exigir mais esforço do que deveria.
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex items-center justify-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="582:17" data-name="Canais e consequências">
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-center justify-center overflow-clip relative shrink-0 w-[400px]" data-node-id="582:18" data-name="Informação distribuída">
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[358px]" data-node-id="582:19">
+              WhatsApp
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[21px] relative shrink-0 text-[#746d67] text-[15px] w-[350px]" data-node-id="582:20">
+              Conversas onde decisões ficam soltas.
+            </p>
+          </div>
+          <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-[80px] relative shrink-0 w-px" data-node-id="582:21" data-name="Divisor vertical" />
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-center justify-center overflow-clip relative shrink-0 w-[400px]" data-node-id="582:22" data-name="Informação distribuída">
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[358px]" data-node-id="582:23">
+              Planilhas
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[21px] relative shrink-0 text-[#746d67] text-[15px] w-[350px]" data-node-id="582:24">
+              Prazos e registros fora de contexto.
+            </p>
+          </div>
+          <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-[80px] relative shrink-0 w-px" data-node-id="582:25" data-name="Divisor vertical" />
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-center justify-center overflow-clip relative shrink-0 w-[400px]" data-node-id="582:26" data-name="Informação distribuída">
+            <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[358px]" data-node-id="582:27">
+              CRM
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[21px] relative shrink-0 text-[#746d67] text-[15px] w-[350px]" data-node-id="582:28">
+              Oportunidades sem próximo passo.
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[22px] items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="582:29" data-name="Virada de perspectiva">
+          <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] text-center w-[1140px]" data-node-id="582:31">
+            Trabalhar muito não deveria significar operar no escuro.
+          </p>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[43px] items-start overflow-clip px-[88px] py-[98px] relative shrink-0 w-[1440px]" data-node-id="658:16" data-name="Operações que construímos — Blackprint">
+        <div aria-hidden className="absolute inset-0 pointer-events-none">
+          <img alt="" className="absolute max-w-none object-cover size-full" src={imgOperacoesQueConstruimosBlackprint} />
+          <div className="absolute bg-[rgba(0,0,0,0.32)] inset-0" />
+        </div>
+        <div className="content-stretch flex gap-[14px] items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="658:17" data-name="Assinatura / portfólio">
+          <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[16px] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] tracking-[0.65px] w-[1030px]" data-node-id="658:19">
+            SOLUÇÕES APLICADAS À SUA OPERAÇÃO
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex gap-[68px] items-start overflow-clip relative shrink-0 w-[1264px]" data-node-id="658:20" data-name="Introdução ao prospecto">
+          <div className="content-stretch flex flex-col gap-[13px] items-start overflow-clip relative shrink-0 w-[706px]" data-node-id="658:21" data-name="Título">
+            <p className="font-['Manrope:Medium'] font-medium leading-[53px] relative shrink-0 text-[46px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[700px]" data-node-id="658:22">
+              Operações que construímos.
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[28px] relative shrink-0 text-[19px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[680px]" data-node-id="658:23">
+              Gestão, dados e processos para operar melhor.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col font-['Manrope:Regular'] font-normal gap-[14px] items-start overflow-clip relative shrink-0 w-[490px]" data-node-id="658:24" data-name="Contexto">
+            <p className="leading-[28px] relative shrink-0 text-[18px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[484px]" data-node-id="658:25">
+              Coordenamos a execução, conectamos informações e estruturamos rotinas para transformar decisões em entregas acompanhadas.
+            </p>
+            <p className="leading-[23px] relative shrink-0 text-[15px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[486px]" data-node-id="658:26">
+              Da estruturação à gestão recorrente, conforme o desafio do negócio.
+            </p>
+          </div>
+        </div>
+        <div className="h-px relative shrink-0 w-[1264px]" data-node-id="658:27" data-name="Régua Blackprint" />
+        <div className="bg-[#1d1b1a] border border-[var(--cobre-simplifique,#ac8e72)] border-solid content-stretch flex gap-[40px] items-center overflow-clip px-[30px] py-[32px] relative shrink-0 w-[1264px]" data-node-id="658:28" data-name="Destaque / Gestão operacional e projetos">
+          <div className="content-stretch flex flex-col gap-[14px] items-start overflow-clip relative shrink-0 w-[538px]" data-node-id="658:29" data-name="Marketing / oferta e entregas">
+            <div className="content-stretch flex gap-[13px] items-center overflow-clip relative shrink-0 w-[535px]" data-node-id="658:30" data-name="Índice marketing">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[14px] relative shrink-0 text-[12px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[42px]" data-node-id="658:31">
+                01
+              </p>
+              <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[2px] relative shrink-0 w-[20px]" data-node-id="658:32" data-name="Régua Blackprint" />
+              <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[15px] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] tracking-[0.4px] w-[440px]" data-node-id="658:33">
+                GESTÃO OPERACIONAL E PROJETOS
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[35px] relative shrink-0 text-[29px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[510px]" data-node-id="658:34">
+              Gestão que faz acontecer.
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[26px] relative shrink-0 text-[17px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[514px]" data-node-id="658:35">
+              Organizamos equipes, prioridades e prazos. Acompanhamos entregas, dependências e bloqueios da operação.
+            </p>
+            <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-px relative shrink-0 w-[515px]" data-node-id="658:36" data-name="Régua Blackprint" />
+            <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[23px] relative shrink-0 text-[16px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[510px]" data-node-id="658:37">
+              O combinado vira rotina. O andamento fica visível.
+            </p>
+          </div>
+          <div className="bg-[#292624] content-stretch flex flex-col gap-[18px] items-start overflow-clip p-[24px] relative shrink-0 w-[626px]" data-node-id="658:38" data-name="Exemplo ilustrativo da jornada editorial">
+            <div className="[word-break:break-word] content-stretch flex font-['Manrope:SemiBold'] font-semibold gap-[12px] items-start leading-[14px] overflow-clip relative shrink-0 text-[11px] w-[578px]" data-node-id="658:39" data-name="Cabeçalho do fluxo">
+              <p className="relative shrink-0 text-[color:var(--cinza-simplifique,#cfcac5)] tracking-[0.65px] w-[360px]" data-node-id="658:40">
+                EXEMPLO DE OPERAÇÃO
+              </p>
+              <p className="relative shrink-0 text-[color:var(--laranja-simplifique,#ff7a2f)] w-[206px]" data-node-id="658:41">
+                CICLO DE GESTÃO
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[24px] relative shrink-0 text-[18px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[570px]" data-node-id="658:42">
+              Da direção à execução acompanhada
+            </p>
+            <div className="[word-break:break-word] content-stretch flex gap-[10px] items-start overflow-clip relative shrink-0 w-[578px]" data-node-id="658:43" data-name="Jornada / quatro etapas">
+              <div className="bg-[#1d1b1a] content-stretch flex flex-col gap-[9px] items-start overflow-clip px-[11px] py-[14px] relative shrink-0 w-[137px]" data-node-id="658:44" data-name="Etapa 01 / Planejar">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[11px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[110px]" data-node-id="658:45">
+                  01
+                </p>
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[20px] relative shrink-0 text-[15px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[111px]" data-node-id="658:46">
+                  Priorizar
+                </p>
+                <div className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[113px]" data-node-id="658:47">
+                  <p className="leading-[17px] mb-0">Objetivos e</p>
+                  <p className="leading-[17px]">prazos</p>
+                </div>
+              </div>
+              <div className="bg-[#1d1b1a] content-stretch flex flex-col gap-[9px] items-start overflow-clip px-[11px] py-[14px] relative shrink-0 w-[137px]" data-node-id="658:48" data-name="Etapa 02 / Produzir">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[11px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[110px]" data-node-id="658:49">
+                  02
+                </p>
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[20px] relative shrink-0 text-[15px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[111px]" data-node-id="658:50">
+                  Coordenar
+                </p>
+                <div className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[113px]" data-node-id="658:51">
+                  <p className="leading-[17px] mb-0">Pessoas e</p>
+                  <p className="leading-[17px]">entregas</p>
+                </div>
+              </div>
+              <div className="bg-[#1d1b1a] content-stretch flex flex-col gap-[9px] items-start overflow-clip px-[11px] py-[14px] relative shrink-0 w-[137px]" data-node-id="658:52" data-name="Etapa 03 / Publicar">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[11px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[110px]" data-node-id="658:53">
+                  03
+                </p>
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[20px] relative shrink-0 text-[15px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[111px]" data-node-id="658:54">
+                  Acompanhar
+                </p>
+                <div className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[113px]" data-node-id="658:55">
+                  <p className="leading-[17px] mb-0">Riscos e</p>
+                  <p className="leading-[17px]">indicadores</p>
+                </div>
+              </div>
+              <div className="bg-[#1d1b1a] content-stretch flex flex-col gap-[9px] items-start overflow-clip px-[11px] py-[14px] relative shrink-0 w-[137px]" data-node-id="658:56" data-name="Etapa 04 / Analisar">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[14px] relative shrink-0 text-[11px] text-[color:var(--cobre-simplifique,#ac8e72)] w-[110px]" data-node-id="658:57">
+                  04
+                </p>
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[20px] relative shrink-0 text-[15px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[111px]" data-node-id="658:58">
+                  Melhorar
+                </p>
+                <div className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[113px]" data-node-id="658:59">
+                  <p className="leading-[17px] mb-0">Processos e</p>
+                  <p className="leading-[17px]">resultados</p>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex gap-[12px] items-center overflow-clip relative shrink-0 w-[578px]" data-node-id="658:60" data-name="Saída / processo conectado">
+              <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[2px] relative shrink-0 w-[24px]" data-node-id="658:61" data-name="Régua Blackprint" />
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[20px] relative shrink-0 text-[13px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[525px]" data-node-id="658:62">
+                Prazos, responsáveis e indicadores à vista.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[54px] items-start overflow-clip relative shrink-0 w-[1264px]" data-node-id="658:63" data-name="Quatro operações complementares / Dados, processos, conteúdo e conversão">
+          <div className="content-stretch flex flex-col gap-[27px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:64" data-name="Coluna 1">
+            <div className="content-stretch flex flex-col gap-[12px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:65" data-name="02 / Web e conversão">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-px relative shrink-0 w-[605px]" data-node-id="658:66" data-name="Régua Blackprint" />
+              <div className="[word-break:break-word] content-stretch flex gap-[23px] items-center overflow-clip relative shrink-0 w-[605px]" data-node-id="658:67" data-name="Título / Web e conversão">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[16px] relative shrink-0 text-[13px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[36px]" data-node-id="658:68">
+                  02
+                </p>
+                <p className="font-['Manrope:Medium'] font-medium leading-[30px] relative shrink-0 text-[23px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[542px]" data-node-id="658:69">
+                  Dados e inteligência
+                </p>
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[565px]" data-node-id="658:70">
+                Dashboards, relatórios e indicadores para transformar informação dispersa em decisões mais claras.
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:71" data-name="04 / Gestão e projetos">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-px relative shrink-0 w-[605px]" data-node-id="658:72" data-name="Régua Blackprint" />
+              <div className="[word-break:break-word] content-stretch flex gap-[23px] items-center overflow-clip relative shrink-0 w-[605px]" data-node-id="658:73" data-name="Título / Gestão e projetos">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[16px] relative shrink-0 text-[13px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[36px]" data-node-id="658:74">
+                  04
+                </p>
+                <p className="font-['Manrope:Medium'] font-medium leading-[30px] relative shrink-0 text-[23px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[542px]" data-node-id="658:75">
+                  Marketing, conteúdo e audiovisual
+                </p>
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[565px]" data-node-id="658:76">
+                Planejamento editorial, design, redes sociais e produção audiovisual com fluxos de aprovação e acompanhamento.
+              </p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col gap-[27px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:77" data-name="Coluna 2">
+            <div className="content-stretch flex flex-col gap-[12px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:78" data-name="03 / Comercial e atendimento">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-px relative shrink-0 w-[605px]" data-node-id="658:79" data-name="Régua Blackprint" />
+              <div className="[word-break:break-word] content-stretch flex gap-[23px] items-center overflow-clip relative shrink-0 w-[605px]" data-node-id="658:80" data-name="Título / Comercial e atendimento">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[16px] relative shrink-0 text-[13px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[36px]" data-node-id="658:81">
+                  03
+                </p>
+                <p className="font-['Manrope:Medium'] font-medium leading-[30px] relative shrink-0 text-[23px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[542px]" data-node-id="658:82">
+                  Processos e automações
+                </p>
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[565px]" data-node-id="658:83">
+                Rotinas, fluxos, integrações e IA quando reduzem retrabalho e dão continuidade à operação.
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col gap-[12px] items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="658:84" data-name="05 / Dados e inteligência">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-px relative shrink-0 w-[605px]" data-node-id="658:85" data-name="Régua Blackprint" />
+              <div className="[word-break:break-word] content-stretch flex gap-[23px] items-center overflow-clip relative shrink-0 w-[605px]" data-node-id="658:86" data-name="Título / Dados e inteligência">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[16px] relative shrink-0 text-[13px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[36px]" data-node-id="658:87">
+                  05
+                </p>
+                <p className="font-['Manrope:Medium'] font-medium leading-[30px] relative shrink-0 text-[23px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[542px]" data-node-id="658:88">
+                  Comercial, web e conversão
+                </p>
+              </div>
+              <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[565px]" data-node-id="658:89">
+                CRM, atendimento, funis, sites e landing pages conectados à captação, ao follow-up e à jornada comercial.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="h-px relative shrink-0 w-[1264px]" data-node-id="658:90" data-name="Régua Blackprint" />
+        <div className="content-stretch flex gap-[21px] items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="658:91" data-name="Fecho / posicionamento">
+          <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[24px] relative shrink-0 text-[17px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[1198px]" data-node-id="658:93">
+            Cada operação é desenhada para dar clareza, continuidade e controle à execução.
+          </p>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[50px] items-start overflow-clip px-[88px] py-[112px] relative shrink-0 w-[1440px]" data-node-id="582:32" data-name="Leitura, critério e decisão">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgLeituraCriterioEDecisao} />
+        <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-[1264px]" data-node-id="582:33" data-name="Afirmação principal">
+          <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[0] relative shrink-0 text-[46px] text-[color:var(--preto-simplifique,#111)] w-[1260px]" data-node-id="582:34">
+            <span className="leading-[55px]">{`Ter informação é diferente `}</span>
+            <span className="leading-[55px]">{`de `}</span>
+            <span className="leading-[55px] text-[#ff7a2f]">ter inteligência</span>
+            <span className="leading-[55px]">.</span>
+          </p>
+        </div>
+        <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[1264px]" data-node-id="582:36" data-name="Divisor editorial" />
+        <div className="content-stretch flex gap-[122px] items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="582:37" data-name="O que muda na prática">
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[24px] items-start justify-center overflow-clip relative shrink-0 text-[color:var(--preto-simplifique,#111)] w-[537px]" data-node-id="582:38" data-name="Contraste">
+            <p className="font-['Manrope:Medium'] font-medium leading-[28px] relative shrink-0 text-[20px] w-[537px]" data-node-id="582:39">
+              Um dashboard bonito não substitui uma decisão. Um CRM cheio de contatos não significa acompanhamento. E automatizar um fluxo confuso não resolve o problema.
+            </p>
+            <p className="font-['Manrope:Regular'] font-normal leading-[26px] relative shrink-0 text-[18px] w-[537px]" data-node-id="582:40">
+              Inteligência operacional é conectar o que sabemos, interpretar o que importa e transformar esse entendimento em ação.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-[605px]" data-node-id="582:41" data-name="Raciocínio operacional">
+            <div className="content-stretch flex gap-[26px] items-center overflow-clip py-[17px] relative shrink-0 w-[605px]" data-node-id="582:42" data-name="Camada / Sinais">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[48px] relative shrink-0 w-[4px]" data-node-id="582:43" data-name="Trilha" />
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[3px] items-start overflow-clip relative shrink-0 w-[557px]" data-node-id="582:44" data-name="Descrição">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[525px]" data-node-id="582:45">
+                  Sinais
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[17px] relative shrink-0 text-[#746d67] text-[14px] w-[525px]" data-node-id="582:46">
+                  O que está acontecendo
+                </p>
+              </div>
+            </div>
+            <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[605px]" data-node-id="582:47" data-name="Separação de camadas" />
+            <div className="content-stretch flex gap-[26px] items-center overflow-clip py-[17px] relative shrink-0 w-[605px]" data-node-id="582:48" data-name="Camada / Contexto">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[48px] relative shrink-0 w-[4px]" data-node-id="582:49" data-name="Trilha" />
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[3px] items-start overflow-clip relative shrink-0 w-[557px]" data-node-id="582:50" data-name="Descrição">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[525px]" data-node-id="582:51">
+                  Contexto
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[17px] relative shrink-0 text-[#746d67] text-[14px] w-[525px]" data-node-id="582:52">
+                  Por que isso importa
+                </p>
+              </div>
+            </div>
+            <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[605px]" data-node-id="582:53" data-name="Separação de camadas" />
+            <div className="content-stretch flex gap-[26px] items-center overflow-clip py-[17px] relative shrink-0 w-[605px]" data-node-id="582:54" data-name="Camada / Decisão">
+              <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[48px] relative shrink-0 w-[4px]" data-node-id="582:55" data-name="Trilha" />
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[3px] items-start overflow-clip relative shrink-0 w-[557px]" data-node-id="582:56" data-name="Descrição">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[525px]" data-node-id="582:57">
+                  Decisão
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[17px] relative shrink-0 text-[#746d67] text-[14px] w-[525px]" data-node-id="582:58">
+                  O que merece prioridade
+                </p>
+              </div>
+            </div>
+            <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[605px]" data-node-id="582:59" data-name="Separação de camadas" />
+            <div className="content-stretch flex gap-[26px] items-center overflow-clip py-[17px] relative shrink-0 w-[605px]" data-node-id="582:60" data-name="Camada / Movimento">
+              <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[48px] relative shrink-0 w-[4px]" data-node-id="582:61" data-name="Trilha" />
+              <div className="[word-break:break-word] content-stretch flex flex-col gap-[3px] items-start overflow-clip relative shrink-0 w-[557px]" data-node-id="582:62" data-name="Descrição">
+                <p className="font-['Manrope:SemiBold'] font-semibold leading-[31px] relative shrink-0 text-[22px] text-[color:var(--preto-simplifique,#111)] w-[525px]" data-node-id="582:63">
+                  Movimento
+                </p>
+                <p className="font-['Manrope:Regular'] font-normal leading-[17px] relative shrink-0 text-[#746d67] text-[14px] w-[525px]" data-node-id="582:64">
+                  Quem faz, quando e como acompanhar
+                </p>
+              </div>
+            </div>
+            <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[605px]" data-node-id="582:65" data-name="Separação de camadas" />
+          </div>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col h-[635px] items-center justify-between overflow-clip px-[88px] py-[128px] relative shrink-0 w-[1440px]" data-node-id="583:8" data-name="Filosofia / simplicidade com método">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgFilosofiaSimplicidadeComMetodo} />
+        <div className="[word-break:break-word] content-stretch flex gap-[100px] items-center justify-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="583:9" data-name="Visão">
+          <div className="content-stretch flex flex-col gap-[14px] items-start overflow-clip relative shrink-0 w-[674px]" data-node-id="583:10" data-name="Chamada">
+            <p className="font-['Manrope:Medium'] font-medium leading-[51px] relative shrink-0 text-[43px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[674px]" data-node-id="583:11">{`Simplicidade não é `}</p>
+            <div className="font-['Manrope:Regular'] font-normal leading-[0] relative shrink-0 text-[49px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[674px]" data-node-id="583:12">
+              <p className="leading-[58px] mb-0">fazer de qualquer jeito</p>
+              <p className="leading-[58px] text-[#f6f3ef]">é a elegância de fazer funcionar.</p>
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col font-['Manrope:Regular'] font-normal gap-[22px] items-start leading-[26px] overflow-clip relative shrink-0 text-[#e7ded2] text-[18px] w-[480px]" data-node-id="583:13" data-name="Raciocínio">
+            <p className="relative shrink-0 w-[480px]" data-node-id="583:14">
+              Uma empresa bem organizada não precisa de processos intermináveis, dezenas de ferramentas ou reuniões para tudo.
+            </p>
+            <p className="relative shrink-0 w-[480px]" data-node-id="583:15">
+              Precisa saber como o trabalho acontece. Quem é responsável. O que está combinado. Onde encontrar informação. Qual é o próximo passo.
+            </p>
+            <p className="relative shrink-0 w-[480px]" data-node-id="583:16">
+              Parece simples. E deveria ser. Mas chegar a essa simplicidade exige entendimento, escolhas e estrutura.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[var(--branco-simplifique,#f6f3ef)] content-stretch flex flex-col gap-[51px] items-start overflow-clip px-[88px] py-[114px] relative shrink-0 w-[1440px]" data-node-id="583:21" data-name="Abordagem / condução operacional">
+        <div className="[word-break:break-word] content-stretch flex gap-[94px] items-start overflow-clip relative shrink-0 text-[color:var(--preto-simplifique,#111)] w-[1264px]" data-node-id="583:22" data-name="Pensamento">
+          <div className="font-['Manrope:Medium'] font-medium leading-[0] relative shrink-0 text-[43px] w-[746px]" data-node-id="583:23">
+            <p className="leading-[51px] mb-0">Antes de propor uma solução,</p>
+            <p>
+              <span className="leading-[51px]">{`precisamos `}</span>
+              <span className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[51px] text-[#ff7a2f]">entender o problema.</span>
+            </p>
+          </div>
+          <p className="font-['Manrope:Regular'] font-normal leading-[26px] relative shrink-0 text-[18px] w-[424px]" data-node-id="583:24">
+            Nem sempre a resposta é uma automação. Às vezes, falta um processo claro. Em outras, as ferramentas não conversam. Ou o trabalho avança sem que alguém consiga enxergar o todo.
+          </p>
+        </div>
+        <div className="bg-[var(--cinza-simplifique,#cfcac5)] h-px relative shrink-0 w-[1264px]" data-node-id="583:25" data-name="Divisor / traço" />
+        <div className="content-stretch flex gap-[20px] items-start overflow-clip relative shrink-0 w-[1264px]" data-node-id="583:26" data-name="Caminho de trabalho">
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[300px]" data-node-id="583:27" data-name="Entender">
+            <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[3px] relative shrink-0 w-[300px]" data-node-id="583:28" data-name="Divisor / traço" />
+            <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[40px] relative shrink-0 text-[28px] text-[color:var(--preto-simplifique,#111)] w-[290px]" data-node-id="583:29">
+              Entender
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--preto-simplifique,#111)] w-[282px]" data-node-id="583:30">
+              Compreender a operação, suas dependências e o que realmente precisa funcionar.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[300px]" data-node-id="583:31" data-name="Estruturar">
+            <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[3px] relative shrink-0 w-[300px]" data-node-id="583:32" data-name="Divisor / traço" />
+            <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[40px] relative shrink-0 text-[28px] text-[color:var(--preto-simplifique,#111)] w-[290px]" data-node-id="583:33">
+              Estruturar
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--preto-simplifique,#111)] w-[282px]" data-node-id="583:34">
+              Definir prioridades, responsabilidades e uma forma clara de acompanhar.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[300px]" data-node-id="583:35" data-name="Conectar">
+            <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[3px] relative shrink-0 w-[300px]" data-node-id="583:36" data-name="Divisor / traço" />
+            <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[40px] relative shrink-0 text-[28px] text-[color:var(--preto-simplifique,#111)] w-[290px]" data-node-id="583:37">
+              Conectar
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--preto-simplifique,#111)] w-[282px]" data-node-id="583:38">
+              Aplicar tecnologia quando ela melhora o fluxo e reduz esforço desnecessário.
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col gap-[16px] items-start overflow-clip relative shrink-0 w-[300px]" data-node-id="583:39" data-name="Acompanhar">
+            <div className="bg-[var(--cobre-simplifique,#ac8e72)] h-[3px] relative shrink-0 w-[300px]" data-node-id="583:40" data-name="Divisor / traço" />
+            <p className="[word-break:break-word] font-['Manrope:SemiBold'] font-semibold leading-[40px] relative shrink-0 text-[28px] text-[color:var(--preto-simplifique,#111)] w-[290px]" data-node-id="583:41">
+              Acompanhar
+            </p>
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[25px] relative shrink-0 text-[16px] text-[color:var(--preto-simplifique,#111)] w-[282px]" data-node-id="583:42">
+              Observar resultados, sinalizar desvios e orientar os próximos passos.
+            </p>
+          </div>
+        </div>
+        <div className="content-stretch flex gap-[22px] items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="583:43" data-name="Princípio de condução">
+          <div className="bg-[var(--laranja-simplifique,#ff7a2f)] h-[65px] relative shrink-0 w-[4px]" data-node-id="583:44" data-name="Divisor / traço" />
+          <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[40px] relative shrink-0 text-[28px] text-[color:var(--preto-simplifique,#111)] w-[1180px]" data-node-id="583:45">
+            Sem complicar aquilo que já funciona.
+          </p>
+        </div>
+      </div>
+      <div className="content-stretch flex flex-col gap-[43px] items-start overflow-clip px-[88px] py-[122px] relative shrink-0 w-[1440px]" data-node-id="583:46" data-name="Conversão / próximo passo">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgConversaoProximoPasso} />
+        <div className="absolute h-[230px] left-[955px] top-[105px] w-[370px]" data-node-id="625:16" data-name="Blackprint · pontilhado branco discreto">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBlackprintPontilhadoBrancoDiscreto} />
+        </div>
+        <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[58px] relative shrink-0 text-[49px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[1235px]" data-node-id="583:47">
+          Sua empresa pode
+        </p>
+        <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[67px] relative shrink-0 text-[56px] text-[color:var(--laranja-simplifique,#ff7a2f)] w-[1235px]" data-node-id="583:48">
+          funcionar melhor.
+        </p>
+        <div className="content-stretch flex items-center overflow-clip relative shrink-0 w-[1264px]" data-node-id="583:49" data-name="Convite">
+          <div className="content-stretch flex flex-col gap-[20px] items-start overflow-clip relative shrink-0 w-[630px]" data-node-id="583:50" data-name="Razão para começar">
+            <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[28px] relative shrink-0 text-[#e7ded2] text-[20px] w-[619px]" data-node-id="583:51">
+              Com informações acessíveis, decisões conscientes, responsabilidades claras e menos coisas dependendo da memória de alguém.
+            </p>
+            <div className="bg-[var(--laranja-simplifique,#ff7a2f)] content-stretch flex items-center justify-between overflow-clip px-[32px] py-[14px] relative rounded-[13px] shrink-0 w-[368px]" data-node-id="583:56" data-name="CTA">
+              <p className="[word-break:break-word] font-['Manrope:Bold'] font-bold leading-[20px] relative shrink-0 text-[#fbf7f1] text-[20px] w-[318px]" data-node-id="583:57">
+                Quero simplificar meu processo
+              </p>
+            </div>
+            <p className="[word-break:break-word] font-['Manrope:Medium'] font-medium leading-[28px] relative shrink-0 text-[20px] text-[color:var(--branco-simplifique,#f6f3ef)] w-[619px]" data-node-id="583:52">
+              O primeiro passo é entender sua operação.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[var(--preto-simplifique,#111)] content-stretch flex items-center justify-between overflow-clip px-[88px] py-[30px] relative shrink-0 w-[1440px]" data-node-id="583:59" data-name="Rodapé institucional">
+        <div className="content-stretch flex flex-col gap-[7px] items-start overflow-clip relative shrink-0 w-[550px]" data-node-id="583:60" data-name="Marca">
+          <div className="h-[38.696px] relative shrink-0 w-[213px]" data-node-id="624:15" data-name="Lettering oficial da Simplifique / rodapé">
+            <p className="[word-break:break-word] absolute font-['Bruno_Ace_SC:Regular'] inset-[0_0_-0.79%_0] leading-[normal] not-italic text-[#f6f3ef] text-[32.06px] whitespace-nowrap" data-node-id="I624:15;8:75">
+              Simplifique
+            </p>
+          </div>
+          <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[15px] relative shrink-0 text-[#afa69b] text-[12px] w-[500px]" data-node-id="583:62">
+            Inteligência para decidir. Estrutura para fazer acontecer.
+          </p>
+        </div>
+        <p className="[word-break:break-word] font-['Manrope:Regular'] font-normal leading-[15px] relative shrink-0 text-[12px] text-[color:var(--cinza-simplifique,#cfcac5)] w-[540px] whitespace-pre-wrap" data-node-id="583:63">{`simplifiqueops.com.br  •  © 2026 Simplifique`}</p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.
+MEDIA:/home/simplifique/.hermes/cache/images/img_da04ed6c683c.png

@@ -3,30 +3,27 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-10-28T18:32:12-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/TRzNRQHimSzLvsi-5epnyypWmRzpzEPt"
-fonte_complementar: "Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para os itens presentes na captura de 21:33:57Z; a transcrição recebida estava compactada, e as lacunas permanecem explícitas"
+atualizado_em: 2026-11-02T21:31:25Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/4Rxq_D6BoVnxmnkf6zCMFTTKSz3ontMQ"
+fonte_complementar: "[[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+confianca: "alta para a identificação do cliente e para a cadência editorial visível; moderada para decisões e compromissos localizados somente no resumo e nos action items porque a transcrição recebida estava compactada"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
-- O fechamento diário recuperou três finalizações no Notion editadas após a atualização anterior do EDC: dimensionamento e encaminhamento dos chips, duplicação da automação do Congresso de Vendas e organização dos depoimentos disponíveis.
-- As três ações saem dos próximos passos ativos; o Notion comprova a conclusão das tarefas, mas não documenta o resultado do dimensionamento dos chips, o conteúdo dos depoimentos nem o funcionamento final da automação duplicada.
-- A produção dos grupos de WhatsApp foi separada da área de e-mails e automações do Fufunel.
-- O lote principal foi definido em 850 linhas, com 50 mensagens para cada grupo de W1 a W17 e uma linha por mensagem e por grupo; W18 e os sete grupos de webinário ficaram fora desse lote.
-- Os códigos seguirão `BF26-[fase]-[grupo]-[número da mensagem]`, usando `CAP` para captura e `CAR` para carrinho.
-- A cadência foi detalhada de 4/11 a 27/11, com maior concentração em 5/11, 6/11, 26/11 e 27/11.
-- Thamyris deverá enviar prints dos grupos à Naya para extração de contatos e aplicação de tags; a Naya deverá organizar as 850 linhas na planilha.
-- O acesso de Thamyris à Naya foi liberado e o alinhamento das 18h foi realizado; ambos deixam de ser próximos passos abertos.
-- Permanece o risco de a limpeza automatizada atingir por engano o documento usado pelo Fufunel.
-- A transcrição recebida estava compactada; os itens ausentes não foram reconstruídos e as demais informações vigentes não contraditas foram preservadas.
+- A oferta da BF26 passa a ser o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada ao calendário obrigatório de aplicação.
+- O fluxo provisório de pagamento pela Hotmart foi substituído pela decisão de processar as vendas pela Princípia e emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota.
+- A homologação integral do funil ficou marcada para 4/11, antes da live de lançamento de 5/11, às 20h.
+- A cadência editorial foi definida em três conteúdos por dia, sendo dois orientados à venda e um ao engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros.
+- A transcrição recebida estava compactada; decisões e compromissos ausentes dos trechos visíveis foram promovidos com confiança moderada quando registrados de forma inequívoca no resumo ou nos action items.
+- A data de 19/11 para a “Sala Secreta” continua provisória e requer decisão final.
+- A fonte complementar recebida um segundo depois confirma o funil até a imersão de abril de 2027 e o primeiro lote dos workshops de 5 a 31 de dezembro, mas cria conflitos de responsável e prazo no calendário de aplicação, nas capas e na pesquisa de onboarding; esses campos permanecem explícitos para validação.
 
 ## 1. Objetivo atual
-Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp segmentado e a concentração de e-mails orientada pelo dashboard, sem perder a validação da Naia e os ajustes ainda abertos do Energia Infinita.
+Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp segmentado e e-mails orientados pelo dashboard, enquanto a operação de redes sociais integra Lucas e prepara conteúdo alinhado à Black November e à trilha de eventos até abril de 2027.
 
 ## 2. Resultado esperado
 - Naia operacional com ferramentas, acessos e limitações conhecidos.
@@ -38,10 +35,11 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Organizar e executar a comunicação personalizada dos 17 grupos de WhatsApp, começando pela estrutura de 850 linhas com códigos e UTMs por grupo e pela extração dos contatos via prints.
-2. Programar dez e-mails para cada um de G1, G2, G3 e G8 até o dia 5, auditando diariamente a exclusão de inscritos e a eficiência dos envios.
-3. Concluir os ajustes ainda abertos de páginas, vídeo e materiais do Energia Infinita.
-4. Manter dependências externas e execuções especializadas fora da fila direta de Pablo.
+1. Homologar integralmente o funil em 4/11, incluindo compra de R$ 1, ofertas, checkout–Fufunel e emissão fiscal.
+2. Finalizar página, depoimentos, StreamYard, calendário de aplicação e ativos necessários para a live de lançamento de 5/11, às 20h.
+3. Executar três conteúdos por dia, sendo dois de venda e um de engajamento, e testar o conceito “RP [Tema]” no perfil Neg Negreiros.
+4. Organizar e executar a comunicação personalizada dos 17 grupos de WhatsApp, com 850 linhas codificadas, UTMs por grupo e extração dos contatos via prints.
+5. Programar dez e-mails para cada um de G1, G2, G3 e G8 até o dia 5, auditando diariamente a exclusão de inscritos e a eficiência dos envios.
 
 ## 4. Frentes ativas
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
@@ -53,12 +51,27 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
 - Dashboard da BF26: consolidação de inscrições, respostas à pesquisa, entradas no grupo e execução; a segmentação ganhará o grupo `Novos Inscritos`, mas a regra de reinscrições e as contagens por grupo ainda precisam de verificação.
 - Automação do Congresso de Vendas: duplicação da estrutura anterior finalizada no Notion; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
-- Pagamentos da Black November: na ausência de integração entre Princípia e Hotmart, o parcelamento recorrente no cartão permanece provisoriamente na Hotmart; a preparação e o envio da comparação dos cenários foram finalizados, mas a divisão definitiva entre plataformas segue aberta.
+- Pagamentos da Black November: todas as vendas da oferta serão processadas pela Princípia; Thamyris emitirá manualmente as notas fiscais por R$ 15 por nota, e Arcindo confirmará o processo com ela.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
 - Energia Infinita: treinamento de edição concluído; ajuste da página em conferência e demais páginas, vídeo, materiais e conteúdo com ações abertas.
+- Redes sociais de Vanessa: Lucas assume estratégia, criação e agendamento; durante a BF26, a cadência será de três conteúdos por dia, sendo dois de vendas e um de engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros; o planejamento da semana seguinte será entregue em planilha até quarta-feira para aprovação de Vanessa; publicação e comentários serão centralizados na Full Funnel.
+- Oferta “Alicerce do Extraordinário”: programa estruturado de seis meses, com garantia vinculada ao calendário obrigatório de aplicação; layout da página de vendas no Caplaia; homologação em 4/11 e live de lançamento em 5/11, às 20h.
+- Funil pós-BF26: o primeiro lote dos workshops Presença Digital, Projeto Fora da Gaveta e Conexão de Valor está previsto de 5 a 31 de dezembro; a trilha culmina em uma imersão presencial em abril de 2027. A data da reunião de precificação diverge entre as fontes e precisa de validação.
+- Contratação e onboarding de Lucas: valor mensal acordado em R$ 2.000, com início do pagamento integral em dezembro; integração imediata ao grupo estratégico, à reunião da Black November e ao alinhamento operacional com Vanessa.
+- Operação financeira: manter temporariamente o cartão digital do Inter e o cartão final 4087 como contingência ao bloqueio do cartão final 9123; migrar conta e cartões da Realizando Potenciais para o Itaú na quarta-feira.
 
 ## 5. Responsáveis
+- Pablo Backstage: homologar o funil em 4/11; atualizar e compartilhar o planejamento; configurar o StreamYard; orientar Vanessa sobre a live; criar as capas dos workshops; criar com Vanessa o calendário de aplicação; e alinhar com Mari o dashboard diário de vendas.
+- Dra. Vanessa Cesnik: finalizar o texto da página de vendas, selecionar depoimentos e revisar a pesquisa inicial do CSV conforme a nova estrutura do programa.
+- Lucas: produzir diariamente três conteúdos, sendo dois de venda e um de engajamento, e testar o conceito editorial “RP [Tema]” no perfil Neg Negreiros.
+- Mari: preparar a análise da estratégia de lotes de vendas dos workshops para a reunião de 9/12.
+- Arcindo Negreiros: confirmar com Thamyris o processo de emissão manual das notas fiscais.
+- Lucas: liderar estratégia, criação, planejamento e agendamento das redes sociais de Vanessa; estudar o dashboard e as pesquisas do público e acessar os cursos de referência.
+- Lucas: participar da reunião da Black November às 17h e alinhar com Vanessa o fluxo de trabalho e o cronograma de posts.
+- Arcindo Negreiros: pagar o trabalho anterior de Lucas, migrar a operação bancária e os cartões para o Itaú e revisar os dashboards com Pablo.
+- Dra. Vanessa Cesnik: aprovar o planejamento semanal e conceder a Lucas os acessos e ativos necessários.
+- Pablo: criar o grupo de suporte com Vanessa e Lucas; participar com Arcindo e Lucas da finalização dos detalhes de precificação.
 - Pablo: estruturar decisões de Black Friday e funis; automação de confirmação de leads, ajustes da Naia, versão 3, consolidado para Arcindo, arquivos no Drive, datas e verificação do parcelamento constam como finalizados no Notion.
 - Thamyris: ajustar as demais páginas da Jornada de Sucesso, concluir o upload dos materiais da reunião anterior e cobrar o envio de casos para a semana seguinte.
 - Neg/Arcindo e equipe: participação nas decisões de ferramentas e nas decisões estratégicas do projeto; ações individuais não detalhadas nesta atualização.
@@ -98,6 +111,22 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Estruturar a oferta da BF26 como o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada à conclusão do calendário obrigatório de aplicação.
+- Processar todas as vendas da oferta pela Princípia.
+- Emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota.
+- Realizar a homologação integral do funil em 4/11 e a live de lançamento em 5/11, às 20h.
+- Publicar três conteúdos por dia durante a BF26, sendo dois orientados à venda e um ao engajamento.
+- Testar o conceito editorial “RP [Tema]” primeiro no perfil Neg Negreiros antes de eventual aplicação no perfil de Vanessa.
+- Construir o layout da página de vendas no Caplaia.
+- Vender o primeiro lote dos três workshops de 5 a 31 de dezembro e conduzir o funil até a imersão presencial de abril de 2027.
+- Lucas atuará na gestão de redes sociais por R$ 2.000 mensais.
+- O pagamento mensal integral de Lucas começará em dezembro; em novembro será pago o trabalho anterior no projeto citado como “Coronel Neg”.
+- Manter temporariamente a contingência atual dos cartões enquanto o cartão final 9123 está bloqueado.
+- Migrar a conta e os cartões da Realizando Potenciais do Inter para o Itaú.
+- Lucas responde pela estratégia, criação e agendamento das redes sociais de Vanessa.
+- O planejamento da semana seguinte será organizado em planilha compartilhada até quarta-feira e submetido à aprovação de Vanessa.
+- A publicação nas redes e a gestão de comentários serão centralizadas na Full Funnel.
+- A estratégia editorial combinará conteúdo profundo, leve e atual, com linguagem autêntica e humana alinhada à personalidade de Vanessa.
 - Usar Naia no RP; não existe decisão equivalente para Backstage.
 - Contratar as ferramentas definidas na reunião de 22/09/2026; a maioria já foi adicionada por Pablo.
 - Banco de imagens, OpenAI e Gemini fazem parte do conjunto incluído.
@@ -110,7 +139,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Centralizar o acompanhamento das demandas da campanha na planilha do plano de ação, sem depender do ClickUp, e publicar um consolidado escrito no grupo.
 - Realizar separadamente os alinhamentos de quinta-feira e deixar a reunião com Arcindo por último, para consolidar as definições anteriores.
 - Usar o prefixo `BN26` para identificar tudo que pertence à Black November 2026.
-- Manter provisoriamente o parcelamento recorrente no cartão pela Hotmart até a comparação dos cenários de pagamento.
+
 - Substituir a fonte intermediária da landing page do “Alicerce do Extraordinário” por uma serifa mais grossa para melhorar a legibilidade.
 - Alterar na landing page o público de “profissionais de desenvolvimento humano” para “profissionais de saúde emocional”.
 - Manter o evento “Alicerce do Extraordinário” às 20h.
@@ -147,6 +176,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- A API oficial está indisponível; a operação de boas-vindas continua pela API não oficial, mas a queda pode comprometer a linha de ação planejada.
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
 - Os bônus e demais componentes sugeridos para a oferta ainda não têm detalhamento suficiente para decisão e dimensionamento do tempo de Vanessa e Arcindo.
 - As informações da Black Friday permanecem dispersas entre documentos, elevando o risco de perda de contexto na execução.
@@ -169,6 +199,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - A limpeza automatizada da planilha pode atingir por engano o documento usado pelo Fufunel, em vez da área exclusiva dos grupos de WhatsApp.
 
 ## 8. Bloqueios
+- O início integral da operação de Lucas depende da liberação de acesso à Full Funnel, Comenta, ativos do Drive, dashboard da Black November e Comandar Sua Vida por Vanessa.
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
 - O fechamento da composição da oferta depende do detalhamento das sugestões apresentadas por Mari.
 - Dependências antigas de materiais da Vanessa permanecem válidas somente quando ainda não entregues; estado atual não foi atualizado nesta comunicação.
@@ -184,7 +215,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
 - Segmentação da base: 516 tags atômicas foram mencionadas na reunião de 06/10; organização por base antiga, origem atual e compra ainda precisa ser refinada antes da definição segura de públicos e metas.
 - Coordenação da segmentação: alinhamento com Thamyris e Mari sobre públicos e segmentação de leads finalizado no Notion em 12/10/2026; execução da segmentação e metas não foram marcadas como concluídas.
-- Pagamentos da Black November: fluxo provisório de parcelamento recorrente no cartão pela Hotmart; comparação dos cenários finalizada no Notion e divisão definitiva entre plataformas ainda pendente.
+- Pagamentos da Black November: decisão atual é processar todas as vendas pela Princípia e emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota; confirmação operacional por Arcindo ainda pendente.
 - Landing page do “Alicerce do Extraordinário”: ajustes de fonte e público aprovados e marcação finalizada no Notion; publicação da versão ajustada ainda não confirmada.
 - Oferta da campanha: bônus e componentes sugeridos aguardam detalhamento antes da decisão.
 - Comunidades de WhatsApp: cerca de 20 grupos existentes informados por Thamyris em 28/09/2026; estado de reativação ainda não confirmado.
@@ -212,6 +243,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Manter provisoriamente o parcelamento recorrente no cartão pela Hotmart: a reunião de 02/11/2026 definiu o processamento das vendas pela Princípia e a emissão manual das notas fiscais.
 - Tratar a configuração da Naia como estágio inicial: ela está significativamente mais avançada.
 - Tratar banco de imagens, OpenAI e Gemini como recursos ainda apenas hipotéticos ou em espera: Pablo informou que foram incluídos após a reunião com Neg.
 - Tratar a automação de confirmação de leads apenas como atraso sem nova data: Pablo a programou para 24/09/2026.
@@ -235,6 +267,27 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Manter como abertas o dimensionamento e encaminhamento dos chips, a duplicação da automação do Congresso de Vendas e a organização dos depoimentos: o Notion registra as três ações como `Finalizado`; os resultados detalhados não constam na fonte operacional.
 
 ## 12. Próximo passo
+- Compartilhar com a equipe o link do documento de planejamento no Google Drive — Responsável: Pablo Backstage — Prazo: não definido.
+- Atualizar o plano de novembro com criativos de lembrete, UTMs, homologação, replay, página de vendas e comunicação recorrente — Responsável: Pablo Backstage — Prazo: não definido.
+- Compartilhar o termo de abertura com Lucas — Responsável: Pablo Backstage — Prazo: não definido.
+- Homologar o funil com compra de R$ 1, correção das ofertas, verificação do checkout até o Fufunel e confirmação da emissão fiscal — Responsável: Pablo Backstage — Prazo: 4/11.
+- Configurar o StreamYard — Responsável: Pablo Backstage — Prazo: não definido.
+- Orientar Vanessa sobre o fluxo da live — Responsável: Pablo Backstage — Prazo: não definido.
+- Agendar o alinhamento comercial e de CRM com Mari — Responsável: Pablo Backstage — Prazo: não definido.
+- Configurar o dashboard diário de vendas após o alinhamento com Mari — Responsável: Pablo Backstage — Prazo: não definido.
+- Criar as capas dos três workshops para o CPL da BF26 e adicioná-las à Hotmart — Responsável: Pablo Backstage — Prazo: precisa de validação; as fontes registram “não definido” e “até 4/11”.
+- Criar o calendário de aplicação do programa — Responsável: precisa de validação; as fontes divergem entre Pablo com Vanessa e Pablo com Arcindo Negreiros — Prazo: precisa de validação; as fontes registram 3/11, às 15h, e até 4/11.
+- Finalizar o texto da página de vendas — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Selecionar os depoimentos para a página de vendas — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Revisar a pesquisa inicial do CSV para alinhá-la à nova estrutura do programa — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Criar três conteúdos por dia, sendo dois de vendas e um de engajamento — Responsável: Lucas — Prazo: diariamente durante a BF26.
+- Testar o conceito editorial “RP [Tema]” no perfil Neg Negreiros — Responsável: Lucas — Prazo: não definido.
+- Preparar a análise da estratégia de lotes de vendas dos workshops — Responsável: Mari — Prazo: reunião de 9/12.
+- Confirmar com Thamyris o processo de emissão manual das notas fiscais — Responsável: Arcindo Negreiros — Prazo: não definido.
+- Definir a data final do evento “Sala Secreta” — Responsável: equipe — Prazo: não definido.
+- Analisar os dados de engajamento para definir os horários das lives — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Usar enquetes nos Stories para coletar feedback dos leads — Responsável: Mariane Oliveira e Lucas — Prazo: não definido.
+- Enviar a Lucas o briefing de venda com depoimentos, entregas e promessa — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Analisar a frequência orgânica de conteúdo da Vanessa: identificar quando começou a publicação de três conteúdos por dia; comparar esse período com períodos de menor volume de vídeos; excluir da análise as publicações com distribuição de tráfego pago; medir ganho de seguidores, curtidas e engajamento; e concluir qual frequência e combinação de formatos gera melhor resultado orgânico — Responsável: Pablo — Prazo: não definido.
 - Ajustar as demais páginas da Jornada de Sucesso que precisam de atualização — Responsável: Thamyris — Prazo: não definido.
 - Subir a versão 1.1 do vídeo de lançamento em 16:9 — Responsável: não definido — Prazo: não definido.
@@ -283,8 +336,24 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Confirmar se a mensagem de mudança de data foi enviada — Responsável: não definido — Prazo: não definido.
 - Organizar na planilha 850 linhas, com uma linha por mensagem e por grupo de W1 a W17, usando os novos códigos — Responsável: Naya — Prazo: não definido.
 - Enviar prints dos grupos de WhatsApp à Naya para extrair os contatos e aplicar as tags — Responsável: Thamyris Valentim — Prazo: não definido.
+- Planejar na planilha compartilhada o conteúdo da semana seguinte — Responsável: Lucas — Prazo: até quarta-feira.
+- Revisar e aprovar o planejamento semanal de conteúdo — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Conceder a Lucas acesso à Full Funnel, Comenta, ativos do Drive, dashboard da Black November e Comandar Sua Vida — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Criar o grupo de suporte no WhatsApp com Vanessa e Lucas — Responsável: Pablo — Prazo: não definido.
+- Estudar o dashboard da Black November para compreender as dores do público — Responsável: Lucas — Prazo: não definido.
+- Revisar as pesquisas anonimizadas de leads para orientar a criação de conteúdo — Responsável: Lucas — Prazo: não definido.
+- Acessar os cursos Comandar Sua Vida e Cúpula da Decisão — Responsável: Lucas — Prazo: não definido.
+- Reunir-se para finalizar os detalhes de precificação — Responsável: Arcindo Negreiros, Lucas e Pablo — Prazo: não definido.
+- Adicionar Lucas ao grupo estratégico — Responsável: não definido — Prazo: não definido.
+- Participar da reunião sobre a Black November — Responsável: Lucas — Prazo: 02/11/2026, às 17h.
+- Alinhar com Vanessa o fluxo de trabalho e o cronograma de posts — Responsável: Lucas — Prazo: 02/11/2026, na reunião das 17h, ou por mensagem.
+- Pagar Lucas pelo trabalho anterior no projeto citado como “Coronel Neg” — Responsável: Arcindo Negreiros — Prazo: daqui a pouco, conforme expressão da reunião de 02/11/2026.
+- Revisar os dashboards — Responsável: Arcindo Negreiros e Pablo Backstage — Prazo: 02/11/2026, às 16h30.
+- Migrar a conta e os cartões da Realizando Potenciais do Inter para o Itaú — Responsável: Arcindo Negreiros — Prazo: quarta-feira.
 
 ## 13. Próxima decisão
+- Definir a data final do evento “Sala Secreta”; 19/11 permanece apenas como data provisória.
+- Validar a data da reunião de precificação dos workshops, registrada como semana de 9/11 em uma fonte e 9/12 em outra.
 - Confirmar, após o teste em dois conteúdos, se o rastreamento por URL é suficiente ou se será necessário adotar tags diárias.
 - Definir as metas de vendas após a segmentação da base e a consolidação dos públicos.
 - Definir quais bônus e componentes integrarão a oferta após o detalhamento de Mari.
@@ -299,6 +368,10 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — fonte complementar — 02/11/2026]].
+- [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603|RP | BF26 — Fechamento executivo da meta — 02/11/2026]].
+- [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais|Contratação e onboarding de Lucas nas redes sociais — Realizando Potenciais — 02/11/2026]].
+- [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais|Integração de Lucas às redes sociais — Realizando Potenciais — 02/11/2026]].
 - Fechamento diário Notion → EDC — 28/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou três finalizações editadas após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais|RP | BF26 — Estrutura da planilha de mensagens de WhatsApp — 26/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098|RP | BF26 — Fechamento executivo da meta — complemento de evidência — 26/10/2026]].

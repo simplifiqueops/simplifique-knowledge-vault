@@ -1463,13 +1463,13 @@
       "radar": true,
       "content_key": "L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-",
       "order": 23,
-      "status": "copy_review",
+      "status": "ready",
       "copy_completed_at": "2026-10-04T10:45:14-03:00",
       "planned_for": "2026-10-10T09:00:00-03:00",
       "timezone": "America/Sao_Paulo",
       "publication_authorized": false,
-      "design_authorized": false,
-      "copy_gate": "copy_review",
+      "design_authorized": true,
+      "copy_gate": "approved_for_production",
       "channel": "Instagram",
       "requires_user_on_camera": false,
       "daily_request": {
@@ -1493,17 +1493,75 @@
         "decision": "preserve_evergreen_fallback",
         "reason": "Nenhum item novo tratava diretamente da trilha de uma automação com aderência suficiente; o feedback humano pediu apenas menos tecnicidade."
       },
-      "checkpoint": "strategy_and_copy_revised_for_daily_review",
-      "updated_at": "2026-10-04T10:45:14-03:00",
+      "checkpoint": "figma_image_led_render_and_post_render_qa_complete",
+      "updated_at": "2026-11-03T15:01:03-03:00",
       "artifact_directory": "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-",
       "artifacts": [
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/01-Estrategia.md",
         "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/02-Copy-ou-Roteiro.md",
-        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/citations-ledger.json"
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/03-Direcao-Visual-ou-Audiovisual.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/04-QA.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/05-Curadoria-Imagens.md",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/manifest.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/assets/c23-investigation-pexels-8296972.jpg",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/source-metadata/c23-investigation-pexels-8296972.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/figma-comments-readback.json",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/qa-screenshots/section-initial.png",
+        "/home/simplifique/vault/10-Simplifique/Marketing/Conteudo/Lote-09/L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-/qa-screenshots/frame-initial.png"
       ],
       "publication_status": "unpublished",
       "blocking_issues": [],
-      "approved_for": "copy_review"
+      "approved_for": "human_visual_review",
+      "production_started_at": "2026-11-03T14:59:14-03:00",
+      "completed_at": "2026-11-03T15:01:03-03:00",
+      "qa_decision": "approved",
+      "figma_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=694-254",
+      "figma_section_id": "694:254",
+      "rendered_frames": 1,
+      "rendered_dimensions": "1080x1350",
+      "rendered_qa": "approved",
+      "figma_target": {
+        "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+        "page_node": "182:8",
+        "section_id": "694:254",
+        "frame_ids": [
+          "694:255"
+        ],
+        "image_node_ids": [
+          "694:256"
+        ],
+        "overlay_node_ids": [
+          "694:257",
+          "694:258"
+        ],
+        "text_node_ids": [
+          "694:260",
+          "694:262",
+          "694:263"
+        ],
+        "logo_node_ids": [
+          "694:264"
+        ],
+        "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=694-254",
+        "rendered": true,
+        "revision_mode": "new_section",
+        "duplicate_section_created": false
+      },
+      "image_curation": {
+        "status": "recommended_downloaded_and_applied",
+        "selected_candidate": "C23-INVESTIGATION-A",
+        "source": "Pexels",
+        "source_id": 8296972,
+        "photographer": "Mikhail Nilov",
+        "page_url": "https://www.pexels.com/photo/woman-fixing-a-binder-of-documents-8296972/",
+        "score": 10,
+        "approval_required": false
+      },
+      "non_blocking_notes": [
+        "A fotografia Pexels 8296972 foi aplicada com origem, autoria e arquivo local preservados.",
+        "A seção e o frame foram inspecionados em 1080×1350; não há clipping, overlap, overflow, fontes ausentes ou comentários Figma vinculados.",
+        "Artefato editável, não exportado, não agendado e não publicado."
+      ]
     },
     {
       "n": 24,

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "request_key": "social-l09-c23-202610",
+  "content_key": "L09-C23-automação-sem-trilha-de-decisão-só-deixa-o-erro-",
+  "title": "Se a automação errar, você consegue descobrir o que aconteceu?",
+  "status": "ready",
+  "copy_gate": "approved_for_production",
+  "completed_at": "2026-11-03T15:01:03-03:00",
+  "format": "estático image-led",
+  "dimensions": "1080x1350",
+  "figma": {
+    "file_key": "aGBW9EAvXjYm9Tz3KkkHcf",
+    "page_node": "182:8",
+    "section_id": "694:254",
+    "frame_ids": ["694:255"],
+    "image_node_ids": ["694:256"],
+    "overlay_node_ids": ["694:257", "694:258"],
+    "text_node_ids": ["694:260", "694:262", "694:263"],
+    "logo_node_ids": ["694:264"],
+    "direct_url": "https://www.figma.com/design/aGBW9EAvXjYm9Tz3KkkHcf?node-id=694-254",
+    "editable": true,
+    "duplicate_section_created": false
+  },
+  "image_curation": {
+    "status": "recommended_downloaded_and_applied",
+    "candidate_id": "C23-INVESTIGATION-A",
+    "source": "Pexels",
+    "source_id": 8296972,
+    "photographer": "Mikhail Nilov",
+    "page_url": "https://www.pexels.com/photo/woman-fixing-a-binder-of-documents-8296972/",
+    "score": 10,
+    "approval_required": false,
+    "local_path": "assets/c23-investigation-pexels-8296972.jpg"
+  },
+  "qa": {
+    "decision": "approved",
+    "approved_for": "human_visual_review",
+    "frame_count": 1,
+    "descendant_count": 16,
+    "out_of_bounds": 0,
+    "duplicate_sections": 0,
+    "matching_figma_comments": 0,
+    "font_family": "Inter"
+  },
+  "screenshots": [
+    "qa-screenshots/section-initial.png",
+    "qa-screenshots/frame-initial.png"
+  ],
+  "exported": false,
+  "scheduled": false,
+  "published": false
+}

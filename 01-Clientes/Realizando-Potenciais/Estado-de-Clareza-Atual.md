@@ -3,17 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-02T21:31:25Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/4Rxq_D6BoVnxmnkf6zCMFTTKSz3ontMQ"
+atualizado_em: 2026-11-03T19:22:39Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/jLYkNdhzTmpeqg29MLsxEBex2a4ypSQJ"
 fonte_complementar: "[[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para a identificação do cliente e para a cadência editorial visível; moderada para decisões e compromissos localizados somente no resumo e nos action items porque a transcrição recebida estava compactada"
+confianca: "alta para a identificação do cliente e para as mudanças de 03/11, verificadas na transcrição completa; moderada para decisões anteriores localizadas somente em fontes compactadas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O calendário de aplicação foi fechado de 30/11 a 29/01, com cinco blocos e encontros online em 09/12 e 13/01; a criação do calendário deixa de ser pendência e passa a depender da aprovação de Vanessa antes do envio a Thamyris.
+- A sequência dos workshops foi organizada em Projeto Fora da Gaveta, Presença Digital e Conexão de Valor, distribuídos de fevereiro a abril.
+- Os pagamentos recorrentes serão migrados para o novo cartão do Itaú da Realizando Potenciais; o cartão final 4087 ficará como backup e a conta do Inter manterá entre R$ 100 e R$ 150.
+- Pablo assumiu a auditoria dos acessos e cartões por ferramenta e confirmou a finalização da página do Intimidade Restaurada para “mais tarde”.
+- A impossibilidade informada pelo Itaú de personalizar a senha do cartão permanece como risco de segurança.
 - A oferta da BF26 passa a ser o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada ao calendário obrigatório de aplicação.
 - O fluxo provisório de pagamento pela Hotmart foi substituído pela decisão de processar as vendas pela Princípia e emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota.
 - A homologação integral do funil ficou marcada para 4/11, antes da live de lançamento de 5/11, às 20h.
@@ -59,10 +64,12 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Oferta “Alicerce do Extraordinário”: programa estruturado de seis meses, com garantia vinculada ao calendário obrigatório de aplicação; layout da página de vendas no Caplaia; homologação em 4/11 e live de lançamento em 5/11, às 20h.
 - Funil pós-BF26: o primeiro lote dos workshops Presença Digital, Projeto Fora da Gaveta e Conexão de Valor está previsto de 5 a 31 de dezembro; a trilha culmina em uma imersão presencial em abril de 2027. A data da reunião de precificação diverge entre as fontes e precisa de validação.
 - Contratação e onboarding de Lucas: valor mensal acordado em R$ 2.000, com início do pagamento integral em dezembro; integração imediata ao grupo estratégico, à reunião da Black November e ao alinhamento operacional com Vanessa.
-- Operação financeira: manter temporariamente o cartão digital do Inter e o cartão final 4087 como contingência ao bloqueio do cartão final 9123; migrar conta e cartões da Realizando Potenciais para o Itaú na quarta-feira.
+- Calendário de aplicação e workshops: aplicação de 30/11 a 29/01, com cinco blocos e encontros online em 09/12 e 13/01; sequência de workshops definida como Projeto Fora da Gaveta em fevereiro, Presença Digital em março e Conexão de Valor em abril. O calendário aguarda aprovação de Vanessa antes do envio a Thamyris.
+- Operação financeira: migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais, manter o cartão final 4087 como backup e transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
 
 ## 5. Responsáveis
 - Pablo Backstage: homologar o funil em 4/11; atualizar e compartilhar o planejamento; configurar o StreamYard; orientar Vanessa sobre a live; criar as capas dos workshops; criar com Vanessa o calendário de aplicação; e alinhar com Mari o dashboard diário de vendas.
+- Pablo Backstage: enviar o calendário a Vanessa para aprovação e, depois, a Thamyris; auditar os acessos e cartões por ferramenta; e finalizar a página do Intimidade Restaurada.
 - Dra. Vanessa Cesnik: finalizar o texto da página de vendas, selecionar depoimentos e revisar a pesquisa inicial do CSV conforme a nova estrutura do programa.
 - Lucas: produzir diariamente três conteúdos, sendo dois de venda e um de engajamento, e testar o conceito editorial “RP [Tema]” no perfil Neg Negreiros.
 - Mari: preparar a análise da estratégia de lotes de vendas dos workshops para a reunião de 9/12.
@@ -70,6 +77,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Lucas: liderar estratégia, criação, planejamento e agendamento das redes sociais de Vanessa; estudar o dashboard e as pesquisas do público e acessar os cursos de referência.
 - Lucas: participar da reunião da Black November às 17h e alinhar com Vanessa o fluxo de trabalho e o cronograma de posts.
 - Arcindo Negreiros: pagar o trabalho anterior de Lucas, migrar a operação bancária e os cartões para o Itaú e revisar os dashboards com Pablo.
+- Arcindo Negreiros: transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
 - Dra. Vanessa Cesnik: aprovar o planejamento semanal e conceder a Lucas os acessos e ativos necessários.
 - Pablo: criar o grupo de suporte com Vanessa e Lucas; participar com Arcindo e Lucas da finalização dos detalhes de precificação.
 - Pablo: estruturar decisões de Black Friday e funis; automação de confirmação de leads, ajustes da Naia, versão 3, consolidado para Arcindo, arquivos no Drive, datas e verificação do parcelamento constam como finalizados no Notion.
@@ -111,6 +119,9 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Realizar a aplicação de 30 de novembro a 29 de janeiro, com os blocos Comece por Aqui, Fundação Existencial, Espelho Existencial, Desbloqueio Existencial e Arrancada Existencial, além de encontros online em 9 de dezembro e 13 de janeiro.
+- Organizar a sequência dos workshops em Projeto Fora da Gaveta, Presença Digital e Conexão de Valor, distribuídos de fevereiro a abril.
+- Migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais, manter o cartão final 4087 como backup e deixar entre R$ 100 e R$ 150 na conta do Inter.
 - Estruturar a oferta da BF26 como o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada à conclusão do calendário obrigatório de aplicação.
 - Processar todas as vendas da oferta pela Princípia.
 - Emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota.
@@ -122,7 +133,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Lucas atuará na gestão de redes sociais por R$ 2.000 mensais.
 - O pagamento mensal integral de Lucas começará em dezembro; em novembro será pago o trabalho anterior no projeto citado como “Coronel Neg”.
 - Manter temporariamente a contingência atual dos cartões enquanto o cartão final 9123 está bloqueado.
-- Migrar a conta e os cartões da Realizando Potenciais do Inter para o Itaú.
+- Migrar a operação principal da Realizando Potenciais para o Itaú sem encerrar imediatamente a conta do Inter.
 - Lucas responde pela estratégia, criação e agendamento das redes sociais de Vanessa.
 - O planejamento da semana seguinte será organizado em planilha compartilhada até quarta-feira e submetido à aprovação de Vanessa.
 - A publicação nas redes e a gestão de comentários serão centralizadas na Full Funnel.
@@ -176,6 +187,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- O Itaú informou que a senha do cartão de crédito não pode ser personalizada, mantendo uma preocupação de segurança sem solução confirmada.
 - A API oficial está indisponível; a operação de boas-vindas continua pela API não oficial, mas a queda pode comprometer a linha de ação planejada.
 - A base contém centenas de tags antigas, duplicadas ou semelhantes e ainda não permite definir públicos e metas de vendas com segurança.
 - Os bônus e demais componentes sugeridos para a oferta ainda não têm detalhamento suficiente para decisão e dimensionamento do tempo de Vanessa e Arcindo.
@@ -243,6 +255,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Tratar a criação do calendário de aplicação como pendência: o calendário foi fechado em 03/11/2026 e agora aguarda aprovação de Vanessa antes do envio a Thamyris.
 - Manter provisoriamente o parcelamento recorrente no cartão pela Hotmart: a reunião de 02/11/2026 definiu o processamento das vendas pela Princípia e a emissão manual das notas fiscais.
 - Tratar a configuração da Naia como estágio inicial: ela está significativamente mais avançada.
 - Tratar banco de imagens, OpenAI e Gemini como recursos ainda apenas hipotéticos ou em espera: Pablo informou que foram incluídos após a reunião com Neg.
@@ -276,7 +289,10 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Agendar o alinhamento comercial e de CRM com Mari — Responsável: Pablo Backstage — Prazo: não definido.
 - Configurar o dashboard diário de vendas após o alinhamento com Mari — Responsável: Pablo Backstage — Prazo: não definido.
 - Criar as capas dos três workshops para o CPL da BF26 e adicioná-las à Hotmart — Responsável: Pablo Backstage — Prazo: precisa de validação; as fontes registram “não definido” e “até 4/11”.
-- Criar o calendário de aplicação do programa — Responsável: precisa de validação; as fontes divergem entre Pablo com Vanessa e Pablo com Arcindo Negreiros — Prazo: precisa de validação; as fontes registram 3/11, às 15h, e até 4/11.
+- Enviar o calendário a Vanessa para aprovação e, após a aprovação, encaminhá-lo a Thamyris — Responsável: Pablo Backstage — Prazo: não definido.
+- Auditar os acessos às ferramentas e registrar em planilha os cartões vinculados a cada uma — Responsável: Pablo Backstage — Prazo: não definido.
+- Migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais — Responsável: não definido — Prazo: não definido.
+- Finalizar a página de vendas do Intimidade Restaurada — Responsável: Pablo Backstage — Prazo: mais tarde, conforme expressão da reunião de 03/11/2026.
 - Finalizar o texto da página de vendas — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Selecionar os depoimentos para a página de vendas — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Revisar a pesquisa inicial do CSV para alinhá-la à nova estrutura do programa — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
@@ -349,7 +365,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Alinhar com Vanessa o fluxo de trabalho e o cronograma de posts — Responsável: Lucas — Prazo: 02/11/2026, na reunião das 17h, ou por mensagem.
 - Pagar Lucas pelo trabalho anterior no projeto citado como “Coronel Neg” — Responsável: Arcindo Negreiros — Prazo: daqui a pouco, conforme expressão da reunião de 02/11/2026.
 - Revisar os dashboards — Responsável: Arcindo Negreiros e Pablo Backstage — Prazo: 02/11/2026, às 16h30.
-- Migrar a conta e os cartões da Realizando Potenciais do Inter para o Itaú — Responsável: Arcindo Negreiros — Prazo: quarta-feira.
+- Transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter — Responsável: Arcindo Negreiros — Prazo: não definido; a referência anterior a quarta-feira não foi reafirmada na reunião de 03/11/2026.
 
 ## 13. Próxima decisão
 - Definir a data final do evento “Sala Secreta”; 19/11 permanece apenas como data provisória.
@@ -368,6 +384,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando WhatsApp
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais|Calendário dos workshops e operação financeira — Realizando Potenciais — 03/11/2026]] · [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais--transcricao-completa|transcrição completa — call 887634973]].
 - [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — fonte complementar — 02/11/2026]].
 - [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603|RP | BF26 — Fechamento executivo da meta — 02/11/2026]].
 - [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais|Contratação e onboarding de Lucas nas redes sociais — Realizando Potenciais — 02/11/2026]].

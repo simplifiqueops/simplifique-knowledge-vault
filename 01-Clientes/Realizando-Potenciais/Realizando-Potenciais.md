@@ -19,6 +19,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais|03/11/2026 — Calendário dos workshops e operação financeira]] · [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais--transcricao-completa|transcrição completa — call 887634973]]
 - [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais|02/11/2026 — RP | BF26 — Fechamento executivo da meta — fonte complementar]]
 - [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603|02/11/2026 — RP | BF26 — Fechamento executivo da meta]]
 - [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais|02/11/2026 — Contratação e onboarding de Lucas nas redes sociais]]

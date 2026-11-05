@@ -1,0 +1,31 @@
+{
+  "campaign": "Lembretes — Alicerce do Extraordinário",
+  "client": "Realizando Potenciais",
+  "event": {
+    "date": "2026-11-05",
+    "time": "20:00",
+    "timezone": "America/Sao_Paulo",
+    "presenter": "Dra. Vanessa Cesnik"
+  },
+  "figma": {
+    "file_key": "6HKe17JTsittwyj2QQjPQu",
+    "section_id": "208:3",
+    "url": "https://www.figma.com/design/6HKe17JTsittwyj2QQjPQu?node-id=208-3"
+  },
+  "exports": [
+    {"concept": 1, "node": "208:4", "file": "exports/01-valor-profissional-feed.png", "width": 1080, "height": 1350},
+    {"concept": 1, "node": "208:5", "file": "exports/01-valor-profissional-stories.png", "width": 1080, "height": 1920},
+    {"concept": 2, "node": "208:6", "file": "exports/02-projetos-engavetados-feed.png", "width": 1080, "height": 1350},
+    {"concept": 2, "node": "208:7", "file": "exports/02-projetos-engavetados-stories.png", "width": 1080, "height": 1920},
+    {"concept": 3, "node": "208:8", "file": "exports/03-oportunidades-maiores-feed.png", "width": 1080, "height": 1350},
+    {"concept": 3, "node": "208:9", "file": "exports/03-oportunidades-maiores-stories.png", "width": 1080, "height": 1920},
+    {"concept": 4, "node": "208:10", "file": "exports/04-crescimento-qualidade-de-vida-feed.png", "width": 1080, "height": 1350},
+    {"concept": 4, "node": "208:11", "file": "exports/04-crescimento-qualidade-de-vida-stories.png", "width": 1080, "height": 1920},
+    {"concept": 5, "node": "208:12", "file": "exports/05-e-amanha-feed.png", "width": 1080, "height": 1350},
+    {"concept": 5, "node": "208:13", "file": "exports/05-e-amanha-stories.png", "width": 1080, "height": 1920},
+    {"concept": 6, "node": "208:14", "file": "exports/06-e-hoje-feed.png", "width": 1080, "height": 1350},
+    {"concept": 6, "node": "208:15", "file": "exports/06-e-hoje-stories.png", "width": 1080, "height": 1920},
+    {"concept": 7, "node": "228:2", "file": "exports/07-extra-e-hoje-com-foto-stories.png", "width": 1080, "height": 1920, "extra": true},
+    {"concept": 8, "node": "228:19", "file": "exports/08-extra-e-amanha-tipografico-stories.png", "width": 1080, "height": 1920, "extra": true}
+  ]
+}

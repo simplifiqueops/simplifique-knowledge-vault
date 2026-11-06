@@ -11,6 +11,10 @@ BASE = os.environ["WORDPRESS_URL"].rstrip("/")
 AUTH = (os.environ["WORDPRESS_USERNAME"], os.environ["WORDPRESS_APP_PASSWORD"])
 ASSET_DIR = Path("/home/simplifique/vault/01-Clientes/Realizando-Potenciais/Alicerce-do-Extraordinario/Pagina-de-Vendas/assets/editorial")
 EXEC_DIR = Path("/tmp/alicerce-figma-exec")
+HERO_DIR = Path("/home/simplifique/vault/01-Clientes/Realizando-Potenciais/Alicerce-do-Extraordinario/Pagina-de-Vendas/assets/figma-hero")
+SUSTAIN_DIR = Path("/home/simplifique/vault/01-Clientes/Realizando-Potenciais/Alicerce-do-Extraordinario/Pagina-de-Vendas/assets/figma-sustentar")
+TESTIMONIAL_DIR = Path("/home/simplifique/vault/01-Clientes/Realizando-Potenciais/Alicerce-do-Extraordinario/Pagina-de-Vendas/assets/depoimentos")
+FIGMA_UPDATES_DIR = Path("/home/simplifique/vault/01-Clientes/Realizando-Potenciais/Alicerce-do-Extraordinario/Pagina-de-Vendas/assets/figma-updates-2026-11-05")
 OUT = Path("/home/simplifique/vault/.hermes/tmp/alicerce-wp-assets.json")
 
 ASSETS = {
@@ -29,6 +33,27 @@ ASSETS = {
     "grupo": EXEC_DIR / "1.jpeg",
     "whatsapp": EXEC_DIR / "4.png",
     "labex_oficial": EXEC_DIR / "3.jpeg",
+    "hero_background": HERO_DIR / "hero-background.png",
+    "hero_vanessa": HERO_DIR / "hero-vanessa.png",
+    "hero_halo": HERO_DIR / "hero-halo.svg",
+    "energia_figma_desktop": SUSTAIN_DIR / "energia-desktop.png",
+    "intimidade_figma_desktop": SUSTAIN_DIR / "intimidade-desktop.png",
+    "labex_figma_desktop": SUSTAIN_DIR / "labex-desktop.jpg",
+    "energia_figma_mobile": SUSTAIN_DIR / "energia-mobile.jpg",
+    "intimidade_figma_mobile": SUSTAIN_DIR / "intimidade-mobile.jpg",
+    "labex_figma_mobile": SUSTAIN_DIR / "labex-mobile.jpg",
+    "testimonial_paloma": TESTIMONIAL_DIR / "paloma-1.png",
+    "testimonial_gicela": TESTIMONIAL_DIR / "gicela-1.png",
+    "testimonial_andrea": TESTIMONIAL_DIR / "andrea-1.png",
+    "testimonial_elaine": TESTIMONIAL_DIR / "elaine-1.png",
+    "jornada_background": FIGMA_UPDATES_DIR / "jornada-bg-1.png",
+    "construir_background": FIGMA_UPDATES_DIR / "construir-raw-2.png",
+    "destravar_csv": FIGMA_UPDATES_DIR / "destravar-csv.png",
+    "destravar_grupo": FIGMA_UPDATES_DIR / "destravar-grupo.png",
+    "destravar_guardiao": FIGMA_UPDATES_DIR / "destravar-guardiao.png",
+    "construir_projeto": FIGMA_UPDATES_DIR / "construir-projeto.png",
+    "construir_presenca": FIGMA_UPDATES_DIR / "construir-presenca.png",
+    "construir_conexao": FIGMA_UPDATES_DIR / "construir-conexao.png",
 }
 
 session = requests.Session()

@@ -2,76 +2,181 @@
   "projetos": {
     "id": 3431,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-projetos.jpg",
-    "created": true
+    "created": false
   },
   "valor": {
     "id": 3432,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-valor.jpg",
-    "created": true
+    "created": false
   },
   "cobranca": {
     "id": 3433,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-cobranca.jpg",
-    "created": true
+    "created": false
   },
   "agenda": {
     "id": 3434,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-agenda.jpg",
-    "created": true
+    "created": false
   },
   "implementacao": {
     "id": 3435,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-implementacao.jpg",
-    "created": true
+    "created": false
   },
   "imersoes": {
     "id": 3436,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-imersoes.jpg",
-    "created": true
+    "created": false
   },
   "acesso": {
     "id": 3437,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-acesso.jpg",
-    "created": true
+    "created": false
   },
   "energia": {
     "id": 3438,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-energia.jpg",
-    "created": true
+    "created": false
   },
   "intimidade": {
     "id": 3439,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-intimidade.jpg",
-    "created": true
+    "created": false
   },
   "labex": {
     "id": 3440,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-labex.jpg",
-    "created": true
+    "created": false
   },
   "vanessa": {
     "id": 3441,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-vanessa-scaled.jpg",
-    "created": true
+    "created": false
   },
   "neg": {
     "id": 3442,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-neg-scaled.jpg",
-    "created": true
+    "created": false
   },
   "grupo": {
     "id": 3443,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-grupo.jpeg",
-    "created": true
+    "created": false
   },
   "whatsapp": {
     "id": 3444,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-whatsapp.png",
-    "created": true
+    "created": false
   },
   "labex_oficial": {
     "id": 3445,
     "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-labex_oficial.jpeg",
+    "created": false
+  },
+  "hero_background": {
+    "id": 3450,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-hero_background.png",
+    "created": false
+  },
+  "hero_vanessa": {
+    "id": 3451,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-hero_vanessa.png",
+    "created": false
+  },
+  "hero_halo": {
+    "id": 3452,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-hero_halo.svg",
+    "created": false
+  },
+  "energia_figma_desktop": {
+    "id": 3460,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-energia_figma_desktop.png",
+    "created": false
+  },
+  "intimidade_figma_desktop": {
+    "id": 3461,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-intimidade_figma_desktop.png",
+    "created": false
+  },
+  "labex_figma_desktop": {
+    "id": 3462,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-labex_figma_desktop.jpg",
+    "created": false
+  },
+  "energia_figma_mobile": {
+    "id": 3463,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-energia_figma_mobile.jpg",
+    "created": false
+  },
+  "intimidade_figma_mobile": {
+    "id": 3464,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-intimidade_figma_mobile.jpg",
+    "created": false
+  },
+  "labex_figma_mobile": {
+    "id": 3465,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-labex_figma_mobile.jpg",
+    "created": false
+  },
+  "testimonial_paloma": {
+    "id": 3470,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-testimonial_paloma.png",
+    "created": false
+  },
+  "testimonial_gicela": {
+    "id": 3471,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-testimonial_gicela.png",
+    "created": false
+  },
+  "testimonial_andrea": {
+    "id": 3472,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-testimonial_andrea.png",
+    "created": false
+  },
+  "testimonial_elaine": {
+    "id": 3473,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-testimonial_elaine.png",
+    "created": false
+  },
+  "jornada_background": {
+    "id": 3476,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-jornada_background.png",
+    "created": true
+  },
+  "construir_background": {
+    "id": 3477,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-construir_background.png",
+    "created": true
+  },
+  "destravar_csv": {
+    "id": 3478,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-destravar_csv.png",
+    "created": true
+  },
+  "destravar_grupo": {
+    "id": 3479,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-destravar_grupo.png",
+    "created": true
+  },
+  "destravar_guardiao": {
+    "id": 3480,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-destravar_guardiao.png",
+    "created": true
+  },
+  "construir_projeto": {
+    "id": 3481,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-construir_projeto.png",
+    "created": true
+  },
+  "construir_presenca": {
+    "id": 3482,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-construir_presenca.png",
+    "created": true
+  },
+  "construir_conexao": {
+    "id": 3483,
+    "url": "https://lp.vocenocomando.com.br/wp-content/uploads/2026/11/alicerce-construir_conexao.png",
     "created": true
   }
 }

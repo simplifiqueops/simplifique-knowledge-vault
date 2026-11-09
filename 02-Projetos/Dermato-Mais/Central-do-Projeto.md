@@ -4,7 +4,7 @@ projeto: Dermato+
 status: legacy
 demandas_no_edc: 1
 decisoes_pendentes: 1
-edc_atualizado_em: 2026-10-02
+edc_atualizado_em: 2026-11-08
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---

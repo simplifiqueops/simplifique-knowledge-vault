@@ -4,16 +4,17 @@ project: "Dermato+"
 type: estado-de-clareza-canonico
 status: legacy
 relationship_stage: legacy
-updated_at: "2026-10-02T15:49:47Z"
+updated_at: "2026-11-08T21:32:27Z"
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-02"
-confianca: "alta para a decisão relatada de encerramento nesta semana e para os riscos financeiros; moderada para os procedimentos de fechamento, que não foram detalhados"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-11-08"
+confianca: "alta para o cancelamento operacional verificado no Notion e para a decisão de encerramento; moderada para os procedimentos de fechamento, que não foram detalhados"
 canonical: false
 ---
 
 # Dermato+ — Estado de Clareza Atual
 
 ## Delta da última atualização
+- A verificação independente de 08/11/2026 confirmou no Notion como `Cancelado` o item “Compartilhar com Daniel o briefing dos materiais da recepção antes da produção”; o item não reabre produção nem altera a frente residual de encerramento.
 - Pablo confirmou que o contrato será encerrado nesta semana devido a atrasos de pagamento, passivo financeiro do cliente, fechamento de unidade e dificuldade de contato com o responsável pelos pagamentos.
 - A incerteza anterior sobre continuidade foi resolvida em favor do encerramento; as frentes condicionadas a continuidade deixam de ser ativas.
 - Não houve autorização de campanha, disparo ou uso da lista de tratamentos vencidos; os 300 contatos permanecem organizados na DigiSac sem mensagens enviadas.
@@ -59,7 +60,7 @@ Concluir o encerramento contratual e operacional da Dermato+ com rastreabilidade
 - Uso futuro da lista continua condicionado a nova decisão, reconferência no Feegow, validação de canal/base legal e nomeação de responsável humano.
 
 ## 9. Indicadores
-- Nenhum indicador vigente confirmado nesta atualização.
+- Briefing dos materiais da recepção: compartilhamento com Daniel `Cancelado` no Notion; nenhuma produção reativada.
 - Base documental: 524 registros; 389 pacientes únicos; 337 pacientes com algum canal de contato; 52 sem celular nem e-mail.
 - Carga DigiSac: 300 contatos verificados; 4 números compartilhados e 22 números sem validação WhatsApp ficaram fora; 0 mensagens enviadas.
 
@@ -73,6 +74,7 @@ Concluir o encerramento contratual e operacional da Dermato+ com rastreabilidade
 - Manter como ativas as frentes condicionadas à continuidade do contrato.
 - Tratar a espera passiva por resposta de Daniel como próximo passo suficiente.
 - Tratar importação, API, disparos e outras entregas históricas como prioridades automáticas antes da reunião de definição.
+- Manter como ativo o compartilhamento com Daniel do briefing dos materiais da recepção: o Notion registra o item como `Cancelado`.
 
 ## 12. Próximo passo
 - Formalizar o encerramento e registrar pagamentos, acessos, dados e entregas residuais — Responsável: não definido — Prazo: esta semana — Critério de conclusão: encerramento e pendências documentados.
@@ -81,6 +83,7 @@ Concluir o encerramento contratual e operacional da Dermato+ com rastreabilidade
 - Definir o tratamento das pendências financeiras e o destino dos dados e acessos após o encerramento.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 08/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou um cancelamento editado após o EDC apesar do snapshot sem delta.
 - [[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca|02/10/2026 — Finanças, produtos e automação de conteúdo]].
 - Atualização direta de gestão — 23/09/2026.
 - Atualização direta de gestão — 16/09/2026: materiais enviados a Daniel sem devolutiva posterior confirmada.

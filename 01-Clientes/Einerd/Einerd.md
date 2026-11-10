@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday; além das correções da VSL e das copies, a frente agora inclui fichas e ativos dos produtos, onboarding por checklists e três trilhas, internacionalização por IA e desenho do pipeline de produção por IA. O framework de sete fases continua pendente de validação.
+> A operação audiovisual segue registrada no Monday; além das correções da VSL e das copies, a frente inclui fichas e ativos dos produtos, onboarding por checklists e três trilhas, internacionalização por IA e desenho do pipeline de produção por IA. A reunião de 09/11 sobre anúncios, páginas e Unbounce foi processada sem mudança material nesse escopo canônico.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026 — Testes de anúncios e páginas no Unbounce]].
 - [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|30/10/2026 — Documentação de produtos, onboarding e pipeline de IA]].
 - [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026 — Modelo operacional por projeto e fase]].
 - [[03-Reunioes/2026/10/2026-10-26--black-friday-plano-90-dias-copies-einerd|26/10/2026 — Black Friday, plano de 90 dias e correção de copies]].

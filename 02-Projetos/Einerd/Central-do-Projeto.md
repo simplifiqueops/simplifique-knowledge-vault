@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 27
 decisoes_pendentes: 5
-edc_atualizado_em: 2026-10-30
+edc_atualizado_em: 2026-11-09
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -29,6 +29,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026]] definiu testes do criativo R27 e de páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur; não acrescentou responsabilidade para Pablo nem alterou as 27 demandas canônicas de Audiovisual.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|30/10/2026]] definiu onboarding por checklists e três trilhas, internacionalização e edição com base em IA e novas demandas de documentação, ativos, backup, pipeline e checklist de copy; a automação segue manual e centralizada.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026]] alinhou o modelo combinado por projeto e por fase como proposta-base e registrou riscos de centralização, comunicação, dados pulverizados e adoção no fim do ano, sem mudança material nas demandas canônicas de Audiovisual.
 - Sinal atual: o fluxo atual da Black Friday não usará o downsell de YouTube Dark; o downsell semestral do TubeClub ficou em R$497 e as copies de YouTube Dark e TubeClub precisam de correções de transparência antes de permanecerem em circulação.

@@ -3,22 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-10-30T17:26:09-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd]]"
-fonte_atualizacao: "Reunião de 30/10/2026 — documentação de produtos, onboarding e pipeline de IA"
-confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada; o framework de sete fases e a reunião ampliada permaneceram como propostas"
+atualizado_em: 2026-11-09T16:31:46Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd]]"
+fonte_atualizacao: "Reunião de 09/11/2026 — testes de anúncios e páginas no Unbounce"
+confianca: "média-alta para o DDR; sem mudança material no EDC canônico de Audiovisual porque as ações confirmadas pertencem às frentes de anúncios, páginas e performance e a transcrição foi compactada"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: onboarding orientado por checklists e três trilhas predefinidas; internacionalização e base da edição audiovisual por IA; novas demandas de fichas de produto, ativos, backup de aulas, pipeline e checklist de copy.
-- Responsabilidades confirmadas: Marcel assumiu documentação, ativos, quick wins, backup, teste do Cash Call, retirada de acessos e planejamento do onboarding; Pablo assumiu o levantamento da internacionalização, o pipeline e o checklist de copy; Arthur recebeu o levantamento das métricas iniciais de consumo.
-- Riscos acrescentados: promessas de aulas sem alinhamento, materiais dispersos, produção por IA ainda manual e centralizada, nomenclatura inconsistente, créditos expostos e disponibilidade limitada de Peter.
-- Confirmação sem mudança: o framework de sete fases continua como proposta para validação posterior, sem adoção organizacional comprovada.
-- Conflitos/lacunas: o nome da ferramenta de IA de vídeo foi transcrito como “Raygen” e precisa de validação; não há prazos explícitos para as novas demandas.
-- Fonte: [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|Documentação de produtos, onboarding e pipeline de IA — Ei Nerd — 30/10/2026]].
+- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual.
+- Confirmações sem mudança: a reunião definiu testes de anúncios e páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur, todas externas ao backlog canônico de Audiovisual e sem nova responsabilidade para Pablo.
+- Conflitos/lacunas: a transcrição foi compactada e apresenta diarização inconsistente; o responsável pela construção das páginas não ficou seguro o bastante para promoção nominal.
+- Fonte: [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|Testes de anúncios e páginas no Unbounce — Ei Nerd — 09/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -172,6 +170,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|Testes de anúncios e páginas no Unbounce — Ei Nerd — 09/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra decisões e demandas de anúncios, páginas e performance.
 - [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|Documentação de produtos, onboarding e pipeline de IA — Ei Nerd — 30/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|Modelo operacional por projeto e fase — Ei Nerd — 29/10/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra direção operacional e riscos externos ao escopo.
 - Fechamento diário Notion → EDC — 28/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou duas finalizações editadas após o EDC apesar do snapshot sem delta.

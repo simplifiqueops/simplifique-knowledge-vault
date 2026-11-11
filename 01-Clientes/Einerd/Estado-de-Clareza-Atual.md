@@ -3,20 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-09T16:31:46Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd]]"
-fonte_atualizacao: "Reunião de 09/11/2026 — testes de anúncios e páginas no Unbounce"
-confianca: "média-alta para o DDR; sem mudança material no EDC canônico de Audiovisual porque as ações confirmadas pertencem às frentes de anúncios, páginas e performance e a transcrição foi compactada"
+atualizado_em: 2026-11-10T18:33:34-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd]]"
+fonte_atualizacao: "Reunião de 10/11/2026 — ajustes do Lead 2 e pipeline audiovisual com IA"
+confianca: "média: a transcrição recebida foi compactada; decisões e compromissos nos trechos omitidos foram promovidos somente quando localizados pelo resumo e coerentes com o estado anterior"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual.
-- Confirmações sem mudança: a reunião definiu testes de anúncios e páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur, todas externas ao backlog canônico de Audiovisual e sem nova responsabilidade para Pablo.
-- Conflitos/lacunas: a transcrição foi compactada e apresenta diarização inconsistente; o responsável pela construção das páginas não ficou seguro o bastante para promoção nominal.
-- Fonte: [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|Testes de anúncios e páginas no Unbounce — Ei Nerd — 09/11/2026]].
+- O fechamento diário confirmou no Notion o cancelamento da demanda de concluir o bot Ella. O item sai das frentes e próximos passos ativos; o cancelamento não comprova que o bot foi concluído.
+- Mudanças confirmadas: os ajustes da VSL e dos anúncios do Lead 2 serão executados com IA e revisão humana; o pipeline passa a exigir checklist de entrada; novas demandas de documentação, compartilhamento e revisão foram incorporadas.
+- Confirmações sem mudança: fichas de produto, banco de provas, pipeline audiovisual e revisão humana já eram frentes vigentes e permanecem abertas.
+- Conflitos/lacunas: a transcrição omitiu os trechos intermediários e o resumo atribui o backup do Monday tanto a Marcel quanto a Hallefy; o responsável pela limpeza e pelo backup não foi consolidado nominalmente.
+- Fonte: [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd — 10/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -24,15 +25,14 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 ## 2. Resultado esperado
 - Painel audiovisual funcional e validado com Marcel.
 - Conexão do painel com o Daily para leitura das pendências relevantes.
-- Bot Ella concluído e retirado da fila até 25/09/2026.
 - Demandas de audiovisual conciliadas entre Monday, planilha de cursos e Google Drive.
 - Aprendizados de YouTube Dark registrados na base de inteligência.
 
 ## 3. Prioridades
-1. Corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub.
-2. Consolidar as fichas de produto, os ativos e o pipeline de produção audiovisual por IA.
-3. Validar a sincronização da plataforma com o Monday e corrigir divergências encontradas.
-4. Concluir o bot Ella até 25/09/2026.
+1. Ajustar a VSL e os anúncios do Lead 2 com IA, instruções inequívocas e revisão humana.
+2. Corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub.
+3. Consolidar as fichas de produto, os ativos e o pipeline de produção audiovisual por IA.
+4. Validar a sincronização da plataforma com o Monday e corrigir divergências encontradas.
 5. Conectar a visão do painel audiovisual ao Daily.
 6. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
 7. Atualizar o SLA de edição e alinhá-lo com Hallefy.
@@ -41,21 +41,23 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Gestão do fluxo audiovisual: Hallefy Moraes iniciou o onboarding como gerente de projeto; Pablo mantém a operação vigente no Monday e atualizará o SLA para compartilhamento com Hallefy.
 - Black Friday e copies: manter a VSL atual do TubeClub com nove treinamentos durante a campanha; corrigir o downsell semestral para R$497; retirar o downsell de YouTube Dark do fluxo atual; explicitar o acesso anual do YouTube Dark e a renovação automática do TubeClub.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo e a evolução a partir da prévia constam como finalizadas no Notion, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
-- Bot Ella no Monday: implementação em andamento; gravações de Marcel já incorporadas anteriormente.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
 - Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais e a revisão do material do VVSA foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 - Documentação de produtos e ativos: Marcel criará fichas dos produtos, centralizará materiais brutos/editados e estruturará bancos de ativos visuais e provas de alunos.
 - Onboarding do aluno: direção definida por checklists e três trilhas predefinidas; Marcel planejará as aulas e consultará os desenvolvedores sobre a primeira implementação.
 - Produção por IA: internacionalização e edição passam a usar IA como base; o teste inicial será feito no Cash Call, enquanto Pablo desenhará o pipeline e o checklist de copy.
+- Lead 2 e entrada do pipeline: os ajustes da VSL e dos anúncios serão feitos com IA e revisão humana; Kayke documentará os comandos, Pablo compartilhará o fluxograma e criará os modelos de copy e VSL com o cabeçalho obrigatório.
+- Higienização operacional: o quadro do Monday deverá ser salvo antes da limpeza e retomado em estrutura padronizada; a atribuição nominal do backup e da limpeza precisa de validação.
 
 ## 5. Responsáveis
-- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, conclusão do bot Ella, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
+- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
 - Hallefy Moraes: gerente de projeto em onboarding; deverá contatar membros da equipe para alinhar a organização das demandas entre o dia da reunião de 20/10 e o dia seguinte.
 - Marcel: criar e enviar o acesso de Pablo, verificar a sincronização entre plataforma e Monday, criar fichas e ativos dos produtos, centralizar aulas, testar a edição do Cash Call, retirar acessos da ferramenta de IA de vídeo, enviar documentos de copy e planejar o onboarding; prazos não definidos.
 - Arthur: levantar métricas de acesso inicial e consumo de aulas pelos alunos; prazo não definido.
 - Carla: governança das tasks e pastas do Monday conforme decisões anteriores.
 - Editores e demais responsáveis: execução das entregas registradas no Monday e na planilha; responsabilidades individuais dependem da reconciliação operacional.
+- Kayke Rocker: adicionar a legenda de instruções aos documentos de edição da VSL e dos anúncios do Lead 2; prazo não definido.
 
 ## 6. Decisões vigentes
 - Retirar o downsell de YouTube Dark do fluxo atual da Black Friday e utilizá-lo no funil do Fórmula após a recusa do upsell de TubeClub.
@@ -66,11 +68,14 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O EDC principal fica restrito ao estado operacional de Audiovisual e às dependências que o afetam.
 - Inteligência de marketing, produtos e funis fica em base separada até Pablo aprofundar o estudo.
 - O painel audiovisual será a nova visão consolidada e deverá conversar com o Daily.
-- O bot Ella deve ser concluído até 25/09/2026.
 - O onboarding será orientado por checklists de ações concluídas, sem bloqueio por dias ligado ao período de reembolso, e usará três trilhas predefinidas: sem canal, com canal e com canal buscando melhores resultados.
 - A internacionalização será executada por IA, começando pelos treinamentos principais antes dos produtos secundários.
 - A IA será a base da nova produção audiovisual, com revisão humana e pipeline ainda a ser formalizado.
 - O histórico existente será preservado; o padrão de nomenclatura será aplicado às novas remessas e copies.
+- Os ajustes da VSL e dos anúncios do Lead 2 serão executados com IA e revisão humana.
+- O pipeline audiovisual com IA exigirá entrada estruturada e checklist antes da geração.
+- O quadro do Monday será salvo antes da limpeza e reiniciado em estrutura padronizada; responsáveis nominais ainda precisam de validação.
+- As fichas de produto serão a referência para alinhar produto, anúncios, VSLs, páginas, bônus e entregáveis.
 
 ## 7. Gargalos
 - A VSL do downsell semestral do TubeClub pode continuar exibindo R$597 até a correção para R$497.
@@ -83,19 +88,22 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - A visão atual exige consultas manuais e dificulta identificar o estado real das entregas.
 - A sincronização entre a nova plataforma e o Monday ainda não foi validada.
 - Os cadastros dos produtos ainda estão incompletos na plataforma.
-- Critérios de conclusão do bot Ella ainda não estão documentados no EDC.
 - Pablo ainda não domina integralmente o material e os tipos de funis do Ei Nerd.
 - Promessas de aulas futuras dentro dos materiais podem gerar suporte por entregas não planejadas.
 - Aulas e ativos permanecem dispersos ou sob controle de editores até a centralização planejada por Marcel.
 - A produção por IA ainda depende de operação manual e está centralizada em Marcel.
 - A disponibilidade limitada de Peter restringe as gravações que não puderem ser substituídas por IA.
 - O acesso de editores à ferramenta de IA de vídeo pode consumir créditos até ser removido.
+- Instruções ambíguas de edição podem levar a IA a aplicar cortes ou emendas incorretos.
+- Tarefas antigas e duplicadas no Monday podem contaminar o contexto da automação e prejudicar a rastreabilidade.
+- O consumo de tokens dos modelos mais fortes pode interromper ou atrasar novas gerações.
 
 ## 8. Bloqueios
 - Materiais de imagem com IA dependem do envio das copies.
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 - A conclusão das fichas de produto depende da organização das aulas e da recuperação dos arquivos mantidos por editores.
 - A primeira implementação do onboarding depende da validação técnica dos desenvolvedores.
+- A limpeza do Monday depende de backup prévio e da validação dos responsáveis pelo backup e pela execução da limpeza.
 
 ## 9. Indicadores
 - Remessas da Black Friday: duas com Fernando, previstas para conclusão no final do dia de 23/10/2026; entrega ainda não comprovada no Vault.
@@ -104,7 +112,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Edição brasileira do YouTube Dark: conferência e aviso a Daniel finalizados no Notion em 27/10/2026; resultado da conferência não documentado na fonte operacional.
 - Material do VVSA: revisão finalizada no Notion em 27/10/2026; conteúdo da revisão não documentado na fonte operacional.
 - Painel audiovisual e de produtos: revisão por Pablo e evolução a partir da prévia finalizadas no Notion em 20/10/2026; completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
-- Bot Ella: em andamento; prazo definido em 25/09/2026.
+- Bot Ella: demanda `Cancelado` no Notion em 10/11/2026; conclusão do bot não comprovada.
 - Integração com Daily: em progresso; conclusão não confirmada.
 - Curso de YouTube Dark: estudo não iniciado ou progresso não informado.
 - Spots comerciais: revisão e entrega finalizadas no Notion em 29/09/2026.
@@ -119,7 +127,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Regravar imediatamente a VSL atual do TubeClub para incluir as novas ferramentas: a equipe decidiu manter a versão de nove treinamentos durante a Black Friday e produzir a nova VSL depois da campanha.
 - Usar o EDC do Ei Nerd como backlog amplo de páginas, tráfego, campanhas e decisões de marketing de toda a equipe.
 - Tratar a prévia do painel como não iniciada: ela já foi enviada a Marcel e a frente está andando.
-- Tratar a incorporação das gravações de Marcel como demanda aberta: essa etapa já foi finalizada; resta concluir o bot Ella.
+- Tratar a conclusão do bot Ella como frente ativa: a demanda foi cancelada no Notion em 10/11/2026; o cancelamento não comprova conclusão.
 - Manter como abertas a atualização da planilha de remessa com indicação dos vídeos a gravar e a revisão da VSL do YouTube da Arquite Internacional: o Notion registra ambas como `Finalizado`.
 - Manter como aberta a revisão e entrega dos spots comerciais: o Notion registra o item como `Finalizado`.
 - Manter como aberta a reconciliação entre Monday, planilha de cursos e Google Drive: o Notion registra o item como `Finalizado`.
@@ -138,7 +146,6 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Criar fichas de todos os produtos com aulas, resumos, resultados esperados e links dos materiais brutos e editados — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Verificar a sincronização de tarefas e status entre a plataforma e o Monday — Responsável: Marcel Rodrigues — Prazo: não definido.
-- Concluir o bot Ella no Monday — Responsável: Pablo — Prazo: 25/09/2026 — Status: Em progresso — Critério de conclusão: bot validado no fluxo definido e retirado da fila.
 - Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Dependência: estrutura mínima do painel validada.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
 - Gravar aulas curtas de quick win para o checklist inicial do aluno — Responsável: Marcel Rodrigues — Prazo: não definido.
@@ -154,10 +161,15 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Desenhar o pipeline de produção de copy, gravação, edição e revisão para criativos, VSLs e aulas — Responsável: Pablo — Prazo: não definido.
 - Criar o checklist de copy para alimentar a produção audiovisual com os links e ativos necessários — Responsável: Pablo — Prazo: não definido.
 - Planejar o onboarding e as trilhas dos alunos e consultar os desenvolvedores sobre a primeira implementação rápida — Responsável: Marcel Rodrigues — Prazo: não definido.
+- Adicionar uma legenda de instruções aos documentos de edição da VSL e dos anúncios do Lead 2 — Responsável: Kayke Rocker — Prazo: não definido.
+- Criar modelos de documentos de copy e VSL com o novo cabeçalho obrigatório — Responsável: Pablo — Prazo: não definido.
+- Compartilhar o fluxograma do pipeline audiovisual com IA com a equipe — Responsável: Pablo — Prazo: não definido.
+- Revisar a lista de aulas dos cursos para identificar lacunas de conteúdo — Responsável: Hallefy Moraes — Prazo: não definido.
+- Enviar a Hallefy a VSL mencionada para continuidade da execução — Responsável: Marcel Rodrigues — Prazo: não definido — Lacuna: nome do material transcrito com baixa confiança.
+- Compartilhar o registro do Fathom de 10/11/2026 com Marcel — Responsável: Hallefy Moraes — Prazo: não definido.
 
 ## 13. Próxima decisão
 - Definir quais dados do painel audiovisual entram no Daily e com qual frequência de atualização.
-- Definir critérios de conclusão do bot Ella.
 - Validar a primeira versão da plataforma após o acesso de Pablo e definir quais ajustes entram no escopo imediato.
 - Validar a primeira implementação do onboarding e os critérios de conclusão dos checklists.
 - Definir o pipeline automatizado após o teste manual da produção por IA.
@@ -170,6 +182,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 10/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou o cancelamento do bot Ella apesar de `pull` retornar `changed: []`.
+- [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd — 10/11/2026]] — definiu IA com revisão humana para o Lead 2, checklist de entrada, higienização do Monday com backup prévio e novas ações de documentação e compartilhamento; transcrição compactada.
 - [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|Testes de anúncios e páginas no Unbounce — Ei Nerd — 09/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra decisões e demandas de anúncios, páginas e performance.
 - [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|Documentação de produtos, onboarding e pipeline de IA — Ei Nerd — 30/10/2026]].
 - [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|Modelo operacional por projeto e fase — Ei Nerd — 29/10/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra direção operacional e riscos externos ao escopo.

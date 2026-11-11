@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 27
-decisoes_pendentes: 5
-edc_atualizado_em: 2026-11-09
+demandas_no_edc: 32
+decisoes_pendentes: 4
+edc_atualizado_em: 2026-11-10
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** corrigir a VSL e as copies, consolidar fichas e ativos dos produtos e desenhar o pipeline de produção por IA; SLA, Daily, sincronização, onboarding e bot Ella seguem abertos. **27 demandas visíveis** e **5 decisões pendentes** no EDC.
+> **P1 · Audiovisual:** ajustar o Lead 2 com IA e revisão humana, consolidar fichas e ativos e formalizar a entrada do pipeline; SLA, Daily, sincronização e onboarding seguem abertos. **32 demandas visíveis** e **4 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,14 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 27
+## Demandas visíveis — 32
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 5
+## Decisões pendentes — 4
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026]] definiu IA com revisão humana para o Lead 2, checklist de entrada e backup antes da limpeza do Monday; acrescentou ações de documentação, compartilhamento e revisão, com atribuição da limpeza ainda sem validação segura.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026]] definiu testes do criativo R27 e de páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur; não acrescentou responsabilidade para Pablo nem alterou as 27 demandas canônicas de Audiovisual.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|30/10/2026]] definiu onboarding por checklists e três trilhas, internacionalização e edição com base em IA e novas demandas de documentação, ativos, backup, pipeline e checklist de copy; a automação segue manual e centralizada.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/10/2026-10-29--modelo-operacional-por-projeto-e-fase-einerd|29/10/2026]] alinhou o modelo combinado por projeto e por fase como proposta-base e registrou riscos de centralização, comunicação, dados pulverizados e adoção no fim do ano, sem mudança material nas demandas canônicas de Audiovisual.

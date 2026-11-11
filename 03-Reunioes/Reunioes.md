@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|10/11/2026 — Treinamento de agendamento no Fufunil — Realizando Potenciais]]
+- [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026 — Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd]]
 - [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026 — Testes de anúncios e páginas no Unbounce — Ei Nerd]]
 - [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais|09/11/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa]] · [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486|fonte complementar — call 892417486]]
 - [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais|03/11/2026 — Calendário dos workshops e operação financeira — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais--transcricao-completa|transcrição completa]]

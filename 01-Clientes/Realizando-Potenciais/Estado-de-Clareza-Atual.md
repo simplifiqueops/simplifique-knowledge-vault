@@ -3,17 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-09T20:16:47Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/XAqzszqBvhFk7c_jD3MpBY726jbqYyNs"
+atualizado_em: 2026-11-10T18:33:34-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/3iA46yNNFu7xVShRx-PbM19G8zrJx4xS"
 fonte_complementar: "[[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para a identificação do cliente e para as mudanças de 09/11, verificadas na transcrição completa; moderada para decisões anteriores localizadas somente em fontes compactadas"
+confianca: "alta para a identificação do cliente e para as mudanças de 10/11, verificadas na transcrição integral; moderada para decisões anteriores localizadas somente em fontes compactadas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O fechamento diário confirmou no Notion a finalização da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda. A demanda sai dos próximos passos ativos; o resultado técnico da integração não foi documentado na fonte operacional.
+- Lucas recebeu acesso ao Fufunil, confirmou o login e passa a programar diretamente os conteúdos produzidos e aprovados, reduzindo a dependência do suporte para publicação.
+- As automações apresentadas serão operadas no Fufunil; novas ideias podem ser solicitadas a Pablo, sem contratação do ManyChat para os fluxos demonstrados.
+- Permanecem dois riscos confirmados: credencial compartilhada em texto sem troca posterior confirmada e ausência de gatilho automático para novos seguidores no Fufunil.
 - A fonte complementar da mesma reunião confirma o uso do novo número para os disparos, acrescenta o compromisso de Pablo de passar duas ideias a Lucas e explicita que as quatro variações de tráfego serão avaliadas pelo feedback comercial de Mariane.
 - A conversão da base captada passa a ser a prioridade comercial: 587 inscritos, 398 pesquisas respondidas, 156 leads com ICP cheio e 141 com ICP parcial foram apresentados no dashboard; contato individual é a primeira ação e e-mails para outros públicos ficam como frente secundária.
 - Mariane assume a liderança da frente comercial até 27/11 e deve apresentar até quarta-feira, 11/11, um cronograma das atividades de venda; o restante do time atua em apoio.
@@ -52,7 +56,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 1. Converter a base já captada, começando pelos respondentes da pesquisa e pelos leads de ICP cheio, com contato individual como primeira ação comercial.
 2. Estruturar sob liderança de Mariane o cronograma das atividades de venda até 27/11 e apresentá-lo até 11/11.
 3. Incorporar ao dashboard a origem das oito vendas, separar origem de inscrição de origem de venda e reduzir a visualização ao que apoia decisões operacionais.
-4. Intensificar a comunicação da oferta com pelo menos um carrossel diário de prova social e resultados, preservando a cadência editorial vigente.
+4. Intensificar a comunicação da oferta com pelo menos um carrossel diário de prova social e resultados, preservar a cadência editorial vigente e programar diretamente no Fufunil os conteúdos aprovados.
 5. Restabelecer segurança operacional no Full Funnel e no WhatsApp, com acompanhamento de publicação, resposta do suporte e chip físico de contingência.
 
 ## 4. Frentes ativas
@@ -67,11 +71,11 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Acompanhamento diário da BF26: RPD a partir de 14/10/2026, com dados da operação registrados até as 17h, e call diária às 17h com o NEG para revisão dos dados e ajustes da campanha.
 - Dashboard da BF26: deve ser simplificado para orientar decisões e separar origem de inscrição de origem efetiva da venda; Mariane conhece a origem das oito vendas assistidas e deve repassá-la a Pablo até o fim de 09/11. A regra de reinscrições e as contagens por grupo ainda precisam de verificação.
 - Automação do Congresso de Vendas: duplicação da estrutura anterior finalizada no Notion; atualização do corpo da mensagem e da tag `Não iniciado`, preservando a automação existente para reutilização.
-- Pagamentos e atribuição da Black November: páginas e links diretos usam Hotmart para rastreamento; recuperações assistidas por Mariane permanecem na Princípia, com origem marcada manualmente. A emissão manual de notas fiscais por Thamyris a R$ 15 por nota permanece registrada, sem revisão específica nesta reunião.
+- Pagamentos e atribuição da Black November: páginas e links diretos usam Hotmart para rastreamento; recuperações assistidas por Mariane permanecem na Princípia, com origem marcada manualmente. A integração da Principia com o Full Funnel para acionar a automação de boas-vindas consta como finalizada no Notion; o resultado técnico não foi documentado. A emissão manual de notas fiscais por Thamyris a R$ 15 por nota permanece registrada, sem revisão específica nesta reunião.
 - Inteligência orgânica: análise da frequência de conteúdos sem tráfego pago permanece aberta.
 - Pipeline e processo de IA: entrega a Mariane e fluxograma constam como finalizados no Notion.
 - Energia Infinita: treinamento de edição concluído; ajuste da página em conferência e demais páginas, vídeo, materiais e conteúdo com ações abertas.
-- Redes sociais de Vanessa: Lucas assume estratégia, criação e agendamento; durante a BF26, a cadência será de três conteúdos por dia, sendo dois de vendas e um de engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros; o planejamento da semana seguinte será entregue em planilha até quarta-feira para aprovação de Vanessa; publicação e comentários serão centralizados na Full Funnel.
+- Redes sociais de Vanessa: Lucas assume estratégia, criação e agendamento; durante a BF26, a cadência será de três conteúdos por dia, sendo dois de vendas e um de engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros; o planejamento da semana seguinte será entregue em planilha até quarta-feira para aprovação de Vanessa; em 10/11, Lucas recebeu e validou acesso ao Fufunil para programar diretamente os conteúdos aprovados. A equivalência entre o nome Fufunil desta reunião e Full Funnel dos registros anteriores ainda não foi confirmada explicitamente.
 - Oferta “Alicerce do Extraordinário”: programa estruturado de seis meses, com garantia vinculada ao calendário obrigatório de aplicação; layout da página de vendas no Caplaia; homologação em 4/11 e live de lançamento em 5/11, às 20h.
 - Funil pós-BF26: o primeiro lote dos workshops Presença Digital, Projeto Fora da Gaveta e Conexão de Valor está previsto de 5 a 31 de dezembro; a trilha culmina em uma imersão presencial em abril de 2027. A data da reunião de precificação diverge entre as fontes e precisa de validação.
 - Contratação e onboarding de Lucas: valor mensal acordado em R$ 2.000, com início do pagamento integral em dezembro; integração imediata ao grupo estratégico, à reunião da Black November e ao alinhamento operacional com Vanessa.
@@ -90,7 +94,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Lucas: produzir diariamente três conteúdos, sendo dois de venda e um de engajamento, e testar o conceito editorial “RP [Tema]” no perfil Neg Negreiros.
 - Mari: preparar a análise da estratégia de lotes de vendas dos workshops para a reunião de 9/12.
 - Arcindo Negreiros: confirmar com Thamyris o processo de emissão manual das notas fiscais.
-- Lucas: liderar estratégia, criação, planejamento e agendamento das redes sociais de Vanessa; estudar o dashboard e as pesquisas do público e acessar os cursos de referência.
+- Lucas: liderar estratégia, criação, planejamento e agendamento das redes sociais de Vanessa; programar no Fufunil os conteúdos aprovados; estudar o dashboard e as pesquisas do público e acessar os cursos de referência.
 - Lucas: participar da reunião da Black November às 17h e alinhar com Vanessa o fluxo de trabalho e o cronograma de posts.
 - Arcindo Negreiros: pagar o trabalho anterior de Lucas, migrar a operação bancária e os cartões para o Itaú e revisar os dashboards com Pablo.
 - Arcindo Negreiros: transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
@@ -111,7 +115,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Pablo: aplicação do prefixo `BN26`, criação da categoria, refinamento do relatório e do dicionário de tags e comparação dos cenários de pagamento constam como finalizados no Notion.
 - Pablo: marcação dos ajustes aprovados na landing page consta como finalizada; o encaminhamento à Naya para publicação continua aberto.
 - Pablo: publicação da definição do próximo cross-check, envio do consolidado das decisões e agendamento do alinhamento com Arcindo constam como finalizados no Notion.
-- Pablo: testar o carregamento da página e dos formulários, acionar a Naya se a lentidão for confirmada, testar o rastreamento por URL e concluir a integração da Principia com o Full Funnel, atualmente `Em progresso`.
+- Pablo: testar o carregamento da página e dos formulários, acionar a Naya se a lentidão for confirmada e testar o rastreamento por URL; a integração da Principia com o Full Funnel consta como finalizada no Notion.
 - Letícia Castiglioni: analisar o perfil de Felipe Viana como referência de ganchos e retenção.
 - Dra. Vanessa Cesnik: escrever a copy da automação de boas-vindas.
 - Participante identificado como Realizando Potenciais: conversar com os contatos que interagirem e abrirem conversa pelo WhatsApp, mantendo o aquecimento individual a partir de 14/10/2026.
@@ -160,6 +164,8 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Manter temporariamente a contingência atual dos cartões enquanto o cartão final 9123 está bloqueado.
 - Migrar a operação principal da Realizando Potenciais para o Itaú sem encerrar imediatamente a conta do Inter.
 - Lucas responde pela estratégia, criação e agendamento das redes sociais de Vanessa.
+- Lucas programará diretamente no Fufunil os conteúdos que produzir e que forem aprovados.
+- As automações de comentários e mensagens serão operadas no Fufunil, sem necessidade de contratar o ManyChat para os fluxos apresentados em 10/11.
 - O planejamento da semana seguinte será organizado em planilha compartilhada até quarta-feira e submetido à aprovação de Vanessa.
 - A publicação nas redes e a gestão de comentários serão centralizadas na Full Funnel.
 - A estratégia editorial combinará conteúdo profundo, leve e atual, com linguagem autêntica e humana alinhada à personalidade de Vanessa.
@@ -212,6 +218,8 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- A credencial do Fufunil foi compartilhada em texto no Zoom e solicitada também por WhatsApp; não houve confirmação de troca após o primeiro acesso.
+- O Fufunil ainda não oferece gatilho de mensagem automática para novos seguidores.
 - A Princípia não fornece atribuição operacional suficiente das vendas; sem a marcação manual de Mariane, a equipe não sabe quais canais geraram conversão.
 - Nenhuma venda direta pela página ou Hotmart havia sido registrada até a reunião de 09/11.
 - Materiais da oferta de 24 horas foram produzidos, mas a publicação não foi confirmada, evidenciando falha de passagem entre produção, acompanhamento e execução.
@@ -244,7 +252,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 
 ## 8. Bloqueios
 - A escolha das variações de tráfego a manter ou desativar depende da entrada de contatos e do feedback qualitativo de Mariane.
-- O início integral da operação de Lucas depende da liberação de acesso à Full Funnel, Comenta, ativos do Drive, dashboard da Black November e Comandar Sua Vida por Vanessa.
+- O acesso de Lucas ao Fufunil foi concedido e validado em 10/11; o início integral da operação ainda depende dos demais acessos não confirmados: Comenta, ativos do Drive, dashboard da Black November e Comandar Sua Vida.
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
 - O fechamento da composição da oferta depende do detalhamento das sugestões apresentadas por Mari.
 - Dependências antigas de materiais da Vanessa permanecem válidas somente quando ainda não entregues; estado atual não foi atualizado nesta comunicação.
@@ -260,6 +268,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Configuração da Naia: ajustes restantes e versão 3 com verificação de melhorias finalizados no Notion; validação como operacional ainda pendente.
 - Ferramentas: inventário e atualização da Naia finalizados no Notion; composição detalhada não validada neste fechamento.
 - Automação de confirmação: implementação e teste finalizados no Notion em 04/10/2026.
+- Integração Principia → Full Funnel para acionar a automação de boas-vindas após a venda: `Finalizado` no Notion em 10/11/2026; resultado técnico não documentado.
 - Black Friday: planejamento considerado suficiente para execução; consolidado enviado, arquivos no Drive, datas registradas e parcelamento verificado no Notion; conclusão das demais frentes não confirmada.
 - Black November: janela operacional redefinida para 5 a 27 de novembro; a programação anterior de evento em 29 de outubro e abertura do carrinho entre 21h30 e 22h foi superada quanto ao início da campanha.
 - Produção da Black Friday: meta informada de conclusão até o dia 14; percentual concluído não informado e capacidade reduzida.
@@ -293,6 +302,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Tratar o agendamento dos conteúdos aprovados como integralmente dependente do horário do suporte do Fufunil: Lucas recebeu acesso direto e confirmou o login em 10/11/2026.
 - Processar necessariamente todas as vendas da oferta pela Princípia: páginas e links diretos usam Hotmart, enquanto recuperações assistidas por Mariane permanecem na Princípia.
 - Tratar e-mails para públicos amplos como frente comercial principal da BF26: a prioridade passou à conversão da base captada, com contato individual como primeira ação.
 - Tratar o WhatsApp em grupos como primeira linha de ação da BF26: desde 09/11, o contato individual com a base captada ocupa essa posição.
@@ -319,8 +329,11 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Manter como aberta a liberação do acesso de Thamyris Valentim à Naya: o acesso foi concedido durante a reunião de 26/10/2026.
 - Manter como aberto o alinhamento das 18h para iniciar a construção das mensagens: a reunião de estruturação foi realizada.
 - Manter como abertas o dimensionamento e encaminhamento dos chips, a duplicação da automação do Congresso de Vendas e a organização dos depoimentos: o Notion registra as três ações como `Finalizado`; os resultados detalhados não constam na fonte operacional.
+- Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Agendar no Fufunil os posts aprovados — Responsável: Lucas — Prazo: não definido.
+- Enviar a gravação da reunião de treinamento a Lucas — Responsável: Pablo Backstage — Prazo: não definido.
 - Passar a Lucas as duas ideias mencionadas no encerramento — Responsável: Pablo Backstage — Prazo: não definido.
 - Dar feedback sobre a qualidade dos contatos das quatro variações de tráfego — Responsável: Mariane Oliveira — Prazo: quando os contatos começarem a chegar.
 - Enviar a Pablo a origem das oito vendas assistidas — Responsável: Mariane Oliveira — Prazo: até o fim do dia de 09/11/2026.
@@ -378,7 +391,6 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Analisar o perfil de Felipe Viana como referência de ganchos e retenção — Responsável: Letícia Castiglioni — Prazo: hoje (13/10/2026).
 - Escrever a copy da automação de boas-vindas — Responsável: Dra. Vanessa Cesnik — Prazo: hoje (13/10/2026).
 - Testar em dois conteúdos se a origem pode ser rastreada pela URL — Responsável: Pablo — Prazo: em dois dias.
-- Configurar a integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda — Responsável: Pablo — Prazo: hoje (13/10/2026).
 - Conversar com os contatos que responderem e abrirem a conversa no WhatsApp, mantendo o aquecimento individual — Responsável: Realizando Potenciais — Prazo: a partir de amanhã (14/10/2026).
 - Registrar diariamente no RPD os dados da operação — Responsável: não definido — Prazo: diariamente até as 17h, a partir de amanhã (14/10/2026).
 - Realizar a call de revisão dos dados da campanha com o NEG — Responsável: não definido — Prazo: diariamente às 17h.
@@ -439,6 +451,8 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 10/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da integração Principia → Full Funnel apesar de `pull` retornar `changed: []`.
+- [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|Treinamento de agendamento no Fufunil — Realizando Potenciais — 10/11/2026]].
 - [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486|Fonte complementar da reunião de 09/11/2026 — call 892417486, transcrição parcial]].
 - [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — 09/11/2026]] · [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 893772089]].
 - [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais|Calendário dos workshops e operação financeira — Realizando Potenciais — 03/11/2026]] · [[03-Reunioes/2026/11/2026-11-03--calendario-workshops-operacao-financeira-realizando-potenciais--transcricao-completa|transcrição completa — call 887634973]].

@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026 — Limpeza do Monday e estrutura Sincra — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd--transcricao-completa|transcrição completa]]
 - [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|10/11/2026 — Treinamento de agendamento no Fufunil — Realizando Potenciais]]
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026 — Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd]]
 - [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026 — Testes de anúncios e páginas no Unbounce — Ei Nerd]]

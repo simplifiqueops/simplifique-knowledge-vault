@@ -3,21 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-10T18:33:34-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd]]"
-fonte_atualizacao: "Reunião de 10/11/2026 — ajustes do Lead 2 e pipeline audiovisual com IA"
-confianca: "média: a transcrição recebida foi compactada; decisões e compromissos nos trechos omitidos foram promovidos somente quando localizados pelo resumo e coerentes com o estado anterior"
+atualizado_em: 2026-11-11T11:56:37-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd]]"
+fonte_atualizacao: "Reunião de 11/11/2026 — limpeza do Monday e estrutura Sincra"
+confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada; propostas dependentes de aprovação da liderança foram mantidas como decisões pendentes"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- O fechamento diário confirmou no Notion o cancelamento da demanda de concluir o bot Ella. O item sai das frentes e próximos passos ativos; o cancelamento não comprova que o bot foi concluído.
-- Mudanças confirmadas: os ajustes da VSL e dos anúncios do Lead 2 serão executados com IA e revisão humana; o pipeline passa a exigir checklist de entrada; novas demandas de documentação, compartilhamento e revisão foram incorporadas.
-- Confirmações sem mudança: fichas de produto, banco de provas, pipeline audiovisual e revisão humana já eram frentes vigentes e permanecem abertas.
-- Conflitos/lacunas: a transcrição omitiu os trechos intermediários e o resumo atribui o backup do Monday tanto a Marcel quanto a Hallefy; o responsável pela limpeza e pelo backup não foi consolidado nominalmente.
-- Fonte: [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd — 10/11/2026]].
+- Mudanças confirmadas: o histórico do Monday será preservado por arquivamento; Pablo e Hallefy atualizarão seus inventários após a liberação de Marcel; Pablo validará a aderência do modelo Sincra ao audiovisual, e Hallefy assumiu os ajustes posteriores da estrutura existente.
+- Confirmações sem mudança: Monday continua necessário como base de gestão; fichas, bancos, entrada estruturada e sincronização permanecem frentes abertas.
+- Conflitos/lacunas: os inventários encontraram 104 e 47 quadros; o escopo e o executor final do arquivamento não foram fechados; a taxonomia Sincra e a integração Fábrica–Monday ainda dependem de validação.
+- Fonte: [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|Limpeza do Monday e estrutura Sincra — Ei Nerd — 11/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -32,10 +31,11 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 1. Ajustar a VSL e os anúncios do Lead 2 com IA, instruções inequívocas e revisão humana.
 2. Corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub.
 3. Consolidar as fichas de produto, os ativos e o pipeline de produção audiovisual por IA.
-4. Validar a sincronização da plataforma com o Monday e corrigir divergências encontradas.
-5. Conectar a visão do painel audiovisual ao Daily.
-6. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
-7. Atualizar o SLA de edição e alinhá-lo com Hallefy.
+4. Preservar o histórico e higienizar o Monday após a liberação de Marcel, conciliando os inventários antes do arquivamento.
+5. Validar a estrutura baseada no Sincra, o mapa de responsáveis e a integração Fábrica–Monday.
+6. Conectar a visão do painel audiovisual ao Daily.
+7. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
+8. Atualizar o SLA de edição e alinhá-lo com Hallefy.
 
 ## 4. Frentes ativas
 - Gestão do fluxo audiovisual: Hallefy Moraes iniciou o onboarding como gerente de projeto; Pablo mantém a operação vigente no Monday e atualizará o SLA para compartilhamento com Hallefy.
@@ -48,11 +48,12 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Onboarding do aluno: direção definida por checklists e três trilhas predefinidas; Marcel planejará as aulas e consultará os desenvolvedores sobre a primeira implementação.
 - Produção por IA: internacionalização e edição passam a usar IA como base; o teste inicial será feito no Cash Call, enquanto Pablo desenhará o pipeline e o checklist de copy.
 - Lead 2 e entrada do pipeline: os ajustes da VSL e dos anúncios serão feitos com IA e revisão humana; Kayke documentará os comandos, Pablo compartilhará o fluxograma e criará os modelos de copy e VSL com o cabeçalho obrigatório.
-- Higienização operacional: o quadro do Monday deverá ser salvo antes da limpeza e retomado em estrutura padronizada; a atribuição nominal do backup e da limpeza precisa de validação.
+- Higienização operacional: o histórico do Monday já possui inventários preliminares e será preservado por arquivamento, não por exclusão; Pablo e Hallefy reconciliarão seus levantamentos após Marcel concluir e liberar suas alterações.
+- Estrutura operacional: o pré-modelo Sincra é o ponto de partida recomendado, mas sua adoção, taxonomia e aderência ao audiovisual ainda dependem de validação com a liderança; a Fábrica é a interface pretendida de execução e revisão, mantendo o Monday como base de gestão.
 
 ## 5. Responsáveis
-- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
-- Hallefy Moraes: gerente de projeto em onboarding; deverá contatar membros da equipe para alinhar a organização das demandas entre o dia da reunião de 20/10 e o dia seguinte.
+- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; reconciliará seu inventário do Monday e conferirá a aderência do Sincra ao processo audiovisual; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
+- Hallefy Moraes: gerente de projeto em onboarding; reconciliará seu inventário do Monday, conduzirá os ajustes da estrutura existente após a liberação de Marcel e deverá contatar membros da equipe para alinhar a organização das demandas.
 - Marcel: criar e enviar o acesso de Pablo, verificar a sincronização entre plataforma e Monday, criar fichas e ativos dos produtos, centralizar aulas, testar a edição do Cash Call, retirar acessos da ferramenta de IA de vídeo, enviar documentos de copy e planejar o onboarding; prazos não definidos.
 - Arthur: levantar métricas de acesso inicial e consumo de aulas pelos alunos; prazo não definido.
 - Carla: governança das tasks e pastas do Monday conforme decisões anteriores.
@@ -74,7 +75,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O histórico existente será preservado; o padrão de nomenclatura será aplicado às novas remessas e copies.
 - Os ajustes da VSL e dos anúncios do Lead 2 serão executados com IA e revisão humana.
 - O pipeline audiovisual com IA exigirá entrada estruturada e checklist antes da geração.
-- O quadro do Monday será salvo antes da limpeza e reiniciado em estrutura padronizada; responsáveis nominais ainda precisam de validação.
+- O histórico do Monday será preservado por arquivamento, após a liberação de Marcel e a conferência do inventário final; o escopo e o executor final ainda precisam de validação.
 - As fichas de produto serão a referência para alinhar produto, anúncios, VSLs, páginas, bônus e entregáveis.
 
 ## 7. Gargalos
@@ -97,13 +98,16 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Instruções ambíguas de edição podem levar a IA a aplicar cortes ou emendas incorretos.
 - Tarefas antigas e duplicadas no Monday podem contaminar o contexto da automação e prejudicar a rastreabilidade.
 - O consumo de tokens dos modelos mais fortes pode interromper ou atrasar novas gerações.
+- A diferença entre os inventários de Pablo e Hallefy pode deixar quadros, subelementos ou registros fora da conferência final.
+- A ausência de um mapa explícito de responsáveis pode impedir o roteamento correto das demandas pelo fluxo automatizado.
 
 ## 8. Bloqueios
 - Materiais de imagem com IA dependem do envio das copies.
 - Algumas revisões audiovisuais dependem de materiais ou liberações de terceiros registrados no Monday.
 - A conclusão das fichas de produto depende da organização das aulas e da recuperação dos arquivos mantidos por editores.
 - A primeira implementação do onboarding depende da validação técnica dos desenvolvedores.
-- A limpeza do Monday depende de backup prévio e da validação dos responsáveis pelo backup e pela execução da limpeza.
+- A limpeza do Monday depende de Marcel concluir e liberar suas alterações, da reconciliação dos inventários e da definição do escopo e executor do arquivamento.
+- A nova estrutura depende da validação da taxonomia Sincra, do mapa de responsáveis e da integração Fábrica–Monday.
 
 ## 9. Indicadores
 - Remessas da Black Friday: duas com Fernando, previstas para conclusão no final do dia de 23/10/2026; entrega ainda não comprovada no Vault.
@@ -118,6 +122,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Spots comerciais: revisão e entrega finalizadas no Notion em 29/09/2026.
 - Reconciliação das fontes de Audiovisual: finalizada no Notion em 14/10/2026; resultado detalhado não consolidado no EDC.
 - Métricas de onboarding: Arthur recebeu o levantamento de acesso inicial, tempo até a primeira aula e volume de aulas assistidas; resultados ainda não informados.
+- Inventário do Monday: Pablo encontrou 104 quadros e Hallefy 47; a cobertura integral ainda não foi comprovada e a diferença precisa ser reconciliada.
 
 ## 10. O que está pausado
 - Transformar inteligência de marketing e funis em demandas operacionais de Pablo sem estudo e validação.
@@ -133,6 +138,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como aberta a reconciliação entre Monday, planilha de cursos e Google Drive: o Notion registra o item como `Finalizado`.
 - Manter como abertas a revisão da plataforma após o acesso e a evolução do painel a partir da prévia enviada a Marcel: o Notion registra ambas como `Finalizado`.
 - Manter como abertas a revisão do material do VVSA e a conferência da edição brasileira do YouTube Dark com aviso a Daniel: o Notion registra ambas como `Finalizado`.
+- Tratar a limpeza do Monday como exclusão do histórico: a direção vigente é arquivar e manter a informação recuperável.
+- Tratar a estrutura pós-limpeza como já aprovada e pronta: o Sincra é o ponto de partida recomendado, mas ainda será validado com a liderança e com o processo audiovisual.
 
 ## 12. Próximo passo
 - Corrigir para R$497 o preço do downsell semestral do TubeClub na VSL usando IA — Responsável: Hallefy Moraes — Prazo: não definido.
@@ -167,12 +174,21 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Revisar a lista de aulas dos cursos para identificar lacunas de conteúdo — Responsável: Hallefy Moraes — Prazo: não definido.
 - Enviar a Hallefy a VSL mencionada para continuidade da execução — Responsável: Marcel Rodrigues — Prazo: não definido — Lacuna: nome do material transcrito com baixa confiança.
 - Compartilhar o registro do Fathom de 10/11/2026 com Marcel — Responsável: Hallefy Moraes — Prazo: não definido.
+- Rerodar e reconciliar os inventários do Monday após Marcel concluir e comunicar suas alterações — Responsável: Pablo e Hallefy Moraes — Prazo: não definido.
+- Arquivar os quadros antigos do Monday após a liberação de Marcel, preservando as operações ativas de TubeClub Black Friday e YouTube Dark — Responsável: não definido — Prazo: não definido.
+- Conferir a aderência entre a estrutura de produção do Sincra e o processo audiovisual vigente e retornar a confirmação — Responsável: Pablo — Prazo: não definido.
+- Ajustar a estrutura existente conforme os pontos discutidos após a liberação de Marcel — Responsável: Hallefy Moraes — Prazo: não definido.
+- Realizar a conversa de acompanhamento sobre a estrutura — Responsável: Pablo e Hallefy Moraes — Prazo: amanhã às 10h, conforme reunião de 11/11/2026.
 
 ## 13. Próxima decisão
 - Definir quais dados do painel audiovisual entram no Daily e com qual frequência de atualização.
 - Validar a primeira versão da plataforma após o acesso de Pablo e definir quais ajustes entram no escopo imediato.
 - Validar a primeira implementação do onboarding e os critérios de conclusão dos checklists.
 - Definir o pipeline automatizado após o teste manual da produção por IA.
+- Validar com a liderança o uso do pré-modelo Sincra como base e fechar a taxonomia de produção.
+- Definir o escopo exato e o executor do arquivamento do Monday.
+- Definir o mapa de responsáveis necessário ao roteamento automático do inbox.
+- Validar tecnicamente a integração Fábrica–Monday e qual sistema governa cada campo e status.
 
 ## Hierarquia de fontes do Audiovisual
 1. **Planilha de cursos:** estado da edição das aulas.
@@ -182,6 +198,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|Limpeza do Monday e estrutura Sincra — Ei Nerd — 11/11/2026]] — preservou o histórico por arquivamento, registrou a reconciliação dos inventários e manteve Sincra, atribuições e integração Fábrica–Monday como validações pendentes.
 - Fechamento diário Notion → EDC — 10/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou o cancelamento do bot Ella apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd — 10/11/2026]] — definiu IA com revisão humana para o Lead 2, checklist de entrada, higienização do Monday com backup prévio e novas ações de documentação e compartilhamento; transcrição compactada.
 - [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|Testes de anúncios e páginas no Unbounce — Ei Nerd — 09/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra decisões e demandas de anúncios, páginas e performance.

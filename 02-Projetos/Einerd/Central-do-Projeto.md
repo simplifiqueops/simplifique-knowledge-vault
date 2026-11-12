@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 32
-decisoes_pendentes: 4
-edc_atualizado_em: 2026-11-10
+demandas_no_edc: 37
+decisoes_pendentes: 8
+edc_atualizado_em: 2026-11-11
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Audiovisual:** ajustar o Lead 2 com IA e revisão humana, consolidar fichas e ativos e formalizar a entrada do pipeline; SLA, Daily, sincronização e onboarding seguem abertos. **32 demandas visíveis** e **4 decisões pendentes** no EDC.
+> **P1 · Monday e estrutura operacional:** preservar o histórico por arquivamento, reconciliar os inventários e validar Sincra, responsabilidades e integração Fábrica–Monday sem perder as frentes de Lead 2, fichas, SLA, Daily e onboarding. **37 demandas visíveis** e **8 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,14 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 32
+## Demandas visíveis — 37
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 4
+## Decisões pendentes — 8
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026]] definiu preservar o histórico do Monday por arquivamento e acrescentou a reconciliação dos inventários e a validação audiovisual; Sincra, mapa de responsáveis e integração Fábrica–Monday seguem pendentes de validação.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026]] definiu IA com revisão humana para o Lead 2, checklist de entrada e backup antes da limpeza do Monday; acrescentou ações de documentação, compartilhamento e revisão, com atribuição da limpeza ainda sem validação segura.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026]] definiu testes do criativo R27 e de páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur; não acrescentou responsabilidade para Pablo nem alterou as 27 demandas canônicas de Audiovisual.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/10/2026-10-30--documentacao-onboarding-pipeline-ia-einerd|30/10/2026]] definiu onboarding por checklists e três trilhas, internacionalização e edição com base em IA e novas demandas de documentação, ativos, backup, pipeline e checklist de copy; a automação segue manual e centralizada.

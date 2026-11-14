@@ -3,17 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-10T18:33:34-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais]]"
-fonte_atualizacao: "https://fathom.video/share/3iA46yNNFu7xVShRx-PbM19G8zrJx4xS"
+atualizado_em: 2026-11-13T12:48:56-03:00
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]"
+fonte_atualizacao: "https://fathom.video/share/ChMwnAgUb8YYRZHaWKejptztkrNe4tRa"
 fonte_complementar: "[[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para a identificação do cliente e para as mudanças de 10/11, verificadas na transcrição integral; moderada para decisões anteriores localizadas somente em fontes compactadas"
+confianca: "alta para a identificação do cliente e para as mudanças de 13/11, reconciliadas com a transcrição integral; moderada para decisões anteriores localizadas somente em fontes compactadas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- A comunicação comercial do Alicerce passa a priorizar GINC, GCM, GS e GSE, com API e e-mail segmentados pelas dores registradas nas pesquisas e continuidade dos e-mails de venda ao GS.
+- A “Sala Secreta” foi confirmada para 18/11, à noite, pelo Zoom e sem gravação; a inscrição será feita por chatbot direto para o WhatsApp, e uma oportunidade de “botão de emergência” será oferecida durante o encontro.
+- O calendário imediato inclui live com Alessandra Albuquerque em 16/11, às 12h30, live sem áudio durante a entrega da Cúpula em 17/11 e live de estudo de caso em 19/11, ainda dependente da confirmação da convidada.
+- Permanecem ativos os riscos de página sem conversão observada, GSE pouco aquecido, contatos antigos ou inválidos, baixo alcance de peças com aparência de venda, baixa participação nas lives e dependência de aprovação de templates utility.
+- A data provisória de 19/11 para a “Sala Secreta” deixa de valer; o evento foi fechado para 18/11.
 - O fechamento diário confirmou no Notion a finalização da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda. A demanda sai dos próximos passos ativos; o resultado técnico da integração não foi documentado na fonte operacional.
 - Lucas recebeu acesso ao Fufunil, confirmou o login e passa a programar diretamente os conteúdos produzidos e aprovados, reduzindo a dependência do suporte para publicação.
 - As automações apresentadas serão operadas no Fufunil; novas ideias podem ser solicitadas a Pablo, sem contratação do ManyChat para os fluxos demonstrados.
@@ -37,11 +42,10 @@ canonical: true
 - A homologação integral do funil ficou marcada para 4/11, antes da live de lançamento de 5/11, às 20h.
 - A cadência editorial foi definida em três conteúdos por dia, sendo dois orientados à venda e um ao engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros.
 - A transcrição recebida estava compactada; decisões e compromissos ausentes dos trechos visíveis foram promovidos com confiança moderada quando registrados de forma inequívoca no resumo ou nos action items.
-- A data de 19/11 para a “Sala Secreta” continua provisória e requer decisão final.
 - A fonte complementar recebida um segundo depois confirma o funil até a imersão de abril de 2027 e o primeiro lote dos workshops de 5 a 31 de dezembro, mas cria conflitos de responsável e prazo no calendário de aplicação, nas capas e na pesquisa de onboarding; esses campos permanecem explícitos para validação.
 
 ## 1. Objetivo atual
-Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conversão da base já captada por contato individual liderado por Mariane e apoiado por grupos, e-mail, conteúdo e um dashboard orientado à origem efetiva das vendas, enquanto a operação mantém a trilha de eventos até abril de 2027.
+Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conversão de GINC, GCM, GS e GSE por contato individual, API e e-mail segmentados pelas dores das pesquisas, conteúdo nativo e estudos de caso, enquanto a operação mantém a trilha de eventos até abril de 2027.
 
 ## 2. Resultado esperado
 - Naia operacional com ferramentas, acessos e limitações conhecidos.
@@ -53,11 +57,11 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Converter a base já captada, começando pelos respondentes da pesquisa e pelos leads de ICP cheio, com contato individual como primeira ação comercial.
-2. Estruturar sob liderança de Mariane o cronograma das atividades de venda até 27/11 e apresentá-lo até 11/11.
-3. Incorporar ao dashboard a origem das oito vendas, separar origem de inscrição de origem de venda e reduzir a visualização ao que apoia decisões operacionais.
-4. Intensificar a comunicação da oferta com pelo menos um carrossel diário de prova social e resultados, preservar a cadência editorial vigente e programar diretamente no Fufunil os conteúdos aprovados.
-5. Restabelecer segurança operacional no Full Funnel e no WhatsApp, com acompanhamento de publicação, resposta do suporte e chip físico de contingência.
+1. Executar até 18/11 o plano de aquecimento de GINC, GCM, GS e GSE, com copies por dor, chatbot direto ao WhatsApp e contato individual de Mariane.
+2. Realizar a sequência de lives de 16, 17 e 19/11 e a “Sala Secreta” de 18/11, usando estudos de caso e comunicação nativa para gerar conversas.
+3. Destravar a operação dos disparos com a criação e aprovação dos templates utility e com a entrega do fluxo do chatbot até 14/11.
+4. Corrigir os sinais de baixa conversão da página e de baixo alcance dos conteúdos com aparência de venda, preservando medição e rastreabilidade.
+5. Incorporar ao dashboard a origem das vendas, separar origem de inscrição de origem de venda e manter a frente comercial liderada por Mariane até 27/11.
 
 ## 4. Frentes ativas
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
@@ -77,12 +81,19 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Energia Infinita: treinamento de edição concluído; ajuste da página em conferência e demais páginas, vídeo, materiais e conteúdo com ações abertas.
 - Redes sociais de Vanessa: Lucas assume estratégia, criação e agendamento; durante a BF26, a cadência será de três conteúdos por dia, sendo dois de vendas e um de engajamento; o conceito “RP [Tema]” será testado primeiro no perfil Neg Negreiros; o planejamento da semana seguinte será entregue em planilha até quarta-feira para aprovação de Vanessa; em 10/11, Lucas recebeu e validou acesso ao Fufunil para programar diretamente os conteúdos aprovados. A equivalência entre o nome Fufunil desta reunião e Full Funnel dos registros anteriores ainda não foi confirmada explicitamente.
 - Oferta “Alicerce do Extraordinário”: programa estruturado de seis meses, com garantia vinculada ao calendário obrigatório de aplicação; layout da página de vendas no Caplaia; homologação em 4/11 e live de lançamento em 5/11, às 20h.
+- Conversão do Alicerce em 13/11: GINC, GCM, GS e GSE são os públicos prioritários; o plano combina copies segmentadas pelas dores das pesquisas, contato individual, chatbot para o WhatsApp, estudos de caso, live sem áudio e a “Sala Secreta” de 18/11. A convidada da live de 19/11 ainda precisa ser confirmada.
 - Funil pós-BF26: o primeiro lote dos workshops Presença Digital, Projeto Fora da Gaveta e Conexão de Valor está previsto de 5 a 31 de dezembro; a trilha culmina em uma imersão presencial em abril de 2027. A data da reunião de precificação diverge entre as fontes e precisa de validação.
 - Contratação e onboarding de Lucas: valor mensal acordado em R$ 2.000, com início do pagamento integral em dezembro; integração imediata ao grupo estratégico, à reunião da Black November e ao alinhamento operacional com Vanessa.
 - Calendário de aplicação e workshops: aplicação de 30/11 a 29/01, com cinco blocos e encontros online em 09/12 e 13/01; sequência de workshops definida como Projeto Fora da Gaveta em fevereiro, Presença Digital em março e Conexão de Valor em abril. O calendário aguarda aprovação de Vanessa antes do envio a Thamyris.
 - Operação financeira: migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais, manter o cartão final 4087 como backup e transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
 
 ## 5. Responsáveis
+- Dra. Vanessa Cesnik: produzir até 14/11 as copies de API e e-mail segmentadas pelas dores; confirmar com Naya tags e números faltantes; e enviar a planilha dos melhores depoimentos do Alicerce.
+- Mariane: reabordar manualmente os contatos com janela aberta e receber no WhatsApp os contatos de renovação e as inscrições da “Sala Secreta”.
+- Thamyris Valentim: enviar duas mensagens aos grupos em 13/11, agendar as lives de estudo de caso, confirmar a convidada da live de 19/11 até quarta-feira e preparar a comunicação da live de 16/11.
+- Pablo Backstage: confirmar o término do disparo do GSE, transformar depoimentos em conteúdo, fixar o carrossel, trocar a thumbnail, levantar o Ligue Leads, coordenar templates utility e entregar o fluxo do chatbot até 14/11.
+- Lucas: publicar o corte de vulnerabilidade em 14/11 e selecionar novos cortes da live do Alicerce até 16/11.
+- Maria: construir o fluxo operacional do chatbot e testar de cinco a seis variações de templates utility para aprovação.
 - Mariane Oliveira: liderar a frente comercial até 27/11; enviar a Pablo a origem das oito vendas até o fim de 09/11; preparar até 11/11 o cronograma de atividades; conduzir a comunicação individual com a base captada; e dar feedback sobre a qualidade dos contatos das quatro variações de tráfego.
 - Pablo Backstage: atualizar e simplificar o dashboard com os dados de origem; transformar feedback comercial em dados operacionais; levantar a compra do chip de contingência; apoiar a análise de mensagens conduzida por Thamyris; encaminhar o cancelamento discutido após o pagamento da multa pela cliente; e passar a Lucas as duas ideias mencionadas no encerramento.
 - Lucas: produzir pelo menos um carrossel diário com prova social e casos de resultado; entregar o carrossel produzido para revisão e o trecho do evento de lançamento solicitado para as redes sociais.
@@ -139,6 +150,14 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Priorizar GINC, GCM, GS e GSE nas ações comerciais do período restante do carrinho.
+- Continuar enviando e-mails de venda ao GS e segmentar API e e-mail pelas dores das pesquisas e pelos pilares de marketing, vendas e estruturação de projeto.
+- Direcionar renovações diretamente ao WhatsApp de Mariane.
+- Realizar a “Sala Secreta” em 18/11/2026, à noite, pelo Zoom e sem gravação, usando chatbot direto para o WhatsApp em vez de página de captura.
+- Oferecer uma oportunidade de “botão de emergência” durante a “Sala Secreta”, e não em disparo prévio.
+- Usar o título e o enquadramento “Conversa sincera com a Vã”.
+- Realizar a live com Alessandra Albuquerque em 16/11, às 12h30, a live sem áudio em 17/11 e uma live de estudo de caso em 19/11, condicionada à confirmação da convidada.
+- Comunicar as lives como estudos de caso e entregar o áudio somente depois da interação inicial do contato.
 - Priorizar a conversão da base já captada, começando pelos respondentes da pesquisa e pelos leads de maior aderência ao ICP; e-mails para outros públicos ficam como frente secundária.
 - Colocar Mariane na liderança da frente comercial até 27/11, com o restante do time em apoio.
 - Usar contato individual como primeira ação comercial da nova fase, apoiado por comunicação nos grupos e pelas demais frentes.
@@ -218,6 +237,13 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- A página de vendas recebeu 115 acessos sem clique no botão; a nova versão ainda não tinha conversão validada ao fim da reunião de 13/11.
+- O GSE reúne 948 contatos de alto potencial ainda pouco aquecidos para a janela restante do carrinho.
+- A base contém telefones e e-mails antigos ou possivelmente inválidos, reduzindo entregabilidade e segurança da segmentação.
+- Lives recentes tiveram baixa participação, e o público demonstrou resistência a expor vulnerabilidades no Instagram.
+- A “Sala Secreta” tem menos de uma semana de divulgação e depende da entrega rápida do chatbot, das copies e da comunicação.
+- A operação depende da criação e aprovação de vários templates utility, processo que pode atrasar chatbot, API, áudio e disparos.
+- Conteúdos com aparência direta de venda apresentaram alcance muito baixo, reduzindo a geração de conversas durante o carrinho aberto.
 - A credencial do Fufunil foi compartilhada em texto no Zoom e solicitada também por WhatsApp; não houve confirmação de troca após o primeiro acesso.
 - O Fufunil ainda não oferece gatilho de mensagem automática para novos seguidores.
 - A Princípia não fornece atribuição operacional suficiente das vendas; sem a marcação manual de Mariane, a equipe não sabe quais canais geraram conversão.
@@ -260,6 +286,9 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - A ausência de integração entre Princípia e Hotmart impede reproduzir o fluxo anterior sem trabalho manual de liberação de acesso e emissão individual de notas fiscais.
 
 ## 9. Indicadores
+- Página de vendas em 13/11: 115 acessos e nenhum clique no botão, conforme relato da reunião; valor preservado como retrato da fonte, sem auditoria independente.
+- GSE em 13/11: 948 contatos de alto potencial classificados como ainda pouco aquecidos.
+- Próximos eventos: live com Alessandra Albuquerque em 16/11, às 12h30; live sem áudio em 17/11; “Sala Secreta” em 18/11; live de estudo de caso em 19/11, com convidada ainda não confirmada.
 - Tráfego em 09/11: quatro variações em teste; qualidade dos contatos ainda não consolidada.
 - Vendas da BF26 em 09/11: oito confirmadas, sendo cinco novas e três renovações; uma possível nona venda, com pagamento relatado para 20/11, permanece não confirmada.
 - Ritmo necessário informado em 09/11: três vendas por dia para atingir a meta.
@@ -302,6 +331,8 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Tratar 19/11 como data provisória da “Sala Secreta”: a reunião de 13/11 fechou o evento para 18/11, à noite.
+- Usar página de captura para a inscrição na “Sala Secreta”: o fluxo aprovado leva o contato por chatbot diretamente ao WhatsApp.
 - Tratar o agendamento dos conteúdos aprovados como integralmente dependente do horário do suporte do Fufunil: Lucas recebeu acesso direto e confirmou o login em 10/11/2026.
 - Processar necessariamente todas as vendas da oferta pela Princípia: páginas e links diretos usam Hotmart, enquanto recuperações assistidas por Mariane permanecem na Princípia.
 - Tratar e-mails para públicos amplos como frente comercial principal da BF26: a prioridade passou à conversão da base captada, com contato individual como primeira ação.
@@ -332,6 +363,25 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Produzir as copies de API e e-mail segmentadas pelas dores e pilares — Responsável: Dra. Vanessa Cesnik — Prazo: até amanhã, 14/11/2026.
+- Confirmar com Naya a criação das novas tags e solicitar os números faltantes — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Reabordar manualmente os contatos com janela aberta usando as respostas da pesquisa como gancho — Responsável: Mariane — Prazo: não definido.
+- Confirmar o horário de conclusão do disparo do GSE e avisar Mariane — Responsável: Pablo Backstage — Prazo: não definido.
+- Enviar duas mensagens aos grupos com base nos temas de melhor desempenho — Responsável: Thamyris Valentim — Prazo: agora de manhã e no final da tarde de 13/11/2026.
+- Agendar as lives de estudo de caso com as alunas priorizadas — Responsável: Thamyris Valentim — Prazo: confirmar a live de 19/11 até quarta-feira.
+- Preparar a comunicação da live de 16/11 nos grupos — Responsável: Thamyris Valentim — Prazo: idealmente domingo, 15/11/2026.
+- Enviar à equipe a planilha com os melhores depoimentos do Alicerce — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Transformar os depoimentos em conteúdo com formato de história — Responsável: Pablo Backstage — Prazo: não definido.
+- Fixar no perfil o carrossel de oferta — Responsável: Pablo Backstage — Prazo: hoje, 13/11/2026.
+- Criar a lista de templates utility necessários e encaminhá-la para testes — Responsável: Dra. Vanessa Cesnik e Pablo Backstage — Prazo: até segunda ou terça-feira.
+- Criar e testar de cinco a seis variações de templates utility e submetê-las à aprovação — Responsável: Maria — Prazo: até segunda ou terça-feira.
+- Publicar o corte de vulnerabilidade já selecionado — Responsável: Lucas — Prazo: amanhã, 14/11/2026.
+- Assistir à live do Alicerce e selecionar novos cortes sobre vulnerabilidade — Responsável: Lucas — Prazo: até segunda-feira, 16/11/2026.
+- Levantar o custo e a viabilidade do Ligue Leads — Responsável: Pablo Backstage — Prazo: até segunda-feira, 16/11/2026.
+- Trocar a thumbnail da live, retirando a data e usando título mais chamativo — Responsável: Pablo Backstage — Prazo: hoje, 13/11/2026.
+- Construir o fluxo do chatbot direto para o WhatsApp — Responsável: Pablo Backstage e Maria — Prazo: até amanhã, 14/11/2026.
+- Programar o chatbot para os quatro grupos e iniciar o aquecimento até o evento — Responsável: não definido — Prazo: de 14/11 a 18/11/2026.
+- Publicar no grupo o resumo da reunião com os responsáveis marcados — Responsável: Pablo Backstage — Prazo: após a reunião.
 - Agendar no Fufunil os posts aprovados — Responsável: Lucas — Prazo: não definido.
 - Enviar a gravação da reunião de treinamento a Lucas — Responsável: Pablo Backstage — Prazo: não definido.
 - Passar a Lucas as duas ideias mencionadas no encerramento — Responsável: Pablo Backstage — Prazo: não definido.
@@ -367,7 +417,6 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Testar o conceito editorial “RP [Tema]” no perfil Neg Negreiros — Responsável: Lucas — Prazo: não definido.
 - Preparar a análise da estratégia de lotes de vendas dos workshops — Responsável: Mari — Prazo: reunião de 9/12.
 - Confirmar com Thamyris o processo de emissão manual das notas fiscais — Responsável: Arcindo Negreiros — Prazo: não definido.
-- Definir a data final do evento “Sala Secreta” — Responsável: equipe — Prazo: não definido.
 - Analisar os dados de engajamento para definir os horários das lives — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Usar enquetes nos Stories para coletar feedback dos leads — Responsável: Mariane Oliveira e Lucas — Prazo: não definido.
 - Enviar a Lucas o briefing de venda com depoimentos, entregas e promessa — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
@@ -435,7 +484,6 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 
 ## 13. Próxima decisão
 - Decidir quais das quatro variações de tráfego serão mantidas ou desativadas após o feedback qualitativo de Mariane.
-- Definir a data final do evento “Sala Secreta”; 19/11 permanece apenas como data provisória.
 - Validar a data da reunião de precificação dos workshops, registrada como semana de 9/11 em uma fonte e 9/12 em outra.
 - Confirmar, após o teste em dois conteúdos, se o rastreamento por URL é suficiente ou se será necessário adotar tags diárias.
 - Definir as metas de vendas após a segmentação da base e a consolidação dos públicos.
@@ -451,6 +499,7 @@ Recuperar o ritmo da BF26 para atingir o piso de 50 vendas, priorizando a conver
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais|Estratégia de vendas do Alicerce do Extraordinário — Realizando Potenciais — 13/11/2026]] · [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais--transcricao-completa|transcrição completa — call 901402925]].
 - Fechamento diário Notion → EDC — 10/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização da integração Principia → Full Funnel apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|Treinamento de agendamento no Fufunil — Realizando Potenciais — 10/11/2026]].
 - [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486|Fonte complementar da reunião de 09/11/2026 — call 892417486, transcrição parcial]].

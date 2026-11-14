@@ -23,6 +23,9 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-13--apresentacao-proposta-delcar|13/11/2026 — Apresentação da proposta Delcar — Comercial da Simplifique]] · [[03-Reunioes/2026/11/2026-11-13--apresentacao-proposta-delcar--transcricao-completa|transcrição completa — call 901760262]]
+- [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais|13/11/2026 — Estratégia de vendas do Alicerce do Extraordinário — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais--transcricao-completa|transcrição completa — call 901402925]]
+- [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026 — Fichas de produtos, Sincra e consolidação do Monday — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd--transcricao-completa|transcrição completa]]
 - [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026 — Limpeza do Monday e estrutura Sincra — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd--transcricao-completa|transcrição completa]]
 - [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|10/11/2026 — Treinamento de agendamento no Fufunil — Realizando Potenciais]]
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026 — Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd]]

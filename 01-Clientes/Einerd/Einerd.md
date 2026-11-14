@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday; o histórico será preservado por arquivamento, os inventários serão reconciliados e a nova estrutura ainda depende da validação do Sincra, do mapa de responsáveis e da integração Fábrica–Monday, sem perder Lead 2, fichas, onboarding, SLA e Daily.
+> A operação audiovisual segue registrada no Monday; `Operação infoproduto` será arquivado, TBC-BF e Y.TD serão migrados para `Produto`, e as fichas atualizadas no Google Drive alimentarão o Sincra. Permissões, taxonomia, responsáveis e integração Fábrica–Monday ainda precisam de validação.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026 — Fichas de produtos, Sincra e consolidação do Monday]].
 - [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026 — Limpeza do Monday e estrutura Sincra]].
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026 — Ajustes do Lead 2 e pipeline audiovisual com IA]].
 - [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026 — Testes de anúncios e páginas no Unbounce]].

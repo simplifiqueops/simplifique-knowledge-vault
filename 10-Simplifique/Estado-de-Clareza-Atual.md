@@ -2,21 +2,21 @@
 type: estado-de-clareza-canonico
 status: active
 projeto: "Simplifique — estratégia e infraestrutura interna"
-atualizado_em: 2026-11-03T14:06:49-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-03--estrategia-proposta-delcar]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — estratégia e proposta Delcar — 2026-11-03"
-confianca: "alta para escopo, preço mensal e compromissos confirmados na transcrição completa; limitada para a forma final de cobrança do mapeamento, a unidade dos 30 stories e a agenda ainda não confirmada com o prospect"
+atualizado_em: 2026-11-13T19:45:04Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-13--apresentacao-proposta-delcar]]"
+fonte_atualizacao: "Deocar | Alinhamento Projeto — apresentação da proposta Delcar — 2026-11-13"
+confianca: "alta para a apresentação da proposta, o valor mensal, a ausência de contratação e os compromissos de follow-up; limitada para o responsável individual por cases e referências de tráfego e para a composição final do time de Stories"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Simplifique
 
 ## Delta da última atualização
-- A Delcar entrou como oportunidade ativa do Comercial da Simplifique, ainda sem contratação confirmada.
-- A equipe fechou internamente uma proposta-base de R$ 9.900 por mês para reposicionamento e produção de conteúdo, com 20 posts para Instagram, 4 vídeos para YouTube, 10 criativos de anúncios e 30 stories mensais.
-- Pablo assumiu preparar a apresentação; Caroline, preparar o questionário de descoberta; Lucas, coletar informações com o contato, agendar a reunião de vendas e validar uma storymaker em Belo Horizonte.
-- O mapeamento inicial foi estimado em R$ 800, com possibilidade discutida de cobrança à vista ou diluída; a forma final ainda precisa constar na proposta.
-- Permanecem lacunas sobre a disponibilidade do fundador para captações, o custo da storymaker, a unidade dos 30 stories e regras de diárias e cancelamento.
+- A proposta da Delcar foi apresentada a Fabrício por R$ 9.900 mensais, com 20 posts para Instagram, 4 vídeos para YouTube e cobertura diária de Stories; a contratação não foi confirmada.
+- Fabrício declarou que o investimento, somado ao tráfego pago, está acima do que esperava e assumiu avaliar a proposta, sem prazo definido.
+- O acompanhamento será concentrado em um grupo de WhatsApp; Lucas assumiu criar o grupo, enviar a proposta por escrito e informar datas e rotina de gravação.
+- Caroline assumiu enviar o material institucional. O envio de cases e de referências de tráfego automotivo ficou confirmado, mas sem responsável individual definido.
+- A pessoa prevista para a cobertura diária de Stories ainda não integra o time apresentado; a disponibilidade e o custo permanecem lacunas de execução caso a proposta seja aceita.
 - Pablo aceitou participar de uma entrevista no novo podcast de Patrícia para falar sobre a mentoria e divulgar a Simplifique; a data ainda não foi definida.
 - Patrícia assumiu fazer posteriormente um diagnóstico do negócio Simplifique, sem prazo definido.
 - O plano de gerar R$60 mil até dezembro com serviços de design aparece apenas no resumo automático e não foi promovido como meta operacional confirmada.
@@ -48,7 +48,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Simplifique Ops usado como apoio operacional, sem substituir atividade comercial.
 
 ## 3. Prioridades
-1. Preparar e apresentar a proposta comercial da Delcar, preservando-a como prospect até confirmação de contratação.
+1. Concluir o follow-up da proposta da Delcar e obter a decisão de Fabrício, preservando-a como prospect até confirmação de contratação.
 2. Lançar e testar o funil diagnóstico de R$5,90 no perfil de Patrícia.
 3. Preparar a participação de Pablo no podcast de Patrícia como divulgação da Simplifique.
 4. Receber e avaliar o diagnóstico da Simplifique que Patrícia assumiu fazer.
@@ -58,7 +58,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 8. Manter o Simplifique Ops como suporte, não como fuga da venda.
 
 ## 4. Frentes ativas
-- Delcar: proposta comercial em preparação para reposicionamento de marca e produção mensal de conteúdo; reunião de vendas ainda não agendada e contratação não confirmada.
+- Delcar: proposta de R$ 9.900 mensais apresentada; materiais e detalhes operacionais pendentes de envio; Fabrício está avaliando e a contratação não foi confirmada.
 - Entrevista de Pablo no novo podcast de Patrícia para divulgação da mentoria e da Simplifique.
 - Diagnóstico do negócio Simplifique por Patrícia.
 - Esteira comercial: produtos definidos e precificados no Notion; teste do funil diagnóstico de R$5,90 ainda ativo.
@@ -68,24 +68,24 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Simplifique Ops: uso e evolução internos.
 
 ## 5. Responsáveis
-- Pablo: preparar a apresentação da proposta da Delcar, participar da entrevista, lançar o funil diagnóstico de R$5,90, definir a próxima cadência de prospecção e revisar a proposta da Diagnóstica MS.
-- Caroline Amad: preparar o questionário de descoberta da Delcar para a reunião de vendas.
-- Lucas Cacalli: coletar informações com o contato da Delcar, agendar a reunião de vendas e buscar uma storymaker em Belo Horizonte; prazos não definidos.
+- Pablo: participar da entrevista, lançar o funil diagnóstico de R$5,90, definir a próxima cadência de prospecção e revisar a proposta da Diagnóstica MS.
+- Caroline Amad: enviar o material institucional ao Fabrício; prazo não definido.
+- Lucas Cacalli: criar o grupo de WhatsApp da Delcar, enviar a proposta por escrito, informar datas e rotina de gravação e buscar uma storymaker em Belo Horizonte; prazos não definidos.
+- Fabrício: avaliar a proposta da Delcar e o investimento; prazo não definido.
 - Patrícia: elaborar as perguntas da entrevista e fazer o diagnóstico da Simplifique; prazos não definidos.
 - Lucas Cacalli: acompanhar também o contrato da Dra. Cláudia.
 
 ## 6. Decisões vigentes
-- A proposta da Delcar será apresentada em reunião de vendas, e não apenas enviada para avaliação assíncrona.
-- O escopo-base da Delcar será de 20 posts para Instagram, 4 vídeos para YouTube, 10 criativos de anúncios com versões de CTA e 30 stories mensais, além de mapeamento, branding, posicionamento, planejamento, roteiros e legendas.
-- O preço mensal da proposta da Delcar será de R$ 9.900; o mapeamento inicial, estimado em R$ 800, poderá ser apresentado à vista ou diluído no contrato.
+- A proposta da Delcar foi apresentada em reunião de vendas por R$ 9.900 mensais, com 20 posts para Instagram, 4 vídeos para YouTube e cobertura diária de Stories; a oferta segue em avaliação, sem contratação confirmada.
+- O acompanhamento da proposta da Delcar será concentrado em um grupo de WhatsApp com Fabrício e a equipe.
 - Pablo participará de uma entrevista no novo podcast de Patrícia, conectando a mentoria ao trabalho da Simplifique.
 - O funil diagnóstico de R$5,90 será testado no perfil de Patrícia antes de definir sua continuidade na esteira.
 - Prospecção é prioridade comercial da Simplifique.
 - Desenvolvimento interno não substitui contato comercial.
 
 ## 7. Gargalos
-- A disponibilidade do fundador da Delcar para períodos integrais de gravação ainda não foi validada.
-- O custo e a disponibilidade de uma storymaker em Belo Horizonte ainda não foram confirmados.
+- O valor da proposta da Delcar, somado ao tráfego pago, está acima do investimento esperado por Fabrício e pode impedir o fechamento.
+- A pessoa prevista para a cobertura diária de Stories ainda não integra o time apresentado; custo e disponibilidade não foram confirmados.
 - A experiência física da Delcar não comunica o mesmo posicionamento premium pretendido para o digital.
 - A entrevista e o diagnóstico assumido por Patrícia não possuem datas definidas.
 - O piloto de R$5,90 ainda não possui critério de sucesso confirmado.
@@ -96,7 +96,7 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Nenhum bloqueio externo confirmado para definir e executar a próxima cadência comercial.
 
 ## 9. Indicadores
-- Delcar: proposta em preparação; mensalidade-base definida em R$ 9.900; reunião de vendas não agendada; contratação não confirmada.
+- Delcar: proposta de R$ 9.900 mensais apresentada em 13/11/2026; avaliação de Fabrício pendente; contratação não confirmada.
 - Entrevista no podcast de Patrícia: participação aceita; data e perguntas não definidas.
 - Diagnóstico da Simplifique por Patrícia: compromisso assumido; não realizado.
 - Produtos de gestão e design precificados: item `Finalizado` no Notion em 09/10/2026; detalhes não consolidados no Vault.
@@ -113,12 +113,16 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Tratar como pendente a consolidação do diagnóstico, do cálculo de ROI e da proposta final da Diagnóstica MS: o item foi finalizado no Notion; revisão estética, apresentação e decisão comercial continuam separadas.
 - Tratar o item “Continuar testando o Simplifique Ops e os protocolos nos projetos” como aberto; sua finalização não equivale à conclusão do produto.
 - Manter como aberto o primeiro bloco de prospecção: o Notion registra o item como `Finalizado`; a próxima cadência comercial continua sendo uma decisão separada.
+- Tratar como pendentes a preparação da apresentação, o levantamento prévio e o agendamento da reunião de vendas da Delcar; a proposta foi apresentada em 13/11/2026.
 
 ## 12. Próximo passo
-- Criar a apresentação da proposta comercial da Delcar — Responsável: Pablo — Prazo: não definido.
-- Preparar o questionário de descoberta da Delcar e levá-lo à reunião de vendas — Responsável: Caroline Amad — Prazo: para a reunião de vendas.
-- Fazer perguntas prévias ao contato da Delcar e trazer as informações para a equipe — Responsável: Lucas Cacalli — Prazo: não definido.
-- Agendar a reunião de vendas com a Delcar — Responsável: Lucas Cacalli — Prazo: não definido.
+- Criar o grupo de WhatsApp para acompanhamento da proposta da Delcar — Responsável: Lucas Cacalli — Prazo: não definido.
+- Enviar a proposta formal por escrito ao Fabrício — Responsável: Lucas Cacalli — Prazo: não definido.
+- Informar as datas e a rotina previstas para as gravações — Responsável: Lucas Cacalli — Prazo: não definido.
+- Enviar o material institucional ao Fabrício — Responsável: Caroline Amad — Prazo: não definido.
+- Enviar cases de sucesso ao Fabrício — Responsável: não definido — Prazo: não definido.
+- Fornecer referências de especialistas em tráfego pago para o setor automotivo — Responsável: não definido — Prazo: não definido.
+- Avaliar a proposta da Delcar e o investimento — Responsável: Fabrício — Prazo: não definido.
 - Buscar uma storymaker em Belo Horizonte e validar preço e disponibilidade — Responsável: Lucas Cacalli — Prazo: não definido.
 - Participar da entrevista no novo podcast de Patrícia para abordar a mentoria e a Simplifique — Responsável: Pablo — Prazo: não definido.
 - Fazer um diagnóstico do negócio Simplifique — Responsável: Patrícia — Prazo: não definido.
@@ -126,13 +130,14 @@ Retomar geração de receita própria da Simplifique sem esconder a prospecção
 - Revisar a estética da proposta da Diagnóstica MS e prepará-la para apresentação — Responsável: Pablo — Prazo: não definido — Sincronização externa: não.
 
 ## 13. Próxima decisão
-- Após a reunião de vendas, decidir se a oportunidade Delcar avança para contrato, permanece em negociação ou é encerrada; até lá, não classificar a empresa como cliente.
-- Fechar na proposta a forma de cobrança do mapeamento, a unidade dos 30 stories e as regras de diárias, antecedência e cancelamento.
+- Após a avaliação de Fabrício, decidir se a oportunidade Delcar avança para contrato, permanece em negociação ou é encerrada; até lá, não classificar a empresa como cliente.
+- Se a proposta for aceita, fechar a composição da cobertura diária de Stories e as regras operacionais das gravações antes do início da execução.
 - Avaliar o diagnóstico de Patrícia e decidir quais ajustes, se houver, entram na estratégia da Simplifique.
 - Após o teste, decidir se o funil de R$5,90 entra na esteira e para qual oferta conduz.
 - Definir uma cadência comercial mínima que Pablo consiga cumprir de forma sustentável após o primeiro bloco executado.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-13--apresentacao-proposta-delcar|13/11/2026 — Apresentação da proposta Delcar]].
 - [[03-Reunioes/2026/11/2026-11-03--estrategia-proposta-delcar|03/11/2026 — Estratégia e proposta Delcar]].
 - [[03-Reunioes/2026/10/2026-10-21--podcast-black-friday-diagnostico-patricia-de-lucca|21/10/2026 — Podcast, Black Friday e diagnóstico]].
 - Fechamento diário Notion → EDC — 14/10/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou a finalização do primeiro bloco de prospecção apesar do snapshot sem delta.

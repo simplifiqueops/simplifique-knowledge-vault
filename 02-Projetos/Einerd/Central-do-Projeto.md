@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 37
+demandas_no_edc: 41
 decisoes_pendentes: 8
-edc_atualizado_em: 2026-11-11
+edc_atualizado_em: 2026-11-13
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Monday e estrutura operacional:** preservar o histórico por arquivamento, reconciliar os inventários e validar Sincra, responsabilidades e integração Fábrica–Monday sem perder as frentes de Lead 2, fichas, SLA, Daily e onboarding. **37 demandas visíveis** e **8 decisões pendentes** no EDC.
+> **P1 · Fichas, Sincra e consolidação do Monday:** concluir as fichas no Google Drive, alimentar o Sincra, arquivar `Operação infoproduto` e migrar TBC-BF e Y.TD para `Produto`, preservando o histórico. **41 demandas visíveis** e **8 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,14 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 37
+## Demandas visíveis — 41
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 8
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026]] renomeou VVSA para G7F, definiu o arquivamento de `Operação infoproduto` e a migração de TBC-BF e Y.TD para `Produto`; a alimentação do Sincra depende das fichas de Marcel, e a consolidação ainda enfrenta limitação de permissão e detalhamento interrompido.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026]] definiu preservar o histórico do Monday por arquivamento e acrescentou a reconciliação dos inventários e a validação audiovisual; Sincra, mapa de responsáveis e integração Fábrica–Monday seguem pendentes de validação.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026]] definiu IA com revisão humana para o Lead 2, checklist de entrada e backup antes da limpeza do Monday; acrescentou ações de documentação, compartilhamento e revisão, com atribuição da limpeza ainda sem validação segura.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-09--testes-anuncios-paginas-unbounce-einerd|09/11/2026]] definiu testes do criativo R27 e de páginas no Unbounce, o subdomínio `lp.canalsemaparecer.com.br` e ações de Kayke, Magnum e Arthur; não acrescentou responsabilidade para Pablo nem alterou as 27 demandas canônicas de Audiovisual.

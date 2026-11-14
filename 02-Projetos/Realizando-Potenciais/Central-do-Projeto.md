@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 99
-decisoes_pendentes: 15
-edc_atualizado_em: 2026-11-10
+demandas_no_edc: 117
+decisoes_pendentes: 14
+edc_atualizado_em: 2026-11-13
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** converter a base já captada por contato individual sob liderança de Mariane, incorporar a origem das vendas ao dashboard e manter conteúdo diário; Lucas já pode programar os conteúdos aprovados diretamente no Fufunil. **99 demandas** e **15 decisões pendentes** no EDC.
+> **P1:** aquecer e converter GINC, GCM, GS e GSE até 18/11 com copies por dor, chatbot direto ao WhatsApp, contato individual, estudos de caso e a sequência de lives. **117 demandas** e **14 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 99
+## Demandas visíveis — 117
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 15
+## Decisões pendentes — 14
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: havia oito vendas confirmadas; a base captada passou a ser a prioridade, Mariane lidera a frente comercial até 27/11 e Lucas mantém produção diária e agora possui acesso direto ao Fufunil para programar os conteúdos aprovados.
-- Lacuna principal: consolidar a origem das vendas, simplificar o dashboard, programar os disparos, decidir quais variações de tráfego manter após o feedback comercial e mitigar o compartilhamento textual da credencial do Fufunil.
+- Sinal atual: o plano comercial prioriza GINC, GCM, GS e GSE; a “Sala Secreta” foi confirmada para 18/11, com inscrição por chatbot direto ao WhatsApp, e há lives previstas para 16, 17 e 19/11.
+- Lacuna principal: entregar e aprovar rapidamente copies, chatbot e templates utility, reverter a ausência de cliques na página e confirmar a convidada da live de 19/11, sem perder a consolidação da origem das vendas no dashboard.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

@@ -3,20 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-11T11:56:37-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd]]"
-fonte_atualizacao: "Reunião de 11/11/2026 — limpeza do Monday e estrutura Sincra"
-confianca: "alta para os itens citados: a transcrição completa do Fathom foi recuperada; propostas dependentes de aprovação da liderança foram mantidas como decisões pendentes"
+atualizado_em: 2026-11-13T13:45:16Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd]]"
+fonte_atualizacao: "Reunião de 13/11/2026 — fichas de produtos, Sincra e consolidação do Monday"
+confianca: "alta para os itens citados; a transcrição integral foi fornecida, com ressalva para trocas aparentes nos rótulos de participantes e para o detalhamento interrompido da consolidação"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: o histórico do Monday será preservado por arquivamento; Pablo e Hallefy atualizarão seus inventários após a liberação de Marcel; Pablo validará a aderência do modelo Sincra ao audiovisual, e Hallefy assumiu os ajustes posteriores da estrutura existente.
-- Confirmações sem mudança: Monday continua necessário como base de gestão; fichas, bancos, entrada estruturada e sincronização permanecem frentes abertas.
-- Conflitos/lacunas: os inventários encontraram 104 e 47 quadros; o escopo e o executor final do arquivamento não foram fechados; a taxonomia Sincra e a integração Fábrica–Monday ainda dependem de validação.
-- Fonte: [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|Limpeza do Monday e estrutura Sincra — Ei Nerd — 11/11/2026]].
+- Mudanças confirmadas: VVSA foi renomeado para G7F; o quadro `Operação infoproduto` será arquivado; TBC-BF e Y.TD serão migrados para `Produto`; Marcel atualizará as fichas no Google Drive e Hallefy usará esse material para alimentar o Sincra e migrar os projetos ativos do TubeClub.
+- Confirmações sem mudança: Monday continua necessário como base de gestão; as fichas de produto e a estrutura Sincra permanecem frentes abertas; o histórico amplo continua preservado por arquivamento.
+- Conflitos/lacunas: Hallefy não possui permissão para executar parte da consolidação; o detalhamento da organização na estrutura YBR foi interrompido; nenhum prazo foi definido; os rótulos de participantes apresentam trocas aparentes.
+- Fonte: [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|Fichas de produtos, Sincra e consolidação do Monday — Ei Nerd — 13/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -30,9 +30,9 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 ## 3. Prioridades
 1. Ajustar a VSL e os anúncios do Lead 2 com IA, instruções inequívocas e revisão humana.
 2. Corrigir o preço do downsell semestral do TubeClub na VSL e ajustar as copies de YouTube Dark e TubeClub.
-3. Consolidar as fichas de produto, os ativos e o pipeline de produção audiovisual por IA.
-4. Preservar o histórico e higienizar o Monday após a liberação de Marcel, conciliando os inventários antes do arquivamento.
-5. Validar a estrutura baseada no Sincra, o mapa de responsáveis e a integração Fábrica–Monday.
+3. Concluir as fichas de produto no Google Drive com hiperlinks para os ativos e alimentar o Sincra.
+4. Preservar o histórico e consolidar o Monday, começando pelo arquivamento de `Operação infoproduto` e pela migração de TBC-BF e Y.TD para `Produto`.
+5. Validar a estrutura baseada no Sincra, o mapa de responsáveis, a integração Fábrica–Monday e as permissões necessárias para execução.
 6. Conectar a visão do painel audiovisual ao Daily.
 7. Estudar o curso de YouTube Dark e extrair aprendizados estratégicos.
 8. Atualizar o SLA de edição e alinhá-lo com Hallefy.
@@ -42,19 +42,19 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Black Friday e copies: manter a VSL atual do TubeClub com nove treinamentos durante a campanha; corrigir o downsell semestral para R$497; retirar o downsell de YouTube Dark do fluxo atual; explicitar o acesso anual do YouTube Dark e a renovação automática do TubeClub.
 - Painel audiovisual e de produtos: primeira versão funcional demonstrada por Marcel; a revisão por Pablo e a evolução a partir da prévia constam como finalizadas no Notion, enquanto preenchimento dos produtos e validação final da sincronização permanecem pendentes.
 - Governança de demandas: reconciliação entre Monday, planilha de cursos e Google Drive finalizada no Notion; conexão do painel ao Daily em progresso.
-- Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais e a revisão do material do VVSA foram finalizados no Notion.
+- Demais remessas e internacionalização de materiais ainda não conciliadas como concluídas; os spots comerciais e a revisão do material do VVSA, agora G7F, foram finalizados no Notion.
 - Aprendizado estratégico: estudo do curso de YouTube Dark.
 - Documentação de produtos e ativos: Marcel criará fichas dos produtos, centralizará materiais brutos/editados e estruturará bancos de ativos visuais e provas de alunos.
 - Onboarding do aluno: direção definida por checklists e três trilhas predefinidas; Marcel planejará as aulas e consultará os desenvolvedores sobre a primeira implementação.
 - Produção por IA: internacionalização e edição passam a usar IA como base; o teste inicial será feito no Cash Call, enquanto Pablo desenhará o pipeline e o checklist de copy.
 - Lead 2 e entrada do pipeline: os ajustes da VSL e dos anúncios serão feitos com IA e revisão humana; Kayke documentará os comandos, Pablo compartilhará o fluxograma e criará os modelos de copy e VSL com o cabeçalho obrigatório.
-- Higienização operacional: o histórico do Monday já possui inventários preliminares e será preservado por arquivamento, não por exclusão; Pablo e Hallefy reconciliarão seus levantamentos após Marcel concluir e liberar suas alterações.
-- Estrutura operacional: o pré-modelo Sincra é o ponto de partida recomendado, mas sua adoção, taxonomia e aderência ao audiovisual ainda dependem de validação com a liderança; a Fábrica é a interface pretendida de execução e revisão, mantendo o Monday como base de gestão.
+- Higienização operacional: o histórico do Monday já possui inventários preliminares e será preservado por arquivamento, não por exclusão; `Operação infoproduto` será arquivado, enquanto TBC-BF e Y.TD serão migrados para `Produto`; a consolidação restante ainda depende de permissões e detalhamento.
+- Estrutura operacional: Marcel disponibilizará no Google Drive as fichas com hiperlinks para os ativos; Hallefy usará esse material para alimentar o Sincra e migrar os projetos ativos do TubeClub. A taxonomia completa, a aderência ao audiovisual e a integração Fábrica–Monday ainda dependem de validação.
 
 ## 5. Responsáveis
-- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; reconciliará seu inventário do Monday e conferirá a aderência do Sincra ao processo audiovisual; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
-- Hallefy Moraes: gerente de projeto em onboarding; reconciliará seu inventário do Monday, conduzirá os ajustes da estrutura existente após a liberação de Marcel e deverá contatar membros da equipe para alinhar a organização das demandas.
-- Marcel: criar e enviar o acesso de Pablo, verificar a sincronização entre plataforma e Monday, criar fichas e ativos dos produtos, centralizar aulas, testar a edição do Cash Call, retirar acessos da ferramenta de IA de vídeo, enviar documentos de copy e planejar o onboarding; prazos não definidos.
+- Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; reconciliará seu inventário do Monday, conferirá a aderência do Sincra ao processo audiovisual, arquivará `Operação infoproduto` e migrará TBC-BF e Y.TD para `Produto`; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
+- Hallefy Moraes: gerente de projeto em onboarding; reconciliará seu inventário do Monday, conduzirá os ajustes da estrutura existente após a liberação de Marcel, alimentará o Sincra com as fichas recebidas, migrará os projetos ativos do TubeClub e deverá contatar membros da equipe para alinhar a organização das demandas.
+- Marcel: criar e enviar o acesso de Pablo, verificar a sincronização entre plataforma e Monday, concluir e subir no Google Drive as fichas dos produtos com hiperlinks para os ativos, centralizar aulas, testar a edição do Cash Call, retirar acessos da ferramenta de IA de vídeo, enviar documentos de copy e planejar o onboarding; prazos não definidos.
 - Arthur: levantar métricas de acesso inicial e consumo de aulas pelos alunos; prazo não definido.
 - Carla: governança das tasks e pastas do Monday conforme decisões anteriores.
 - Editores e demais responsáveis: execução das entregas registradas no Monday e na planilha; responsabilidades individuais dependem da reconciliação operacional.
@@ -77,6 +77,9 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O pipeline audiovisual com IA exigirá entrada estruturada e checklist antes da geração.
 - O histórico do Monday será preservado por arquivamento, após a liberação de Marcel e a conferência do inventário final; o escopo e o executor final ainda precisam de validação.
 - As fichas de produto serão a referência para alinhar produto, anúncios, VSLs, páginas, bônus e entregáveis.
+- VVSA passa a se chamar G7F.
+- O quadro `Operação infoproduto` será arquivado.
+- TBC-BF e Y.TD serão migrados para o quadro `Produto`.
 
 ## 7. Gargalos
 - A VSL do downsell semestral do TubeClub pode continuar exibindo R$597 até a correção para R$497.
@@ -100,6 +103,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - O consumo de tokens dos modelos mais fortes pode interromper ou atrasar novas gerações.
 - A diferença entre os inventários de Pablo e Hallefy pode deixar quadros, subelementos ou registros fora da conferência final.
 - A ausência de um mapa explícito de responsáveis pode impedir o roteamento correto das demandas pelo fluxo automatizado.
+- A limitação de permissão de Hallefy pode impedir a execução direta de parte da consolidação dos quadros do Monday.
+- A interrupção da reunião deixou sem fechamento o detalhamento da organização posterior dos projetos na estrutura YBR.
 
 ## 8. Bloqueios
 - Materiais de imagem com IA dependem do envio das copies.
@@ -108,13 +113,15 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - A primeira implementação do onboarding depende da validação técnica dos desenvolvedores.
 - A limpeza do Monday depende de Marcel concluir e liberar suas alterações, da reconciliação dos inventários e da definição do escopo e executor do arquivamento.
 - A nova estrutura depende da validação da taxonomia Sincra, do mapa de responsáveis e da integração Fábrica–Monday.
+- A alimentação do Sincra depende de Marcel disponibilizar o link do Google Drive com as fichas atualizadas e seus hiperlinks.
+- Parte da consolidação do Monday depende da concessão de permissões suficientes ou da execução por alguém com acesso.
 
 ## 9. Indicadores
 - Remessas da Black Friday: duas com Fernando, previstas para conclusão no final do dia de 23/10/2026; entrega ainda não comprovada no Vault.
 - ROAS geral da operação: queda declarada de cerca de 4 para 3,6–3,7; relação com menor volume orgânico apresentada na reunião, sem série histórica consolidada no Vault.
 - SLA de edição: atualização assumida por Pablo; prazo não definido.
 - Edição brasileira do YouTube Dark: conferência e aviso a Daniel finalizados no Notion em 27/10/2026; resultado da conferência não documentado na fonte operacional.
-- Material do VVSA: revisão finalizada no Notion em 27/10/2026; conteúdo da revisão não documentado na fonte operacional.
+- Material do VVSA, agora G7F: revisão finalizada no Notion em 27/10/2026; conteúdo da revisão não documentado na fonte operacional.
 - Painel audiovisual e de produtos: revisão por Pablo e evolução a partir da prévia finalizadas no Notion em 20/10/2026; completude dos produtos e validação final da sincronização com o Monday ainda não estão confirmadas.
 - Bot Ella: demanda `Cancelado` no Notion em 10/11/2026; conclusão do bot não comprovada.
 - Integração com Daily: em progresso; conclusão não confirmada.
@@ -140,6 +147,8 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Manter como abertas a revisão do material do VVSA e a conferência da edição brasileira do YouTube Dark com aviso a Daniel: o Notion registra ambas como `Finalizado`.
 - Tratar a limpeza do Monday como exclusão do histórico: a direção vigente é arquivar e manter a informação recuperável.
 - Tratar a estrutura pós-limpeza como já aprovada e pronta: o Sincra é o ponto de partida recomendado, mas ainda será validado com a liderança e com o processo audiovisual.
+- Usar VVSA como nome vigente do produto: a nomenclatura passou a ser G7F em 13/11/2026.
+- Manter como futura a conversa de acompanhamento marcada na reunião de 11/11/2026: a reunião de 13/11/2026 ocorreu, embora tenha sido interrompida antes de concluir o detalhamento.
 
 ## 12. Próximo passo
 - Corrigir para R$497 o preço do downsell semestral do TubeClub na VSL usando IA — Responsável: Hallefy Moraes — Prazo: não definido.
@@ -151,7 +160,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Contatar os membros da equipe para alinhar a organização das demandas — Responsável: Hallefy Moraes — Prazo: entre hoje e amanhã, conforme reunião de 20/10/2026.
 - Atualizar o documento de SLA e compartilhá-lo com Hallefy — Responsável: Pablo — Prazo: não definido.
 - Criar e enviar o acesso de Pablo à plataforma — Responsável: Marcel Rodrigues — Prazo: não definido.
-- Criar fichas de todos os produtos com aulas, resumos, resultados esperados e links dos materiais brutos e editados — Responsável: Marcel Rodrigues — Prazo: não definido.
+- Concluir e subir no Google Drive as fichas de todos os produtos com aulas, resumos, resultados esperados e hiperlinks para os materiais brutos, editados e demais ativos — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Verificar a sincronização de tarefas e status entre a plataforma e o Monday — Responsável: Marcel Rodrigues — Prazo: não definido.
 - Conectar os dados relevantes do painel audiovisual ao Daily — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Dependência: estrutura mínima do painel validada.
 - Estudar o curso de YouTube Dark, mapear os pontos relevantes e registrar o aprendizado estratégico — Responsável: Pablo — Prazo: não definido — Critério de conclusão: mapa de estratégia, operação, monetização, métricas e aplicações possíveis registrado na base de inteligência.
@@ -178,7 +187,11 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Arquivar os quadros antigos do Monday após a liberação de Marcel, preservando as operações ativas de TubeClub Black Friday e YouTube Dark — Responsável: não definido — Prazo: não definido.
 - Conferir a aderência entre a estrutura de produção do Sincra e o processo audiovisual vigente e retornar a confirmação — Responsável: Pablo — Prazo: não definido.
 - Ajustar a estrutura existente conforme os pontos discutidos após a liberação de Marcel — Responsável: Hallefy Moraes — Prazo: não definido.
-- Realizar a conversa de acompanhamento sobre a estrutura — Responsável: Pablo e Hallefy Moraes — Prazo: amanhã às 10h, conforme reunião de 11/11/2026.
+- Arquivar o quadro `Operação infoproduto` — Responsável: Pablo — Prazo: não definido.
+- Migrar TBC-BF e Y.TD para o quadro `Produto` — Responsável: Pablo — Prazo: não definido.
+- Alimentar o Sincra com os dados das fichas após o recebimento do link do Google Drive — Responsável: Hallefy Moraes — Prazo: não definido.
+- Migrar para o Sincra os projetos ativos do TubeClub — Responsável: Hallefy Moraes — Prazo: não definido.
+- Remarcar a continuidade da consolidação do Monday — Responsável: Pablo e Hallefy Moraes — Prazo: não definido.
 
 ## 13. Próxima decisão
 - Definir quais dados do painel audiovisual entram no Daily e com qual frequência de atualização.
@@ -198,6 +211,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|Fichas de produtos, Sincra e consolidação do Monday — Ei Nerd — 13/11/2026]] — renomeou VVSA para G7F, definiu o arquivamento de `Operação infoproduto` e a migração de TBC-BF e Y.TD, e explicitou a dependência das fichas e das permissões para a consolidação.
 - [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|Limpeza do Monday e estrutura Sincra — Ei Nerd — 11/11/2026]] — preservou o histórico por arquivamento, registrou a reconciliação dos inventários e manteve Sincra, atribuições e integração Fábrica–Monday como validações pendentes.
 - Fechamento diário Notion → EDC — 10/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou o cancelamento do bot Ella apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|Ajustes do Lead 2 e pipeline audiovisual com IA — Ei Nerd — 10/11/2026]] — definiu IA com revisão humana para o Lead 2, checklist de entrada, higienização do Monday com backup prévio e novas ações de documentação e compartilhamento; transcrição compactada.

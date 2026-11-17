@@ -3,16 +3,17 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Patrícia de Lucca"
 projeto: "Solução comercial em duas camadas"
-atualizado_em: 2026-10-21T10:39:56-03:00
+atualizado_em: 2026-11-16T18:31:53-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/10/2026-10-21--podcast-black-friday-diagnostico-patricia-de-lucca]]"
-fonte_atualizacao: "Impromptu Zoom Meeting — 2026-10-21"
-confianca: "alta para os acordos e compromissos explícitos nos trechos preservados; limitada nos trechos compactados; as frentes anteriores não foram invalidadas"
+fonte_atualizacao: "Fechamento diário Notion → EDC — 2026-11-16"
+confianca: "alta para os status operacionais lidos no Notion; alta para os acordos e compromissos explícitos da reunião de 21/10; limitada nos trechos compactados"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Patrícia de Lucca
 
 ## Delta da última atualização
+- A verificação independente do Notion confirmou como `Em progresso` as frentes do funil de sessão estratégica e do MVP do audiocast. Não há conclusão comprovada, prazo novo ou mudança nas dependências.
 - Pablo confirmou que a publicação do podcast está sob sua responsabilidade; uma tentativa falhou e ele deve avisar Patrícia se o bloqueio persistir.
 - Pablo aceitou participar de uma entrevista no novo podcast de Patrícia para abordar a mentoria e a Simplifique; Patrícia assumiu elaborar as perguntas.
 - A mentoria não terá seu valor reduzido na Black Friday. A oferta deve partir de um serviço existente e conhecido, mas o serviço, o responsável e o cronograma ainda não foram definidos.
@@ -48,8 +49,8 @@ Destravar as ativações de conteúdo e receita de Patrícia — publicação do
 - Oferta de Black Friday para serviço existente.
 - Piloto de automação de conteúdo com agente, VPS, bot de áudio, Figma e programação de publicações.
 - Teste do funil diagnóstico de R$5,90 no perfil de Patrícia.
-- Camada 1 — Funil de sessão estratégica.
-- Camada 2 — Audiocast e fluxo de monetização.
+- Camada 1 — Funil de sessão estratégica em progresso no Notion; fluxo e conexão com os demais funis ainda não estão documentados como concluídos.
+- Camada 2 — MVP do audiocast em progresso no Notion; oferta, CTA, captura, aprovação e publicação ainda não estão documentados como concluídos.
 - Benchmark concluído como insumo, não como entrega final.
 
 ## 5. Responsáveis
@@ -85,8 +86,8 @@ Destravar as ativações de conteúdo e receita de Patrícia — publicação do
 - Acesso ao ChatGPT: pendente segundo o action item do Fathom.
 - Funil diagnóstico de R$5,90: teste não iniciado.
 - Pesquisa de benchmark: concluída.
-- Funil de sessão estratégica: não desenhado.
-- MVP do audiocast: não colocado em operação.
+- Funil de sessão estratégica: em progresso no Notion; desenho concluído não comprovado.
+- MVP do audiocast: em progresso no Notion; entrada em operação não comprovada.
 - Receita gerada: não informada.
 
 ## 10. O que está pausado
@@ -106,8 +107,8 @@ Destravar as ativações de conteúdo e receita de Patrícia — publicação do
 - Enviar a Pablo o áudio sobre as “Sete Dimensões do Ser” — Responsável: Patrícia — Prazo: não definido.
 - Construir e treinar o agente de conteúdo, configurar a VPS, integrar o bot de áudio e preparar o agendamento das publicações — Responsável: Pablo — Prazo: até sexta que vem — Dependência: acesso liberado por Patrícia.
 - Lançar o funil diagnóstico de R$5,90 e testá-lo no perfil de Patrícia — Responsável: Pablo — Prazo: não definido.
-- Preparar uma solução pré-pronta do funil de sessão estratégica e mapear como ele se conecta aos demais funis de Patrícia — Responsável: Pablo — Prazo: não definido — Critério de conclusão: fluxo, oferta, entrada, conversão e conexões documentados.
-- Preparar o MVP do audiocast com oferta, CTA, captura de leads, aprovação e publicação — Responsável: Pablo — Prazo: não definido — Critério de conclusão: solução apresentável e pronta para iniciar teste de monetização.
+- Preparar uma solução pré-pronta do funil de sessão estratégica e mapear como ele se conecta aos demais funis de Patrícia — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Critério de conclusão: fluxo, oferta, entrada, conversão e conexões documentados.
+- Preparar o MVP do audiocast com oferta, CTA, captura de leads, aprovação e publicação — Responsável: Pablo — Prazo: não definido — Status no Notion: Em progresso — Critério de conclusão: solução apresentável e pronta para iniciar teste de monetização.
 
 ## 13. Próxima decisão
 - Definir qual serviço existente receberá a oferta de Black Friday, quem conduzirá a execução e qual será o cronograma.
@@ -116,6 +117,7 @@ Destravar as ativações de conteúdo e receita de Patrícia — publicação do
 - Decidir eventual coprodução somente depois de evidência inicial de resultado.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 16/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente confirmou duas frentes `Em progresso` apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/10/2026-10-21--podcast-black-friday-diagnostico-patricia-de-lucca|21/10/2026 — Podcast, Black Friday e diagnóstico]].
 - [[03-Reunioes/2026/10/2026-10-02--financas-produtos-automacao-conteudo-patricia-de-lucca|02/10/2026 — Finanças, produtos e automação de conteúdo]].
 - Atualização direta de gestão — 23/09/2026.

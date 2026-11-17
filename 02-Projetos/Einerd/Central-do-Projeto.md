@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Ei Nerd
 status: active
-demandas_no_edc: 41
+demandas_no_edc: 47
 decisoes_pendentes: 8
-edc_atualizado_em: 2026-11-13
+edc_atualizado_em: 2026-11-16
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Ei Nerd
 
 > [!simp] Agora
-> **P1 · Fichas, Sincra e consolidação do Monday:** concluir as fichas no Google Drive, alimentar o Sincra, arquivar `Operação infoproduto` e migrar TBC-BF e Y.TD para `Produto`, preservando o histórico. **41 demandas visíveis** e **8 decisões pendentes** no EDC.
+> **P1 · Fichas, Drive, Sincra e automação do Monday:** concluir a estrutura por produto no Google Drive, atualizar os links no Monday, alimentar o Sincra e replicar no quadro `Infoprodutos` a automação que encaminha anúncios aprovados ao Magnum. **47 demandas visíveis** e **8 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Einerd/Einerd|Índice]] · [[01-Clientes/Einerd/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,15 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 41
+## Demandas visíveis — 47
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#12. Próximo passo]]
 
 ## Decisões pendentes — 8
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026]] definiu a organização do Google Drive por produto e a sequência Monday antes da atualização dos links; o SLA e a nomenclatura ainda precisam chegar a Hallefy, a remessa 31 segue para produção e o e-mail da Rochinger permanece pendente.
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|16/11/2026]] registrou uma automação funcional entre quadros, definiu o encaminhamento de anúncios aprovados ao Magnum e resolveu o bloqueio de acesso de Hallefy; a replicação no quadro `Infoprodutos` e o fluxo de materiais para afiliados continuam abertos.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026]] renomeou VVSA para G7F, definiu o arquivamento de `Operação infoproduto` e a migração de TBC-BF e Y.TD para `Produto`; a alimentação do Sincra depende das fichas de Marcel, e a consolidação ainda enfrenta limitação de permissão e detalhamento interrompido.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026]] definiu preservar o histórico do Monday por arquivamento e acrescentou a reconciliação dos inventários e a validação audiovisual; Sincra, mapa de responsáveis e integração Fábrica–Monday seguem pendentes de validação.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026]] definiu IA com revisão humana para o Lead 2, checklist de entrada e backup antes da limpeza do Monday; acrescentou ações de documentação, compartilhamento e revisão, com atribuição da limpeza ainda sem validação segura.

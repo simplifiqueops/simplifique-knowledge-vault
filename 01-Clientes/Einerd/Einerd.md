@@ -21,10 +21,12 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday; `Operação infoproduto` será arquivado, TBC-BF e Y.TD serão migrados para `Produto`, e as fichas atualizadas no Google Drive alimentarão o Sincra. Permissões, taxonomia, responsáveis e integração Fábrica–Monday ainda precisam de validação.
+> A operação audiovisual segue registrada no Monday; Hallefy já possui acesso integral ao quadro `Infoprodutos` e demonstrou uma automação que encaminha anúncios aprovados ao Magnum. O Google Drive será organizado por produto, com atualização gradual dos links no Monday; replicação da automação, fichas, Sincra, taxonomia e fluxo de materiais para afiliados ainda precisam de conclusão ou validação.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026 — Estrutura do Drive e fluxo de criativos]].
+- [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|16/11/2026 — Desempenho de anúncios, funis e automação do Monday]].
 - [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026 — Fichas de produtos, Sincra e consolidação do Monday]].
 - [[03-Reunioes/2026/11/2026-11-11--limpeza-monday-estrutura-sincra-einerd|11/11/2026 — Limpeza do Monday e estrutura Sincra]].
 - [[03-Reunioes/2026/11/2026-11-10--ajustes-lead-2-pipeline-ia-einerd|10/11/2026 — Ajustes do Lead 2 e pipeline audiovisual com IA]].

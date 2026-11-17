@@ -19,6 +19,8 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959|16/11/2026 — RP | BF26 — Fechamento executivo da meta — complemento de evidência]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959--transcricao-completa|transcrição completa — call 900780959]]
+- [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais|16/11/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 901304353]]
 - [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais|13/11/2026 — Estratégia de vendas do Alicerce do Extraordinário]] · [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais--transcricao-completa|transcrição completa — call 901402925]]
 - [[03-Reunioes/2026/11/2026-11-10--treinamento-agendamento-fufunil-realizando-potenciais|10/11/2026 — Treinamento de agendamento no Fufunil]]
 - [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais|09/11/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 893772089]] · [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486|fonte complementar incompleta — call 892417486]]

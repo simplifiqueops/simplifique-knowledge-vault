@@ -4,7 +4,7 @@ projeto: Patrícia de Lucca
 status: active
 demandas_no_edc: 11
 decisoes_pendentes: 4
-edc_atualizado_em: 2026-10-21
+edc_atualizado_em: 2026-11-16
 cutoff_estado: 2026-10-21
 cssclasses: [simplifique-projetos]
 ---
@@ -29,5 +29,6 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Patricia-de-Lucca/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: o Notion confirma o funil de sessão estratégica e o MVP do audiocast como `Em progresso`; não há conclusão comprovada nem prazo novo.
 - Sinal atual: Conteúdo, podcast, Black Friday, oferta, aquisição e monetização.
 - Lacuna principal: localizar o bloqueio do podcast e definir serviço, responsável e cronograma da Black Friday, sem perder os critérios de sucesso do piloto de conteúdo e do funil de R$5,90.

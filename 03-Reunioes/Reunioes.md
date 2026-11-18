@@ -23,6 +23,7 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp|17/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905218059]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959|16/11/2026 — Fechamento executivo da meta BF26 — Realizando Potenciais — complemento]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959--transcricao-completa|transcrição completa — call 900780959]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais|16/11/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 901304353]]
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026 — Estrutura do Drive e fluxo de criativos — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd--transcricao-completa|transcrição completa — call 903789157]]

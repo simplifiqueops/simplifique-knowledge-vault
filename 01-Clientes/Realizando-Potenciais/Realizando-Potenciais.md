@@ -19,6 +19,7 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|18/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]]
 - [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp|17/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905218059]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959|16/11/2026 — RP | BF26 — Fechamento executivo da meta — complemento de evidência]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959--transcricao-completa|transcrição completa — call 900780959]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais|16/11/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 901304353]]

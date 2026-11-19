@@ -3,20 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-16T18:02:07Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd]]"
-fonte_atualizacao: "Reunião de 16/11/2026 — estrutura do Drive e fluxo de criativos"
-confianca: "alta para os itens citados; a transcrição completa foi recuperada do Fathom, com ressalva para inconsistências pontuais de diarização e reconhecimento"
+atualizado_em: 2026-11-18T18:23:26Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd]]"
+fonte_atualizacao: "Reunião de 18/11/2026 — otimização de funil, tráfego e testes"
+confianca: "alta para os itens citados; a transcrição completa foi recuperada do Fathom, com ressalva para inconsistências pontuais de diarização e diferença entre o horário informado na entrada e o metadado do Fathom"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: a organização do Google Drive passa a ser centrada em cada produto, com fichas, ativos e materiais relacionados dentro da pasta do infoproduto e documentos transversais separados; a execução seguirá primeiro pelo Monday, com atualização gradual dos links do Drive. Hallefy aplicará as regras no quadro principal, Marcel destravará a remessa 31 com Yá e o e-mail da campanha de bônus da Rochinger permanece pendente de retomada com Daniel.
-- Confirmações sem mudança: as fichas de produto continuam como referência operacional; o padrão de nomenclatura e o SLA ainda precisam ser compartilhados com Hallefy; a centralização dos arquivos no Google Drive permanece aberta.
-- Conflitos/lacunas: o responsável pela revisão da performance da remessa 30 não foi individualizado; parte das aulas e dos arquivos ainda está em computadores de editores ou HD externo; o e-mail da Rochinger não foi executado e o pop-up termina em 17/11/2026.
-- Fonte: [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|Estrutura do Drive e fluxo de criativos — Ei Nerd — 16/11/2026]].
+- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual; a reunião concentrou-se em tráfego, funil, preços, páginas e testes, sem atribuir nova entrega audiovisual a Pablo nem substituir o estado vigente da operação.
+- Confirmações sem mudança: a nova VSL já existe como ativo de teste, enquanto a execução dos testes de VSL, checkout e Typebots permanece no fluxo mais amplo de marketing e performance, fora do backlog canônico de Audiovisual.
+- Conflitos/lacunas: a diarização não permite atribuir com segurança quem editará os order bumps, produzirá os Typebots ou ajustará o rodapé e a entrega da página do Google; esses itens foram preservados no DDR sem forçar responsáveis no EDC.
+- Fonte: [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|Otimização de funil, tráfego e testes — Ei Nerd — 18/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -223,6 +223,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|Otimização de funil, tráfego e testes — Ei Nerd — 18/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra o remarketing do TubeClub, aumentos de order bumps, testes de checkout/VSL, Typebots, expansão via W6 e riscos de dados e plataformas.
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|Estrutura do Drive e fluxo de criativos — Ei Nerd — 16/11/2026]] — definiu a estrutura do Google Drive por produto, a sequência Monday antes da atualização dos links, confirmou o compartilhamento pendente do SLA e da nomenclatura e registrou os próximos movimentos das remessas 30 e 31.
 - [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|Desempenho de anúncios, funis e automação do Monday — Ei Nerd — 16/11/2026]] — registrou o protótipo de automação entre quadros, o roteamento de anúncios aprovados ao Magnum, a liberação do acesso de Hallefy e a pendência do fluxo de materiais para afiliados.
 - [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|Fichas de produtos, Sincra e consolidação do Monday — Ei Nerd — 13/11/2026]] — renomeou VVSA para G7F, definiu o arquivamento de `Operação infoproduto` e a migração de TBC-BF e Y.TD, e explicitou a dependência das fichas e das permissões para a consolidação.

@@ -25,6 +25,7 @@ Cliente da Simplifique.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|18/11/2026 — Otimização de funil, tráfego e testes]].
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026 — Estrutura do Drive e fluxo de criativos]].
 - [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|16/11/2026 — Desempenho de anúncios, funis e automação do Monday]].
 - [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026 — Fichas de produtos, Sincra e consolidação do Monday]].

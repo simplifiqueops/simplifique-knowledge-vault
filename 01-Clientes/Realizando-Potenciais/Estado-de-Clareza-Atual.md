@@ -3,17 +3,27 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-17T12:38:47-03:00
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp]]"
-fonte_atualizacao: "https://fathom.video/share/zateoaunJkPA7fx3AQBymzxQdDWcDNay"
+atualizado_em: 2026-11-18T19:33:11Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp]]"
+fonte_atualizacao: "https://fathom.video/share/wpEPhaqszb4UM3_y9swF4C9HZPLwCt9o"
 fonte_complementar: "[[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para a identificação do cliente e para as mudanças de 17/11, reconciliadas com a transcrição integral de 91 segmentos; campos sem responsável ou prazo explícito permanecem não definidos"
+confianca: "alta para a identificação do cliente e para as mudanças financeiras confirmadas, reconciliadas com a transcrição integral de 256 blocos; a aprovação bancária da Hotmart e as atualizações do 1Password e da conta de backup da Meta Ads permanecem pendentes"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- As cobranças revisadas foram centralizadas prioritariamente no cartão final 2268, com o cartão final 4087 preservado como contingência onde configurado; 1Password e a conta de backup da Meta Ads ainda não foram atualizados.
+- A conta Itaú foi cadastrada na Hotmart e aguarda aprovação; na Princípia, a ausência de permissão impediu a troca, mantendo o recebimento imediato no Inter e a transferência manual posterior.
+- A operação bancária passa a manter cerca de R$ 4 mil no Inter como contingência, substituindo a orientação anterior de preservar somente entre R$ 100 e R$ 150.
+- Pablo assumiu a análise dos 28 leads captados por canal, UTM, conteúdo, visita, gasto e grupo; duas marcações de teste foram apresentadas no retrato da reunião.
+- A migração do conteúdo da Hotmart para a Fofuna e o cancelamento até 15 de maio foram reafirmados; o ano de 2027 aparece apenas no resumo automático e precisa de validação.
+- A equipe decidiu duplicar os dois criativos ativos com público aberto e sem elevar a verba por conjunto; qualquer aumento adicional ficou condicionado ao resultado do teste.
+- A operação decidiu excluir contatos sem entrega dos próximos disparos, tornar a dashboard operacional para vendas e automatizar o relatório diário das conversas com a Naia.
+- Pablo deve ajustar a dashboard na tarde de 18/11 e implementar uma sinalização automática de carrinhos abandonados no mesmo dia; Mariane deve fornecer os critérios de priorização comercial.
+- Permanecem ativos os riscos de dashboard pouco confiável, desperdício recorrente de e-mails, atraso no follow-up de carrinhos abandonados, atribuição incompleta e pressão financeira da operação.
+- A próxima reunião de alinhamento foi confirmada para 19/11/2026, às 11h15.
 - A equipe decidiu criar um grupo conversacional no WhatsApp para aquecer os leads até a Sala Secreta de 24/11; Pablo deve criar o grupo e incluir Arcindo, sem prazo explícito.
 - Mariane deve organizar o relatório dos contatos, mapear e categorizar as dores em documento e começar a inserir os leads no grupo.
 - O fluxo de aquisição permanece com página, pixel e formulário antes do encaminhamento a Mariane; o envio direto do tráfego ao WhatsApp não foi aprovado.
@@ -44,7 +54,7 @@ canonical: true
 - Permanecem ativos os riscos de falha entre produção e publicação, ausência de resposta do suporte do Full Funnel, insuficiência da atribuição de vendas e queda de cliques e visitas originados pelas mensagens de WhatsApp.
 - O calendário de aplicação foi fechado de 30/11 a 29/01, com cinco blocos e encontros online em 09/12 e 13/01; a criação do calendário deixa de ser pendência e passa a depender da aprovação de Vanessa antes do envio a Thamyris.
 - A sequência dos workshops foi organizada em Projeto Fora da Gaveta, Presença Digital e Conexão de Valor, distribuídos de fevereiro a abril.
-- Os pagamentos recorrentes serão migrados para o novo cartão do Itaú da Realizando Potenciais; o cartão final 4087 ficará como backup e a conta do Inter manterá entre R$ 100 e R$ 150.
+
 - Pablo assumiu a auditoria dos acessos e cartões por ferramenta e confirmou a finalização da página do Intimidade Restaurada para “mais tarde”.
 - A impossibilidade informada pelo Itaú de personalizar a senha do cartão permanece como risco de segurança.
 - A oferta da BF26 passa a ser o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada ao calendário obrigatório de aplicação.
@@ -67,14 +77,23 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Criar e começar a alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
-2. Produzir e colocar em circulação os quatro estáticos, dois vídeos e versões nativas de Stories que conduzem à Sala Secreta de 24/11.
-3. Configurar e testar as campanhas de engajamento e leads, mantendo página, pixel e formulário antes do encaminhamento a Mariane e fechando a regra de otimização.
-4. Configurar os cinco lembretes via WhatsApp API e validar o público exato dos disparos.
-5. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
-6. Preparar a transição pós-Black November para as três imersões e para a venda posterior do Comando da Sua Vida.
+1. Ajustar a dashboard para a etapa de venda, com métricas de desempenho, origem, conteúdo acessado, horário e critérios de priorização usados por Mariane.
+2. Implementar a sinalização automática de novos carrinhos abandonados para reduzir o tempo entre a intenção de compra e o follow-up.
+3. Duplicar os dois criativos ativos com público aberto, sem elevar a verba por conjunto, e acompanhar o teste antes de escalar.
+4. Excluir contatos sem entrega dos próximos disparos.
+5. Automatizar com a Naia o relatório diário das conversas e entregá-lo cedo, liberando Mariane para a execução comercial.
+6. Criar e alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
+7. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
+8. Concluir as atualizações de pagamento pendentes no 1Password e na conta de backup da Meta Ads.
+9. Acompanhar a aprovação da conta Itaú na Hotmart e iniciar a concentração dos recebimentos e da movimentação bancária no Itaú.
+10. Analisar os 28 leads captados para orientar a otimização da campanha da Sala Secreta.
 
 ## 4. Frentes ativas
+- Dashboard comercial: Pablo deve reorganizar a leitura para conversão e incluir métricas de anúncios, origem, conteúdo acessado, horário e prioridade de atendimento; Mariane deve informar seus critérios operacionais.
+- Automação de carrinho abandonado: Pablo deve recuperar com Thamyris a automação anterior ou implementar alternativa que entregue a Mariane os dados do lead e acesso à conversa; o método técnico final não foi fechado.
+- Relatório diário com Naia: o relatório manual de Mariane será usado como modelo para varredura diária das conversas no Fufunil e entrega do apanhado cedo.
+- Teste de criativos: duplicar os dois ativos com público aberto e manter a verba por conjunto; aumento posterior depende do resultado do teste.
+- Eficiência de e-mail e atribuição: excluir endereços sem entrega; a origem detalhada dos 27 contatos permanece como lacuna antes de escalar canal ou criativo.
 - Grupo da Sala Secreta: grupo conversacional aprovado para aquecer os leads até 24/11; Pablo deve criar e incluir Arcindo, Mariane deve inserir e categorizar os contatos, e a interação poderá usar perguntas, enquetes e áudios. O prazo de criação e o responsável por encaminhar os leads dos criativos a Mariane não foram definidos.
 - Inteligência comercial da Sala Secreta: Mariane deve organizar o relatório dos contatos e documentar nome, dor e categoria; o material deve orientar as copies e o pitch de Vanessa.
 - Configuração e calibração da Naia: ajustes restantes e versão 3 com verificação de melhorias constam como finalizados no Notion; validação operacional permanece como decisão separada.
@@ -99,9 +118,12 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Funil pós-BF26: o primeiro lote dos workshops Presença Digital, Projeto Fora da Gaveta e Conexão de Valor está previsto de 5 a 31 de dezembro; a trilha culmina em uma imersão presencial em abril de 2027. A data da reunião de precificação diverge entre as fontes e precisa de validação.
 - Contratação e onboarding de Lucas: valor mensal acordado em R$ 2.000, com início do pagamento integral em dezembro; integração imediata ao grupo estratégico, à reunião da Black November e ao alinhamento operacional com Vanessa.
 - Calendário de aplicação e workshops: aplicação de 30/11 a 29/01, com cinco blocos e encontros online em 09/12 e 13/01; sequência de workshops definida como Projeto Fora da Gaveta em fevereiro, Presença Digital em março e Conexão de Valor em abril. O calendário aguarda aprovação de Vanessa antes do envio a Thamyris.
-- Operação financeira: migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais, manter o cartão final 4087 como backup e transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
+- Operação financeira: as cobranças revisadas usam prioritariamente o cartão final 2268, com o cartão final 4087 como contingência onde configurado; 1Password e a conta de backup da Meta Ads permanecem pendentes. A conta Itaú foi cadastrada na Hotmart e aguarda aprovação. A Princípia continua depositando no Inter por falta de permissão para alterar a conta; Arcindo deve transferir os recursos para o Itaú, preservando cerca de R$ 4 mil no Inter.
+- Migração Hotmart → Fofuna: concluir a migração do conteúdo e cancelar o plano da Hotmart até 15 de maio; o ano do prazo precisa de validação na fonte integral.
 
 ## 5. Responsáveis
+- Pablo Backstage: duplicar os dois criativos com público aberto; excluir contatos sem entrega dos disparos; ajustar a dashboard na tarde de 18/11; implementar a sinalização de carrinhos abandonados em 18/11; e automatizar o relatório diário com a Naia.
+- Mariane Oliveira: informar a Pablo as necessidades e os critérios usados para priorizar os atendimentos; prazo não definido.
 - Pablo: criar o grupo conversacional da Sala Secreta e incluir Arcindo; prazo não definido.
 - Mariane Oliveira: organizar o relatório dos contatos na próxima manhã; mapear e categorizar as dores em documento em 17/11/2026; começar a inserir e categorizar os leads no grupo.
 - Responsável não definido: encaminhar para Mariane os leads captados pelos criativos de convite e submeter a Vanessa as novas copies acompanhadas do perfil e das dores identificadas.
@@ -134,7 +156,10 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Lucas: liderar estratégia, criação, planejamento e agendamento das redes sociais de Vanessa; programar no Fufunil os conteúdos aprovados; estudar o dashboard e as pesquisas do público e acessar os cursos de referência.
 - Lucas: participar da reunião da Black November às 17h e alinhar com Vanessa o fluxo de trabalho e o cronograma de posts.
 - Arcindo Negreiros: pagar o trabalho anterior de Lucas, migrar a operação bancária e os cartões para o Itaú e revisar os dashboards com Pablo.
-- Arcindo Negreiros: transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter.
+- Arcindo Negreiros: começar amanhã de manhã a transferir a movimentação para o Itaú, preservando cerca de R$ 4 mil no Inter como contingência.
+- Pablo Backstage: tentar novamente a atualização do cartão no 1Password e na conta de backup da Meta Ads; prazo não definido.
+- Pablo Backstage: acompanhar a aprovação da conta Itaú na Hotmart e selecionar a nova conta quando liberada; prazo não definido.
+- Pablo Backstage: analisar os leads por canal, UTM, conteúdo, visita, gasto e grupo de origem; prazo: em breve.
 - Dra. Vanessa Cesnik: aprovar o planejamento semanal e conceder a Lucas os acessos e ativos necessários.
 - Pablo: criar o grupo de suporte com Vanessa e Lucas; participar com Arcindo e Lucas da finalização dos detalhes de precificação.
 - Pablo: estruturar decisões de Black Friday e funis; automação de confirmação de leads, ajustes da Naia, versão 3, consolidado para Arcindo, arquivos no Drive, datas e verificação do parcelamento constam como finalizados no Notion.
@@ -176,6 +201,11 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Duplicar os dois criativos ativos com público aberto, sem elevar a verba por conjunto nesta etapa; aumento adicional depende do resultado do teste.
+- Excluir dos próximos disparos os contatos sem entrega por meio de ajuste de tagueamento.
+- Ajustar a dashboard para a etapa de conversão e para o uso operacional de vendas.
+- Automatizar com a Naia o relatório diário das conversas, usando o material de Mariane como modelo e entregando o apanhado cedo.
+- Realizar o próximo alinhamento em 19/11/2026, às 11h15.
 - Criar um grupo conversacional no WhatsApp para aquecer os leads até a Sala Secreta de 24/11, permitindo perguntas, enquetes e áudios.
 - Manter a venda direta para oportunidades prontas e nutrir os demais contatos pelo grupo e pela Sala Secreta.
 - Manter página, pixel e formulário antes do encaminhamento dos leads a Mariane, sem substituir o fluxo por envio direto do tráfego ao WhatsApp.
@@ -209,7 +239,11 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Manter um chip físico de contingência com Thamyris, em espera para ativação quando necessário.
 - Realizar a aplicação de 30 de novembro a 29 de janeiro, com os blocos Comece por Aqui, Fundação Existencial, Espelho Existencial, Desbloqueio Existencial e Arrancada Existencial, além de encontros online em 9 de dezembro e 13 de janeiro.
 - Organizar a sequência dos workshops em Projeto Fora da Gaveta, Presença Digital e Conexão de Valor, distribuídos de fevereiro a abril.
-- Migrar os pagamentos recorrentes para o novo cartão do Itaú da Realizando Potenciais, manter o cartão final 4087 como backup e deixar entre R$ 100 e R$ 150 na conta do Inter.
+- Usar prioritariamente o cartão final 2268 nas cobranças recorrentes revisadas e nas contas de anúncio, mantendo o cartão final 4087 como contingência onde configurado.
+- Concentrar recebimentos e movimentação no Itaú, mantendo cerca de R$ 4 mil no Inter como contingência.
+- Manter temporariamente os recebimentos da Princípia no Inter e transferi-los manualmente ao Itaú enquanto a alteração da conta estiver bloqueada por permissão.
+- Manter o MindMaster até a renovação de julho de 2027.
+- Concluir a migração do conteúdo da Hotmart para a Fofuna antes de cancelar o plano até 15 de maio.
 - Estruturar a oferta da BF26 como o programa de seis meses “Alicerce do Extraordinário”, com garantia vinculada à conclusão do calendário obrigatório de aplicação.
 
 - Emitir manualmente as notas fiscais com Thamyris por R$ 15 por nota.
@@ -220,7 +254,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Vender o primeiro lote dos três workshops de 5 a 31 de dezembro e conduzir o funil até a imersão presencial de abril de 2027.
 - Lucas atuará na gestão de redes sociais por R$ 2.000 mensais.
 - O pagamento mensal integral de Lucas começará em dezembro; em novembro será pago o trabalho anterior no projeto citado como “Coronel Neg”.
-- Manter temporariamente a contingência atual dos cartões enquanto o cartão final 9123 está bloqueado.
+
 - Migrar a operação principal da Realizando Potenciais para o Itaú sem encerrar imediatamente a conta do Inter.
 - Lucas responde pela estratégia, criação e agendamento das redes sociais de Vanessa.
 - Lucas programará diretamente no Fufunil os conteúdos que produzir e que forem aprovados.
@@ -277,6 +311,14 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- As atualizações do 1Password e da conta de backup da Meta Ads falharam ou permaneceram carregando durante a reunião, impedindo a centralização completa das cobranças.
+- A Princípia não permitiu alterar a conta bancária com o nível de acesso disponível, mantendo uma etapa manual entre o recebimento no Inter e a transferência ao Itaú.
+- O eNotas confirmou a troca de cartão, mas continuou exibindo o cartão anterior durante a reunião; o meio efetivamente salvo precisa ser validado.
+- A dashboard exibiu contagens incompatíveis com os cliques e permanece orientada à captação; Mariane usa organização manual por considerá-la mais prática para priorizar vendas.
+- Mais de 1.000 e-mails foram estimados como desperdiçados no recorte analisado porque os contatos sem entrega continuaram nas listas.
+- Mariane precisa consultar manualmente os carrinhos abandonados e relatou que o número usado funciona no WhatsApp Web, mas não no Fufunil, criando atraso potencial no follow-up.
+- A origem dos contatos não está suficientemente atribuída: 20 contatos foram inicialmente relacionados aos criativos apesar de apenas três cliques, e a Naia depois indicou que 20 dos 27 vieram de e-mail.
+- A operação foi estimada em déficit próximo de R$ 19 mil quando os custos operacionais são incluídos.
 - O intervalo até a Sala Secreta de 24/11 pode esfriar os contatos se o grupo conversacional não for criado e alimentado rapidamente.
 - O perfil observado inclui pessoas que querem começar ou retomar os atendimentos, o que pode divergir da comunicação vigente se as dores não forem incorporadas às copies e ao pitch.
 - O preço foi relatado como difícil para os contatos mesmo com parcelamento em 18 vezes; nenhuma mudança de preço ou condição foi decidida.
@@ -326,6 +368,8 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - A limpeza automatizada da planilha pode atingir por engano o documento usado pelo Fufunel, em vez da área exclusiva dos grupos de WhatsApp.
 
 ## 8. Bloqueios
+- A migração dos recebíveis da Hotmart depende da aprovação do comprovante bancário e da liberação da conta Itaú.
+- A migração direta dos recebíveis da Princípia depende de acesso com permissão para alterar a conta ou de intervenção do suporte da plataforma.
 - A escolha das variações de tráfego a manter ou desativar depende da entrada de contatos e do feedback qualitativo de Mariane.
 - O acesso de Lucas ao Fufunil foi concedido e validado em 10/11; o início integral da operação ainda depende dos demais acessos não confirmados: Comenta, ativos do Drive, dashboard da Black November e Comandar Sua Vida.
 - A definição das metas de vendas depende da segmentação da base e da consolidação dos públicos.
@@ -335,6 +379,12 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - A ausência de integração entre Princípia e Hotmart impede reproduzir o fluxo anterior sem trabalho manual de liberação de acesso e emissão individual de notas fiscais.
 
 ## 9. Indicadores
+- Captação apresentada no encerramento da reunião: 28 leads, sendo três no dia e 20 no dia anterior; duas marcações de teste. Números preservados como retrato da fonte, sem auditoria independente.
+- Vendas confirmadas em 18/11: nove, conforme confirmação durante a reunião; origem individual das vendas ainda não consolidada na dashboard.
+- Desperdício de e-mail: mais de 1.000 envios sem entrega estimados no recorte analisado; custo informado de R$ 4,80 por mil e-mails.
+- Criativos ativos: dois em teste; primeiro com CPC de R$ 3,19 e CTR de 5%; o segundo ainda estava sem clique e ambos permaneciam em aprendizado.
+- Contatos BN26 atribuídos pela Naia: 27 no total; 20 vieram de e-mail em 17/11 e, em 18/11, dois vieram de e-mail e um de formulário. O e-mail específico de cada contato continuou pendente.
+- Resultado financeiro apresentado: lucro aparente de cerca de R$ 11 mil antes dos custos operacionais e déficit estimado próximo de R$ 19 mil após incluí-los; valores preservados como relato da reunião, sem auditoria independente.
 - Página de vendas em 13/11: 115 acessos e nenhum clique no botão, conforme relato da reunião; valor preservado como retrato da fonte, sem auditoria independente.
 - GSE em 13/11: 948 contatos de alto potencial classificados como ainda pouco aquecidos.
 - Próximos eventos confirmados em 16/11: quatro lives estáticas em 24 e 25/11, Sala Secreta em 24/11 e live com Gisela em 26/11; horários e distribuição exata das quatro lives estáticas precisam de validação operacional.
@@ -380,6 +430,8 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Manter somente entre R$ 100 e R$ 150 no Inter: a reunião de 18/11 redefiniu a contingência para cerca de R$ 4 mil durante a migração ao Itaú.
+- Tratar o cartão final 9123 ou o cartão final 4087 como forma principal das cobranças revisadas: o cartão final 2268 passou a ser o principal; o final 4087 permanece apenas como contingência onde configurado.
 - Tratar 18/11 como data vigente da Sala Secreta: a reunião de 16/11 reposicionou o encontro para 24/11.
 - Concentrar a promessa comercial na dimensão emocional: a comunicação vigente passa a enfatizar resultados tangíveis e específicos.
 - Tratar 19/11 como data provisória da “Sala Secreta”: a reunião de 13/11 fechou o evento para 18/11, à noite.
@@ -414,6 +466,18 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Tentar novamente a atualização do cartão no 1Password e na conta de backup da Meta Ads — Responsável: Pablo Backstage — Prazo: não definido.
+- Acompanhar a aprovação da conta Itaú na Hotmart e selecionar a nova conta para recebimentos quando liberada — Responsável: Pablo Backstage — Prazo: não definido.
+- Começar a migrar a movimentação bancária para o Itaú e transferir os recursos recebidos no Inter, preservando cerca de R$ 4 mil como contingência — Responsável: Arcindo Negreiros — Prazo: amanhã de manhã.
+- Analisar os 28 leads por canal, UTM, conteúdo, visita, gasto e grupo de origem — Responsável: Pablo Backstage — Prazo: em breve.
+- Concluir a migração do conteúdo para a Fofuna e cancelar o plano da Hotmart — Responsável: não definido — Prazo: até 15 de maio; ano precisa de validação.
+- Duplicar os dois criativos ativos, manter a verba de cada conjunto e configurar público aberto — Responsável: Pablo Backstage — Prazo: por dois dias.
+- Ajustar o tagueamento para excluir dos próximos disparos os contatos sem entrega — Responsável: Pablo Backstage — Prazo: não definido.
+- Ajustar a dashboard para a etapa de venda, incluindo métricas de anúncios, origem, conteúdo acessado, horário e prioridade — Responsável: Pablo Backstage — Prazo: hoje, 18/11/2026, no período da tarde.
+- Enviar a Pablo as necessidades e os critérios usados para priorizar os atendimentos — Responsável: Mariane Oliveira — Prazo: não definido.
+- Implementar uma sinalização automática de novos carrinhos abandonados, recuperando com Thamyris a automação anterior ou adotando alternativa — Responsável: Pablo Backstage — Prazo: hoje, 18/11/2026.
+- Configurar a Naia para varrer diariamente as conversas no Fufunil e entregar cedo o relatório baseado no modelo de Mariane — Responsável: Pablo Backstage — Prazo: diariamente, cedo.
+
 - Organizar o relatório dos contatos conversados — Responsável: Mariane Oliveira — Prazo: na próxima manhã.
 - Mapear e categorizar em documento o nome e a dor de cada lead — Responsável: Mariane Oliveira — Prazo: hoje, 17/11/2026.
 - Criar o grupo conversacional da Sala Secreta e incluir Arcindo — Responsável: Pablo — Prazo: não definido.
@@ -552,9 +616,14 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Alinhar com Vanessa o fluxo de trabalho e o cronograma de posts — Responsável: Lucas — Prazo: 02/11/2026, na reunião das 17h, ou por mensagem.
 - Pagar Lucas pelo trabalho anterior no projeto citado como “Coronel Neg” — Responsável: Arcindo Negreiros — Prazo: daqui a pouco, conforme expressão da reunião de 02/11/2026.
 - Revisar os dashboards — Responsável: Arcindo Negreiros e Pablo Backstage — Prazo: 02/11/2026, às 16h30.
-- Transferir os recursos do Inter para o Itaú, preservando entre R$ 100 e R$ 150 no Inter — Responsável: Arcindo Negreiros — Prazo: não definido; a referência anterior a quarta-feira não foi reafirmada na reunião de 03/11/2026.
+- Transferir os recursos do Inter para o Itaú, preservando cerca de R$ 4 mil no Inter — Responsável: Arcindo Negreiros — Prazo: amanhã de manhã, conforme reunião de 18/11/2026.
 
 ## 13. Próxima decisão
+- Validar se o cartão foi efetivamente atualizado no eNotas e confirmar a conclusão das alterações do 1Password e da conta de backup da Meta Ads.
+- Decidir como obter a permissão necessária para alterar a conta bancária na Princípia, caso a transferência manual deixe de ser suficiente.
+- Validar o ano do prazo de 15 de maio para cancelamento da Hotmart; 2027 consta apenas no resumo automático.
+- Decidir se haverá aumento de verba nos criativos somente após avaliar o teste das duplicações com público aberto.
+- Validar se a sinalização de carrinhos abandonados será reativada no WhatsApp pelo fluxo anterior ou implementada por outra solução.
 - Validar se Projeto Fora da Gaveta passa para o final de janeiro ou permanece em fevereiro, pois as fontes vigentes divergem.
 - Definir o destino e a regra de otimização da campanha de leads antes da ativação.
 - Validar o público exato dos lembretes via WhatsApp API e dos e-mails para distinguir inscritos, contatos em controle comercial e toda a base.
@@ -574,6 +643,8 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp|Ferramentas, pagamentos e operação financeira — Realizando Potenciais — 18/11/2026]] · [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp--transcricao-completa|transcrição completa — call 905288587]].
+- [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|Alinhamento Comercial RP — 18/11/2026]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]].
 - [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp|Alinhamento Comercial RP — 17/11/2026]] · [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905218059]].
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959|RP | BF26 — Fechamento executivo da meta — complemento de evidência — 16/11/2026]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959--transcricao-completa|transcrição completa complementar — call 900780959]].
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — Realizando Potenciais — 16/11/2026]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 901304353]].

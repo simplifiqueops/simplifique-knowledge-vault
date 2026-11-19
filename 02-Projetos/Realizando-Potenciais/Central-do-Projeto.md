@@ -2,16 +2,16 @@
 type: central-do-projeto
 projeto: Realizando Potenciais
 status: active
-demandas_no_edc: 138
-decisoes_pendentes: 17
-edc_atualizado_em: 2026-11-17
+demandas_no_edc: 144
+decisoes_pendentes: 19
+edc_atualizado_em: 2026-11-18
 reconciliado_em: 2026-09-01
 cssclasses: [simplifique-projetos]
 ---
 # Central do Projeto — Realizando Potenciais
 
 > [!simp] Agora
-> **P1:** criar e alimentar o grupo conversacional da Sala Secreta, categorizar as dores dos leads e manter página, formulário e encaminhamento a Mariane no fluxo de aquisição. **138 demandas** e **17 decisões pendentes** no EDC.
+> **P1:** tornar a dashboard operacional para vendas, automatizar a sinalização de carrinhos abandonados e o relatório diário da Naia, testar os criativos com público aberto e cortar desperdícios de e-mail. **144 demandas** e **19 decisões pendentes** no EDC.
 
 [[02-Projetos/Projetos|← Central de Projetos]] · [[01-Clientes/Realizando-Potenciais/Realizando-Potenciais|Índice]] · [[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual|EDC completo]]
 
@@ -22,13 +22,13 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#7. Gargalos]]
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#8. Bloqueios]]
 
-## Demandas visíveis — 138
+## Demandas visíveis — 144
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#12. Próximo passo]]
 
-## Decisões pendentes — 17
+## Decisões pendentes — 19
 ![[01-Clientes/Realizando-Potenciais/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
-- Sinal atual: grupo conversacional aprovado para aquecer os leads até a Sala Secreta de 24/11, com dores categorizadas por Mariane e fluxo de aquisição preservado por página, pixel e formulário.
-- Lacuna principal: criar e começar a alimentar o grupo sem perder velocidade, além de fechar a regra de otimização da campanha e o público exato dos lembretes e e-mails.
+- Sinal atual: a operação aprovou o teste dos dois criativos com público aberto, a limpeza dos disparos e a automação da inteligência comercial para apoiar Mariane.
+- Lacuna principal: a dashboard ainda não é confiável para priorização de vendas, a atribuição dos 27 contatos está incompleta e o método técnico do alerta de carrinho abandonado não foi fechado.
 - A DEP completa ainda precisa ordenar as nove áreas com evidência do ciclo.

@@ -23,6 +23,9 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp|18/11/2026 — Ferramentas, pagamentos e operação financeira — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp--transcricao-completa|transcrição completa — call 905288587]]
+- [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|18/11/2026 — Otimização de funil, tráfego e testes — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd--transcricao-completa|transcrição completa — call 906999644]]
+- [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|18/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]]
 - [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp|17/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-17--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905218059]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959|16/11/2026 — Fechamento executivo da meta BF26 — Realizando Potenciais — complemento]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--900780959--transcricao-completa|transcrição completa — call 900780959]]
 - [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais|16/11/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-16--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-completa|transcrição completa — call 901304353]]

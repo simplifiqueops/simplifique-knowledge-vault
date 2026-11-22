@@ -3,17 +3,22 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-20T15:00:00Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp]]"
-fonte_atualizacao: "https://fathom.video/share/qFNHyvG8BWAyBKA1GaAdu3_xSxbPtJoT"
+atualizado_em: 2026-11-21T15:17:23Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp]]"
+fonte_atualizacao: "https://fathom.video/share/FFAn4NRKNyG4ijVLxRyReAR8sooz13Mv"
 fonte_complementar: "[[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para as decisões, demandas e indicadores do alinhamento comercial, reconciliados com a transcrição integral de 113 blocos; o objeto exato do ajuste prometido por Pablo para a tarde permanece ambíguo e não foi promovido"
+confianca: "moderada para o delta de 21/11/2026: a fonte principal recebida está compactada, cobre apenas 2:41–15:00 e tem lacunas internas; decisões e compromissos promovidos possuem evidência explícita nos trechos visíveis, mas o registro aguarda reconciliação integral"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- Mariane assumiu ligar no mesmo dia para os cinco leads de carrinho abandonado que não responderam ao contato inicial.
+- Pablo concordou em enviar a Vanessa o relatório completo na segunda-feira à tarde e executar no mesmo dia um teste de entrega pelo Hotmart Send contra o Fufunil.
+- A equipe cancelou a reunião do dia seguinte e marcou o próximo encontro para segunda-feira, ao meio-dia.
+- Permanecem ativos os riscos de baixa entregabilidade sem causa confirmada, perda dos carrinhos abandonados sem resposta e esforço comercial sobre contatos de países lusófonos sem compra observada no recorte.
+- A fonte de 21/11/2026 está compactada e o delta aguarda reconciliação com a transcrição integral.
 - A operação confirmou 67 contatos com a tag da Sala Secreta, 14 pessoas no grupo sem contar a equipe e capacidade manual de Mari próxima de 20 contatos por dia; 16 contatos eram 100% novos e 50 já estavam na base.
 - Ficou decidido retirar as segundas perguntas das automações e entregar diariamente, às 8h, um relatório consolidado do dia anterior; WhatsApp é o canal preferido e Telegram, a contingência.
 - Mari assumiu contar e informar os contatos manuais logo após a reunião; Pablo deve verificar a ampliação do intervalo da automação de cinco para oito horas e remover as perguntas excedentes.
@@ -83,19 +88,25 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Corrigir a entrega dos contatos reais da Sala Secreta e de carrinho abandonado ao WhatsApp de Mari.
-2. Entregar diariamente, às 8h, o relatório comercial do dia anterior via WhatsApp ou, se necessário, Telegram.
-3. Remover as segundas perguntas das automações e verificar a ampliação do intervalo de cinco para oito horas.
-4. Monitorar a capacidade manual de cerca de 20 conversas por dia e evitar formação de fila até a Sala Secreta de 24/11.
-5. Ajustar a dashboard para a etapa de venda, com métricas de desempenho, origem, conteúdo acessado, horário e critérios de priorização usados por Mariane.
-6. Implementar a sinalização automática de novos carrinhos abandonados para reduzir o tempo entre a intenção de compra e o follow-up.
-7. Alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
-8. Excluir contatos sem entrega dos próximos disparos.
-9. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
-10. Concluir as atualizações de pagamento pendentes no 1Password e na conta de backup da Meta Ads.
-11. Acompanhar a aprovação da conta Itaú na Hotmart e iniciar a concentração dos recebimentos e da movimentação bancária no Itaú.
+1. Recuperar os cinco carrinhos abandonados sem resposta por contato telefônico de Mariane.
+2. Executar o teste comparativo de entrega entre Hotmart Send e Fufunil e avaliar a causa da baixa entregabilidade.
+3. Entregar a Vanessa o relatório completo na segunda-feira à tarde para apoiar a preparação da aula.
+4. Corrigir a entrega dos contatos reais da Sala Secreta e de carrinho abandonado ao WhatsApp de Mari.
+5. Entregar diariamente, às 8h, o relatório comercial do dia anterior via WhatsApp ou, se necessário, Telegram.
+6. Remover as segundas perguntas das automações e verificar a ampliação do intervalo de cinco para oito horas.
+7. Monitorar a capacidade manual de cerca de 20 conversas por dia e evitar formação de fila até a Sala Secreta de 24/11.
+8. Ajustar a dashboard para a etapa de venda, com métricas de desempenho, origem, conteúdo acessado, horário e critérios de priorização usados por Mariane.
+9. Implementar a sinalização automática de novos carrinhos abandonados para reduzir o tempo entre a intenção de compra e o follow-up.
+10. Alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
+11. Excluir contatos sem entrega dos próximos disparos.
+12. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
+13. Concluir as atualizações de pagamento pendentes no 1Password e na conta de backup da Meta Ads.
+14. Acompanhar a aprovação da conta Itaú na Hotmart e iniciar a concentração dos recebimentos e da movimentação bancária no Itaú.
 
 ## 4. Frentes ativas
+- Recuperação de carrinhos abandonados: cinco contatos não responderam à abordagem inicial; Mariane deve ligar para eles no mesmo dia.
+- Entregabilidade de e-mail: Pablo deve comparar um envio pelo Hotmart Send com o Fufunil; a causa da baixa entrega permanece como hipótese, não como diagnóstico confirmado.
+- Relatório para Vanessa: Pablo deve entregar na segunda-feira à tarde a versão completa, com conversas e falas dos contatos, para apoiar a preparação da aula.
 - Dashboard comercial: Pablo deve reorganizar a leitura para conversão e incluir métricas de anúncios, origem, conteúdo acessado, horário e prioridade de atendimento; Mariane deve informar seus critérios operacionais.
 - Automação de carrinho abandonado: Pablo deve recuperar com Thamyris a automação anterior ou implementar alternativa que entregue a Mariane os dados do lead e acesso à conversa; o método técnico final não foi fechado.
 - Relatório diário com Naia: o relatório manual de Mariane será usado como modelo para varredura diária das conversas no Fufunil e entrega do apanhado cedo.
@@ -132,6 +143,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Migração Hotmart → Fofuna: concluir a migração do conteúdo e cancelar o plano da Hotmart até 15 de maio; o ano do prazo precisa de validação na fonte integral.
 
 ## 5. Responsáveis
+- Mariane Oliveira: ligar para os cinco leads de carrinho abandonado sem resposta; prazo: hoje, conforme reunião de 21/11/2026.
+- Pablo Backstage: entregar a Vanessa o relatório completo; prazo: segunda-feira à tarde.
+- Pablo Backstage: executar no Hotmart Send o teste comparativo de entregabilidade com o Fufunil; prazo: hoje, conforme reunião de 21/11/2026.
 - Pablo Backstage: verificar a ampliação do intervalo da automação de cinco para oito horas, retirar as segundas perguntas e criar o relatório diário das 8h via WhatsApp ou Telegram.
 - Mari: contar e informar os contatos manuais logo após a reunião e verificar por que contatos reais não chegam ao seu WhatsApp; prazo da verificação não definido.
 - Pablo Backstage: duplicar os dois criativos com público aberto; excluir contatos sem entrega dos disparos; ajustar a dashboard na tarde de 18/11; implementar a sinalização de carrinhos abandonados em 18/11; e automatizar o relatório diário com a Naia.
@@ -213,6 +227,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Realizar o próximo encontro na segunda-feira, ao meio-dia.
 - Retirar das automações as segundas perguntas enviadas antes da resposta do lead.
 - Entregar diariamente, às 8h, um relatório do dia anterior a Arcindo, Mari, Thamyris, Lavan e Pablo, preferencialmente por WhatsApp e com Telegram como contingência.
 - Não realizar reunião no domingo de 22/11/2026; manter atualização breve no grupo e equipe de sobreaviso por telefone.
@@ -327,6 +342,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- Cinco leads de carrinho abandonado não responderam ao primeiro contato e dependem de tentativa telefônica de recuperação.
+- A baixa entrega de e-mails ainda não tem causa confirmada; a suspeita sobre o Fufunil depende de teste comparativo pelo Hotmart Send.
+- Cerca de 30 números de Angola e de outros países lusófonos foram associados à abertura geográfica da captação; houve interação, mas nenhuma compra foi confirmada no trecho disponível.
 - Testes da automação chegaram ao WhatsApp de Mari, mas pelo menos um contato real identificado no sistema não chegou ao celular; a causa não foi esclarecida.
 - O atendimento da campanha ainda depende do contato manual de Mari, com capacidade estimada em cerca de 20 conversas por dia e risco de fila se a entrada crescer.
 - Criativos e páginas de captura podem sair de sincronia; o alerta da Naia foi solicitado, mas sua implementação efetiva não foi confirmada.
@@ -399,6 +417,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - A ausência de integração entre Princípia e Hotmart impede reproduzir o fluxo anterior sem trabalho manual de liberação de acesso e emissão individual de notas fiscais.
 
 ## 9. Indicadores
+- Carrinhos abandonados em 21/11: cinco contatos, sem resposta à abordagem inicial e com ligação prevista no mesmo dia.
+- Volume de leads citado em 21/11: o trecho compactado alterna entre 35 entradas e 30 contatos; o total não foi consolidado por divergência da fonte.
+- Contatos de países lusófonos fora do Brasil: cerca de 30 números relatados, com interação e sem compra confirmada no recorte; valor aproximado, não auditado.
 - Sala Secreta em 20/11: 67 contatos com a tag; 14 pessoas no grupo sem contar a equipe; 16 contatos 100% novos e 50 já existentes na base.
 - Capacidade manual informada por Mari: cerca de 20 conversas por dia; entrada observada no dia: 13 contatos.
 - Página de captura: nove chegadas à página de agradecimento entre 20 entradas do dia anterior; o conjunto não foi atribuído integralmente a tráfego pago.
@@ -490,6 +511,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Ligar para os cinco leads de carrinho abandonado que não responderam — Responsável: Mariane Oliveira — Prazo: hoje, conforme reunião de 21/11/2026.
+- Entregar a Vanessa o relatório completo com dados das conversas e falas dos contatos — Responsável: Pablo Backstage — Prazo: segunda-feira à tarde.
+- Executar pelo Hotmart Send o teste comparativo de entrega com o Fufunil — Responsável: Pablo Backstage — Prazo: hoje, conforme reunião de 21/11/2026.
 - Contar e enviar o número de leads contatados manualmente — Responsável: Mari — Prazo: assim que acabar a reunião de 20/11/2026.
 - Verificar se o intervalo que aciona uma nova mensagem pode passar de cinco para oito horas — Responsável: Pablo Backstage — Prazo: não definido.
 - Retirar as perguntas de acompanhamento enviadas antes da resposta do lead — Responsável: Pablo Backstage — Prazo: não definido.
@@ -648,6 +672,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Transferir os recursos do Inter para o Itaú, preservando cerca de R$ 4 mil no Inter — Responsável: Arcindo Negreiros — Prazo: amanhã de manhã, conforme reunião de 18/11/2026.
 
 ## 13. Próxima decisão
+- Avaliar o resultado do teste Hotmart Send versus Fufunil e decidir a correção da rota de envio; a hipótese de falha no Fufunil ainda não está confirmada.
 - Validar se o cartão foi efetivamente atualizado no eNotas e confirmar a conclusão das alterações do 1Password e da conta de backup da Meta Ads.
 - Decidir como obter a permissão necessária para alterar a conta bancária na Princípia, caso a transferência manual deixe de ser suficiente.
 - Validar o ano do prazo de 15 de maio para cancelamento da Hotmart; 2027 consta apenas no resumo automático.
@@ -672,6 +697,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp|Alinhamento Comercial RP — 21/11/2026]] · [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp--transcricao-compactada|transcrição compactada recebida; reconciliação integral pendente]].
 - [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp|Alinhamento Comercial RP — 20/11/2026]] · [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 908277170]].
 - [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp|Ferramentas, pagamentos e operação financeira — Realizando Potenciais — 18/11/2026]] · [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp--transcricao-completa|transcrição completa — call 905288587]].
 - [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|Alinhamento Comercial RP — 18/11/2026]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]].

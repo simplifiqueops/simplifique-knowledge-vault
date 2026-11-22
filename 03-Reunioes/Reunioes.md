@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp|21/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp--transcricao-compactada|transcrição compactada; reconciliação integral pendente]]
+- [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp|20/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 908277170]]
 - [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp|18/11/2026 — Ferramentas, pagamentos e operação financeira — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp--transcricao-completa|transcrição completa — call 905288587]]
 - [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|18/11/2026 — Otimização de funil, tráfego e testes — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd--transcricao-completa|transcrição completa — call 906999644]]
 - [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|18/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]]

@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 47
 decisoes_pendentes: 8
-edc_atualizado_em: 2026-11-16
+edc_atualizado_em: 2026-11-23
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -29,6 +29,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|23/11/2026]] definiu a direção de produto por ferramentas práticas de IA, o TubeClub Starter para o Google, um módulo aplicado com Claude e o teste gradual de nova VSL; não acrescentou responsabilidade confirmada para Pablo, mas manteve ativos os riscos de reembolso, reputação e aprovação externa.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026]] definiu a organização do Google Drive por produto e a sequência Monday antes da atualização dos links; o SLA e a nomenclatura ainda precisam chegar a Hallefy, a remessa 31 segue para produção e o e-mail da Rochinger permanece pendente.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|16/11/2026]] registrou uma automação funcional entre quadros, definiu o encaminhamento de anúncios aprovados ao Magnum e resolveu o bloqueio de acesso de Hallefy; a replicação no quadro `Infoprodutos` e o fluxo de materiais para afiliados continuam abertos.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-13--fichas-sincra-consolidacao-monday-einerd|13/11/2026]] renomeou VVSA para G7F, definiu o arquivamento de `Operação infoproduto` e a migração de TBC-BF e Y.TD para `Produto`; a alimentação do Sincra depende das fichas de Marcel, e a consolidação ainda enfrenta limitação de permissão e detalhamento interrompido.

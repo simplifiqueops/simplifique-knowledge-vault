@@ -3,17 +3,38 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-21T15:17:23Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp]]"
-fonte_atualizacao: "https://fathom.video/share/FFAn4NRKNyG4ijVLxRyReAR8sooz13Mv"
-fonte_complementar: "[[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "moderada para o delta de 21/11/2026: a fonte principal recebida está compactada, cobre apenas 2:41–15:00 e tem lacunas internas; decisões e compromissos promovidos possuem evidência explícita nos trechos visíveis, mas o registro aguarda reconciliação integral"
+atualizado_em: 2026-11-23T21:32:19Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128]]"
+fonte_atualizacao: "https://fathom.video/share/8xnAkhorc1msbKgR3N-so1t9dWjyFUjj"
+fonte_complementar: "Fechamento diário Notion → EDC — 2026-11-23; [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+confianca: "alta para preço, API do Zoom, API da oferta pós-evento e vídeo de depoimentos confirmados nos trechos visíveis; cancelamento do infográfico confirmado no Notion; ambas as transcrições recebidas estão compactadas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- A verificação independente do Notion recuperou o cancelamento de “Gerar o infográfico a partir da transcrição da live”, editado às 20:22Z, embora o `pull` estivesse vazio por snapshot já avançado; a ação sai das frentes e próximos passos ativos.
+- A fonte de 20:11:28Z confirma a condição comercial, a API do Zoom e o novo vídeo de depoimentos já registrados pela fonte complementar de 20:11:20Z.
+- Dra. Vanessa Cesnik assumiu criar a API da oferta pós-evento, sem prazo explícito; esta é a única nova demanda material promovida pelo recorte mais recente.
+- No recorte de 20:11:28Z, o responsável pelo link da live não ficou identificável com segurança; a atribuição vigente a Thamyris permanece sustentada pela fonte complementar de 20:11:20Z, que a nomeia explicitamente.
+- Nenhum novo risco foi confirmado; a compactação das duas fontes permanece como lacuna de evidência.
+- A oferta de 24/11 passa a R$ 2.497 até 23h59 e inclui o “botão de emergência”; depois desse horário, o preço volta a R$ 2.997, preservando R$ 2.497 como limite de negociação para vendas pendentes.
+- Pablo assumiu configurar a API com link do Zoom e os lembretes da live; Thamyris deve gerar o link da live e enviá-lo a Pablo.
+- Lucas assumiu criar um novo compilado curto de depoimentos de Andréa, Tebar e Gisela para a sala de espera; Pablo deve enviar a ele o compilado antigo como referência.
+- O resumo/action item automático da fonte complementar sugere Pablo e 25/11 para o infográfico, mas o trecho correspondente não está visível; responsável e prazo permanecem não definidos no estado consolidado.
+- Nenhum novo risco foi confirmado nos trechos disponíveis; a compactação da fonte permanece como lacuna de evidência.
+- Pablo confirmou que o relatório destinado a Vanessa já havia sido enviado; a entrega deixa de constar como próximo passo aberto.
+- Pablo assumiu revisar a atualização enviada pelo Fufune, sem prazo definido.
+- Pablo assumiu regularizar os acessos após a mudança da plataforma identificada na transcrição como Fwebner, sem prazo definido e sem confirmação de conclusão no trecho recebido.
+- A conversa sobre certificado digital não produziu decisão, demanda ou risco confirmado.
+- As grafias “Fufune” e “Fwebner” foram preservadas conforme a transcrição e precisam de validação.
+- A equipe definiu uma blitz manual de vendas após a Sala Secreta, começando amanhã e seguindo por quarta, quinta e sexta-feira; Mariane conduz o follow-up individual.
+- O preço cheio de R$ 2.997 permanece como referência, com condição de R$ 2.497 apenas na negociação individual e sem divulgação pública do desconto.
+- O replay longo será substituído, no follow-up comercial, por um infográfico gerado imediatamente após a Sala Secreta; o responsável individual pela geração não foi definido na transcrição.
+- Mariane assumiu consultar Tami para possível reforço nas ligações e atualizar o lembrete do encontro com a mensagem de que não haverá replay.
+- A mudança para produtos mais simples, acessíveis e orientados a volume permaneceu como proposta para deliberação posterior; não houve decisão sobre o modelo de portfólio.
+- Permanecem ativos os riscos de comparecimento insuficiente para a meta de 20 vendas e capacidade comercial limitada para o follow-up.
 - Mariane assumiu ligar no mesmo dia para os cinco leads de carrinho abandonado que não responderam ao contato inicial.
 - Pablo concordou em enviar a Vanessa o relatório completo na segunda-feira à tarde e executar no mesmo dia um teste de entrega pelo Hotmart Send contra o Fufunil.
 - A equipe cancelou a reunião do dia seguinte e marcou o próximo encontro para segunda-feira, ao meio-dia.
@@ -88,25 +109,36 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Recuperar os cinco carrinhos abandonados sem resposta por contato telefônico de Mariane.
-2. Executar o teste comparativo de entrega entre Hotmart Send e Fufunil e avaliar a causa da baixa entregabilidade.
-3. Entregar a Vanessa o relatório completo na segunda-feira à tarde para apoiar a preparação da aula.
-4. Corrigir a entrega dos contatos reais da Sala Secreta e de carrinho abandonado ao WhatsApp de Mari.
-5. Entregar diariamente, às 8h, o relatório comercial do dia anterior via WhatsApp ou, se necessário, Telegram.
-6. Remover as segundas perguntas das automações e verificar a ampliação do intervalo de cinco para oito horas.
-7. Monitorar a capacidade manual de cerca de 20 conversas por dia e evitar formação de fila até a Sala Secreta de 24/11.
-8. Ajustar a dashboard para a etapa de venda, com métricas de desempenho, origem, conteúdo acessado, horário e critérios de priorização usados por Mariane.
-9. Implementar a sinalização automática de novos carrinhos abandonados para reduzir o tempo entre a intenção de compra e o follow-up.
-10. Alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
-11. Excluir contatos sem entrega dos próximos disparos.
-12. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
-13. Concluir as atualizações de pagamento pendentes no 1Password e na conta de backup da Meta Ads.
-14. Acompanhar a aprovação da conta Itaú na Hotmart e iniciar a concentração dos recebimentos e da movimentação bancária no Itaú.
+1. Executar em 24/11 a oferta de R$ 2.497 até 23h59, com o “botão de emergência”, e retornar depois ao preço de R$ 2.997; usar R$ 2.497 como limite de negociação para vendas pendentes.
+2. Configurar a API com link do Zoom e os lembretes, criar a API da oferta pós-evento e inserir nas comunicações o link da live gerado por Thamyris.
+3. Produzir o novo compilado curto de depoimentos para a sala de espera.
+4. Executar a blitz manual de follow-up da Sala Secreta de amanhã até sexta-feira, com Mariane na condução das abordagens individuais.
+5. Recuperar os cinco carrinhos abandonados sem resposta por contato telefônico de Mariane.
+6. Executar o teste comparativo de entrega entre Hotmart Send e Fufunil e avaliar a causa da baixa entregabilidade.
+7. Corrigir a entrega dos contatos reais da Sala Secreta e de carrinho abandonado ao WhatsApp de Mari.
+8. Entregar diariamente, às 8h, o relatório comercial do dia anterior via WhatsApp ou, se necessário, Telegram.
+9. Remover as segundas perguntas das automações e verificar a ampliação do intervalo de cinco para oito horas.
+10. Monitorar a capacidade manual de cerca de 20 conversas por dia e evitar formação de fila até a Sala Secreta de 24/11.
+11. Ajustar a dashboard para a etapa de venda, com métricas de desempenho, origem, conteúdo acessado, horário e critérios de priorização usados por Mariane.
+12. Implementar a sinalização automática de novos carrinhos abandonados para reduzir o tempo entre a intenção de compra e o follow-up.
+13. Alimentar o grupo conversacional da Sala Secreta, usando as dores categorizadas por Mariane para manter os leads aquecidos até 24/11.
+14. Excluir contatos sem entrega dos próximos disparos.
+15. Sustentar os encontros diários até 27/11 com leitura dos resultados comerciais e correção rápida das ações.
+16. Concluir as atualizações de pagamento pendentes no 1Password e na conta de backup da Meta Ads.
+17. Acompanhar a aprovação da conta Itaú na Hotmart e iniciar a concentração dos recebimentos e da movimentação bancária no Itaú.
+18. Revisar a atualização enviada pelo Fufune.
+19. Regularizar os acessos após a mudança da plataforma identificada como Fwebner.
 
 ## 4. Frentes ativas
+- Execução da live de 24/11: Pablo deve configurar a API com link do Zoom e os lembretes; Dra. Vanessa Cesnik deve criar a API da oferta pós-evento; Thamyris deve gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações.
+- Sala de espera: Lucas deve criar um compilado curto com depoimentos de Andréa, Tebar e Gisela; Pablo deve enviar o compilado antigo como referência.
+
+- Ferramentas e acessos: Pablo deve revisar a atualização enviada pelo Fufune e regularizar os acessos após a mudança da plataforma identificada na transcrição como Fwebner; não há prazo definido nem confirmação de conclusão dos acessos.
+- Conversão pós-Sala Secreta: Mariane deve realizar acompanhamento individual intensivo de amanhã até sexta-feira; Tami pode apoiar as ligações, mas sua disponibilidade ainda precisa ser confirmada.
+- Negociação comercial: aplicar publicamente R$ 2.497 em 24/11 até 23h59, retornar depois a R$ 2.997 e preservar R$ 2.497 como limite de negociação para vendas pendentes.
 - Recuperação de carrinhos abandonados: cinco contatos não responderam à abordagem inicial; Mariane deve ligar para eles no mesmo dia.
 - Entregabilidade de e-mail: Pablo deve comparar um envio pelo Hotmart Send com o Fufunil; a causa da baixa entrega permanece como hipótese, não como diagnóstico confirmado.
-- Relatório para Vanessa: Pablo deve entregar na segunda-feira à tarde a versão completa, com conversas e falas dos contatos, para apoiar a preparação da aula.
+
 - Dashboard comercial: Pablo deve reorganizar a leitura para conversão e incluir métricas de anúncios, origem, conteúdo acessado, horário e prioridade de atendimento; Mariane deve informar seus critérios operacionais.
 - Automação de carrinho abandonado: Pablo deve recuperar com Thamyris a automação anterior ou implementar alternativa que entregue a Mariane os dados do lead e acesso à conversa; o método técnico final não foi fechado.
 - Relatório diário com Naia: o relatório manual de Mariane será usado como modelo para varredura diária das conversas no Fufunil e entrega do apanhado cedo.
@@ -143,8 +175,18 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Migração Hotmart → Fofuna: concluir a migração do conteúdo e cancelar o plano da Hotmart até 15 de maio; o ano do prazo precisa de validação na fonte integral.
 
 ## 5. Responsáveis
+- Dra. Vanessa Cesnik: criar a API da oferta pós-evento; prazo não definido.
+- Pablo | Simplifique: configurar a API com link do Zoom e os lembretes da live; prazo não definido.
+- Thamyris Valentim: gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações; prazo não definido.
+- Pablo | Simplifique: enviar a Lucas o compilado antigo de depoimentos; prazo não definido.
+- Lucas: criar um novo compilado curto com depoimentos de Andréa, Tebar e Gisela para a sala de espera; prazo não definido.
+
+- Pablo Backstage: revisar a atualização enviada pelo Fufune; prazo não definido.
+- Pablo Backstage: entrar na plataforma identificada como Fwebner e regularizar os acessos após a mudança informada; prazo não definido.
+- Mariane Oliveira: conduzir o follow-up individual dos participantes e ausentes da Sala Secreta de amanhã até sexta-feira; consultar Tami para reforço; atualizar o lembrete com a mensagem de que não haverá replay.
+
 - Mariane Oliveira: ligar para os cinco leads de carrinho abandonado sem resposta; prazo: hoje, conforme reunião de 21/11/2026.
-- Pablo Backstage: entregar a Vanessa o relatório completo; prazo: segunda-feira à tarde.
+
 - Pablo Backstage: executar no Hotmart Send o teste comparativo de entregabilidade com o Fufunil; prazo: hoje, conforme reunião de 21/11/2026.
 - Pablo Backstage: verificar a ampliação do intervalo da automação de cinco para oito horas, retirar as segundas perguntas e criar o relatório diário das 8h via WhatsApp ou Telegram.
 - Mari: contar e informar os contatos manuais logo após a reunião e verificar por que contatos reais não chegam ao seu WhatsApp; prazo da verificação não definido.
@@ -227,6 +269,10 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris Valentim: enviar prints dos grupos de WhatsApp à Naya para extrair contatos e aplicar tags.
 
 ## 6. Decisões vigentes
+- Oferecer em 24/11 o valor de R$ 2.497 até 23h59, com o “botão de emergência”; depois desse horário, retornar a R$ 2.997 e preservar R$ 2.497 como limite de negociação para vendas pendentes.
+- Usar um novo compilado curto de depoimentos de Andréa, Tebar e Gisela como conteúdo da sala de espera.
+- Realizar uma blitz manual de follow-up após a Sala Secreta, começando amanhã e seguindo por quarta, quinta e sexta-feira.
+
 - Realizar o próximo encontro na segunda-feira, ao meio-dia.
 - Retirar das automações as segundas perguntas enviadas antes da resposta do lead.
 - Entregar diariamente, às 8h, um relatório do dia anterior a Arcindo, Mari, Thamyris, Lavan e Pablo, preferencialmente por WhatsApp e com Telegram como contingência.
@@ -342,6 +388,10 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Distribuir 50 mensagens por grupo entre 4/11 e 27/11 conforme a cadência definida na reunião de 26/10/2026.
 
 ## 7. Gargalos
+- A expectativa de cerca de 30 participantes entre 137 inscritos foi considerada insuficiente para sustentar, sem recuperação ativa, a meta de 20 vendas.
+- O follow-up pós-evento depende principalmente de Mariane; o reforço de Tami ainda não está confirmado.
+
+- A equipe reconhece possível desalinhamento entre preços, profundidade dos produtos e autoridade digital percebida; a mudança do modelo ainda não foi decidida.
 - Cinco leads de carrinho abandonado não responderam ao primeiro contato e dependem de tentativa telefônica de recuperação.
 - A baixa entrega de e-mails ainda não tem causa confirmada; a suspeita sobre o Fufunil depende de teste comparativo pelo Hotmart Send.
 - Cerca de 30 números de Angola e de outros países lusófonos foram associados à abertura geográfica da captação; houve interação, mas nenhuma compra foi confirmada no trecho disponível.
@@ -417,6 +467,8 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - A ausência de integração entre Princípia e Hotmart impede reproduzir o fluxo anterior sem trabalho manual de liberação de acesso e emissão individual de notas fiscais.
 
 ## 9. Indicadores
+- Sala Secreta de 24/11: 137 inscritos, expectativa próxima de 30 participantes e meta declarada de 20 vendas; números preservados como relato da reunião, sem auditoria independente.
+- Janela de recuperação comercial definida: amanhã, quarta, quinta e sexta-feira após a Sala Secreta.
 - Carrinhos abandonados em 21/11: cinco contatos, sem resposta à abordagem inicial e com ligação prevista no mesmo dia.
 - Volume de leads citado em 21/11: o trecho compactado alterna entre 35 entradas e 30 contatos; o total não foi consolidado por divergência da fonte.
 - Contatos de países lusófonos fora do Brasil: cerca de 30 números relatados, com interação e sem compra confirmada no recorte; valor aproximado, não auditado.
@@ -475,6 +527,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Tratar a Naia como substituta integral de estratégia humana, tráfego, aprovação editorial ou comunidade.
 
 ## 11. O que já não vale mais
+- Manter como ativa a geração do infográfico a partir da transcrição da live: o Notion registra a demanda como `Cancelado` desde 23/11/2026, às 20:22Z; o motivo do cancelamento não consta na fonte operacional.
+- Manter R$ 2.997 como preço público durante todo o evento e reservar R$ 2.497 somente à negociação individual: a reunião de 23/11/2026, às 20:11:20Z, definiu R$ 2.497 como oferta pública de 24/11 até 23h59.
+- Manter como aberta a entrega do relatório completo a Vanessa: Pablo confirmou na reunião de 23/11/2026, às 18:48:54Z, que o relatório já havia sido enviado.
 - Manter somente entre R$ 100 e R$ 150 no Inter: a reunião de 18/11 redefiniu a contingência para cerca de R$ 4 mil durante a migração ao Itaú.
 - Tratar o cartão final 9123 ou o cartão final 4087 como forma principal das cobranças revisadas: o cartão final 2268 passou a ser o principal; o final 4087 permanece apenas como contingência onde configurado.
 - Tratar 18/11 como data vigente da Sala Secreta: a reunião de 16/11 reposicionou o encontro para 24/11.
@@ -511,8 +566,20 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Criar a API da oferta pós-evento — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
+- Configurar a API com link do Zoom e os lembretes da live — Responsável: Pablo | Simplifique — Prazo: não definido.
+- Gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações — Responsável: Thamyris Valentim — Prazo: não definido.
+- Enviar a Lucas o link do compilado antigo de depoimentos para avaliação — Responsável: Pablo | Simplifique — Prazo: não definido.
+- Criar um novo compilado curto com depoimentos de Andréa, Tebar e Gisela para a sala de espera — Responsável: Lucas — Prazo: não definido.
+
+- Revisar a atualização enviada pelo Fufune — Responsável: Pablo Backstage — Prazo: não definido.
+- Entrar na plataforma identificada como Fwebner e regularizar os acessos após a mudança informada — Responsável: Pablo Backstage — Prazo: não definido.
+- Intensificar o follow-up individual dos participantes e ausentes da Sala Secreta — Responsável: Mariane Oliveira — Prazo: amanhã, quarta, quinta e sexta-feira.
+- Consultar Tami, validar sua disponibilidade e deixá-la de sobreaviso para apoiar as ligações de venda — Responsável: Mariane Oliveira — Prazo: não definido.
+
+- Atualizar o lembrete da Sala Secreta com a mensagem de que não haverá replay — Responsável: Mariane Oliveira — Prazo: não definido.
 - Ligar para os cinco leads de carrinho abandonado que não responderam — Responsável: Mariane Oliveira — Prazo: hoje, conforme reunião de 21/11/2026.
-- Entregar a Vanessa o relatório completo com dados das conversas e falas dos contatos — Responsável: Pablo Backstage — Prazo: segunda-feira à tarde.
+
 - Executar pelo Hotmart Send o teste comparativo de entrega com o Fufunil — Responsável: Pablo Backstage — Prazo: hoje, conforme reunião de 21/11/2026.
 - Contar e enviar o número de leads contatados manualmente — Responsável: Mari — Prazo: assim que acabar a reunião de 20/11/2026.
 - Verificar se o intervalo que aciona uma nova mensagem pode passar de cinco para oito horas — Responsável: Pablo Backstage — Prazo: não definido.
@@ -672,6 +739,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Transferir os recursos do Inter para o Itaú, preservando cerca de R$ 4 mil no Inter — Responsável: Arcindo Negreiros — Prazo: amanhã de manhã, conforme reunião de 18/11/2026.
 
 ## 13. Próxima decisão
+- Decidir se o portfólio migrará para produtos mais simples, acessíveis e orientados a volume; a reunião de 23/11 registrou a proposta, não uma decisão.
 - Avaliar o resultado do teste Hotmart Send versus Fufunil e decidir a correção da rota de envio; a hipótese de falha no Fufunil ainda não está confirmada.
 - Validar se o cartão foi efetivamente atualizado no eNotas e confirmar a conclusão das alterações do 1Password e da conta de backup da Meta Ads.
 - Decidir como obter a permissão necessária para alterar a conta bancária na Princípia, caso a transferência manual deixe de ser suficiente.
@@ -697,6 +765,11 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- Fechamento diário Notion → EDC — 23/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou um cancelamento material apesar de `pull` retornar `changed: []`.
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11:28 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128--transcricao-recebida|transcrição compactada recebida]].
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120--transcricao-compactada|transcrição compactada recebida]].
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais|RP | BF26 — Fechamento executivo da meta — 23/11/2026]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-recebida|transcrição bruta recebida, 0:02–2:14]].
+- [[03-Reunioes/2026/11/2026-11-23--alinhamento-comercial-rp|Alinhamento Comercial RP — 23/11/2026]] · [[03-Reunioes/2026/11/2026-11-23--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 910295948]].
 - [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp|Alinhamento Comercial RP — 21/11/2026]] · [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp--transcricao-compactada|transcrição compactada recebida; reconciliação integral pendente]].
 - [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp|Alinhamento Comercial RP — 20/11/2026]] · [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 908277170]].
 - [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp|Ferramentas, pagamentos e operação financeira — Realizando Potenciais — 18/11/2026]] · [[03-Reunioes/2026/11/2026-11-18--ferramentas-pagamentos-operacao-financeira-rp--transcricao-completa|transcrição completa — call 905288587]].

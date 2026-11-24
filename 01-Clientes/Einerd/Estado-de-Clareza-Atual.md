@@ -3,20 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-18T18:23:26Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd]]"
-fonte_atualizacao: "Reunião de 18/11/2026 — otimização de funil, tráfego e testes"
-confianca: "alta para os itens citados; a transcrição completa foi recuperada do Fathom, com ressalva para inconsistências pontuais de diarização e diferença entre o horário informado na entrada e o metadado do Fathom"
+atualizado_em: 2026-11-23T17:27:50Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd]]"
+fonte_atualizacao: "Reunião de 23/11/2026 — estratégia de produto e ferramentas de IA"
+confianca: "alta para os itens citados; a transcrição completa foi recuperada do Fathom, com ressalva para inconsistências pontuais de diarização"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual; a reunião concentrou-se em tráfego, funil, preços, páginas e testes, sem atribuir nova entrega audiovisual a Pablo nem substituir o estado vigente da operação.
-- Confirmações sem mudança: a nova VSL já existe como ativo de teste, enquanto a execução dos testes de VSL, checkout e Typebots permanece no fluxo mais amplo de marketing e performance, fora do backlog canônico de Audiovisual.
-- Conflitos/lacunas: a diarização não permite atribuir com segurança quem editará os order bumps, produzirá os Typebots ou ajustará o rodapé e a entrega da página do Google; esses itens foram preservados no DDR sem forçar responsáveis no EDC.
-- Fonte: [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|Otimização de funil, tráfego e testes — Ei Nerd — 18/11/2026]].
+- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual; a reunião definiu uma direção de produto baseada em ferramentas práticas de IA, o TubeClub Starter para o Google e novos testes de VSL, mas não atribuiu nova entrega audiovisual a Pablo nem substituiu o backlog vigente.
+- Confirmações sem mudança: produto, funis e performance continuam tratados como contexto externo ao escopo canônico de Audiovisual quando não geram responsabilidade explícita para Pablo; a necessidade de fichas de produto e de uma produção com IA e revisão humana permanece vigente.
+- Conflitos/lacunas: responsáveis pela criação do módulo prático, pelo grupo com a Uniche e pelo lançamento da mídia programática não ficaram seguros na diarização; o preço do TubeClub Starter permaneceu entre R$397 e R$497, sem valor único confirmado.
+- Fonte: [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|Estratégia de produto e ferramentas de IA — Ei Nerd — 23/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -223,6 +223,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|Estratégia de produto e ferramentas de IA — Ei Nerd — 23/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; definiu a direção de produto por ferramentas práticas de IA, o TubeClub Starter para o Google, um módulo aplicado com Claude e o teste gradual de nova VSL, além de registrar riscos de reembolso e aprovação externa.
 - [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|Otimização de funil, tráfego e testes — Ei Nerd — 18/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra o remarketing do TubeClub, aumentos de order bumps, testes de checkout/VSL, Typebots, expansão via W6 e riscos de dados e plataformas.
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|Estrutura do Drive e fluxo de criativos — Ei Nerd — 16/11/2026]] — definiu a estrutura do Google Drive por produto, a sequência Monday antes da atualização dos links, confirmou o compartilhamento pendente do SLA e da nomenclatura e registrou os próximos movimentos das remessas 30 e 31.
 - [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|Desempenho de anúncios, funis e automação do Monday — Ei Nerd — 16/11/2026]] — registrou o protótipo de automação entre quadros, o roteamento de anúncios aprovados ao Magnum, a liberação do acesso de Hallefy e a pendência do fluxo de materiais para afiliados.

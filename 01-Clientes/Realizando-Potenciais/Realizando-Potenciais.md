@@ -19,6 +19,10 @@ Cliente ativo da Simplifique. Este documento é o índice canônico da estrutura
 
 ## Reunião mais recente processada
 
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128|23/11/2026 20:11:28 UTC — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128--transcricao-recebida|transcrição compactada recebida]]
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120|23/11/2026 20:11 UTC — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120--transcricao-compactada|transcrição compactada recebida]]
+- [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais|23/11/2026 — RP | BF26 — Fechamento executivo da meta]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-recebida|transcrição bruta recebida]]
+- [[03-Reunioes/2026/11/2026-11-23--alinhamento-comercial-rp|23/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-23--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 910295948]]
 - [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp|21/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-21--alinhamento-comercial-rp--transcricao-compactada|transcrição compactada; reconciliação integral pendente]]
 - [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp|20/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-20--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 908277170]]
 - [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp|18/11/2026 — Alinhamento Comercial RP]] · [[03-Reunioes/2026/11/2026-11-18--alinhamento-comercial-rp--transcricao-completa|transcrição completa — call 905219871]]

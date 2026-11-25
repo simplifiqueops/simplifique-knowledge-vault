@@ -21,10 +21,11 @@ Cliente da Simplifique.
 - [[01-Clientes/Einerd/Historico-de-Clareza/EDC-13-EIN-2026-08-22|Estado de Clareza — 22/08/2026]]
 
 > [!note] Estado atual
-> A operação audiovisual segue registrada no Monday; a reunião de 23/11 definiu uma direção de produto baseada em ferramentas práticas de IA e o TubeClub Starter para o Google, sem alterar o backlog canônico de Audiovisual. Replicação da automação, fichas, Sincra, taxonomia e fluxo de materiais para afiliados ainda precisam de conclusão ou validação.
+> A operação audiovisual segue registrada no Monday; a reunião de 24/11 refinou o acompanhamento de remessas e funis por Kanban, tags e status e confirmou o encaminhamento ao Magnum após o sinal de Marcel, sem alterar o backlog de Pablo. Replicação da automação, fichas, Sincra, taxonomia e fluxo de materiais para afiliados ainda precisam de conclusão ou validação.
 
 ### Reunião mais recente
 
+- [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd|24/11/2026 — Programa de afiliados, pipeline de testes e oferta anual]].
 - [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|23/11/2026 — Estratégia de produto e ferramentas de IA]].
 - [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|18/11/2026 — Otimização de funil, tráfego e testes]].
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026 — Estrutura do Drive e fluxo de criativos]].

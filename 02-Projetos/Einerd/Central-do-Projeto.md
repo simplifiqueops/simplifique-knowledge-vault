@@ -4,7 +4,7 @@ projeto: Ei Nerd
 status: active
 demandas_no_edc: 47
 decisoes_pendentes: 8
-edc_atualizado_em: 2026-11-23
+edc_atualizado_em: 2026-11-24
 reconciliado_em: 2026-08-31
 cssclasses: [simplifique-projetos]
 ---
@@ -29,6 +29,7 @@ cssclasses: [simplifique-projetos]
 ![[01-Clientes/Einerd/Estado-de-Clareza-Atual#13. Próxima decisão]]
 
 ## Preparação para DEP
+- Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd|24/11/2026]] refinou o acompanhamento de remessas e funis por Kanban, tags e status e confirmou que Hallefy encaminhará a tarefa ao Magnum após o sinal de Marcel sem retirar o responsável original; não acrescentou demanda para Pablo, e a validação do fluxo no quadro principal continua aberta.
 - Sinal externo ao escopo do EDC: a reunião de [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|23/11/2026]] definiu a direção de produto por ferramentas práticas de IA, o TubeClub Starter para o Google, um módulo aplicado com Claude e o teste gradual de nova VSL; não acrescentou responsabilidade confirmada para Pablo, mas manteve ativos os riscos de reembolso, reputação e aprovação externa.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|16/11/2026]] definiu a organização do Google Drive por produto e a sequência Monday antes da atualização dos links; o SLA e a nomenclatura ainda precisam chegar a Hallefy, a remessa 31 segue para produção e o e-mail da Rochinger permanece pendente.
 - Sinal operacional: a reunião de [[03-Reunioes/2026/11/2026-11-16--desempenho-anuncios-funis-automacao-monday-einerd|16/11/2026]] registrou uma automação funcional entre quadros, definiu o encaminhamento de anúncios aprovados ao Magnum e resolveu o bloqueio de acesso de Hallefy; a replicação no quadro `Infoprodutos` e o fluxo de materiais para afiliados continuam abertos.

@@ -23,6 +23,8 @@ Fathom / transcrição recebida
 
 ## Registros recentes
 
+- [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd|24/11/2026 — Programa de afiliados, pipeline de testes e oferta anual — Ei Nerd]] · [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd--transcricao-compactada|transcrição compactada recebida]]
+- [[03-Reunioes/2026/11/2026-11-24--alinhamento-comercial-rp|24/11/2026 — Alinhamento Comercial RP — Realizando Potenciais]]
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128|23/11/2026 20:11:28 UTC — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128--transcricao-recebida|transcrição compactada recebida]]
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120|23/11/2026 20:11 UTC — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120--transcricao-compactada|transcrição compactada recebida]]
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais|23/11/2026 — RP | BF26 — Fechamento executivo da meta — Realizando Potenciais]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--transcricao-recebida|transcrição bruta recebida]]

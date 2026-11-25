@@ -3,17 +3,21 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-23T21:32:19Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128]]"
-fonte_atualizacao: "https://fathom.video/share/8xnAkhorc1msbKgR3N-so1t9dWjyFUjj"
+atualizado_em: 2026-11-24T15:24:51Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-24--alinhamento-comercial-rp]]"
+fonte_atualizacao: "https://fathom.video/share/RTXify1AD1yYxsGU-s-8UYJqRmLxFDMy"
 fonte_complementar: "Fechamento diário Notion → EDC — 2026-11-23; [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
-confianca: "alta para preço, API do Zoom, API da oferta pós-evento e vídeo de depoimentos confirmados nos trechos visíveis; cancelamento do infográfico confirmado no Notion; ambas as transcrições recebidas estão compactadas"
+confianca: "alta para as demandas de e-mail e lives sustentadas pela transcrição de 24/11; a contagem da lista oscila entre 173 e 177 e não foi auditada; fontes compactadas anteriores permanecem com as lacunas já registradas"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- Pablo assumiu programar, após o almoço de 24/11, os e-mails previstos a partir das 19h; Vân havia assumido revisar a automação ligada a esse envio.
+- A equipe manteve a comunicação multicanal e confirmou lives mudas para a tarde e a noite de 24/11, sem responsável individual definido; mensagens em grupo e atendimento dos leads do Instagram já estavam em andamento.
+- A lista foi relatada entre 173 e 177 pessoas; a variação foi preservada como indicador não auditado.
+- Nenhuma nova decisão ou risco foi confirmado nesta reunião.
 - A verificação independente do Notion recuperou o cancelamento de “Gerar o infográfico a partir da transcrição da live”, editado às 20:22Z, embora o `pull` estivesse vazio por snapshot já avançado; a ação sai das frentes e próximos passos ativos.
 - A fonte de 20:11:28Z confirma a condição comercial, a API do Zoom e o novo vídeo de depoimentos já registrados pela fonte complementar de 20:11:20Z.
 - Dra. Vanessa Cesnik assumiu criar a API da oferta pós-evento, sem prazo explícito; esta é a única nova demanda material promovida pelo recorte mais recente.
@@ -109,7 +113,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Thamyris apta a executar ajustes de página pelo fluxo apresentado.
 
 ## 3. Prioridades
-1. Executar em 24/11 a oferta de R$ 2.497 até 23h59, com o “botão de emergência”, e retornar depois ao preço de R$ 2.997; usar R$ 2.497 como limite de negociação para vendas pendentes.
+1. Executar em 24/11 a oferta de R$ 2.497 até 23h59, sustentando os e-mails a partir das 19h, a revisão da automação e as lives mudas da tarde e da noite; depois, retornar ao preço de R$ 2.997 e usar R$ 2.497 como limite de negociação para vendas pendentes.
 2. Configurar a API com link do Zoom e os lembretes, criar a API da oferta pós-evento e inserir nas comunicações o link da live gerado por Thamyris.
 3. Produzir o novo compilado curto de depoimentos para a sala de espera.
 4. Executar a blitz manual de follow-up da Sala Secreta de amanhã até sexta-feira, com Mariane na condução das abordagens individuais.
@@ -130,6 +134,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 19. Regularizar os acessos após a mudança da plataforma identificada como Fwebner.
 
 ## 4. Frentes ativas
+- Comunicação do evento em 24/11: Pablo deve programar após o almoço os e-mails previstos a partir das 19h; Vân deve revisar a automação ligada a esse envio; as lives mudas devem ocorrer à tarde e à noite, sem responsável individual confirmado. Mensagens em grupo e atendimento dos novos leads do Instagram já estavam em andamento.
 - Execução da live de 24/11: Pablo deve configurar a API com link do Zoom e os lembretes; Dra. Vanessa Cesnik deve criar a API da oferta pós-evento; Thamyris deve gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações.
 - Sala de espera: Lucas deve criar um compilado curto com depoimentos de Andréa, Tebar e Gisela; Pablo deve enviar o compilado antigo como referência.
 
@@ -175,6 +180,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Migração Hotmart → Fofuna: concluir a migração do conteúdo e cancelar o plano da Hotmart até 15 de maio; o ano do prazo precisa de validação na fonte integral.
 
 ## 5. Responsáveis
+- Pablo Backstage: programar os e-mails previstos a partir das 19h; prazo: hoje, após o almoço, conforme reunião de 24/11/2026.
+- Vân: revisar a automação ligada ao envio próximo das 19h; prazo: próximo das 19h, conforme reunião de 24/11/2026.
+- Responsável não definido: realizar as lives mudas; prazo: hoje, à tarde e à noite, conforme reunião de 24/11/2026.
 - Dra. Vanessa Cesnik: criar a API da oferta pós-evento; prazo não definido.
 - Pablo | Simplifique: configurar a API com link do Zoom e os lembretes da live; prazo não definido.
 - Thamyris Valentim: gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações; prazo não definido.
@@ -467,6 +475,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - A ausência de integração entre Princípia e Hotmart impede reproduzir o fluxo anterior sem trabalho manual de liberação de acesso e emissão individual de notas fiscais.
 
 ## 9. Indicadores
+- Lista de comunicação em 24/11: entre 173 e 177 pessoas, conforme números alternados na fala; retrato não auditado.
 - Sala Secreta de 24/11: 137 inscritos, expectativa próxima de 30 participantes e meta declarada de 20 vendas; números preservados como relato da reunião, sem auditoria independente.
 - Janela de recuperação comercial definida: amanhã, quarta, quinta e sexta-feira após a Sala Secreta.
 - Carrinhos abandonados em 21/11: cinco contatos, sem resposta à abordagem inicial e com ligação prevista no mesmo dia.
@@ -566,6 +575,9 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Manter como aberta a configuração da integração da Principia com o Full Funnel para acionar a automação de boas-vindas após a venda: o Notion registra o item como `Finalizado`; o resultado técnico não consta na fonte operacional.
 
 ## 12. Próximo passo
+- Programar os e-mails previstos a partir das 19h — Responsável: Pablo Backstage — Prazo: hoje, após o almoço.
+- Revisar a automação ligada ao envio previsto próximo das 19h — Responsável: Vân — Prazo: próximo das 19h.
+- Realizar as lives mudas — Responsável: não definido — Prazo: hoje, à tarde e à noite.
 - Criar a API da oferta pós-evento — Responsável: Dra. Vanessa Cesnik — Prazo: não definido.
 - Configurar a API com link do Zoom e os lembretes da live — Responsável: Pablo | Simplifique — Prazo: não definido.
 - Gerar o link da live e enviá-lo a Pablo para inclusão nas comunicações — Responsável: Thamyris Valentim — Prazo: não definido.
@@ -765,6 +777,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Definir, após o primeiro lote, quais abordagens de mensagem devem continuar ou ser alteradas em cada grupo de WhatsApp.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-24--alinhamento-comercial-rp|Alinhamento Comercial RP — 24/11/2026]] · Fathom: https://fathom.video/share/RTXify1AD1yYxsGU-s-8UYJqRmLxFDMy
 - Fechamento diário Notion → EDC — 23/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou um cancelamento material apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11:28 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128--transcricao-recebida|transcrição compactada recebida]].
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120--transcricao-compactada|transcrição compactada recebida]].

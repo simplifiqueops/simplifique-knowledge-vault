@@ -3,20 +3,20 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Ei Nerd"
 projeto: "Operação de Audiovisual"
-atualizado_em: 2026-11-23T17:27:50Z
-ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd]]"
-fonte_atualizacao: "Reunião de 23/11/2026 — estratégia de produto e ferramentas de IA"
-confianca: "alta para os itens citados; a transcrição completa foi recuperada do Fathom, com ressalva para inconsistências pontuais de diarização"
+atualizado_em: 2026-11-24T21:09:07Z
+ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd]]"
+fonte_atualizacao: "Reunião de 24/11/2026 — programa de afiliados, pipeline de testes e oferta anual"
+confianca: "moderada para os itens citados; a transcrição recebida foi compactada e omite trechos intermediários"
 canonical: true
 ---
 
 # Estado de Clareza Atual — Ei Nerd
 
 ## Delta da última atualização
-- Mudanças confirmadas: nenhuma mudança material nas 13 dimensões canônicas de Audiovisual; a reunião definiu uma direção de produto baseada em ferramentas práticas de IA, o TubeClub Starter para o Google e novos testes de VSL, mas não atribuiu nova entrega audiovisual a Pablo nem substituiu o backlog vigente.
-- Confirmações sem mudança: produto, funis e performance continuam tratados como contexto externo ao escopo canônico de Audiovisual quando não geram responsabilidade explícita para Pablo; a necessidade de fichas de produto e de uma produção com IA e revisão humana permanece vigente.
-- Conflitos/lacunas: responsáveis pela criação do módulo prático, pelo grupo com a Uniche e pelo lançamento da mídia programática não ficaram seguros na diarização; o preço do TubeClub Starter permaneceu entre R$397 e R$497, sem valor único confirmado.
-- Fonte: [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|Estratégia de produto e ferramentas de IA — Ei Nerd — 23/11/2026]].
+- Mudanças confirmadas: o fluxo do Monday foi refinado para acompanhar remessas e funis por Kanban, tags e status, considerar produção concluída somente após a veiculação e encaminhar a tarefa ao Magnum após o sinal de Marcel sem retirar o responsável original; o backlog de Pablo não recebeu nova demanda.
+- Confirmações sem mudança: produto, afiliados, funis e performance continuam tratados como contexto externo ao escopo canônico de Audiovisual quando não geram responsabilidade explícita para Pablo; a replicação e a validação das automações no Monday permanecem abertas.
+- Conflitos/lacunas: a transcrição recebida omite trechos intermediários; o canal dos afiliados e a política operacional de cancelamento e reembolso do plano anual não foram fechados no trecho disponível.
+- Fonte: [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd|Programa de afiliados, pipeline de testes e oferta anual — Ei Nerd — 24/11/2026]].
 
 ## 1. Objetivo atual
 Centralizar e tornar rastreável a operação de Audiovisual, com visão consolidada de demandas, editores, cursos, links, ativos e pendências, sem transformar toda a inteligência de marketing do Ei Nerd em backlog de Pablo.
@@ -49,7 +49,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Produção por IA: internacionalização e edição passam a usar IA como base; o teste inicial será feito no Cash Call, enquanto Pablo desenhará o pipeline e o checklist de copy.
 - Lead 2 e entrada do pipeline: os ajustes da VSL e dos anúncios serão feitos com IA e revisão humana; Kayke documentará os comandos, Pablo compartilhará o fluxograma e criará os modelos de copy e VSL com o cabeçalho obrigatório.
 - Higienização operacional: o histórico do Monday já possui inventários preliminares e será preservado por arquivamento, não por exclusão; `Operação infoproduto` será arquivado, enquanto TBC-BF e Y.TD serão migrados para `Produto`; o acesso de Hallefy ao quadro `Infoprodutos` foi liberado, mas a consolidação restante ainda depende de detalhamento e validação.
-- Estrutura operacional: Marcel disponibilizará no Google Drive as fichas com hiperlinks para os ativos; Hallefy usará esse material para alimentar o Sincra e migrar os projetos ativos do TubeClub. Hallefy já demonstrou em quadro privado uma automação que correlaciona produção, projeto e receita e encaminha anúncios aprovados ao Magnum; Marcel concedeu acesso integral ao quadro `Infoprodutos`, mas a replicação e a validação no ambiente operacional continuam pendentes.
+- Estrutura operacional: Marcel disponibilizará no Google Drive as fichas com hiperlinks para os ativos; Hallefy usará esse material para alimentar o Sincra e migrar os projetos ativos do TubeClub. O acompanhamento de remessas e funis será organizado no Monday por Kanban, tags e status; Hallefy replicará o encaminhamento ao Magnum após o sinal de Marcel sem retirar o responsável original. Marcel concedeu acesso integral ao quadro `Infoprodutos`, mas a replicação e a validação no ambiente operacional continuam pendentes.
 
 ## 5. Responsáveis
 - Pablo: operação e revisão audiovisual, atualização e compartilhamento do SLA, envio do padrão de nomenclatura a Hallefy, painel audiovisual, integração com o Daily, estudo do curso de YouTube Dark, levantamento da internacionalização, desenho do pipeline de produção por IA e checklist de copy; reconciliará seu inventário do Monday, conferirá a aderência do Sincra ao processo audiovisual, arquivará `Operação infoproduto` e migrará TBC-BF e Y.TD para `Produto`; conferência da edição brasileira e aviso a Daniel constam como finalizados no Notion.
@@ -83,6 +83,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Anúncios aprovados no fluxo de produção do Monday serão encaminhados automaticamente ao Magnum.
 - Os arquivos do Google Drive serão organizados por produto, com fichas, ativos e materiais relacionados dentro da pasta de cada infoproduto; documentos transversais permanecerão separados.
 - A nova estrutura será aplicada primeiro no Monday, e os links do Drive serão atualizados conforme a reorganização dos arquivos avançar.
+- O acompanhamento de testes de remessas e funis no Monday usará visualização Kanban, tags e status, e a produção será considerada concluída somente quando o material estiver no ar.
 
 ## 7. Gargalos
 - A VSL do downsell semestral do TubeClub pode continuar exibindo R$597 até a correção para R$497.
@@ -200,7 +201,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 - Alimentar o Sincra com os dados das fichas após o recebimento do link do Google Drive — Responsável: Hallefy Moraes — Prazo: não definido.
 - Migrar para o Sincra os projetos ativos do TubeClub — Responsável: Hallefy Moraes — Prazo: não definido.
 - Remarcar a continuidade da consolidação do Monday — Responsável: Pablo e Hallefy Moraes — Prazo: não definido.
-- Aplicar as regras validadas no quadro principal do Monday — Responsável: Hallefy Moraes — Prazo: não definido.
+- Aplicar no quadro principal do Monday as regras validadas, incluindo o encaminhamento ao Magnum após o sinal de Marcel sem retirar o responsável original — Responsável: Hallefy Moraes — Prazo: não definido.
 - Destravar a remessa 31 com Yá e deixá-la em produção — Responsável: Marcel Rodrigues — Prazo: hoje, conforme reunião de 16/11/2026.
 - Revisar a performance da remessa 30 — Responsável: não definido — Prazo: amanhã, conforme reunião de 16/11/2026.
 - Retomar com Daniel o envio do e-mail da campanha de bônus da Rochinger — Responsável: Hallefy Moraes — Prazo: não definido.
@@ -223,6 +224,7 @@ Centralizar e tornar rastreável a operação de Audiovisual, com visão consoli
 5. **Daily:** visão executiva das pendências e exceções relevantes.
 
 ## Fontes vigentes
+- [[03-Reunioes/2026/11/2026-11-24--programa-afiliados-pipeline-testes-oferta-anual-einerd|Programa de afiliados, pipeline de testes e oferta anual — Ei Nerd — 24/11/2026]] — refinou o acompanhamento de remessas e funis no Monday por Kanban, tags e status e confirmou o encaminhamento ao Magnum após o sinal de Marcel; não acrescentou responsabilidade para Pablo.
 - [[03-Reunioes/2026/11/2026-11-23--estrategia-produto-ferramentas-ia-einerd|Estratégia de produto e ferramentas de IA — Ei Nerd — 23/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; definiu a direção de produto por ferramentas práticas de IA, o TubeClub Starter para o Google, um módulo aplicado com Claude e o teste gradual de nova VSL, além de registrar riscos de reembolso e aprovação externa.
 - [[03-Reunioes/2026/11/2026-11-18--otimizacao-funil-trafego-einerd|Otimização de funil, tráfego e testes — Ei Nerd — 18/11/2026]] — processada sem mudança material nas dimensões canônicas de Audiovisual; registra o remarketing do TubeClub, aumentos de order bumps, testes de checkout/VSL, Typebots, expansão via W6 e riscos de dados e plataformas.
 - [[03-Reunioes/2026/11/2026-11-16--estrutura-drive-fluxo-criativos-einerd|Estrutura do Drive e fluxo de criativos — Ei Nerd — 16/11/2026]] — definiu a estrutura do Google Drive por produto, a sequência Monday antes da atualização dos links, confirmou o compartilhamento pendente do SLA e da nomenclatura e registrou os próximos movimentos das remessas 30 e 31.

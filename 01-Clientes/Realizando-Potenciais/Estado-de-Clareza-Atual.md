@@ -3,10 +3,10 @@ type: estado-de-clareza-canonico
 status: active
 cliente: "Realizando Potenciais"
 projeto: "Operação comercial, funis e Naia"
-atualizado_em: 2026-11-24T15:24:51Z
+atualizado_em: 2026-11-25T18:32:37-03:00
 ultima_reuniao_processada: "[[03-Reunioes/2026/11/2026-11-24--alinhamento-comercial-rp]]"
 fonte_atualizacao: "https://fathom.video/share/RTXify1AD1yYxsGU-s-8UYJqRmLxFDMy"
-fonte_complementar: "Fechamento diário Notion → EDC — 2026-11-23; [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
+fonte_complementar: "Fechamento diário Notion → EDC — 2026-11-25; Fechamento diário Notion → EDC — 2026-11-23; [[03-Reunioes/2026/11/2026-11-13--estrategia-vendas-alicerce-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-09--fechamento-executivo-meta-bf26-realizando-potenciais--892417486]]; [[03-Reunioes/2026/11/2026-11-02--fechamento-executivo-meta-bf26-realizando-potenciais--885873603]]; [[03-Reunioes/2026/11/2026-11-02--contratacao-onboarding-lucas-redes-sociais-realizando-potenciais]]; [[03-Reunioes/2026/11/2026-11-02--integracao-lucas-redes-sociais-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-28; [[03-Reunioes/2026/10/2026-10-26--estrutura-planilha-mensagens-whatsapp-bf26-realizando-potenciais]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais--complemento-876582098]]; [[03-Reunioes/2026/10/2026-10-26--fechamento-executivo-meta-bf26-realizando-potenciais]]; https://fathom.video/share/DQWtK6Pcrotd-yW53o2v6rFELyKWptrz; https://fathom.video/share/Wrr54mq2A5-UHJYTnTdfHzmQHM8Rvuu_; [[03-Reunioes/2026/10/2026-10-19--fechamento-executivo-meta-bf26-realizando-potenciais]]; Fechamento diário Notion → EDC — 2026-10-14; https://fathom.video/share/uJCBvcyyYfmjsugz_AGKM9id8PBxH3au; https://fathom.video/share/ayT6VZ_xMDKxQrp-zt7_3QVrxY_ixchu; https://fathom.video/share/SVUvKGCnnqBYJYdoKDxpzB7mbGZswCKe; https://fathom.video/share/XuYGkr71umxscdPYb9iQ4anYcyxFjAxP"
 confianca: "alta para as demandas de e-mail e lives sustentadas pela transcrição de 24/11; a contagem da lista oscila entre 173 e 177 e não foi auditada; fontes compactadas anteriores permanecem com as lacunas já registradas"
 canonical: true
 ---
@@ -14,6 +14,7 @@ canonical: true
 # Estado de Clareza Atual — Realizando Potenciais
 
 ## Delta da última atualização
+- O fechamento diário reconciliou no próximo passo “Criar o link dos produtos para a bio de Arcindo” o prazo canônico de 17/11/2026 registrado no Notion; o item permanece `Não iniciado`, sem nova conclusão, início ou reclassificação.
 - Pablo assumiu programar, após o almoço de 24/11, os e-mails previstos a partir das 19h; Vân havia assumido revisar a automação ligada a esse envio.
 - A equipe manteve a comunicação multicanal e confirmou lives mudas para a tarde e a noite de 24/11, sem responsável individual definido; mensagens em grupo e atendimento dos leads do Instagram já estavam em andamento.
 - A lista foi relatada entre 173 e 177 pessoas; a variação foi preservada como indicador não auditado.
@@ -628,7 +629,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 - Lançar as campanhas de engajamento e leads da Sala Secreta — Responsável: Pablo | Simplifique — Prazo: não definido.
 - Configurar as quatro lives estáticas de 24 e 25/11 — Responsável: Pablo | Simplifique — Prazo: não definido.
 - Configurar os cinco lembretes via WhatsApp API para os inscritos — Responsável: Pablo | Simplifique — Prazo: não definido.
-- Criar o link dos produtos para a bio de Arcindo — Responsável: Pablo | Simplifique — Prazo: amanhã.
+- Criar o link dos produtos para a bio de Arcindo — Responsável: Pablo | Simplifique — Prazo: 17/11/2026 — Status no Notion: Não iniciado.
 - Apresentar os resultados atuais de vendas na reunião diária — Responsável: Mariane Oliveira — Prazo: amanhã.
 - Enviar relatórios semanais de finanças e burocracia a Arcindo — Responsável: Thamyris Valentim — Prazo: semanalmente.
 - Produzir as copies de API e e-mail segmentadas pelas dores e pilares — Responsável: Dra. Vanessa Cesnik — Prazo: até amanhã, 14/11/2026.
@@ -778,6 +779,7 @@ Recuperar o ritmo da BF26 e converter a base para a Sala Secreta de 24/11 com co
 
 ## Fontes vigentes
 - [[03-Reunioes/2026/11/2026-11-24--alinhamento-comercial-rp|Alinhamento Comercial RP — 24/11/2026]] · Fathom: https://fathom.video/share/RTXify1AD1yYxsGU-s-8UYJqRmLxFDMy
+- Fechamento diário Notion → EDC — 25/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; `pull` sem delta, com verificação independente de 671 registros, 209 vinculados por `EDC Key` e reconciliação do prazo canônico de uma demanda ativa.
 - Fechamento diário Notion → EDC — 23/11/2026; fonte operacional: `Projetos e Clientes - Demandas Pablo`; verificação independente recuperou um cancelamento material apesar de `pull` retornar `changed: []`.
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11:28 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201128--transcricao-recebida|transcrição compactada recebida]].
 - [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120|RP | BF26 — Fechamento executivo da meta — 23/11/2026 20:11 UTC]] · [[03-Reunioes/2026/11/2026-11-23--fechamento-executivo-meta-bf26-realizando-potenciais--201120--transcricao-compactada|transcrição compactada recebida]].

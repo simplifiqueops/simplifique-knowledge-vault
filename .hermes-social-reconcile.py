@@ -28,13 +28,15 @@ for path in queues:
 con = sqlite3.connect('/home/simplifique/apps/daily-dashboard/data/users.db')
 con.row_factory = sqlite3.Row
 print('DB_SOCIAL')
-rows = con.execute('''
-SELECT request_key, topic_key, topic_title, desired_format, copy_text, planned_for,
+placeholders = ','.join('?' for _ in request_keys)
+rows = con.execute(f'''
+SELECT request_key, topic_key, topic_title, desired_format, planned_for,
        decision, decision_note, approved_by, approved_at, figma_url, status,
        requester, requested_at, updated_at
 FROM social_content_requests
+WHERE request_key IN ({placeholders})
 ORDER BY requested_at, request_key
-''').fetchall()
+''', request_keys).fetchall()
 for row in rows:
     print(json.dumps(dict(row), ensure_ascii=False))
 con.close()
